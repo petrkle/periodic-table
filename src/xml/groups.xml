@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groups>
+
+	<group>
+		<fullname>I.A</fullname>
+		<filename>ia</filename>
+	</group>
+
+	<group>
+		<fullname>II.A</fullname>
+		<filename>iia</filename>
+	</group>
+
+	<group>
+		<fullname>III.A</fullname>
+		<filename>iiia</filename>
+	</group>
+
+	<group>
+		<fullname>IV.A</fullname>
+		<filename>iva</filename>
+	</group>
+
+	<group>
+		<fullname>V.A</fullname>
+		<filename>va</filename>
+	</group>
+
+	<group>
+		<fullname>VI.A</fullname>
+		<filename>via</filename>
+	</group>
+
+	<group>
+		<fullname>VII.A</fullname>
+		<filename>viia</filename>
+	</group>
+
+	<group>
+		<fullname>VIII.A</fullname>
+		<filename>viiia</filename>
+	</group>
+
+	<group>
+		<fullname>I.B</fullname>
+		<filename>ib</filename>
+	</group>
+
+	<group>
+		<fullname>II.B</fullname>
+		<filename>iib</filename>
+	</group>
+
+	<group>
+		<fullname>III.B</fullname>
+		<filename>iiib</filename>
+	</group>
+
+	<group>
+		<fullname>IV.B</fullname>
+		<filename>ivb</filename>
+	</group>
+
+	<group>
+		<fullname>V.B</fullname>
+		<filename>vb</filename>
+	</group>
+
+	<group>
+		<fullname>VI.B</fullname>
+		<filename>vib</filename>
+	</group>
+
+	<group>
+		<fullname>VII.B</fullname>
+		<filename>viib</filename>
+	</group>
+
+	<group>
+		<fullname>VIII.B</fullname>
+		<filename>viiib</filename>
+	</group>
+
+</groups>

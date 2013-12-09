@@ -1,0 +1,10 @@
+[% INCLUDE header.html %]
+[% INCLUDE title.html %]
+
+<table class="elementlist" cellspacing="0" cellpadding="0" border="0">
+[% FOREACH loc IN languages %]
+<tr><td><a href="../[% loc.locales %]/index.html" class="line closed" onclick="localStorage.setItem('lang', '[% loc.android %]');window.location='../index.html';return false;">[% l(loc.fullname) %]</a></td></tr>
+[% END %]
+<tr><td><a  href="../index.html" class="line closed" onclick="localStorage.removeItem('lang');window.location='../index.html';return false;">[% l('Default language') %]</a></td></tr>
+</table>
+[% INCLUDE footer.html -%]

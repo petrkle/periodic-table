@@ -1,0 +1,9 @@
+body{background:#fff;color:#000;}
+a img{border-width:0;}
+a:link{color:#000;text-decoration:none;}
+a:visited{color:#000;text-decoration:none;}
+a:active{color:#000;text-decoration:none;}
+#tbmenu,#catpanel,.tableview span{display:none;}
+#atom{border:1px solid #000}
+#atom th{padding:0.1em 0.4em;border-right:1px solid #000;border-bottom:1px solid #000;text-align:left;width:49%;}
+#atom td{padding:0.1em 0.4em;border-bottom:1px solid #000;width:49%;}

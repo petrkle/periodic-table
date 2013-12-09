@@ -1,0 +1,32 @@
+[% IF cur_l -%]
+[% title = "${cur_l}" -%]
+[% titlelink="category.html" -%]
+[% ELSE %]
+[% titlelink="index.html" -%]
+[% END -%]
+[% INCLUDE header.html %]
+[% INCLUDE title.html %]
+
+[% IF cur %]
+<table class="elementlist" cellspacing="0" cellpadding="0" border="0">
+[% FOREACH category IN categories %]
+	[% IF cur == category.filename %]
+	[% FOREACH foo IN elements %]
+<tr>
+	<td class="maxwidth"><a href="[% foo.url %].html" class="element" name="[% foo.name_Latin %]"><span class="elementname">[% foo.${elementname} %]</span></a></td>
+	<td class="snc"><a href="[% foo.url %].html" class="element" name="[% foo.name_Latin %]"><span class="symbol">[% foo.anumber %]</span></a></td>
+</tr>
+	[% END %]
+	[% END %]
+[% END %]
+</table>
+[% ELSE %]
+<table class="elementlist" cellspacing="0" cellpadding="0" border="0">
+[% FOREACH category IN categories %]
+<tr><td><a href="[% category.filename %].html" class="line closed">[% l(category.fullname) %]</a></td></tr>
+[% END %]
+</table>
+[% END %]
+
+[% INCLUDE menu.html %]
+[% INCLUDE footer.html %]

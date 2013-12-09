@@ -1,0 +1,263 @@
+# Periodic table.
+# Copyright (C) 2013 Petr Kletečka
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tableau périodique\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-04 13:39+0200\n"
+"PO-Revision-Date: 2013-10-22 12:51+0100\n"
+"Last-Translator: Petr Kletečka <petr@kle.cz>\n"
+"Language-Team: Français <petr@kle.cz>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Periodic Table"
+msgstr "Tableau périodique"
+
+msgid "Settings"
+msgstr "Réglages"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "About"
+msgstr "À propos"
+
+msgid "English"
+msgstr "Anglais"
+
+msgid "Czech"
+msgstr "Tchèque"
+
+msgid "Slovak"
+msgstr "Slovaque"
+
+msgid "German"
+msgstr "Allemand"
+
+msgid "French"
+msgstr "Français"
+
+msgid "Polish"
+msgstr "Polonais"
+
+msgid "Spanish"
+msgstr "Espagnol"
+
+msgid "Default language"
+msgstr "Langue par défaut"
+
+msgid "State"
+msgstr "State"
+
+msgid "Solid"
+msgstr "Solide"
+
+msgid "Liquid"
+msgstr "Liquide"
+
+msgid "Gas"
+msgstr "Gaz"
+
+msgid "Symbol"
+msgstr "Symbole"
+
+msgid "Atomic number"
+msgstr "Numéro atomique"
+
+msgid "Period"
+msgstr "Période"
+
+msgid "period"
+msgstr "période"
+
+msgid "Element category"
+msgstr "Série chimique"
+
+msgid "Relative atomic mass"
+msgstr "Masse atomique relative"
+
+msgid "Atomic mass"
+msgstr "Masse Atomique"
+
+msgid "Group"
+msgstr "Groupe"
+
+msgid "group"
+msgstr "groupe"
+
+msgid "Electronegativity"
+msgstr "Électronégativité"
+
+msgid "Oxidation numbers"
+msgstr "Nombre d'oxydation"
+
+msgid "Electron configuration"
+msgstr "Configuration électronique"
+
+msgid "Density"
+msgstr "Masse volumique"
+
+msgid "Melting point"
+msgstr "Point de fusion"
+
+msgid "Boiling point"
+msgstr "Point d'ébullition"
+
+msgid "Critical point"
+msgstr "Point critique"
+
+msgid "Critical pressure"
+msgstr "Pression critique"
+
+msgid "Atomic radius"
+msgstr "Rayon atomique"
+
+msgid "Covalent radius"
+msgstr "Rayon de covalence"
+
+msgid "Thermal conductivity"
+msgstr "Conductivité thermique"
+
+msgid "Discovery"
+msgstr "Découverte"
+
+msgid "Hardness"
+msgstr "Dureté"
+
+msgid "Vickers hardness"
+msgstr "Dureté Vickers"
+
+msgid "Brinell hardness"
+msgstr "Dureté Brinell"
+
+msgid "Mohs scale"
+msgstr "Dureté de Mohs"
+
+msgid "Shear modulus"
+msgstr "Module de cisaillement"
+
+msgid "Young's modulus"
+msgstr "Module d'élasticité"
+
+msgid "Electrical resistivity"
+msgstr "Résistivité électrique"
+
+msgid "Electrical conductivity"
+msgstr "Conductivité électrique"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Latin name"
+msgstr "Nom latin"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Created"
+msgstr "Établi"
+
+msgid "Author"
+msgstr "Auteur"
+
+msgid "Write review"
+msgstr "Votre Note"
+
+msgid "Noble gases"
+msgstr "Gaz noble"
+
+msgid "Inner transition elements"
+msgstr "Métaux de transition"
+
+msgid "Transition elements"
+msgstr "Métal de transition"
+
+msgid "Metalloids"
+msgstr "Métalloïdes"
+
+msgid "Nonmetals"
+msgstr "Non-métaux"
+
+msgid "Alkaline earth metals"
+msgstr "Métaux alcalino-terreux"
+
+msgid "Metals"
+msgstr "Métal pauvre"
+
+msgid "Halogens"
+msgstr "Halogène"
+
+msgid "Alkali metals"
+msgstr "Métal alcalin"
+
+msgid "1.st ionization energy"
+msgstr "1er Énergie d'ionisation"
+
+msgid "2.nd ionization energy"
+msgstr "2e Énergie d'ionisation"
+
+msgid "3.rd ionization energy"
+msgstr "3e Énergie d'ionisation"
+
+msgid "Stable isotopes"
+msgstr "Isotopes stable"
+
+msgid "Unstable isotopes"
+msgstr "Isotopes instables"
+
+msgid "Substance"
+msgstr "Essentiel"
+
+msgid "Talc"
+msgstr "Talc"
+
+msgid "Rock salt"
+msgstr "Sel gemme"
+
+msgid "Limestone"
+msgstr "Calcaire"
+
+msgid "Fluorspar"
+msgstr "Fluorine"
+
+msgid "Apatite"
+msgstr "Apatite"
+
+msgid "Feldspar"
+msgstr "Feldspath"
+
+msgid "Quartz"
+msgstr "Quartz"
+
+msgid "Topaz"
+msgstr "Topaze"
+
+msgid "Corundum"
+msgstr "Corindon"
+
+msgid "Diamond"
+msgstr "Diamant"
+
+msgid "Antiquity"
+msgstr "Antiquité"
+
+msgid "Heat capacity"
+msgstr "Capacité calorifique"
+
+msgid "Table view"
+msgstr "Tableau"
+
+msgid "Download"
+msgstr "Télécharger"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Source code"
+msgstr "Le code source"

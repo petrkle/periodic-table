@@ -1,0 +1,30 @@
+[% IF cur_l -%]
+[% title = "${cur_l} " _ l('group') -%]
+[% titlelink="group.html" -%]
+[% ELSE %]
+[% titlelink="index.html" -%]
+[% END -%]
+[% INCLUDE header.html %]
+[% INCLUDE title.html %]
+
+[% IF cur_l %]
+<table class="elementlist" cellspacing="0" cellpadding="0" border="0">
+[% FOREACH foo IN elements %]
+	[% IF cur_l == foo.group %]
+<tr>
+	<td class="maxwidth"><a href="[% foo.url %].html" class="element" name="[% foo.name_Latin %]"><span class="elementname">[% foo.${elementname} %]</span></a></td>
+	<td class="snc"><a href="[% foo.url %].html" class="element" name="[% foo.name_Latin %]"><span class="symbol">[% foo.anumber %]</span></a></td>
+</tr>
+	[% END %]
+[% END %]
+</table>
+[% ELSE %]
+<table class="elementlist" cellspacing="0" cellpadding="0" border="0">
+[% FOREACH group IN groups %]
+	<tr><td><a href="[% group.filename %].html" class="line closed">[% group.fullname %]</a></td></tr>
+[% END %]
+</table>
+[% END %]
+
+[% INCLUDE menu.html %]
+[% INCLUDE footer.html %]

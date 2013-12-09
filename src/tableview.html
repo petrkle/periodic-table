@@ -1,0 +1,87 @@
+[% INCLUDE header.html %]
+<table class="maxwidth" cellspacing="0" cellpadding="0" border="0">
+	<tr class="mtitle">
+		<td colspan="18">
+			[% INCLUDE title.html %]
+		</td>
+	</tr>
+	<tr>
+		<th><a href="ia.html" title="I.A">1</a></th>
+		<th><a href="iia.html" title="II.A">2</a></th>
+		<th><a href="iiib.html" title="III.B">3</a></th>
+		<th><a href="ivb.html" title="IV.B">4</a></th>
+		<th><a href="vb.html" title="V.B">5</a></th>
+		<th><a href="vib.html" title="VI.B">6</a></th>
+		<th><a href="viib.html" title="VII.B">7</a></th>
+		<th><a href="viib.html" title="VII.B">8</a></th>
+		<th><a href="viib.html" title="VII.B">9</a></th>
+		<th><a href="viib.html" title="VII.B">10</a></th>
+		<th><a href="ib.html" title="I.B">11</a></th>
+		<th><a href="iib.html" title="II.B">12</a></th>
+		<th><a href="iiia.html" title="III.A">13</a></th>
+		<th><a href="iva.html" title="IV.A">14</a></th>
+		<th><a href="va.html" title="V.A">15</a></th>
+		<th><a href="via.html" title="VI.A">16</a></th>
+		<th><a href="viia.html" title="VII.A">17</a></th>
+		<th><a href="viiia.html" title="VIII.A">18</a></th>
+	</tr>
+
+[% FOR y = [0..9] %]
+<tr class="tableview">
+[% FOR x = [0..17] %]
+	 [% IF x == 2 and y == 0 %]
+<td colspan="10" rowspan="3" id="catpanel">
+
+<p>
+<table cellspacing="0" cellpadding="0" border="0">
+[% USE table(categories, cols=3) %]
+[% FOREACH row = table.rows %]
+<tr class="stableview">
+       [% FOREACH item = row %]
+			 <td><a href="[% item.filename %].html" class="[% item.filename %]" title="[% l(item.fullname) %]">[% l(item.fullname) %]</a></td>
+       [% END %]
+</tr>
+[% END %]
+</table>
+</p>
+
+
+
+	[% ELSIF x > 2  and x < 12 and y == 0 %]
+	[% ELSIF x >= 2  and x < 12 and y < 3 %]
+  [% ELSE %]
+<td>
+	[% END %]
+
+	[% IF elements.${x}.${y}.symbol %]
+	<a href="[% elements.${x}.${y}.url %].html" class="[% elements.${x}.${y}.category.filename %]" name="[% elements.${x}.${y}.symbol %]" id="[% elements.${x}.${y}.symbol %]" title="[% elements.${x}.${y}.${elementname} %]">[% elements.${x}.${y}.symbol %]<span>[% elements.${x}.${y}.anumber %]</span></a>
+	[% ELSIF x > 2  and x < 12 and y == 0 %]
+	[% ELSIF x >= 2  and x < 12 and y < 3 %]
+	[% ELSE %]
+		&nbsp;
+	[% END %]
+
+
+	 [% IF x == 2 and y == 0 %]
+</td>
+	[% ELSIF x > 2  and x < 12 and y == 0 %]
+	[% ELSIF x >= 2  and x < 12 and y < 3 %]
+  [% ELSE %]
+</td>
+	[% END %]
+
+[% END %]
+</tr>
+[% END %]
+</table>
+
+<script type="text/javascript">
+var selected = window.location.hash.split('#')[1];
+if(selected){
+	var element = document.getElementById(selected);
+	element.className += " selected";
+}
+</script>
+
+[% INCLUDE menu.html %]
+[% INCLUDE footer.html %]

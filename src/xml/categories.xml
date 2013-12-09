@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+	<category>
+		<filename>alkali-metals</filename>
+		<fullname>Alkali metals</fullname>
+	</category>
+	
+	<category>
+		<filename>halogens</filename>
+		<fullname>Halogens</fullname>
+	</category>
+	
+	<category>
+		<filename>metals</filename>
+		<fullname>Metals</fullname>
+	</category>
+	
+	<category>
+		<filename>alkaline-earth-metals</filename>
+		<fullname>Alkaline earth metals</fullname>
+	</category>
+	
+	<category>
+		<filename>nonmetals</filename>
+		<fullname>Nonmetals</fullname>
+	</category>
+	
+	<category>
+		<filename>metalloids</filename>
+		<fullname>Metalloids</fullname>
+	</category>
+	
+	<category>
+		<filename>transition-elements</filename>
+		<fullname>Transition elements</fullname>
+	</category>
+
+	<category>
+		<filename>inner-transition-elements</filename>
+		<fullname>Inner transition elements</fullname>
+	</category>
+	
+	<category>
+		<filename>noble-gases</filename>
+		<fullname>Noble gases</fullname>
+	</category>
+</categories>

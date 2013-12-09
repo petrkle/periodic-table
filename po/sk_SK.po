@@ -1,0 +1,264 @@
+# Periodic table.
+# Copyright (C) 2013 Petr Kletečka
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-04 13:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Periodic Table"
+msgstr "Periodická tabuľka"
+
+msgid "Settings"
+msgstr "Nastavenie"
+
+msgid "Language"
+msgstr "Jazyk"
+
+msgid "About"
+msgstr "O programe"
+
+msgid "English"
+msgstr "Angličtina"
+
+msgid "Czech"
+msgstr "Čeština"
+
+msgid "Slovak"
+msgstr "Slovenčina"
+
+msgid "German"
+msgstr "Nemčina"
+
+msgid "French"
+msgstr "Francúzšina"
+
+msgid "Polish"
+msgstr "Poľština"
+
+msgid "Spanish"
+msgstr "Španielčina"
+
+msgid "Default language"
+msgstr "Predvolený jazyk"
+
+msgid "State"
+msgstr "Skupenstvo"
+
+msgid "Solid"
+msgstr "Pevné"
+
+msgid "Liquid"
+msgstr "Kvapalné"
+
+msgid "Gas"
+msgstr "Plynné"
+
+msgid "Symbol"
+msgstr "Značka"
+
+msgid "Atomic number"
+msgstr "Protónové číslo"
+
+msgid "Period"
+msgstr "Perióda"
+
+msgid "period"
+msgstr "perióda"
+
+msgid "Element category"
+msgstr "Séria"
+
+msgid "Relative atomic mass"
+msgstr "Relatívna atómová hmotnosť"
+
+msgid "Atomic mass"
+msgstr "Atómová hmotnosť"
+
+msgid "Group"
+msgstr "Skupina"
+
+msgid "group"
+msgstr "skupina"
+
+msgid "Electronegativity"
+msgstr "Paulingova elektronegativita"
+
+msgid "Oxidation numbers"
+msgstr "Oxidačná čísla"
+
+msgid "Electron configuration"
+msgstr "Elektrónová konfigurácia"
+
+msgid "Density"
+msgstr "Hustota"
+
+msgid "Melting point"
+msgstr "Teplota topenia"
+
+msgid "Boiling point"
+msgstr "Teplota varu"
+
+msgid "Critical point"
+msgstr "Kritická teplota"
+
+msgid "Critical pressure"
+msgstr "Kritický tlak"
+
+msgid "Atomic radius"
+msgstr "Atómový polomer"
+
+msgid "Covalent radius"
+msgstr "Kovalentný polomer"
+
+msgid "Thermal conductivity"
+msgstr "Tepelná vodivosť"
+
+msgid "Discovery"
+msgstr "Rok objavu"
+
+msgid "Hardness"
+msgstr "Tvrdosť"
+
+msgid "Vickers hardness"
+msgstr "Tvrdosť podľa Vickerse"
+
+msgid "Brinell hardness"
+msgstr "Tvrdosť podľa Brinella"
+
+msgid "Mohs scale"
+msgstr "Mohsova stupnica"
+
+msgid "Shear modulus"
+msgstr "Pružnosť v šmyku"
+
+msgid "Young's modulus"
+msgstr "Youngov modul"
+
+msgid "Electrical resistivity"
+msgstr "Měrný elektrický odpor"
+
+msgid "Electrical conductivity"
+msgstr "Elektrická vodivosť"
+
+msgid "Name"
+msgstr "Názov"
+
+msgid "Latin name"
+msgstr "Latinský názov"
+
+msgid "Version"
+msgstr "Verzia"
+
+msgid "Created"
+msgstr "Vytvorené"
+
+msgid "Author"
+msgstr "Tvorca"
+
+msgid "Write review"
+msgstr "Napísať hodnotenie"
+
+msgid "Noble gases"
+msgstr "Vzácne plyny"
+
+msgid "Inner transition elements"
+msgstr "Vnútorne prechodné prvky"
+
+msgid "Transition elements"
+msgstr "Prechodné prvky"
+
+msgid "Metalloids"
+msgstr "Polokovy"
+
+msgid "Nonmetals"
+msgstr "Nekovy"
+
+msgid "Alkaline earth metals"
+msgstr "Kovy alkalických zemín"
+
+msgid "Metals"
+msgstr "Kovy"
+
+msgid "Halogens"
+msgstr "Halogény"
+
+msgid "Alkali metals"
+msgstr "Alkalické kovy"
+
+msgid "1.st ionization energy"
+msgstr "1. ionizačná energia"
+
+msgid "2.nd ionization energy"
+msgstr "2. ionizačná energia"
+
+msgid "3.rd ionization energy"
+msgstr "3. ionizačná energia"
+
+msgid "Stable isotopes"
+msgstr "Počet stabilných izotopov"
+
+msgid "Unstable isotopes"
+msgstr "Počet nestabilných izotopov"
+
+msgid "Substance"
+msgstr "Hmota"
+
+msgid "Talc"
+msgstr "Mastenec"
+
+msgid "Rock salt"
+msgstr "Kamenná soľ"
+
+msgid "Limestone"
+msgstr "Vápenec"
+
+msgid "Fluorspar"
+msgstr "Kazivec"
+
+msgid "Apatite"
+msgstr "Apatit"
+
+msgid "Feldspar"
+msgstr "Živec"
+
+msgid "Quartz"
+msgstr "Kremeň"
+
+msgid "Topaz"
+msgstr "Topás"
+
+msgid "Corundum"
+msgstr "Korund"
+
+msgid "Diamond"
+msgstr "Diamant"
+
+msgid "Antiquity"
+msgstr "Starovek"
+
+msgid "Heat capacity"
+msgstr "Tepelná kapacita"
+
+msgid "Table view"
+msgstr "Tabuľka"
+
+msgid "Download"
+msgstr "Na stiahnutie"
+
+msgid "Links"
+msgstr "Odkazy"
+
+msgid "Source code"
+msgstr "Zdrojový kód"

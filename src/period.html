@@ -1,0 +1,34 @@
+[% IF period -%]
+[% title = "${period}. " _ l('period') -%]
+[% titlelink="p.html" -%]
+[% ELSE %]
+[% titlelink="index.html" -%]
+[% END -%]
+[% INCLUDE header.html %]
+[% INCLUDE title.html %]
+
+[% IF period %]
+<table class="elementlist" cellspacing="0" cellpadding="0" border="0">
+[% FOREACH per IN periods %]
+	[% IF period == per.number %]
+		[% FOREACH foo IN elements %]
+		[% IF foo.period == period %]
+<tr>
+	<td class="maxwidth"><a href="[% foo.url %].html" class="element" name="[% foo.name_Latin %]"><span class="elementname">[% foo.${elementname} %]</span></a></td>
+	<td class="snc"><a href="[% foo.url %].html" class="element" name="[% foo.name_Latin %]"><span class="symbol">[% foo.anumber %]</span></a></td>
+</tr>
+		[% END %]
+		[% END %]
+	[% END %]
+[% END %]
+</table>
+[% ELSE %]
+<table class="elementlist" cellspacing="0" cellpadding="0" border="0">
+[% FOREACH per IN periods %]
+<tr><td><a href="p[% per.number %].html" class="line closed">[% per.number %]. [% l('period') %]</a></td></tr>
+[% END %]
+</table>
+[% END %]
+
+[% INCLUDE menu.html %]
+[% INCLUDE footer.html %]

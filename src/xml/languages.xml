@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lagnuages>
+
+	<lang>
+		<fullname>English</fullname>
+		<fullnameloc>English</fullnameloc>
+		<locales>en_US</locales>
+		<android>en</android>
+		<browser>en-US</browser>
+		<title>Periodic Table</title>
+	</lang>
+
+	<lang>
+		<fullname>German</fullname>
+		<fullnameloc>Deutsch</fullnameloc>
+		<locales>de_DE</locales>
+		<android>de</android>
+		<browser>de-DE</browser>
+		<title>Periodensystem</title>
+	</lang>
+
+	<lang>
+		<fullname>French</fullname>
+		<fullnameloc>Français</fullnameloc>
+		<locales>fr_FR</locales>
+		<android>fr</android>
+		<browser>fr-FR</browser>
+		<title>Tableau périodique</title>
+	</lang>
+
+	<lang>
+		<fullname>Czech</fullname>
+		<fullnameloc>Čeština</fullnameloc>
+		<locales>cs_CZ</locales>
+		<android>cs</android>
+		<browser>cs-CZ</browser>
+		<title>Periodická soustava prvků</title>
+	</lang>
+
+	<lang>
+		<fullname>Slovak</fullname>
+		<fullnameloc>Slovenčina</fullnameloc>
+		<locales>sk_SK</locales>
+		<android>sk</android>
+		<browser>sk-SK</browser>
+		<title>Periodická tabuľka</title>
+	</lang>
+
+	<lang>
+		<fullname>Polish</fullname>
+		<fullnameloc>Polski</fullnameloc>
+		<locales>pl_PL</locales>
+		<android>pl</android>
+		<browser>pl-PL</browser>
+		<title>Układ okresowy</title>
+	</lang>
+
+	<lang>
+		<fullname>Spanish</fullname>
+		<fullnameloc>Español</fullnameloc>
+		<locales>es_ES</locales>
+		<android>es</android>
+		<browser>es-ES</browser>
+		<title>Sistema periódico</title>
+	</lang>
+
+</lagnuages>

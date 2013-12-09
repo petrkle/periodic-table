@@ -1,0 +1,256 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-04 13:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Periodic Table"
+msgstr "Periodic Table"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "About"
+msgstr "About"
+
+msgid "English"
+msgstr "English"
+
+msgid "Czech"
+msgstr "Czech"
+
+msgid "Slovak"
+msgstr "Slovak"
+
+msgid "German"
+msgstr "German"
+
+msgid "French"
+msgstr "French"
+
+msgid "Polish"
+msgstr "Polish"
+
+msgid "Spanish"
+msgstr "Spanish"
+
+msgid "Default language"
+msgstr "Default language"
+
+msgid "State"
+msgstr "State"
+
+msgid "Solid"
+msgstr "Solid"
+
+msgid "Liquid"
+msgstr "Liquid"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Symbol"
+msgstr "Symbol"
+
+msgid "Atomic number"
+msgstr "Atomic number"
+
+msgid "Period"
+msgstr "Period"
+
+msgid "period"
+msgstr "period"
+
+msgid "Element category"
+msgstr "Element category"
+
+msgid "Relative atomic mass"
+msgstr "Relative atomic mass"
+
+msgid "Atomic mass"
+msgstr "Atomic mass"
+
+msgid "Group"
+msgstr "Group"
+
+msgid "group"
+msgstr "group"
+
+msgid "Electronegativity"
+msgstr "Electronegativity"
+
+msgid "Oxidation numbers"
+msgstr "Oxidation numbers"
+
+msgid "Electron configuration"
+msgstr "Electron configuration"
+
+msgid "Density"
+msgstr "Density"
+
+msgid "Melting point"
+msgstr "Melting point"
+
+msgid "Boiling point"
+msgstr "Boiling point"
+
+msgid "Critical point"
+msgstr "Critical point"
+
+msgid "Critical pressure"
+msgstr "Critical pressure"
+
+msgid "Atomic radius"
+msgstr "Atomic radius"
+
+msgid "Covalent radius"
+msgstr "Covalent radius"
+
+msgid "Thermal conductivity"
+msgstr "Thermal conductivity"
+
+msgid "Discovery"
+msgstr "Discovery"
+
+msgid "Hardness"
+msgstr "Hardness"
+
+msgid "Vickers hardness"
+msgstr "Vickers hardness"
+
+msgid "Brinell hardness"
+msgstr "Brinell hardness"
+
+msgid "Mohs scale"
+msgstr "Mohs scale"
+
+msgid "Shear modulus"
+msgstr "Shear modulus"
+
+msgid "Young's modulus"
+msgstr "Young's modulus"
+
+msgid "Electrical resistivity"
+msgstr "Electrical resistivity"
+
+msgid "Electrical conductivity"
+msgstr "Electrical conductivity"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Latin name"
+msgstr "Latin name"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Created"
+msgstr "Created"
+
+msgid "Author"
+msgstr "Author"
+
+msgid "Write review"
+msgstr "Write review"
+
+msgid "Noble gases"
+msgstr "Noble gases"
+
+msgid "Inner transition elements"
+msgstr "Inner transition elements"
+
+msgid "Transition elements"
+msgstr "Transition elements"
+
+msgid "Metalloids"
+msgstr "Metalloids"
+
+msgid "Nonmetals"
+msgstr "Nonmetals"
+
+msgid "Alkaline earth metals"
+msgstr "Alkaline earth metals"
+
+msgid "Metals"
+msgstr "Metals"
+
+msgid "Halogens"
+msgstr "Halogens"
+
+msgid "Alkali metals"
+msgstr "Alkali metals"
+
+msgid "1.st ionization energy"
+msgstr "1.st ionization energy"
+
+msgid "2.nd ionization energy"
+msgstr "2.nd ionization energy"
+
+msgid "3.rd ionization energy"
+msgstr "3.rd ionization energy"
+
+msgid "Stable isotopes"
+msgstr "Stable isotopes"
+
+msgid "Unstable isotopes"
+msgstr "Unstable isotopes"
+
+msgid "Substance"
+msgstr "Substance"
+
+msgid "Talc"
+msgstr "Talc"
+
+msgid "Rock salt"
+msgstr "Rock salt"
+
+msgid "Limestone"
+msgstr "Limestone"
+
+msgid "Fluorspar"
+msgstr "Fluorspar"
+
+msgid "Apatite"
+msgstr "Apatite"
+
+msgid "Feldspar"
+msgstr "Feldspar"
+
+msgid "Quartz"
+msgstr "Quartz"
+
+msgid "Topaz"
+msgstr "Topaz"
+
+msgid "Corundum"
+msgstr "Corundum"
+
+msgid "Diamond"
+msgstr "Diamond"
+
+msgid "Antiquity"
+msgstr "Antiquity"
+
+msgid "Heat capacity"
+msgstr "Heat capacity"
+
+msgid "Table view"
+msgstr "Table view"
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<states>
+	<state name="g">
+		<long>Gas</long>
+	</state>
+	
+	<state name="l">
+		<long>Liquid</long>
+	</state>
+	
+	<state name="s">
+		<long>Solid</long>
+	</state>
+</states>

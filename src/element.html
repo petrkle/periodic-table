@@ -1,0 +1,89 @@
+[% title = element.${elementname} -%]
+[% titlelink="index.html" -%]
+[% INCLUDE header.html %]
+[% INCLUDE title.html %]
+
+<table id="atom" cellspacing="0" cellpadding="0">
+	<tr><th>[% l('Symbol') %]</th><td><a href="index.html#[% element.symbol %]">[% element.symbol %]</a></td></tr> 
+	<tr><th>[% l('Latin name') %]</th><td><a href="index-ln.html#[% element.name_Latin %]">[% element.name_Latin %]</a></td></tr> 
+	<tr><th>[% l('Atomic number') %]</th><td><a href="index-an.html#[% element.anumber %]">[% element.anumber %]</a></td></tr> 
+	<tr><th>[% l('Period') %]</th><td><a href="p[% element.period %].html">[% element.period %]</a></td></tr> 
+	<tr><th>[% l('Element category') %]</th><td><a href="[% cur %].html">[% l(cur_l) %]</a></td></tr> 
+	<tr><th>[% l('Relative atomic mass') %]</th><td><a href="index-am.html#[% element.anumber %]">[% element.atomicmass %]</a></td></tr> 
+	<tr><th>[% l('Group') %]</th><td><a href="[% element.group FILTER remove ('\.') FILTER lower %].html">[% element.group %]</a></td></tr> 
+[% IF element.electronegativity -%]
+	<tr><th>[% l('Electronegativity') %]</th><td><div>[% element.electronegativity %]</div></td></tr>
+[% END -%]
+[% IF element.oxid -%]
+	<tr><th>[% l('Oxidation numbers') %]</th><td><div>[% element.oxid %]</div></td></tr> 
+[% END -%]
+[% IF element.elconf -%]
+  <tr><th>[% l('Electron configuration') %]</th><td><div><!-- {{{ -->[% element.elconf %]<!-- }}} --></div></td></tr>
+[% END -%]
+[% IF element.density -%]
+	<tr><th>[% l('Density') %] [g/cm<sup>3</sup>]</th><td><div>[% element.density %]</div></td></tr> 
+[% END -%]
+	<tr><th>[% l('State') %]</th><td><div>[% l(state.${element.state}.long) %]</div></td></tr> 
+[% IF element.mpoint -%]
+	<tr><th>[% l('Melting point') %] [°C]</th><td><div>[% element.mpoint %]</div></td></tr>
+[% END -%]
+[% IF element.bpoint -%]
+	<tr><th>[% l('Boiling point') %] [°C]</th><td><div>[% element.bpoint %]</div></td></tr>
+[% END -%]
+[% IF element.criticalpoint -%]
+	<tr><th>[% l('Critical point') %] [°C]</th><td><div>[% element.criticalpoint %]</div></td></tr>
+[% END -%]
+[% IF element.criticalpress -%]
+	<tr><th>[% l('Critical pressure') %] [MPa]</th><td><div>[% element.criticalpress %]</div></td></tr>
+[% END -%]
+[% IF element.atomicradius -%]
+	<tr><th>[% l('Atomic radius') %] [pm]</th><td><div>[% element.atomicradius %]</div></td></tr>
+[% END -%]
+[% IF element.covalentradius -%]
+	<tr><th>[% l('Covalent radius') %] [pm]</th><td><div>[% element.covalentradius %]</div></td></tr>
+[% END -%]
+[% IF element.thcond -%]
+	<tr><th>[% l('Thermal conductivity') %] [W m<sup>-1</sup> K<sup>-1</sup>]</th><td><div>[% element.thcond %]</div></td></tr>
+[% END -%]
+[% IF element.heatcap -%]
+	<tr><th>[% l('Heat capacity') %] [J K<sup>-1</sup>g<sup>-1</sup>]</th><td><div>[% element.heatcap %]</div></td></tr>
+[% END -%]
+[% IF element.discovery -%]
+	<tr><th>[% l('Discovery') %]</th><td><div>[% l(element.discovery) %]</div></td></tr>
+[% END -%]
+[% IF element.hardness -%]
+	<tr><th>[% l('Hardness') %] [<a href="mohs.html">[% l('Mohs scale') %]</a>]</th><td><div>[% element.hardness %]</div></td></tr>
+[% END -%]
+[% IF element.vickers -%]
+	<tr><th>[% l('Vickers hardness') %] [MPa]</th><td><div>[% element.vickers %]</div></td></tr>
+[% END -%]
+[% IF element.brinell -%]
+	<tr><th>[% l('Brinell hardness') %] [MPa]</th><td><div>[% element.brinell %]</div></td></tr>
+[% END -%]
+[% IF element.young -%]
+	<tr><th>[% l("Young's modulus") %] [GPa]</th><td><div>[% element.young %]</div></td></tr>
+[% END -%]
+[% IF element.elcond -%]
+	<tr><th>[% l('Electrical conductivity') %] [S m<sup>-1</sup>]</th><td><div>[% element.elcond %]</div></td></tr>
+[% END -%]
+[% IF element.elresist -%]
+	<tr><th>[% l('Electrical resistivity') %] [10<sup>-6</sup> Ω.m]</th><td><div>[% element.elresist %]</div></td></tr>
+[% END -%]
+[% IF element.shear -%]
+	<tr><th>[% l('Shear modulus') %] [GPa]</th><td><div>[% element.shear %]</div></td></tr>
+[% END -%]
+[% IF element.ionizationenergy1 -%]
+	<tr><th>[% l('1.st ionization energy') %] [eV]</th><td><div>[% element.ionizationenergy1 %]</div></td></tr>
+[% END -%]
+[% IF element.ionizationenergy2 -%]
+	<tr><th>[% l('2.nd ionization energy') %] [eV]</th><td><div>[% element.ionizationenergy2 %]</div></td></tr>
+[% END -%]
+[% IF element.ionizationenergy3 -%]
+	<tr><th>[% l('3.rd ionization energy') %] [eV]</th><td><div>[% element.ionizationenergy3 %]</div></td></tr>
+[% END -%]
+	<tr><th>[% l('Stable isotopes') %]</th><td><div>[% element.stbisot %]</div></td></tr>
+	<tr><th>[% l('Unstable isotopes') %]</th><td><div>[% element.unstisot %]</div></td></tr>
+</table>
+
+[% INCLUDE menu.html %]
+[% INCLUDE footer.html %]

@@ -1,0 +1,15 @@
+[% INCLUDE header.html %]
+[% titlelink="index.html" %]
+[% INCLUDE title.html %]
+
+<table class="elementlist" cellspacing="0" cellpadding="0" border="0">
+[% FOREACH foo IN elements %]
+<tr>
+	<td class="maxwidth"><a href="[% foo.url %].html" class="element" name="[% foo.anumber %]"><span class="elementname">[% foo.${elementname} %]</span></a></td>
+	<td class="snc"><a href="[% foo.url %].html" class="element"><span class="symbol">[% foo.anumber %]</span></a></td>
+</tr>
+[% END %]
+</table>
+
+[% INCLUDE menu.html %]
+[% INCLUDE footer.html %]
