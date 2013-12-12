@@ -74,7 +74,7 @@
 </tr>
 [% END %]
 </table>
-
+[% IF location %]
 <script type="text/javascript">
 var selected = window.location.hash.split('#')[1];
 if(selected){
@@ -82,6 +82,7 @@ if(selected){
 	element.className += " selected";
 }
 </script>
+[% END %]
 
 [% INCLUDE menu.html %]
 [% INCLUDE footer.html %]

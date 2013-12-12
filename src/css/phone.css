@@ -51,7 +51,7 @@ p{padding:1em;margin:0;text-align:center;}
 .inner-transition-elements{background:#33b5e5;}
 .noble-gases{background:#a6c;}
 .selected{outline:solid 2px #c00;}
-#catpanel p{margin:0.5em auto;text-align:center;}
+#catpanel p{margin:auto;text-align:center;}
 #catpanel p table{margin:auto;white-space:nowrap;}
 #tbmenu li{list-style:none;display:block;float:left;}
 #tbmenu li a{color:#009;text-decoration:underline;padding:0.5em;margin:1px;background:#eee;}

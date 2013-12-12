@@ -1,10 +1,11 @@
 [% INCLUDE header.html %]
+[% titlelink="index.html" -%]
 [% INCLUDE title.html %]
 
 <table class="elementlist" cellspacing="0" cellpadding="0" border="0">
 [% FOREACH loc IN languages %]
-<tr><td><a href="../[% loc.locales %]/index.html" class="line closed" onclick="localStorage.setItem('lang', '[% loc.android %]');window.location='../index.html';return false;">[% l(loc.fullname) %]</a></td></tr>
+<tr><td><a href="../[% loc.locales %]/index.html" class="line closed"[% IF location %] onclick="localStorage.setItem('lang', '[% loc.android %]');window.location='../[% loc.locales %]/index.html';return false;"[% END %]>[% l(loc.fullname) %]</a></td></tr>
 [% END %]
-<tr><td><a  href="../index.html" class="line closed" onclick="localStorage.removeItem('lang');window.location='../index.html';return false;">[% l('Default language') %]</a></td></tr>
+<tr><td><a class="line closed" href=[% IF location %]"../index.html" onclick="localStorage.removeItem('lang');window.location='../index.html';return false;"[% ELSE %]"index.html"[% END %]>[% l('Default language') %]</a></td></tr>
 </table>
 [% INCLUDE footer.html -%]

@@ -1,0 +1,18 @@
+VERSION=[% version %]
+SRC=pt.kle.cz
+
+$(SRC)-[% lang %].$(VERSION).exe: $(SRC)-[% lang %].$(VERSION).msi
+	7z a $(SRC)-[% lang %].$(VERSION).7z $(SRC)-[% lang %].$(VERSION).msi
+	copy /b 7zSD.sfx + [% lang %].conf + $(SRC)-[% lang %].$(VERSION).7z $(SRC)-[% lang %].$(VERSION).exe
+
+$(SRC)-[% lang %].$(VERSION).msi: $(SRC)-[% lang %].wixobj img/*.jpg img/*.ico
+	light.exe -sacl -nologo -sw1076 -ext WixUIExtension -ext WixUtilExtension -cultures:[% lang %] -loc [% lang %].wxl -out $(SRC)-[% lang %].$(VERSION).msi $(SRC)-[% lang %].wixobj
+
+$(SRC)-[% lang %].wixobj: $(SRC)-[% lang %].wxs files-[% lang %].wxs components-[% lang %].wxs minimalui.wxs
+	candle.exe -nologo -dProductVersion=$(VERSION) -dSRC=$(SRC) -ext WixUIExtension $(SRC)-[% lang %].wxs
+
+components-[% lang %].wxs: components-[% lang %].xsl
+	heat dir $(SRC) -var var.SRC -indent 1 -sw5150 -nologo -ag -suid -ke -sfrag -t components-[% lang %].xsl -out components-[% lang %].wxs
+
+files-[% lang %].wxs: files-[% lang %].xsl shortcuts-[% lang %].xsl
+	heat dir $(SRC) -var var.SRC -indent 1 -sw5150 -nologo -ag -suid -ke -sfrag -t files-[% lang %].xsl -t shortcuts-[% lang %].xsl -out files-[% lang %].wxs

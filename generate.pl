@@ -17,17 +17,8 @@ use Locale::Messages qw (nl_putenv);
 use Encode;
 use Text::Iconv;
 Locale::Messages->select_package ('gettext_pp');
-use Data::Dumper;
-
-$Template::Stash::ROOT_OPS->{ 'l' }    = sub {
-	return decode('UTF-8', __(shift));
-};
-
-$Template::Stash::ROOT_OPS->{ 'url' }    = sub {
-	return geturl(shift, shift); 
-};
-
-my $OUT = "www";
+use Getopt::Long;
+require './func.pl';
 
 my @langs = get_langs();
 
@@ -47,32 +38,34 @@ my $languages = $xml->XMLin("src/xml/languages.xml");
 
 my @tableview = ();
 
+my $location = undef;
+
+my $OUT = "www";
+
+GetOptions (
+	"location=s" => \$location,
+	"out=s" => \$OUT,
+)
+  or die("Error in command line arguments\n");
+
 my $t = Template->new({
 		INCLUDE_PATH => 'src',
 		ENCODING => 'utf8',
 		VARIABLES => {
-     location => 'http://pt.kl.cz',
+     location => $location,
      langs => $languages->{lang},
 		 version => '2.5'
    },
 });
 
-sub geturl {
-	my $element = shift;
-	my $lang = shift;
-	my $converter = Text::Iconv->new("UTF-8", "ASCII//TRANSLIT");
-	return lc($converter->convert($element->{"name_$lang"}));
-}
+foreach my $lang (@{$languages->{lang}}){
 
-foreach my $lang (@langs){
+	setlocales($lang->{locales});
 
-	nl_putenv("LANGUAGE=$lang.UTF-8");
-	nl_putenv("LANG=$lang.UTF-8");
-	nl_putenv("LC_COLLATE=$lang");
-	setlocale(LC_ALL, $lang.".UTF-8");
-	setlocale(LC_COLLATE, $lang.".UTF-8");
-	if( ! -d "$OUT/$lang" ){
-		make_path("$OUT/$lang");
+	my $msilang = lc($lang->{browser});
+
+	if( ! -d "$OUT/$lang->{locales}" ){
+		make_path("$OUT/$lang->{locales}");
 	}
 
 	my $locappname = __($appname);
@@ -84,18 +77,18 @@ foreach my $lang (@langs){
 
 		for my $element (@{$data->{element}}){
 		 $element->{category} = $category;
-		 $element->{url} = geturl($element, $lang);
+		 $element->{url} = geturl($element, $lang->{locales});
 		 $tableview["$element->{x}"]["$element->{y}"] = $element;
 		 $t->process('element.html',
 			 { 'element' => $element,
-				 'elementname' => "name_$lang",
+				 'elementname' => "name_$lang->{locales}",
 				 'state' => $state->{'state'},
 				 'cur' => $category->{'filename'},
 				 'cur_l' => $category->{'fullname'},
-				 'lang' => $lang,
+				 'lang' => $lang->{locales},
 				 title => $locappname
 			 },
-			 "$OUT/$lang/".$element->{'url'}.".html",
+			 "$OUT/$lang->{locales}/".$element->{'url'}.".html",
 			 { binmode => ':utf8' }) or die $t->error;
 
 		 push(@elements,$element);
@@ -106,17 +99,17 @@ foreach my $lang (@langs){
 			{ 'elements' => [@sorted],
 				'cur' => $category->{'filename'},
 				'cur_l' => $category->{'fullname'},
-				'lang' => $lang,
+				'lang' => $lang->{locales},
 				'title' => $locappname,
-		  	'elementname' => "name_$lang",
+		  	'elementname' => "name_$lang->{locales}",
 				'categories' => $categories->{category}
 			},
-			"$OUT/$lang/$category->{'filename'}.html",
+			"$OUT/$lang->{locales}/$category->{'filename'}.html",
 			{ binmode => ':utf8' }) or die $t->error;
 
 	}
 
-	my @sortedbyname = sort {$a->{"name_$lang"} cmp $b->{"name_$lang"}} @elements;
+	my @sortedbyname = sort {$a->{"name_$lang->{locales}"} cmp $b->{"name_$lang->{locales}"}} @elements;
 	my @sortedbyanumber = sort {$a->{anumber} <=> $b->{anumber}} @elements;
 	my @sortedbyln = sort {$a->{name_Latin} cmp $b->{name_Latin}} @elements;
 	my @sortedbyam = sort {$a->{atomicmass} =~ s/,/./r <=> $b->{atomicmass} =~ s/,/./r} @elements;
@@ -128,43 +121,43 @@ foreach my $lang (@langs){
 				'cur' => $group->{'filename'},
 				'cur_l' => $group->{'fullname'},
 				'title' => $locappname,
-		  	'elementname' => "name_$lang",
+		  	'elementname' => "name_$lang->{locales}",
 				'groups' => $groups->{group}
 			},
-			"$OUT/$lang/$group->{'filename'}.html",
+			"$OUT/$lang->{locales}/$group->{'filename'}.html",
 			{ binmode => ':utf8' }) or die $t->error;
 	}
 
 	$t->process('index-an.html',
 		{ 'elements' => [@sortedbyanumber],
 			'title' => 'Atomic number',
-		  'elementname' => "name_$lang",
+		  'elementname' => "name_$lang->{locales}",
 		},
-		"$OUT/$lang/index-an.html",
+		"$OUT/$lang->{locales}/index-an.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('index-ln.html',
 		{ 'elements' => [@sortedbyln],
 			'title' => 'Latin name',
-		  'elementname' => "name_$lang",
+		  'elementname' => "name_$lang->{locales}",
 		},
-		"$OUT/$lang/index-ln.html",
+		"$OUT/$lang->{locales}/index-ln.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('list.html',
 		{ 'elements' => [@sortedbyln],
 			'title' => $locappname,
-		  'elementname' => "name_$lang",
+		  'elementname' => "name_$lang->{locales}",
 		},
-		"$OUT/$lang/list.html",
+		"$OUT/$lang->{locales}/list.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('index-am.html',
 		{ 'elements' => [@sortedbyam],
 			'title' => 'Atomic mass',
-		  'elementname' => "name_$lang",
+		  'elementname' => "name_$lang->{locales}",
 		},
-		"$OUT/$lang/index-am.html",
+		"$OUT/$lang->{locales}/index-am.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('menu.html',
@@ -172,7 +165,7 @@ foreach my $lang (@langs){
 			'title' => 'Menu',
 			'nomenulink' => 'true'
 		},
-		"$OUT/$lang/menu.html",
+		"$OUT/$lang->{locales}/menu.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	for my $period (@{$periods->{period}}){
@@ -180,107 +173,109 @@ foreach my $lang (@langs){
 			{ 'elements' => [@sortedbyanumber],
 				'periods' => $periods->{period},
 				'period' => $period->{'number'},
-		  	'elementname' => "name_$lang",
+		  	'elementname' => "name_$lang->{locales}",
 				'title' => $locappname
 			},
-			"$OUT/$lang/p$period->{'number'}.html",
+			"$OUT/$lang->{locales}/p$period->{'number'}.html",
 			{ binmode => ':utf8' }) or die $t->error;
 	}
 
 	$t->process('period.html',
 		{ 'periods' => $periods->{period},
 			'title' => $locappname,
-		  'elementname' => "name_$lang",
+		  'elementname' => "name_$lang->{locales}",
 		},
-		"$OUT/$lang/p.html",
+		"$OUT/$lang->{locales}/p.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('category.html',
 		{	'title' => $locappname,
-		  'elementname' => "name_$lang",
-			'lang' => $lang,
+		  'elementname' => "name_$lang->{locales}",
+			'lang' => $lang->{locales},
 			'categories' => $categories->{category}
 		},
-		"$OUT/$lang/category.html",
+		"$OUT/$lang->{locales}/category.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('group.html',
 		{	'title' => $locappname,
 			'groups' => $groups->{group}
 		},
-		"$OUT/$lang/group.html",
+		"$OUT/$lang->{locales}/group.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('about.html',
 		{	'title' => $locappname,
 		},
-		"$OUT/$lang/about.html",
+		"$OUT/$lang->{locales}/about.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('download.html',
 		{	'title' => $locappname,
 		  'lang' => $lang,
+		  'msilang' => $msilang,
 		},
-		"$OUT/$lang/download.html",
+		"$OUT/$lang->{locales}/download.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('links.html',
 		{	'title' => $locappname,
-		  'lang' => $lang,
+		  'lang' => $lang->{locales},
 		},
-		"$OUT/$lang/links.html",
+		"$OUT/$lang->{locales}/links.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('mohs.html',
 		{	'title' => 'Mohs scale',
 		},
-		"$OUT/$lang/mohs.html",
+		"$OUT/$lang->{locales}/mohs.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('language.html',
 		{	'title' => 'Language',
 			'languages' => $languages->{lang},
 		},
-		"$OUT/$lang/language.html",
+		"$OUT/$lang->{locales}/language.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('tableview.html',
 		{	'title' => $locappname,
 		  'elements' => [@tableview],
 			'categories' => [@{$categories->{category}}],
-		 	'elementname' => "name_$lang",
-		  'lang' => $lang,
+		 	'elementname' => "name_$lang->{locales}",
+		  'lang' => $lang->{locales},
 			'nohomelink' => 'true'
 		},
-		"$OUT/$lang/index.html",
+		"$OUT/$lang->{locales}/index.html",
 		{ binmode => ':utf8' }) or die $t->error;
 }
 
-$t->process('index.html',
-	{ 
-			'languages' => $languages->{lang}
-	},
-	"$OUT/index.html",
-	{ binmode => ':utf8' }) or die $t->error;
+setlocales();
 
-$t->process('404.html',
-	{ 
-	},
-	"$OUT/404.html",
-	{ binmode => ':utf8' }) or die $t->error;
+if($location){
+
+	$t->process('index.html',
+		{ 
+				'languages' => $languages->{lang}
+		},
+		"$OUT/index.html",
+		{ binmode => ':utf8' }) or die $t->error;
+
+
+	$t->process('404.html',
+		{ 
+			'title' => 'Not found',
+		},
+		"$OUT/404.html",
+		{ binmode => ':utf8' }) or die $t->error;
+
+	copy("src/robots.txt", "$OUT/robots.txt");
+	copy("src/.htaccess", "$OUT/.htaccess");
+}
 
 foreach my $dir (('css', 'img', 'font')){
 	foreach my $file (glob("src/$dir/*")){
 		my ($name,$path) = fileparse($file);
 		copy("$path$name", "$OUT/$name");
 	}
-}
-
-sub get_langs{
-	my @langs = ();
-	my @files = glob("po/*.po");
-	foreach my $foo(@files){
-		push(@langs, basename($foo, ('.po')));
-	}
-	return @langs;
 }

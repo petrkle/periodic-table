@@ -1,2 +1,15 @@
 locale
 www
+*.wxl
+*.exe
+*.msi
+*.wixpdb
+*.7z
+*.wixobj
+msi/*.conf
+msi/pt.kle.cz
+msi/pt.kle.cz*.wxs
+msi/components*
+msi/Makefile*
+msi/shortcuts*
+msi/files*

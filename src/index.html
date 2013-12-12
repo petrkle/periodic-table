@@ -27,8 +27,10 @@ function splash() {
 					language = language.substr(0, 2);
 	}
 
-	if (localStorage.getItem('lang') != null) {
-		language = localStorage.getItem('lang');
+	if(typeof(Storage)!=="undefined"){
+		if (localStorage.getItem('lang') != null) {
+			language = localStorage.getItem('lang');
+		}
 	}
 
 	switch (language) {
