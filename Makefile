@@ -5,6 +5,7 @@ help:
 	@echo "web      - generate pt.kle.cz"
 	@echo "upload   - upload files on web"
 	@echo "msiprep  - prepare files for msi packages"
+	@echo "pt.zip   - hosted app for Chrome store"
 	@echo "clean    - remove generated files"
 
 
@@ -23,5 +24,8 @@ msiprep:
 	./msiprep.pl
 	$(COMPRESS) msi/pt.kle.cz msi/pt.kle.cz
 
+pt.zip: chrome/manifest.json
+	zip -r pt.zip chrome
+
 clean:
-	rm -rf locale www msi/pt.kle.cz msi/build.bat msi/*.wxl msi/*.conf msi/components* msi/Makefile* msi/pt.kle.cz-*.wxs msi/shortcuts*.xsl msi/files*.xsl msi/*.msi msi/*.exe msi/files*.wxs msi/*.7z msi/*.wixpdb msi/*.wixobj
+	rm -rf locale www msi/pt.kle.cz msi/build.bat msi/*.wxl msi/*.conf msi/components* msi/Makefile* msi/pt.kle.cz-*.wxs msi/shortcuts*.xsl msi/files*.xsl msi/*.msi msi/*.exe msi/files*.wxs msi/*.7z msi/*.wixpdb msi/*.wixobj pt.zip

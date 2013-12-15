@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Periodic Table",
+    "description": "App name"
+  },
+  "appDesc": {
+    "message": "Clear periodic table of chemical elements.",
+    "description": "App description"
+  }
+}

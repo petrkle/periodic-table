@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Tableau périodique",
+    "description": "App name"
+  },
+  "appDesc": {
+    "message": "Synoptique tableau périodique des éléments chimiques.",
+    "description": "App description"
+  }
+}

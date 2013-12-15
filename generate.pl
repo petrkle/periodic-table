@@ -212,7 +212,7 @@ foreach my $lang (@{$languages->{lang}}){
 
 	$t->process('download.html',
 		{	'title' => $locappname,
-		  'lang' => $lang,
+		  'lang' => $lang->{android},
 		  'msilang' => $msilang,
 		},
 		"$OUT/$lang->{locales}/download.html",

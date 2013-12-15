@@ -66,9 +66,9 @@ function redir(lang){
 	</style>
 
 <noscript>
-	<ul>
+	<ul itemscope itemtype="http://schema.org/Breadcrumb">
 [% FOREACH loc IN languages -%]
-<li><a href="[% location %]/[% loc.locales %]/index.html" title="[% loc.fullnameloc %]">[% loc.title %]</a></li>
+<li><a href="[% location %]/[% loc.locales %]/index.html" title="[% loc.fullnameloc %]" itemprop="url"><span itemprop="title">[% loc.title %]</span></a></li>
 [% END -%]
 	</ul>
 </noscript>

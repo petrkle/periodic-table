@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Periodensystem",
+    "description": "App name"
+  },
+  "appDesc": {
+    "message": "Periodensystem der Elemente.",
+    "description": "App description"
+  }
+}

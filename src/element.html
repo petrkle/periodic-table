@@ -4,13 +4,13 @@
 [% INCLUDE title.html %]
 
 <table id="atom" cellspacing="0" cellpadding="0">
-	<tr><th>[% l('Symbol') %]</th><td><a href="index.html#[% element.symbol %]">[% element.symbol %]</a></td></tr> 
-	<tr><th>[% l('Latin name') %]</th><td><a href="index-ln.html#[% element.name_Latin %]">[% element.name_Latin %]</a></td></tr> 
-	<tr><th>[% l('Atomic number') %]</th><td><a href="index-an.html#[% element.anumber %]">[% element.anumber %]</a></td></tr> 
-	<tr><th>[% l('Period') %]</th><td><a href="p[% element.period %].html">[% element.period %]</a></td></tr> 
-	<tr><th>[% l('Element category') %]</th><td><a href="[% cur %].html">[% l(cur_l) %]</a></td></tr> 
-	<tr><th>[% l('Relative atomic mass') %]</th><td><a href="index-am.html#[% element.anumber %]">[% element.atomicmass %]</a></td></tr> 
-	<tr><th>[% l('Group') %]</th><td><a href="[% element.group FILTER remove ('\.') FILTER lower %].html">[% element.group %]</a></td></tr> 
+	<tr><th>[% l('Symbol') %]</th><td><a href="index.html#[% element.symbol %]" title="[% l('Symbol') %]">[% element.symbol %]</a></td></tr> 
+	<tr><th>[% l('Latin name') %]</th><td><a href="index-ln.html#[% element.name_Latin %]" title="[% l('Latin name') %]">[% element.name_Latin %]</a></td></tr> 
+	<tr><th>[% l('Atomic number') %]</th><td><a href="index-an.html#[% element.anumber %]" title="[% l('Atomic number') %]">[% element.anumber %]</a></td></tr> 
+	<tr><th>[% l('Period') %]</th><td><a href="p[% element.period %].html" title="[% l('Period') %]">[% element.period %]</a></td></tr> 
+	<tr><th>[% l('Element category') %]</th><td><a href="[% cur %].html" title="[% l('Element category') %]">[% l(cur_l) %]</a></td></tr> 
+	<tr><th>[% l('Relative atomic mass') %]</th><td><a href="index-am.html#[% element.anumber %]" title="[% l('Relative atomic mass') %]">[% element.atomicmass %]</a></td></tr> 
+	<tr><th>[% l('Group') %]</th><td><a href="[% element.group FILTER remove ('\.') FILTER lower %].html" title="[% l('Group') %]">[% element.group %]</a></td></tr> 
 [% IF element.electronegativity -%]
 	<tr><th>[% l('Electronegativity') %]</th><td><div>[% element.electronegativity %]</div></td></tr>
 [% END -%]
@@ -52,7 +52,7 @@
 	<tr><th>[% l('Discovery') %]</th><td><div>[% l(element.discovery) %]</div></td></tr>
 [% END -%]
 [% IF element.hardness -%]
-	<tr><th>[% l('Hardness') %] [<a href="mohs.html">[% l('Mohs scale') %]</a>]</th><td><div>[% element.hardness %]</div></td></tr>
+	<tr><th>[% l('Hardness') %] [<a href="mohs.html" title="[% l('Mohs scale') %]">[% l('Mohs scale') %]</a>]</th><td><div>[% element.hardness %]</div></td></tr>
 [% END -%]
 [% IF element.vickers -%]
 	<tr><th>[% l('Vickers hardness') %] [MPa]</th><td><div>[% element.vickers %]</div></td></tr>

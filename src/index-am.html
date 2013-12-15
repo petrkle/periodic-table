@@ -5,8 +5,8 @@
 <table class="elementlist" cellspacing="0" cellpadding="0" border="0">
 [% FOREACH foo IN elements %]
 <tr>
-	<td class="maxwidth"><a href="[% foo.url %].html" class="element" name="[% foo.name_Latin %]"><span class="elementname">[% foo.${elementname} %]</span></a></td>
-	<td class="snc"><a href="[% foo.url %].html" class="element" name="[% foo.name_Latin %]"><span class="elementam">[% foo.atomicmass %]</span></a></td>
+	<td class="maxwidth"><a href="[% foo.url %].html" class="element" name="[% foo.name_Latin %]" title="[% foo.${elementname} %]"><span class="elementname">[% foo.${elementname} %]</span></a></td>
+	<td class="snc"><a href="[% foo.url %].html" class="element" name="[% foo.name_Latin %]" title="[% foo.${elementname} %]"><span class="elementam">[% foo.atomicmass %]</span></a></td>
 </tr>
 [% END %]
 </table>

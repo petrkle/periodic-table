@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Periodická tabuľka",
+    "description": "App name"
+  },
+  "appDesc": {
+    "message": "Periodická sústava prvkov.",
+    "description": "App description"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Sistema periódico",
+    "description": "App name"
+  },
+  "appDesc": {
+    "message": "Sin comerciales. La aplicación no requiere ningún permiso.",
+    "description": "App description"
+  }
+}

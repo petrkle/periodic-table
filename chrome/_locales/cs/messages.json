@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Chemická tabulka",
+    "description": "App name"
+  },
+  "appDesc": {
+    "message": "Přehledná periodická soustava chemických prvků.",
+    "description": "App description"
+  }
+}

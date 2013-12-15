@@ -13,8 +13,8 @@
 	[% IF cur == category.filename %]
 	[% FOREACH foo IN elements %]
 <tr>
-	<td class="maxwidth"><a href="[% foo.url %].html" class="element" name="[% foo.name_Latin %]"><span class="elementname">[% foo.${elementname} %]</span></a></td>
-	<td class="snc"><a href="[% foo.url %].html" class="element" name="[% foo.name_Latin %]"><span class="symbol">[% foo.anumber %]</span></a></td>
+	<td class="maxwidth"><a href="[% foo.url %].html" class="element" name="[% foo.name_Latin %]" itemprop="url" title="[% foo.${elementname} %]"><span class="elementname" itemprop="title">[% foo.${elementname} %]</span></a></td>
+	<td class="snc"><a href="[% foo.url %].html" class="element" name="[% foo.name_Latin %]" title="[% foo.${elementname} %]"><span class="symbol">[% foo.anumber %]</span></a></td>
 </tr>
 	[% END %]
 	[% END %]
@@ -23,7 +23,7 @@
 [% ELSE %]
 <table class="elementlist" cellspacing="0" cellpadding="0" border="0">
 [% FOREACH category IN categories %]
-<tr><td><a href="[% category.filename %].html" class="line closed">[% l(category.fullname) %]</a></td></tr>
+<tr><td><a href="[% category.filename %].html" class="line closed" itemprop="url" title="[% l(category.fullname) %]"><span itemprop="title">[% l(category.fullname) %]</span></a></td></tr>
 [% END %]
 </table>
 [% END %]

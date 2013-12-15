@@ -14,8 +14,8 @@
 		[% FOREACH foo IN elements %]
 		[% IF foo.period == period %]
 <tr>
-	<td class="maxwidth"><a href="[% foo.url %].html" class="element" name="[% foo.name_Latin %]"><span class="elementname">[% foo.${elementname} %]</span></a></td>
-	<td class="snc"><a href="[% foo.url %].html" class="element" name="[% foo.name_Latin %]"><span class="symbol">[% foo.anumber %]</span></a></td>
+	<td class="maxwidth"><a href="[% foo.url %].html" class="element" name="[% foo.name_Latin %]" itemprop="url" title="[% foo.${elementname} %]"><span class="elementname" itemprop="title">[% foo.${elementname} %]</span></a></td>
+	<td class="snc"><a href="[% foo.url %].html" class="element" name="[% foo.name_Latin %]" title="[% foo.${elementname} %]"><span class="symbol">[% foo.anumber %]</span></a></td>
 </tr>
 		[% END %]
 		[% END %]
@@ -25,7 +25,7 @@
 [% ELSE %]
 <table class="elementlist" cellspacing="0" cellpadding="0" border="0">
 [% FOREACH per IN periods %]
-<tr><td><a href="p[% per.number %].html" class="line closed">[% per.number %]. [% l('period') %]</a></td></tr>
+<tr><td><a href="p[% per.number %].html" class="line closed" itemprop="url" title="[% per.number %]. [% l('period') %]"><span class="elementname" itemprop="title">[% per.number %]. [% l('period') %]</span></a></td></tr>
 [% END %]
 </table>
 [% END %]
