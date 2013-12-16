@@ -256,7 +256,8 @@ if($location){
 
 	$t->process('index.html',
 		{ 
-				'languages' => $languages->{lang}
+			'title' => $appname,
+			'languages' => $languages->{lang}
 		},
 		"$OUT/index.html",
 		{ binmode => ':utf8' }) or die $t->error;
