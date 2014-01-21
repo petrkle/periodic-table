@@ -261,3 +261,6 @@ msgstr "Odkazy"
 
 msgid "Source code"
 msgstr "Zdrojový kód"
+
+msgid "Unknown"
+msgstr "Neznámé"

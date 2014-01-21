@@ -1334,4 +1334,73 @@
     <name_pl_PL>Żelazo</name_pl_PL>
     <name_es_ES>Hierro</name_es_ES>
   </element>
+	<element>
+		<anumber>110</anumber>
+		<name_cs_CZ>Darmstadtium</name_cs_CZ>
+		<symbol>Ds</symbol>
+		<name_Latin>Darmstadtium</name_Latin>
+		<atomicmass>281</atomicmass>
+		<oxid>0</oxid>
+		<name_en_US>Darmstadtium</name_en_US>
+		<name_de_DE>Darmstadtium</name_de_DE>
+		<name_fr_FR>Darmstadtium</name_fr_FR>
+		<elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;8&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+		<period>7</period>
+		<group>VII.B</group>
+		<state>s</state>
+		<stbisot>0</stbisot>
+		<unstisot>6</unstisot>
+		<name_sk_SK>Darmstadtium</name_sk_SK>
+		<discovery>1994</discovery>
+		<x>9</x>
+		<y>6</y>
+		<name_pl_PL>Darmstadtium</name_pl_PL>
+		<name_es_ES>Darmstadtium</name_es_ES>
+	</element>
+	<element>
+		<anumber>111</anumber>
+		<name_cs_CZ>Roentgenium</name_cs_CZ>
+		<symbol>Rg</symbol>
+		<name_Latin>Roentgenium</name_Latin>
+		<atomicmass>281</atomicmass>
+		<oxid>3</oxid>
+		<name_en_US>Roentgenium</name_en_US>
+		<name_de_DE>Roentgenium</name_de_DE>
+		<name_fr_FR>Roentgenium</name_fr_FR>
+		<elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;9&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+		<period>7</period>
+		<group>I.B</group>
+		<state>s</state>
+		<stbisot>0</stbisot>
+		<unstisot>5</unstisot>
+		<name_sk_SK>Roentgenium</name_sk_SK>
+		<discovery>1994</discovery>
+		<x>10</x>
+		<y>6</y>
+		<name_pl_PL>Roentgenium</name_pl_PL>
+		<name_es_ES>Roentgenium</name_es_ES>
+	</element>
+	<element>
+		<anumber>112</anumber>
+		<name_cs_CZ>Kopernicium</name_cs_CZ>
+		<symbol>Cn</symbol>
+		<name_Latin>Copernicium</name_Latin>
+		<atomicmass>285</atomicmass>
+		<oxid>4</oxid>
+		<name_en_US>Copernicium</name_en_US>
+		<name_de_DE>Copernicium</name_de_DE>
+		<name_fr_FR>Copernicium</name_fr_FR>
+		<elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;10&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+		<period>7</period>
+		<group>II.B</group>
+		<state>u</state>
+		<stbisot>0</stbisot>
+		<unstisot>5</unstisot>
+		<name_sk_SK>Copernicium</name_sk_SK>
+		<discovery>1996</discovery>
+		<x>11</x>
+		<y>6</y>
+		<name_pl_PL>Copernicium</name_pl_PL>
+		<name_es_ES>Copernicium</name_es_ES>
+	</element>
 </elements>

@@ -261,3 +261,6 @@ msgstr "Linki"
 
 msgid "Source code"
 msgstr "Kod źródłowy"
+
+msgid "Unknown"
+msgstr "Nieznany"

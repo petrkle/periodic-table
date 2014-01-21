@@ -146,4 +146,56 @@
     <name_pl_PL>Jod</name_pl_PL>
     <name_es_ES>Iodo</name_es_ES>
   </element>
+	<element>
+		<anumber>117</anumber>
+		<name_cs_CZ>Ununseptium</name_cs_CZ>
+		<symbol>Uus</symbol>
+		<name_Latin>Ununseptium</name_Latin>
+		<atomicmass>294</atomicmass>
+		<oxid>1,3</oxid>
+		<name_en_US>Ununseptium</name_en_US>
+		<name_de_DE>Ununseptium</name_de_DE>
+		<name_fr_FR>Ununseptium</name_fr_FR>
+		<elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;10&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt; 7p&lt;sup&gt;5&lt;/sup&gt;</elconf>
+		<period>7</period>
+		<group>VII.A</group>
+		<state>s</state>
+		<stbisot>0</stbisot>
+		<unstisot>2</unstisot>
+		<name_sk_SK>Ununseptium</name_sk_SK>
+		<discovery>2010</discovery>
+		<x>16</x>
+		<y>6</y>
+		<name_pl_PL>Ununseptium</name_pl_PL>
+		<name_es_ES>Ununseptium</name_es_ES>
+	</element>
+  <element>
+    <anumber>85</anumber>
+    <name_cs_CZ>Astat</name_cs_CZ>
+    <symbol>At</symbol>
+    <name_Latin>Astatum</name_Latin>
+    <atomicmass>209,9871</atomicmass>
+    <oxid>-1,1,3,5,7</oxid>
+    <electronegativity>2,2</electronegativity>
+    <stbisot>0</stbisot>
+    <unstisot>21</unstisot>
+    <mpoint>302</mpoint>
+    <bpoint>330</bpoint>
+    <discovery>1940</discovery>
+    <name_en_US>Astatine</name_en_US>
+    <name_de_DE>Astat</name_de_DE>
+    <name_fr_FR>Astate</name_fr_FR>
+    <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;5&lt;/sup&gt;</elconf>
+    <thcond>1,7</thcond>
+    <atomicradius>127</atomicradius>
+    <ionizationenergy1>9,5</ionizationenergy1>
+    <period>6</period>
+    <group>VII.A</group>
+    <state>s</state>
+    <name_sk_SK>Astát</name_sk_SK>
+    <x>16</x>
+    <y>5</y>
+    <name_pl_PL>Astat</name_pl_PL>
+    <name_es_ES>Ástato</name_es_ES>
+  </element>
 </elements>

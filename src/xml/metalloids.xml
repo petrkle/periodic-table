@@ -78,35 +78,6 @@
     <name_es_ES>Arsénico</name_es_ES>
   </element>
   <element>
-    <anumber>85</anumber>
-    <name_cs_CZ>Astat</name_cs_CZ>
-    <symbol>At</symbol>
-    <name_Latin>Astatum</name_Latin>
-    <atomicmass>209,9871</atomicmass>
-    <oxid>-1,1,3,5,7</oxid>
-    <electronegativity>2,2</electronegativity>
-    <stbisot>0</stbisot>
-    <unstisot>21</unstisot>
-    <mpoint>302</mpoint>
-    <bpoint>330</bpoint>
-    <discovery>1940</discovery>
-    <name_en_US>Astatine</name_en_US>
-    <name_de_DE>Astat</name_de_DE>
-    <name_fr_FR>Astate</name_fr_FR>
-    <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;5&lt;/sup&gt;</elconf>
-    <thcond>1,7</thcond>
-    <atomicradius>127</atomicradius>
-    <ionizationenergy1>9,5</ionizationenergy1>
-    <period>6</period>
-    <group>VII.A</group>
-    <state>s</state>
-    <name_sk_SK>Astát</name_sk_SK>
-    <x>16</x>
-    <y>5</y>
-    <name_pl_PL>Astat</name_pl_PL>
-    <name_es_ES>Ástato</name_es_ES>
-  </element>
-  <element>
     <anumber>5</anumber>
     <name_cs_CZ>Bor</name_cs_CZ>
     <symbol>B</symbol>

@@ -254,3 +254,5 @@ msgstr "Heat capacity"
 msgid "Table view"
 msgstr "Table view"
 
+msgid "Unknown"
+msgstr "Unknown"

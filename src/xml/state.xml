@@ -11,4 +11,8 @@
 	<state name="s">
 		<long>Solid</long>
 	</state>
+
+	<state name="u">
+		<long>Unknown</long>
+	</state>
 </states>
