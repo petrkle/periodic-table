@@ -1,5 +1,18 @@
-use strict;
-use warnings;
+use utf8;
+use locale;
+
+use autodie qw(:all);
+use Template;
+use Template::Stash;
+use XML::Simple;
+use File::Copy;
+use File::Path qw(make_path);
+use File::Basename;
+use Locale::TextDomain ( 'ptable' ,  './locale/' );
+use Encode;
+use Text::Iconv;
+Locale::Messages->select_package ('gettext_pp');
+use Getopt::Long;
 
 $Template::Stash::ROOT_OPS->{ 'l' }    = sub {
 	return decode('UTF-8', __(shift));
@@ -9,9 +22,22 @@ $Template::Stash::ROOT_OPS->{ 'url' }    = sub {
 	return geturl(shift, shift); 
 };
 
+package pt;
+use strict;
+use warnings;
+use POSIX qw (setlocale LC_ALL LC_COLLATE);
+use Locale::Messages qw (nl_putenv);
+use Exporter qw(import);
+ 
+our @EXPORT_OK = qw(get_langs geturl setlocales);
+
+our $MSIVERSION = '14.01.2301';
+our $MSIGUID = 'e2fd6a8e-fbcf-448b-8387-9ec9f801a5b5';
+our $APPNAME = 'Periodic Table';
+
 sub get_langs{
 	my @langs = ();
-	my @files = glob("po/*.po");
+	my @files = glob("../po/*.po");
 	foreach my $foo(@files){
 		push(@langs, basename($foo, ('.po')));
 	}

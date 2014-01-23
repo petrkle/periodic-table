@@ -2,23 +2,10 @@
 
 use strict;
 use warnings;
-use utf8;
-use locale;
-use autodie qw(:all);
-use Template;
-use Template::Stash;
-use XML::Simple;
-use File::Copy;
-use File::Path qw(make_path);
-use File::Basename;
-use Locale::TextDomain ( 'ptable' ,  './locale/' );
-use POSIX qw (setlocale LC_ALL LC_COLLATE);
-use Locale::Messages qw (nl_putenv);
-use Encode;
-use Text::Iconv;
-Locale::Messages->select_package ('gettext_pp');
-use Getopt::Long;
-require './func.pl';
+
+use FindBin;
+use lib "$FindBin::Bin/lib";
+use pt qw(get_langs geturl setlocales);
 
 my @langs = get_langs();
 
@@ -31,8 +18,6 @@ my $groups = $xml->XMLin("src/xml/groups.xml");
 my $periods = $xml->XMLin("src/xml/periods.xml");
 
 my $state = $xml->XMLin("src/xml/state.xml");
-
-my $appname = 'Periodic Table';
 
 my $languages = $xml->XMLin("src/xml/languages.xml");
 
@@ -68,7 +53,7 @@ foreach my $lang (@{$languages->{lang}}){
 		make_path("$OUT/$lang->{locales}");
 	}
 
-	my $locappname = __($appname);
+	my $locappname = __($pt::APPNAME);
 	my @elements;
 
 	for my $category (@{$categories->{category}}){
@@ -214,6 +199,7 @@ foreach my $lang (@{$languages->{lang}}){
 		{	'title' => $locappname,
 		  'lang' => $lang->{android},
 		  'msilang' => $msilang,
+		  'msiversion' => $pt::MSIVERSION,
 		},
 		"$OUT/$lang->{locales}/download.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -256,7 +242,7 @@ if($location){
 
 	$t->process('index.html',
 		{ 
-			'title' => $appname,
+			'title' => $pt::APPNAME,
 			'languages' => $languages->{lang}
 		},
 		"$OUT/index.html",

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
 
-	<Product Id='6771deee-67ef-47c3-abf0-877d13e45153'
+	<Product Id='[% msiguid %]'
 		Name='!(loc.ApplicationName) $(var.ProductVersion)'
 		Language='1033' 
 		Version='$(var.ProductVersion)'

@@ -2,28 +2,12 @@
 
 use strict;
 use warnings;
-use utf8;
-use locale;
-use autodie qw(:all);
-use Template;
-use Template::Stash;
-use XML::Simple;
-use File::Copy;
-use File::Path qw(make_path);
-use File::Basename;
-use Locale::TextDomain ( 'ptable' ,  './locale/' );
-use POSIX qw (setlocale LC_ALL LC_COLLATE);
-use Locale::Messages qw (nl_putenv);
-use Encode;
-use Text::Iconv;
-Locale::Messages->select_package ('gettext_pp');
-require './func.pl';
+
+use FindBin;
+use lib "$FindBin::Bin/lib";
+use pt qw(get_langs geturl setlocales);
 
 my $OUT = "msi";
-
-my $appname = "Periodic Table";
-
-my $msiversion = "13.12.1201";
 
 my $xml = new XML::Simple;
 
@@ -41,51 +25,52 @@ foreach my $lang(@{$languages->{lang}}){
 	my $msilang = lc($lang->{browser});
 
 	$t->process('exe.conf',
-		{	'title' => $appname,
+		{	'title' => $pt::APPNAME,
 			'lang' => $msilang,
-		  'version' => $msiversion,
+		  'version' => $pt::MSIVERSION,
 		},
 		"$OUT/$msilang.conf",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('msi.wxl',
-		{	'title' => $appname,
+		{	'title' => $pt::APPNAME,
 			'lang' => $msilang,
 		},
 		"$OUT/$msilang.wxl",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('Makefile.local',
-		{	'title' => $appname,
+		{	'title' => $pt::APPNAME,
 		  'lang' => $msilang,
-		  'version' => $msiversion,
+		  'version' => $pt::MSIVERSION,
 		},
 		"$OUT/Makefile.$msilang",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('shortcuts.xsl',
-		{	'title' => $appname,
+		{	'title' => $pt::APPNAME,
 		  'lang' => $lang->{locales},
 		},
 		"$OUT/shortcuts-$msilang.xsl",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('pt.kle.cz.wxs',
-		{	'title' => $appname,
+		{	'title' => $pt::APPNAME,
+		  'msiguid' => $pt::MSIGUID,
 		  'lang' => $msilang,
 		},
 		"$OUT/pt.kle.cz-$msilang.wxs",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('components.xsl',
-		{	'title' => $appname,
+		{	'title' => $pt::APPNAME,
 		  'lang' => $msilang,
 		},
 		"$OUT/components-$msilang.xsl",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('files.xsl',
-		{	'title' => $appname,
+		{	'title' => $pt::APPNAME,
 		  'lang' => $msilang,
 		},
 		"$OUT/files-$msilang.xsl",
