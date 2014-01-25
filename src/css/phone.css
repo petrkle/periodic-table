@@ -38,7 +38,7 @@ a:visited{color:#000;text-decoration:none;}
 p{padding:1em;margin:0;text-align:center;}
 .tableview,.stableview{text-align:center;width:100%;}
 .tableview td a,.maxwidth th a{display:block;padding:0.5em;margin:1px;position:relative;}
-.tableview td a span{font-size:0.5em;display:block;margin:0;padding:0;position:absolute;bottom:0;right:0;}
+.tableview td a sub{font-size:0.5em;display:block;margin:0;padding:0;position:absolute;bottom:0;right:0;}
 .stableview td a{display:block;padding:0.3em;margin:1px;position:relative;font-size:0.6em;}
 .maxwidth th a{background:#eee;}
 .alkali-metals{background:#690;}

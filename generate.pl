@@ -39,7 +39,7 @@ my $t = Template->new({
 		VARIABLES => {
      location => $location,
      langs => $languages->{lang},
-		 version => '2.5'
+		 version => $pt::VERSION
    },
 });
 
@@ -190,22 +190,22 @@ foreach my $lang (@{$languages->{lang}}){
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('about.html',
-		{	'title' => $locappname,
+		{	'title' => $locappname . ' - ' . lc(__('About')),
 		},
 		"$OUT/$lang->{locales}/about.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('download.html',
-		{	'title' => $locappname,
+		{	'title' => $locappname . ' - ' . lc(__('Download')),
 		  'lang' => $lang->{android},
 		  'msilang' => $msilang,
-		  'msiversion' => $pt::MSIVERSION,
+		  'msiversion' => $pt::VERSION,
 		},
 		"$OUT/$lang->{locales}/download.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('links.html',
-		{	'title' => $locappname,
+		{	'title' => $locappname . ' - ' . lc(__('Links')),
 		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/links.html",

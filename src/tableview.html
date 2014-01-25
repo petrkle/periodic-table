@@ -54,7 +54,7 @@
 	[% END %]
 
 	[% IF elements.${x}.${y}.symbol %]
-	<a href="[% elements.${x}.${y}.url %].html" class="[% elements.${x}.${y}.category.filename %]" name="[% elements.${x}.${y}.symbol %]" id="[% elements.${x}.${y}.symbol %]" title="[% elements.${x}.${y}.${elementname} %]">[% elements.${x}.${y}.symbol %]<span>[% elements.${x}.${y}.anumber %]</span></a>
+	<a href="[% elements.${x}.${y}.url %].html" class="[% elements.${x}.${y}.category.filename %]" name="[% elements.${x}.${y}.symbol %]" id="[% elements.${x}.${y}.symbol %]" title="[% elements.${x}.${y}.${elementname} %]">[% elements.${x}.${y}.symbol %]<sub>[% elements.${x}.${y}.anumber %]</sub></a>
 	[% ELSIF x > 2  and x < 12 and y == 0 %]
 	[% ELSIF x >= 2  and x < 12 and y < 3 %]
 	[% ELSE %]

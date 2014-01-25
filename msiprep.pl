@@ -27,7 +27,7 @@ foreach my $lang(@{$languages->{lang}}){
 	$t->process('exe.conf',
 		{	'title' => $pt::APPNAME,
 			'lang' => $msilang,
-		  'version' => $pt::MSIVERSION,
+		  'version' => $pt::VERSION,
 		},
 		"$OUT/$msilang.conf",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -42,7 +42,7 @@ foreach my $lang(@{$languages->{lang}}){
 	$t->process('Makefile.local',
 		{	'title' => $pt::APPNAME,
 		  'lang' => $msilang,
-		  'version' => $pt::MSIVERSION,
+		  'version' => $pt::VERSION,
 		},
 		"$OUT/Makefile.$msilang",
 		{ binmode => ':utf8' }) or die $t->error;

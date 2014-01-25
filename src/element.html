@@ -1,6 +1,11 @@
-[% title = element.${elementname} -%]
+[% IF element.${elementname} == element.name_Latin %]
+[%title = element.${elementname} -%]
+[% ELSE %]
+[%title = element.${elementname} _" - "_ element.name_Latin %]
+[% END %]
 [% titlelink="index.html" -%]
 [% INCLUDE header.html %]
+[%title = element.${elementname} -%]
 [% INCLUDE title.html %]
 
 <table id="atom" cellspacing="0" cellpadding="0">
