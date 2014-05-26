@@ -34,6 +34,7 @@
     <y>5</y>
     <name_pl_PL>Bar</name_pl_PL>
     <name_es_ES>Bario</name_es_ES>
+    <name_nl_NL>Barium</name_nl_NL>
   </element>
   <element>
     <anumber>88</anumber>
@@ -66,6 +67,7 @@
     <y>6</y>
     <name_pl_PL>Rad</name_pl_PL>
     <name_es_ES>Radio</name_es_ES>
+    <name_nl_NL>Radium</name_nl_NL>
   </element>
   <element>
     <anumber>38</anumber>
@@ -102,6 +104,7 @@
     <y>4</y>
     <name_pl_PL>Stront</name_pl_PL>
     <name_es_ES>Estroncio</name_es_ES>
+    <name_nl_NL>Strontium</name_nl_NL>
   </element>
   <element>
     <anumber>20</anumber>
@@ -139,5 +142,6 @@
     <y>3</y>
     <name_pl_PL>Wapń</name_pl_PL>
     <name_es_ES>Calcio</name_es_ES>
+    <name_nl_NL>Calcium</name_nl_NL>
   </element>
 </elements>

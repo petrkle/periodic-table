@@ -31,6 +31,7 @@
     <y>6</y>
     <name_pl_PL>Aktyn</name_pl_PL>
     <name_es_ES>Actinio</name_es_ES>
+    <name_nl_NL>Actinium</name_nl_NL>
   </element>
   <element>
     <anumber>24</anumber>
@@ -71,6 +72,7 @@
     <y>3</y>
     <name_pl_PL>Chrom</name_pl_PL>
     <name_es_ES>Cromo</name_es_ES>
+    <name_nl_NL>Chroom</name_nl_NL>
   </element>
   <element>
     <anumber>72</anumber>
@@ -111,6 +113,7 @@
     <y>5</y>
     <name_pl_PL>Hafn</name_pl_PL>
     <name_es_ES>Hafnio</name_es_ES>
+    <name_nl_NL>Hafnium</name_nl_NL>
   </element>
   <element>
     <anumber>77</anumber>
@@ -149,6 +152,7 @@
     <y>5</y>
     <name_pl_PL>Iryd</name_pl_PL>
     <name_es_ES>Iridio</name_es_ES>
+    <name_nl_NL>Iridium</name_nl_NL>
   </element>
   <element>
     <anumber>48</anumber>
@@ -188,6 +192,7 @@
     <y>4</y>
     <name_pl_PL>Kadm</name_pl_PL>
     <name_es_ES>Cadmio</name_es_ES>
+    <name_nl_NL>Cadmium</name_nl_NL>
   </element>
   <element>
     <anumber>27</anumber>
@@ -228,6 +233,7 @@
     <y>3</y>
     <name_pl_PL>Kobalt</name_pl_PL>
     <name_es_ES>Cobalto</name_es_ES>
+    <name_nl_NL>Kobalt</name_nl_NL>
   </element>
   <element>
     <anumber>104</anumber>
@@ -251,6 +257,7 @@
     <y>6</y>
     <name_pl_PL>Rutherford</name_pl_PL>
     <name_es_ES>Rutherfordio</name_es_ES>
+    <name_nl_NL>Rutherfordium</name_nl_NL>
   </element>
   <element>
     <anumber>57</anumber>
@@ -290,6 +297,7 @@
     <y>5</y>
     <name_pl_PL>Lantan</name_pl_PL>
     <name_es_ES>Lantano</name_es_ES>
+    <name_nl_NL>Lanthaan</name_nl_NL>
   </element>
   <element>
     <anumber>25</anumber>
@@ -328,6 +336,7 @@
     <y>3</y>
     <name_pl_PL>Mangan</name_pl_PL>
     <name_es_ES>Manganeso</name_es_ES>
+    <name_nl_NL>Mangaan</name_nl_NL>
   </element>
   <element>
     <anumber>42</anumber>
@@ -368,6 +377,7 @@
     <y>4</y>
     <name_pl_PL>Molibden</name_pl_PL>
     <name_es_ES>Molibdeno</name_es_ES>
+    <name_nl_NL>Molybdeen</name_nl_NL>
   </element>
   <element>
     <anumber>29</anumber>
@@ -409,6 +419,7 @@
     <y>3</y>
     <name_pl_PL>Miedź</name_pl_PL>
     <name_es_ES>Cobre</name_es_ES>
+    <name_nl_NL>Koper</name_nl_NL>
   </element>
   <element>
     <anumber>28</anumber>
@@ -447,6 +458,7 @@
     <y>3</y>
     <name_pl_PL>Nikiel</name_pl_PL>
     <name_es_ES>Níquel</name_es_ES>
+    <name_nl_NL>Nikkel</name_nl_NL>
   </element>
   <element>
     <anumber>41</anumber>
@@ -487,6 +499,7 @@
     <y>4</y>
     <name_pl_PL>Niob</name_pl_PL>
     <name_es_ES>Niobio</name_es_ES>
+    <name_nl_NL>Niobium</name_nl_NL>
   </element>
   <element>
     <anumber>76</anumber>
@@ -523,6 +536,7 @@
     <y>5</y>
     <name_pl_PL>Osm</name_pl_PL>
     <name_es_ES>Osmio</name_es_ES>
+    <name_nl_NL>Osmium</name_nl_NL>
   </element>
   <element>
     <anumber>46</anumber>
@@ -563,6 +577,7 @@
     <y>4</y>
     <name_pl_PL>Pallad</name_pl_PL>
     <name_es_ES>Paladio</name_es_ES>
+    <name_nl_NL>Palladium</name_nl_NL>
   </element>
   <element>
     <anumber>78</anumber>
@@ -603,6 +618,7 @@
     <y>5</y>
     <name_pl_PL>Platyna</name_pl_PL>
     <name_es_ES>Platino</name_es_ES>
+    <name_nl_NL>Platina</name_nl_NL>
   </element>
   <element>
     <anumber>75</anumber>
@@ -641,6 +657,7 @@
     <y>5</y>
     <name_pl_PL>Ren</name_pl_PL>
     <name_es_ES>Renio</name_es_ES>
+    <name_nl_NL>Renium</name_nl_NL>
   </element>
   <element>
     <anumber>45</anumber>
@@ -681,6 +698,7 @@
     <y>4</y>
     <name_pl_PL>Rod</name_pl_PL>
     <name_es_ES>Rodio</name_es_ES>
+    <name_nl_NL>Rhodium</name_nl_NL>
   </element>
   <element>
     <anumber>80</anumber>
@@ -720,6 +738,7 @@
     <y>5</y>
     <name_pl_PL>Rtęć</name_pl_PL>
     <name_es_ES>Mercurio</name_es_ES>
+    <name_nl_NL>Kwik</name_nl_NL>
   </element>
   <element>
     <anumber>44</anumber>
@@ -759,6 +778,7 @@
     <y>4</y>
     <name_pl_PL>Ruten</name_pl_PL>
     <name_es_ES>Rutenio</name_es_ES>
+    <name_nl_NL>Ruthenium</name_nl_NL>
   </element>
   <element>
     <anumber>21</anumber>
@@ -795,6 +815,7 @@
     <y>3</y>
     <name_pl_PL>Skand</name_pl_PL>
     <name_es_ES>Escandio</name_es_ES>
+    <name_nl_NL>Scandium</name_nl_NL>
   </element>
   <element>
     <anumber>47</anumber>
@@ -836,6 +857,7 @@
     <y>4</y>
     <name_pl_PL>Srebro</name_pl_PL>
     <name_es_ES>Plata</name_es_ES>
+    <name_nl_NL>Zilver</name_nl_NL>
   </element>
   <element>
     <anumber>73</anumber>
@@ -874,6 +896,7 @@
     <y>5</y>
     <name_pl_PL>Tantal</name_pl_PL>
     <name_es_ES>Tántalo</name_es_ES>
+    <name_nl_NL>Tantaal</name_nl_NL>
   </element>
   <element>
     <anumber>43</anumber>
@@ -909,6 +932,7 @@
     <y>4</y>
     <name_pl_PL>Technet</name_pl_PL>
     <name_es_ES>Tecnecio</name_es_ES>
+    <name_nl_NL>Technetium</name_nl_NL>
   </element>
   <element>
     <anumber>22</anumber>
@@ -948,6 +972,7 @@
     <y>3</y>
     <name_pl_PL>Tytan</name_pl_PL>
     <name_es_ES>Titanio</name_es_ES>
+    <name_nl_NL>Titanium</name_nl_NL>
   </element>
   <element>
     <anumber>109</anumber>
@@ -969,6 +994,7 @@
     <y>6</y>
     <name_pl_PL>Meitner</name_pl_PL>
     <name_es_ES>Meitnerio</name_es_ES>
+    <name_nl_NL>Meitnerium</name_nl_NL>
   </element>
   <element>
     <anumber>106</anumber>
@@ -991,6 +1017,7 @@
     <y>6</y>
     <name_pl_PL>Seaborg</name_pl_PL>
     <name_es_ES>Seaborgio</name_es_ES>
+    <name_nl_NL>Seaborgium</name_nl_NL>
   </element>
   <element>
     <anumber>108</anumber>
@@ -1012,6 +1039,7 @@
     <y>6</y>
     <name_pl_PL>Has</name_pl_PL>
     <name_es_ES>Hassio</name_es_ES>
+    <name_nl_NL>Hassium</name_nl_NL>
   </element>
   <element>
     <anumber>105</anumber>
@@ -1034,6 +1062,7 @@
     <y>6</y>
     <name_pl_PL>Dubn</name_pl_PL>
     <name_es_ES>Dubnio</name_es_ES>
+    <name_nl_NL>Dubnium</name_nl_NL>
   </element>
   <element>
     <anumber>107</anumber>
@@ -1056,6 +1085,7 @@
     <y>6</y>
     <name_pl_PL>Bohr</name_pl_PL>
     <name_es_ES>Bohrio</name_es_ES>
+    <name_nl_NL>Bohrium</name_nl_NL>
   </element>
   <element>
     <anumber>23</anumber>
@@ -1096,6 +1126,7 @@
     <y>3</y>
     <name_pl_PL>Wanad</name_pl_PL>
     <name_es_ES>Vanadio</name_es_ES>
+    <name_nl_NL>Vanadium</name_nl_NL>
   </element>
   <element>
     <anumber>74</anumber>
@@ -1135,6 +1166,7 @@
     <y>5</y>
     <name_pl_PL>Wolfram</name_pl_PL>
     <name_es_ES>Tungsteno</name_es_ES>
+    <name_nl_NL>Wolfraam</name_nl_NL>
   </element>
   <element>
     <anumber>39</anumber>
@@ -1173,6 +1205,7 @@
     <y>4</y>
     <name_pl_PL>Itr</name_pl_PL>
     <name_es_ES>Itrio</name_es_ES>
+    <name_nl_NL>Yttrium</name_nl_NL>
   </element>
   <element>
     <anumber>30</anumber>
@@ -1213,6 +1246,7 @@
     <y>3</y>
     <name_pl_PL>Cynk</name_pl_PL>
     <name_es_ES>Cinc</name_es_ES>
+    <name_nl_NL>Zink</name_nl_NL>
   </element>
   <element>
     <anumber>40</anumber>
@@ -1253,6 +1287,7 @@
     <y>4</y>
     <name_pl_PL>Cyrkon</name_pl_PL>
     <name_es_ES>Circonio</name_es_ES>
+    <name_nl_NL>Zirkonium</name_nl_NL>
   </element>
   <element>
     <anumber>79</anumber>
@@ -1293,6 +1328,7 @@
     <y>5</y>
     <name_pl_PL>Złoto</name_pl_PL>
     <name_es_ES>Oro</name_es_ES>
+    <name_nl_NL>Goud</name_nl_NL>
   </element>
   <element>
     <anumber>26</anumber>
@@ -1333,74 +1369,78 @@
     <y>3</y>
     <name_pl_PL>Żelazo</name_pl_PL>
     <name_es_ES>Hierro</name_es_ES>
+    <name_nl_NL>IJzer</name_nl_NL>
   </element>
-	<element>
-		<anumber>110</anumber>
-		<name_cs_CZ>Darmstadtium</name_cs_CZ>
-		<symbol>Ds</symbol>
-		<name_Latin>Darmstadtium</name_Latin>
-		<atomicmass>281</atomicmass>
-		<oxid>0</oxid>
-		<name_en_US>Darmstadtium</name_en_US>
-		<name_de_DE>Darmstadtium</name_de_DE>
-		<name_fr_FR>Darmstadtium</name_fr_FR>
-		<elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;8&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-		<period>7</period>
-		<group>VII.B</group>
-		<state>s</state>
-		<stbisot>0</stbisot>
-		<unstisot>6</unstisot>
-		<name_sk_SK>Darmstadtium</name_sk_SK>
-		<discovery>1994</discovery>
-		<x>9</x>
-		<y>6</y>
-		<name_pl_PL>Darmstadtium</name_pl_PL>
-		<name_es_ES>Darmstadtium</name_es_ES>
-	</element>
-	<element>
-		<anumber>111</anumber>
-		<name_cs_CZ>Roentgenium</name_cs_CZ>
-		<symbol>Rg</symbol>
-		<name_Latin>Roentgenium</name_Latin>
-		<atomicmass>281</atomicmass>
-		<oxid>3</oxid>
-		<name_en_US>Roentgenium</name_en_US>
-		<name_de_DE>Roentgenium</name_de_DE>
-		<name_fr_FR>Roentgenium</name_fr_FR>
-		<elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;9&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-		<period>7</period>
-		<group>I.B</group>
-		<state>s</state>
-		<stbisot>0</stbisot>
-		<unstisot>5</unstisot>
-		<name_sk_SK>Roentgenium</name_sk_SK>
-		<discovery>1994</discovery>
-		<x>10</x>
-		<y>6</y>
-		<name_pl_PL>Roentgenium</name_pl_PL>
-		<name_es_ES>Roentgenium</name_es_ES>
-	</element>
-	<element>
-		<anumber>112</anumber>
-		<name_cs_CZ>Kopernicium</name_cs_CZ>
-		<symbol>Cn</symbol>
-		<name_Latin>Copernicium</name_Latin>
-		<atomicmass>285</atomicmass>
-		<oxid>4</oxid>
-		<name_en_US>Copernicium</name_en_US>
-		<name_de_DE>Copernicium</name_de_DE>
-		<name_fr_FR>Copernicium</name_fr_FR>
-		<elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;10&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-		<period>7</period>
-		<group>II.B</group>
-		<state>u</state>
-		<stbisot>0</stbisot>
-		<unstisot>5</unstisot>
-		<name_sk_SK>Copernicium</name_sk_SK>
-		<discovery>1996</discovery>
-		<x>11</x>
-		<y>6</y>
-		<name_pl_PL>Copernicium</name_pl_PL>
-		<name_es_ES>Copernicium</name_es_ES>
-	</element>
+  <element>
+    <anumber>110</anumber>
+    <name_cs_CZ>Darmstadtium</name_cs_CZ>
+    <symbol>Ds</symbol>
+    <name_Latin>Darmstadtium</name_Latin>
+    <atomicmass>281</atomicmass>
+    <oxid>0</oxid>
+    <name_en_US>Darmstadtium</name_en_US>
+    <name_de_DE>Darmstadtium</name_de_DE>
+    <name_fr_FR>Darmstadtium</name_fr_FR>
+    <elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;8&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+    <period>7</period>
+    <group>VII.B</group>
+    <state>s</state>
+    <stbisot>0</stbisot>
+    <unstisot>6</unstisot>
+    <name_sk_SK>Darmstadtium</name_sk_SK>
+    <discovery>1994</discovery>
+    <x>9</x>
+    <y>6</y>
+    <name_pl_PL>Darmstadtium</name_pl_PL>
+    <name_es_ES>Darmstadtium</name_es_ES>
+    <name_nl_NL>Darmstadtium</name_nl_NL>
+  </element>
+  <element>
+    <anumber>111</anumber>
+    <name_cs_CZ>Roentgenium</name_cs_CZ>
+    <symbol>Rg</symbol>
+    <name_Latin>Roentgenium</name_Latin>
+    <atomicmass>281</atomicmass>
+    <oxid>3</oxid>
+    <name_en_US>Roentgenium</name_en_US>
+    <name_de_DE>Roentgenium</name_de_DE>
+    <name_fr_FR>Roentgenium</name_fr_FR>
+    <elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;9&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+    <period>7</period>
+    <group>I.B</group>
+    <state>s</state>
+    <stbisot>0</stbisot>
+    <unstisot>5</unstisot>
+    <name_sk_SK>Roentgenium</name_sk_SK>
+    <discovery>1994</discovery>
+    <x>10</x>
+    <y>6</y>
+    <name_pl_PL>Roentgenium</name_pl_PL>
+    <name_es_ES>Roentgenium</name_es_ES>
+    <name_nl_NL>Röntgenium</name_nl_NL>
+  </element>
+  <element>
+    <anumber>112</anumber>
+    <name_cs_CZ>Kopernicium</name_cs_CZ>
+    <symbol>Cn</symbol>
+    <name_Latin>Copernicium</name_Latin>
+    <atomicmass>285</atomicmass>
+    <oxid>4</oxid>
+    <name_en_US>Copernicium</name_en_US>
+    <name_de_DE>Copernicium</name_de_DE>
+    <name_fr_FR>Copernicium</name_fr_FR>
+    <elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;10&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
+    <period>7</period>
+    <group>II.B</group>
+    <state>u</state>
+    <stbisot>0</stbisot>
+    <unstisot>5</unstisot>
+    <name_sk_SK>Copernicium</name_sk_SK>
+    <discovery>1996</discovery>
+    <x>11</x>
+    <y>6</y>
+    <name_pl_PL>Copernicium</name_pl_PL>
+    <name_es_ES>Copernicium</name_es_ES>
+    <name_nl_NL>Copernicium</name_nl_NL>
+  </element>
 </elements>

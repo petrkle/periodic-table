@@ -64,4 +64,13 @@
 		<title>Sistema periódico</title>
 	</lang>
 
+	<lang>
+		<fullname>Dutch</fullname>
+		<fullnameloc>Nederlands</fullnameloc>
+		<locales>nl_NL</locales>
+		<android>nl</android>
+		<browser>nl-NL</browser>
+		<title>Sistema periódico</title>
+	</lang>
+
 </lagnuages>

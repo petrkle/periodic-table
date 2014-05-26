@@ -50,6 +50,9 @@ msgstr "Poľština"
 msgid "Spanish"
 msgstr "Španielčina"
 
+msgid "Dutch"
+msgstr "Nizozemština"
+
 msgid "Default language"
 msgstr "Predvolený jazyk"
 

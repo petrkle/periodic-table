@@ -33,6 +33,7 @@
     <y>2</y>
     <name_pl_PL>Argon</name_pl_PL>
     <name_es_ES>Argón</name_es_ES>
+    <name_nl_NL>Argon</name_nl_NL>
   </element>
   <element>
     <anumber>2</anumber>
@@ -64,6 +65,7 @@
     <y>0</y>
     <name_pl_PL>Hel</name_pl_PL>
     <name_es_ES>Helio</name_es_ES>
+    <name_nl_NL>Helium</name_nl_NL>
   </element>
   <element>
     <anumber>36</anumber>
@@ -99,6 +101,7 @@
     <y>3</y>
     <name_pl_PL>Krypton</name_pl_PL>
     <name_es_ES>Kriptón</name_es_ES>
+    <name_nl_NL>Krypton</name_nl_NL>
   </element>
   <element>
     <anumber>10</anumber>
@@ -133,6 +136,7 @@
     <y>1</y>
     <name_pl_PL>Neon</name_pl_PL>
     <name_es_ES>Neón</name_es_ES>
+    <name_nl_NL>Neon</name_nl_NL>
   </element>
   <element>
     <anumber>86</anumber>
@@ -166,6 +170,7 @@
     <y>5</y>
     <name_pl_PL>Radon</name_pl_PL>
     <name_es_ES>Radón</name_es_ES>
+    <name_nl_NL>Radon</name_nl_NL>
   </element>
   <element>
     <anumber>54</anumber>
@@ -201,28 +206,30 @@
     <y>4</y>
     <name_pl_PL>Ksenon</name_pl_PL>
     <name_es_ES>Xenón</name_es_ES>
+    <name_nl_NL>Xenon</name_nl_NL>
   </element>
-	<element>
-		<anumber>118</anumber>
-		<name_cs_CZ>Ununoctium</name_cs_CZ>
-		<symbol>Uuo</symbol>
-		<name_Latin>Ununoctium</name_Latin>
-		<atomicmass>294</atomicmass>
-		<oxid>2,4</oxid>
-		<name_en_US>Ununoctium</name_en_US>
-		<name_de_DE>Ununoctium</name_de_DE>
-		<name_fr_FR>Ununoctium</name_fr_FR>
-		<elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;10&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt; 7p&lt;sup&gt;6&lt;/sup&gt;</elconf>
-		<period>7</period>
-		<group>VIII.A</group>
-		<state>s</state>
-		<stbisot>0</stbisot>
-		<unstisot>1</unstisot>
-		<name_sk_SK>Ununoctium</name_sk_SK>
-		<discovery>2002</discovery>
-		<x>17</x>
-		<y>6</y>
-		<name_pl_PL>Ununoctium</name_pl_PL>
-		<name_es_ES>Ununoctium</name_es_ES>
-	</element>
+  <element>
+    <anumber>118</anumber>
+    <name_cs_CZ>Ununoctium</name_cs_CZ>
+    <symbol>Uuo</symbol>
+    <name_Latin>Ununoctium</name_Latin>
+    <atomicmass>294</atomicmass>
+    <oxid>2,4</oxid>
+    <name_en_US>Ununoctium</name_en_US>
+    <name_de_DE>Ununoctium</name_de_DE>
+    <name_fr_FR>Ununoctium</name_fr_FR>
+    <elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;10&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt; 7p&lt;sup&gt;6&lt;/sup&gt;</elconf>
+    <period>7</period>
+    <group>VIII.A</group>
+    <state>s</state>
+    <stbisot>0</stbisot>
+    <unstisot>1</unstisot>
+    <name_sk_SK>Ununoctium</name_sk_SK>
+    <discovery>2002</discovery>
+    <x>17</x>
+    <y>6</y>
+    <name_pl_PL>Ununoctium</name_pl_PL>
+    <name_es_ES>Ununoctium</name_es_ES>
+    <name_nl_NL>Ununoctium</name_nl_NL>
+  </element>
 </elements>

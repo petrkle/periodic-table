@@ -37,6 +37,7 @@
     <y>5</y>
     <name_pl_PL>Cez</name_pl_PL>
     <name_es_ES>Cesio</name_es_ES>
+    <name_nl_NL>Cesium</name_nl_NL>
   </element>
   <element>
     <anumber>19</anumber>
@@ -76,6 +77,7 @@
     <y>3</y>
     <name_pl_PL>Potas</name_pl_PL>
     <name_es_ES>Potasio</name_es_ES>
+    <name_nl_NL>Kalium</name_nl_NL>
   </element>
   <element>
     <anumber>87</anumber>
@@ -103,6 +105,7 @@
     <y>6</y>
     <name_pl_PL>Frans</name_pl_PL>
     <name_es_ES>Francio</name_es_ES>
+    <name_nl_NL>Francium</name_nl_NL>
   </element>
   <element>
     <anumber>3</anumber>
@@ -140,6 +143,7 @@
     <y>1</y>
     <name_pl_PL>Lit</name_pl_PL>
     <name_es_ES>Litio</name_es_ES>
+    <name_nl_NL>Lithium</name_nl_NL>
   </element>
   <element>
     <anumber>37</anumber>
@@ -180,6 +184,7 @@
     <y>4</y>
     <name_pl_PL>Rubid</name_pl_PL>
     <name_es_ES>Rubidio</name_es_ES>
+    <name_nl_NL>Rubidium</name_nl_NL>
   </element>
   <element>
     <anumber>11</anumber>
@@ -221,5 +226,6 @@
     <y>2</y>
     <name_pl_PL>Sód</name_pl_PL>
     <name_es_ES>Sodio</name_es_ES>
+    <name_nl_NL>Natrium</name_nl_NL>
   </element>
 </elements>

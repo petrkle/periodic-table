@@ -28,6 +28,7 @@
     <y>9</y>
     <name_pl_PL>Ameryk</name_pl_PL>
     <name_es_ES>Americio</name_es_ES>
+    <name_nl_NL>Americium</name_nl_NL>
   </element>
   <element>
     <anumber>97</anumber>
@@ -55,6 +56,7 @@
     <y>9</y>
     <name_pl_PL>Berkel</name_pl_PL>
     <name_es_ES>Berkelio</name_es_ES>
+    <name_nl_NL>Berkelium</name_nl_NL>
   </element>
   <element>
     <anumber>58</anumber>
@@ -94,6 +96,7 @@
     <y>8</y>
     <name_pl_PL>Cer</name_pl_PL>
     <name_es_ES>Cerio</name_es_ES>
+    <name_nl_NL>Cerium</name_nl_NL>
   </element>
   <element>
     <anumber>96</anumber>
@@ -121,6 +124,7 @@
     <y>9</y>
     <name_pl_PL>Kiur</name_pl_PL>
     <name_es_ES>Cloro</name_es_ES>
+    <name_nl_NL>Curium</name_nl_NL>
   </element>
   <element>
     <anumber>66</anumber>
@@ -159,6 +163,7 @@
     <y>8</y>
     <name_pl_PL>Dysproz</name_pl_PL>
     <name_es_ES>Disprosio</name_es_ES>
+    <name_nl_NL>Dysprosium</name_nl_NL>
   </element>
   <element>
     <anumber>99</anumber>
@@ -185,6 +190,7 @@
     <y>9</y>
     <name_pl_PL>Einstein</name_pl_PL>
     <name_es_ES>Einstenio</name_es_ES>
+    <name_nl_NL>Einsteinium</name_nl_NL>
   </element>
   <element>
     <anumber>68</anumber>
@@ -223,6 +229,7 @@
     <y>8</y>
     <name_pl_PL>Erb</name_pl_PL>
     <name_es_ES>Terbio</name_es_ES>
+    <name_nl_NL>Erbium</name_nl_NL>
   </element>
   <element>
     <anumber>63</anumber>
@@ -260,6 +267,7 @@
     <y>8</y>
     <name_pl_PL>Europ</name_pl_PL>
     <name_es_ES>Europio</name_es_ES>
+    <name_nl_NL>Europium</name_nl_NL>
   </element>
   <element>
     <anumber>100</anumber>
@@ -285,6 +293,7 @@
     <y>9</y>
     <name_pl_PL>Ferm</name_pl_PL>
     <name_es_ES>Fermio</name_es_ES>
+    <name_nl_NL>Fermium</name_nl_NL>
   </element>
   <element>
     <anumber>64</anumber>
@@ -324,6 +333,7 @@
     <y>8</y>
     <name_pl_PL>Gadolin</name_pl_PL>
     <name_es_ES>Gadolinio</name_es_ES>
+    <name_nl_NL>Gadolinium</name_nl_NL>
   </element>
   <element>
     <anumber>67</anumber>
@@ -363,6 +373,7 @@
     <y>8</y>
     <name_pl_PL>Holm</name_pl_PL>
     <name_es_ES>Holmio</name_es_ES>
+    <name_nl_NL>Holmium</name_nl_NL>
   </element>
   <element>
     <anumber>98</anumber>
@@ -390,6 +401,7 @@
     <y>9</y>
     <name_pl_PL>Kaliforn</name_pl_PL>
     <name_es_ES>Californio</name_es_ES>
+    <name_nl_NL>Californium</name_nl_NL>
   </element>
   <element>
     <anumber>103</anumber>
@@ -414,6 +426,7 @@
     <y>9</y>
     <name_pl_PL>Lorens</name_pl_PL>
     <name_es_ES>Lawrencio</name_es_ES>
+    <name_nl_NL>Lawrencium</name_nl_NL>
   </element>
   <element>
     <anumber>71</anumber>
@@ -453,6 +466,7 @@
     <y>8</y>
     <name_pl_PL>Lutet</name_pl_PL>
     <name_es_ES>Lutecio</name_es_ES>
+    <name_nl_NL>Lutetium</name_nl_NL>
   </element>
   <element>
     <anumber>101</anumber>
@@ -478,6 +492,7 @@
     <y>9</y>
     <name_pl_PL>Mendelew</name_pl_PL>
     <name_es_ES>Mendelevio</name_es_ES>
+    <name_nl_NL>Mendelevium</name_nl_NL>
   </element>
   <element>
     <anumber>60</anumber>
@@ -516,6 +531,7 @@
     <y>8</y>
     <name_pl_PL>Neodym</name_pl_PL>
     <name_es_ES>Neodimio</name_es_ES>
+    <name_nl_NL>Neodymium</name_nl_NL>
   </element>
   <element>
     <anumber>93</anumber>
@@ -546,6 +562,7 @@
     <y>9</y>
     <name_pl_PL>Neptun</name_pl_PL>
     <name_es_ES>Neptunio</name_es_ES>
+    <name_nl_NL>Neptunium</name_nl_NL>
   </element>
   <element>
     <anumber>102</anumber>
@@ -571,6 +588,7 @@
     <y>9</y>
     <name_pl_PL>Nobel</name_pl_PL>
     <name_es_ES>Nobelio</name_es_ES>
+    <name_nl_NL>Nobelium</name_nl_NL>
   </element>
   <element>
     <anumber>94</anumber>
@@ -604,6 +622,7 @@
     <y>9</y>
     <name_pl_PL>Pluton</name_pl_PL>
     <name_es_ES>Plutonio</name_es_ES>
+    <name_nl_NL>Plutonium</name_nl_NL>
   </element>
   <element>
     <anumber>59</anumber>
@@ -643,6 +662,7 @@
     <y>8</y>
     <name_pl_PL>Prazeodym</name_pl_PL>
     <name_es_ES>Praseodimio</name_es_ES>
+    <name_nl_NL>Praseodymium</name_nl_NL>
   </element>
   <element>
     <anumber>61</anumber>
@@ -678,6 +698,7 @@
     <y>8</y>
     <name_pl_PL>Promet</name_pl_PL>
     <name_es_ES>Prometio</name_es_ES>
+    <name_nl_NL>Promethium</name_nl_NL>
   </element>
   <element>
     <anumber>91</anumber>
@@ -707,6 +728,7 @@
     <y>9</y>
     <name_pl_PL>Protaktyn</name_pl_PL>
     <name_es_ES>Protactinio</name_es_ES>
+    <name_nl_NL>Protactinium</name_nl_NL>
   </element>
   <element>
     <anumber>62</anumber>
@@ -746,6 +768,7 @@
     <y>8</y>
     <name_pl_PL>Samar</name_pl_PL>
     <name_es_ES>Samario</name_es_ES>
+    <name_nl_NL>Samarium</name_nl_NL>
   </element>
   <element>
     <anumber>65</anumber>
@@ -784,6 +807,7 @@
     <y>8</y>
     <name_pl_PL>Terb</name_pl_PL>
     <name_es_ES>Terbio</name_es_ES>
+    <name_nl_NL>Terbium</name_nl_NL>
   </element>
   <element>
     <anumber>90</anumber>
@@ -822,6 +846,7 @@
     <y>9</y>
     <name_pl_PL>Tor</name_pl_PL>
     <name_es_ES>Torio</name_es_ES>
+    <name_nl_NL>Thorium</name_nl_NL>
   </element>
   <element>
     <anumber>69</anumber>
@@ -860,6 +885,7 @@
     <y>8</y>
     <name_pl_PL>Tul</name_pl_PL>
     <name_es_ES>Tulio</name_es_ES>
+    <name_nl_NL>Thulium</name_nl_NL>
   </element>
   <element>
     <anumber>92</anumber>
@@ -896,6 +922,7 @@
     <y>9</y>
     <name_pl_PL>Uran</name_pl_PL>
     <name_es_ES>Uranio</name_es_ES>
+    <name_nl_NL>Uranium</name_nl_NL>
   </element>
   <element>
     <anumber>70</anumber>
@@ -934,5 +961,6 @@
     <y>8</y>
     <name_pl_PL>Iterb</name_pl_PL>
     <name_es_ES>Yterbio</name_es_ES>
+    <name_nl_NL>Ytterbium</name_nl_NL>
   </element>
 </elements>

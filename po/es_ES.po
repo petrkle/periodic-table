@@ -49,6 +49,9 @@ msgstr "Polaco"
 msgid "Spanish"
 msgstr "Español"
 
+msgid "Dutch"
+msgstr "Holandés"
+
 msgid "Default language"
 msgstr "Idioma predeterminado"
 

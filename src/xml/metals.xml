@@ -39,6 +39,7 @@
     <y>1</y>
     <name_pl_PL>Beryl</name_pl_PL>
     <name_es_ES>Berilio</name_es_ES>
+    <name_nl_NL>Beryllium</name_nl_NL>
   </element>
   <element>
     <anumber>83</anumber>
@@ -78,6 +79,7 @@
     <y>5</y>
     <name_pl_PL>Bizmut</name_pl_PL>
     <name_es_ES>Bismuto</name_es_ES>
+    <name_nl_NL>Bismut</name_nl_NL>
   </element>
   <element>
     <anumber>50</anumber>
@@ -117,6 +119,7 @@
     <y>4</y>
     <name_pl_PL>Cyna</name_pl_PL>
     <name_es_ES>Estaño</name_es_ES>
+    <name_nl_NL>Tin</name_nl_NL>
   </element>
   <element>
     <anumber>31</anumber>
@@ -152,6 +155,7 @@
     <y>3</y>
     <name_pl_PL>Gal</name_pl_PL>
     <name_es_ES>Galio</name_es_ES>
+    <name_nl_NL>Gallium</name_nl_NL>
   </element>
   <element>
     <anumber>13</anumber>
@@ -193,6 +197,7 @@
     <y>2</y>
     <name_pl_PL>Glin</name_pl_PL>
     <name_es_ES>Aluminio</name_es_ES>
+    <name_nl_NL>Aluminium</name_nl_NL>
   </element>
   <element>
     <anumber>12</anumber>
@@ -232,6 +237,7 @@
     <y>2</y>
     <name_pl_PL>Magnez</name_pl_PL>
     <name_es_ES>Magnesio</name_es_ES>
+    <name_nl_NL>Magnesium</name_nl_NL>
   </element>
   <element>
     <anumber>49</anumber>
@@ -269,6 +275,7 @@
     <y>4</y>
     <name_pl_PL>Ind</name_pl_PL>
     <name_es_ES>Indio</name_es_ES>
+    <name_nl_NL>Indium</name_nl_NL>
   </element>
   <element>
     <anumber>82</anumber>
@@ -309,6 +316,7 @@
     <y>5</y>
     <name_pl_PL>Ołów</name_pl_PL>
     <name_es_ES>Chumbo</name_es_ES>
+    <name_nl_NL>Lood</name_nl_NL>
   </element>
   <element>
     <anumber>84</anumber>
@@ -339,6 +347,7 @@
     <y>5</y>
     <name_pl_PL>Polon</name_pl_PL>
     <name_es_ES>Polonio</name_es_ES>
+    <name_nl_NL>Polonium</name_nl_NL>
   </element>
   <element>
     <anumber>81</anumber>
@@ -375,97 +384,102 @@
     <y>5</y>
     <name_pl_PL>Tal</name_pl_PL>
     <name_es_ES>Talio</name_es_ES>
+    <name_nl_NL>Thallium</name_nl_NL>
   </element>
-	<element>
-		<anumber>113</anumber>
-		<name_cs_CZ>Ununtrium</name_cs_CZ>
-		<symbol>Uut</symbol>
-		<name_Latin>Ununtrium</name_Latin>
-		<atomicmass>286</atomicmass>
-		<oxid>1</oxid>
-		<name_en_US>Ununtrium</name_en_US>
-		<name_de_DE>Ununtrium</name_de_DE>
-		<name_fr_FR>Ununtrium</name_fr_FR>
-		<elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;10&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt; 7p&lt;sup&gt;1&lt;/sup&gt;</elconf>
-		<period>7</period>
-		<group>III.A</group>
-		<state>s</state>
-		<stbisot>0</stbisot>
-		<unstisot>4</unstisot>
-		<name_sk_SK>Ununtrium</name_sk_SK>
-		<discovery>2003</discovery>
-		<x>12</x>
-		<y>6</y>
-		<name_pl_PL>Ununtrium</name_pl_PL>
-		<name_es_ES>Ununtrium</name_es_ES>
-	</element>
-	<element>
-		<anumber>114</anumber>
-		<name_cs_CZ>Flerovium</name_cs_CZ>
-		<symbol>Fl</symbol>
-		<name_Latin>Flerovium</name_Latin>
-		<atomicmass>289</atomicmass>
-		<oxid>2</oxid>
-		<name_en_US>Flerovium</name_en_US>
-		<name_de_DE>Flerovium</name_de_DE>
-		<name_fr_FR>Flerovium</name_fr_FR>
-		<elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;10&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt; 7p&lt;sup&gt;2&lt;/sup&gt;</elconf>
-		<period>7</period>
-		<group>IV.A</group>
-		<state>s</state>
-		<stbisot>0</stbisot>
-		<unstisot>5</unstisot>
-		<name_sk_SK>Flerovium</name_sk_SK>
-		<discovery>1999</discovery>
-		<x>13</x>
-		<y>6</y>
-		<name_pl_PL>Flerovium</name_pl_PL>
-		<name_es_ES>Flerovium</name_es_ES>
-	</element>
-	<element>
-		<anumber>115</anumber>
-		<name_cs_CZ>Ununpentium</name_cs_CZ>
-		<symbol>Uup</symbol>
-		<name_Latin>Ununpentium</name_Latin>
-		<atomicmass>289</atomicmass>
-		<oxid>1</oxid>
-		<name_en_US>Ununpentium</name_en_US>
-		<name_de_DE>Ununpentium</name_de_DE>
-		<name_fr_FR>Ununpentium</name_fr_FR>
-		<elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;10&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt; 7p&lt;sup&gt;3&lt;/sup&gt;</elconf>
-		<period>7</period>
-		<group>V.A</group>
-		<state>s</state>
-		<stbisot>0</stbisot>
-		<unstisot>2</unstisot>
-		<name_sk_SK>Ununpentium</name_sk_SK>
-		<discovery>2003</discovery>
-		<x>14</x>
-		<y>6</y>
-		<name_pl_PL>Ununpentium</name_pl_PL>
-		<name_es_ES>Ununpentium</name_es_ES>
-	</element>
-	<element>
-		<anumber>116</anumber>
-		<name_cs_CZ>Livermorium</name_cs_CZ>
-		<symbol>Lv</symbol>
-		<name_Latin>Livermorium</name_Latin>
-		<atomicmass>293</atomicmass>
-		<oxid>-2,2</oxid>
-		<name_en_US>Livermorium</name_en_US>
-		<name_de_DE>Livermorium</name_de_DE>
-		<name_fr_FR>Livermorium</name_fr_FR>
-		<elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;10&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt; 7p&lt;sup&gt;4&lt;/sup&gt;</elconf>
-		<period>7</period>
-		<group>VI.A</group>
-		<state>s</state>
-		<stbisot>0</stbisot>
-		<unstisot>4</unstisot>
-		<name_sk_SK>Livermorium</name_sk_SK>
-		<discovery>2000</discovery>
-		<x>15</x>
-		<y>6</y>
-		<name_pl_PL>Livermorium</name_pl_PL>
-		<name_es_ES>Livermorium</name_es_ES>
-	</element>
+  <element>
+    <anumber>113</anumber>
+    <name_cs_CZ>Ununtrium</name_cs_CZ>
+    <symbol>Uut</symbol>
+    <name_Latin>Ununtrium</name_Latin>
+    <atomicmass>286</atomicmass>
+    <oxid>1</oxid>
+    <name_en_US>Ununtrium</name_en_US>
+    <name_de_DE>Ununtrium</name_de_DE>
+    <name_fr_FR>Ununtrium</name_fr_FR>
+    <elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;10&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt; 7p&lt;sup&gt;1&lt;/sup&gt;</elconf>
+    <period>7</period>
+    <group>III.A</group>
+    <state>s</state>
+    <stbisot>0</stbisot>
+    <unstisot>4</unstisot>
+    <name_sk_SK>Ununtrium</name_sk_SK>
+    <discovery>2003</discovery>
+    <x>12</x>
+    <y>6</y>
+    <name_pl_PL>Ununtrium</name_pl_PL>
+    <name_es_ES>Ununtrium</name_es_ES>
+    <name_nl_NL>Ununtrium</name_nl_NL>
+  </element>
+  <element>
+    <anumber>114</anumber>
+    <name_cs_CZ>Flerovium</name_cs_CZ>
+    <symbol>Fl</symbol>
+    <name_Latin>Flerovium</name_Latin>
+    <atomicmass>289</atomicmass>
+    <oxid>2</oxid>
+    <name_en_US>Flerovium</name_en_US>
+    <name_de_DE>Flerovium</name_de_DE>
+    <name_fr_FR>Flerovium</name_fr_FR>
+    <elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;10&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt; 7p&lt;sup&gt;2&lt;/sup&gt;</elconf>
+    <period>7</period>
+    <group>IV.A</group>
+    <state>s</state>
+    <stbisot>0</stbisot>
+    <unstisot>5</unstisot>
+    <name_sk_SK>Flerovium</name_sk_SK>
+    <discovery>1999</discovery>
+    <x>13</x>
+    <y>6</y>
+    <name_pl_PL>Flerovium</name_pl_PL>
+    <name_es_ES>Flerovium</name_es_ES>
+    <name_nl_NL>Flerovium</name_nl_NL>
+  </element>
+  <element>
+    <anumber>115</anumber>
+    <name_cs_CZ>Ununpentium</name_cs_CZ>
+    <symbol>Uup</symbol>
+    <name_Latin>Ununpentium</name_Latin>
+    <atomicmass>289</atomicmass>
+    <oxid>1</oxid>
+    <name_en_US>Ununpentium</name_en_US>
+    <name_de_DE>Ununpentium</name_de_DE>
+    <name_fr_FR>Ununpentium</name_fr_FR>
+    <elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;10&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt; 7p&lt;sup&gt;3&lt;/sup&gt;</elconf>
+    <period>7</period>
+    <group>V.A</group>
+    <state>s</state>
+    <stbisot>0</stbisot>
+    <unstisot>2</unstisot>
+    <name_sk_SK>Ununpentium</name_sk_SK>
+    <discovery>2003</discovery>
+    <x>14</x>
+    <y>6</y>
+    <name_pl_PL>Ununpentium</name_pl_PL>
+    <name_es_ES>Ununpentium</name_es_ES>
+    <name_nl_NL>Ununpentium</name_nl_NL>
+  </element>
+  <element>
+    <anumber>116</anumber>
+    <name_cs_CZ>Livermorium</name_cs_CZ>
+    <symbol>Lv</symbol>
+    <name_Latin>Livermorium</name_Latin>
+    <atomicmass>293</atomicmass>
+    <oxid>-2,2</oxid>
+    <name_en_US>Livermorium</name_en_US>
+    <name_de_DE>Livermorium</name_de_DE>
+    <name_fr_FR>Livermorium</name_fr_FR>
+    <elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;10&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt; 7p&lt;sup&gt;4&lt;/sup&gt;</elconf>
+    <period>7</period>
+    <group>VI.A</group>
+    <state>s</state>
+    <stbisot>0</stbisot>
+    <unstisot>4</unstisot>
+    <name_sk_SK>Livermorium</name_sk_SK>
+    <discovery>2000</discovery>
+    <x>15</x>
+    <y>6</y>
+    <name_pl_PL>Livermorium</name_pl_PL>
+    <name_es_ES>Livermorium</name_es_ES>
+    <name_nl_NL>Livermorium</name_nl_NL>
+  </element>
 </elements>
