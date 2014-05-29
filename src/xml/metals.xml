@@ -141,6 +141,8 @@
     <name_fr_FR>Gallium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;1&lt;/sup&gt;</elconf>
     <heatcap>0,371</heatcap>
+    <atomicradius>135</atomicradius>
+    <covalentradius>122</covalentradius>
     <thcond>40,6</thcond>
     <ionizationenergy1>5,9993</ionizationenergy1>
     <ionizationenergy2>20,51</ionizationenergy2>
