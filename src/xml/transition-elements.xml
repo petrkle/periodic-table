@@ -5,10 +5,10 @@
     <name_cs_CZ>Aktinium</name_cs_CZ>
     <symbol>Ac</symbol>
     <name_Latin>Actinium</name_Latin>
-    <atomicmass>227,0278</atomicmass>
+    <atomicmass>227.0278</atomicmass>
     <oxid>3</oxid>
-    <electronegativity>1,1</electronegativity>
-    <density>10,07</density>
+    <electronegativity>1.1</electronegativity>
+    <density>10.07</density>
     <stbisot>0</stbisot>
     <unstisot>11</unstisot>
     <mpoint>1050</mpoint>
@@ -18,11 +18,11 @@
     <name_de_DE>Actinium</name_de_DE>
     <name_fr_FR>Actinium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;6&lt;/sup&gt; 6d&lt;sup&gt;1&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,12</heatcap>
+    <heatcap>0.12</heatcap>
     <thcond>12</thcond>
     <atomicradius>195</atomicradius>
-    <ionizationenergy1>5,17</ionizationenergy1>
-    <ionizationenergy2>10,148</ionizationenergy2>
+    <ionizationenergy1>5.17</ionizationenergy1>
+    <ionizationenergy2>10.148</ionizationenergy2>
     <period>7</period>
     <group>III.B</group>
     <state>s</state>
@@ -38,30 +38,30 @@
     <name_cs_CZ>Chrom</name_cs_CZ>
     <symbol>Cr</symbol>
     <name_Latin>Chromium</name_Latin>
-    <atomicmass>51,9961</atomicmass>
-    <oxid>2,3,4,5,6</oxid>
-    <electronegativity>1,6</electronegativity>
-    <density>7,19</density>
+    <atomicmass>51.9961</atomicmass>
+    <oxid>2, 3, 4, 5, 6</oxid>
+    <electronegativity>1.6</electronegativity>
+    <density>7.19</density>
     <stbisot>4</stbisot>
     <unstisot>5</unstisot>
     <mpoint>1857</mpoint>
     <bpoint>2672</bpoint>
     <discovery>1797</discovery>
-    <hardness>9,0</hardness>
+    <hardness>9.0</hardness>
     <name_en_US>Chromium</name_en_US>
     <name_de_DE>Chrom</name_de_DE>
     <name_fr_FR>Chrome</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;5&lt;/sup&gt; 4s&lt;sup&gt;1&lt;/sup&gt;</elconf>
-    <heatcap>0,449</heatcap>
-    <thcond>93,7</thcond>
+    <heatcap>0.449</heatcap>
+    <thcond>93.7</thcond>
     <atomicradius>166</atomicradius>
     <covalentradius>127</covalentradius>
     <young>279</young>
     <shear>115</shear>
-    <ionizationenergy1>6,7666</ionizationenergy1>
-    <ionizationenergy2>16,5</ionizationenergy2>
-    <ionizationenergy3>30,96</ionizationenergy3>
-    <elcond>7,9.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
+    <ionizationenergy1>6.7666</ionizationenergy1>
+    <ionizationenergy2>16.5</ionizationenergy2>
+    <ionizationenergy3>30.96</ionizationenergy3>
+    <elcond>7.9 &amp;middot; 10&lt;sup&gt;6&lt;/sup&gt;</elcond>
     <vickers>1060</vickers>
     <brinell>1120</brinell>
     <period>4</period>
@@ -79,30 +79,30 @@
     <name_cs_CZ>Hafnium</name_cs_CZ>
     <symbol>Hf</symbol>
     <name_Latin>Hafnium</name_Latin>
-    <atomicmass>178,49</atomicmass>
+    <atomicmass>178.49</atomicmass>
     <oxid>4</oxid>
-    <electronegativity>1,3</electronegativity>
-    <density>13,3</density>
+    <electronegativity>1.3</electronegativity>
+    <density>13.3</density>
     <stbisot>6</stbisot>
     <unstisot>15</unstisot>
     <mpoint>2227</mpoint>
     <bpoint>4600</bpoint>
     <discovery>1864</discovery>
-    <hardness>5,5</hardness>
+    <hardness>5.5</hardness>
     <name_en_US>Hafnium</name_en_US>
     <name_de_DE>Hafnium</name_de_DE>
     <name_fr_FR>Hafnium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;2&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,14</heatcap>
+    <heatcap>0.14</heatcap>
     <thcond>23</thcond>
     <atomicradius>208</atomicradius>
     <covalentradius>150</covalentradius>
     <young>78</young>
     <shear>30</shear>
-    <ionizationenergy1>6,8251</ionizationenergy1>
-    <ionizationenergy2>14,925</ionizationenergy2>
-    <ionizationenergy3>23,32</ionizationenergy3>
-    <elcond>3,3.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
+    <ionizationenergy1>6.8251</ionizationenergy1>
+    <ionizationenergy2>14.925</ionizationenergy2>
+    <ionizationenergy3>23.32</ionizationenergy3>
+    <elcond>3.3 &amp;middot; 10&lt;sup&gt;6&lt;/sup&gt;</elcond>
     <vickers>1760</vickers>
     <brinell>1700</brinell>
     <period>6</period>
@@ -120,28 +120,28 @@
     <name_cs_CZ>Iridium</name_cs_CZ>
     <symbol>Ir</symbol>
     <name_Latin>Iridium</name_Latin>
-    <atomicmass>192,22</atomicmass>
-    <oxid>2,3,4,6</oxid>
-    <electronegativity>2,2</electronegativity>
-    <density>22,5</density>
+    <atomicmass>192.22</atomicmass>
+    <oxid>2, 3, 4, 6</oxid>
+    <electronegativity>2.2</electronegativity>
+    <density>22.5</density>
     <stbisot>2</stbisot>
     <unstisot>23</unstisot>
     <mpoint>2447</mpoint>
     <bpoint>4500</bpoint>
     <discovery>1803</discovery>
-    <hardness>6,5</hardness>
+    <hardness>6.5</hardness>
     <name_en_US>Iridium</name_en_US>
     <name_de_DE>Iridium</name_de_DE>
     <name_fr_FR>Iridium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;7&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,13</heatcap>
+    <heatcap>0.13</heatcap>
     <thcond>147</thcond>
     <atomicradius>180</atomicradius>
     <covalentradius>137</covalentradius>
     <young>528</young>
     <shear>210</shear>
-    <ionizationenergy1>9,1</ionizationenergy1>
-    <elcond>2,1.10&lt;sup&gt;7&lt;/sup&gt;</elcond>
+    <ionizationenergy1>9.1</ionizationenergy1>
+    <elcond>2.1 &amp;middot; 10&lt;sup&gt;7&lt;/sup&gt;</elcond>
     <vickers>1760</vickers>
     <brinell>1670</brinell>
     <period>6</period>
@@ -159,30 +159,30 @@
     <name_cs_CZ>Kadmium</name_cs_CZ>
     <symbol>Cd</symbol>
     <name_Latin>Cadmium</name_Latin>
-    <atomicmass>112,411</atomicmass>
+    <atomicmass>112.411</atomicmass>
     <oxid>2</oxid>
-    <electronegativity>1,7</electronegativity>
-    <density>8,65</density>
+    <electronegativity>1.7</electronegativity>
+    <density>8.65</density>
     <stbisot>5</stbisot>
     <unstisot>14</unstisot>
-    <mpoint>321,108</mpoint>
+    <mpoint>321.108</mpoint>
     <bpoint>765</bpoint>
     <discovery>1817</discovery>
-    <hardness>2,0</hardness>
+    <hardness>2.0</hardness>
     <name_en_US>Cadmium</name_en_US>
     <name_de_DE>Cadmium</name_de_DE>
     <name_fr_FR>Cadmium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,233</heatcap>
-    <thcond>96,8</thcond>
+    <heatcap>0.233</heatcap>
+    <thcond>96.8</thcond>
     <atomicradius>161</atomicradius>
     <covalentradius>148</covalentradius>
     <young>50</young>
     <shear>19</shear>
-    <ionizationenergy1>8,9937</ionizationenergy1>
-    <ionizationenergy2>16,908</ionizationenergy2>
-    <ionizationenergy3>37,48</ionizationenergy3>
-    <elcond>4,4.10&lt;sup&gt;7&lt;/sup&gt;</elcond>
+    <ionizationenergy1>8.9937</ionizationenergy1>
+    <ionizationenergy2>16.908</ionizationenergy2>
+    <ionizationenergy3>37.48</ionizationenergy3>
+    <elcond>4.4 &amp;middot; 10&lt;sup&gt;7&lt;/sup&gt;</elcond>
     <brinell>203</brinell>
     <period>5</period>
     <group>II.B</group>
@@ -199,30 +199,30 @@
     <name_cs_CZ>Kobalt</name_cs_CZ>
     <symbol>Co</symbol>
     <name_Latin>Cobaltum</name_Latin>
-    <atomicmass>58,93320</atomicmass>
-    <oxid>2,3</oxid>
-    <electronegativity>1,8</electronegativity>
-    <density>8,9</density>
+    <atomicmass>58.93320</atomicmass>
+    <oxid>2, 3</oxid>
+    <electronegativity>1.8</electronegativity>
+    <density>8.9</density>
     <stbisot>1</stbisot>
     <unstisot>13</unstisot>
     <mpoint>1494</mpoint>
     <bpoint>2900</bpoint>
     <discovery>1735</discovery>
-    <hardness>5,5</hardness>
+    <hardness>5.5</hardness>
     <name_en_US>Cobalt</name_en_US>
     <name_de_DE>Cobalt</name_de_DE>
     <name_fr_FR>Cobalt</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;7&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,421</heatcap>
+    <heatcap>0.421</heatcap>
     <thcond>100</thcond>
     <atomicradius>152</atomicradius>
     <covalentradius>126</covalentradius>
     <young>209</young>
     <shear>75</shear>
-    <ionizationenergy1>7,881</ionizationenergy1>
-    <ionizationenergy2>17,06</ionizationenergy2>
-    <ionizationenergy3>33,5</ionizationenergy3>
-    <elcond>1,7.10&lt;sup&gt;7&lt;/sup&gt;</elcond>
+    <ionizationenergy1>7.881</ionizationenergy1>
+    <ionizationenergy2>17.06</ionizationenergy2>
+    <ionizationenergy3>33.5</ionizationenergy3>
+    <elcond>1.7 &amp;middot; 10&lt;sup&gt;7&lt;/sup&gt;</elcond>
     <vickers>1043</vickers>
     <brinell>700</brinell>
     <period>4</period>
@@ -240,7 +240,7 @@
     <name_cs_CZ>Rutherfordium</name_cs_CZ>
     <symbol>Rf</symbol>
     <name_Latin>Rutherfordium</name_Latin>
-    <atomicmass>261,1087</atomicmass>
+    <atomicmass>261.1087</atomicmass>
     <oxid>4</oxid>
     <stbisot>0</stbisot>
     <unstisot>6</unstisot>
@@ -264,29 +264,29 @@
     <name_cs_CZ>Lanthan</name_cs_CZ>
     <symbol>La</symbol>
     <name_Latin>Lanthanium</name_Latin>
-    <atomicmass>138,9055</atomicmass>
+    <atomicmass>138.9055</atomicmass>
     <oxid>3</oxid>
-    <electronegativity>1,1</electronegativity>
-    <density>6,166</density>
+    <electronegativity>1.1</electronegativity>
+    <density>6.166</density>
     <stbisot>2</stbisot>
     <unstisot>16</unstisot>
     <mpoint>921</mpoint>
     <bpoint>3457</bpoint>
     <discovery>1839</discovery>
-    <hardness>2,5</hardness>
+    <hardness>2.5</hardness>
     <name_en_US>Lanthanum</name_en_US>
     <name_de_DE>Lanthan</name_de_DE>
     <name_fr_FR>Lanthane</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 5d&lt;sup&gt;1&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,19</heatcap>
-    <thcond>13,5</thcond>
+    <heatcap>0.19</heatcap>
+    <thcond>13.5</thcond>
     <covalentradius>169</covalentradius>
     <young>37</young>
     <shear>14</shear>
-    <ionizationenergy1>5,577</ionizationenergy1>
-    <ionizationenergy2>11,059</ionizationenergy2>
-    <ionizationenergy3>19,174</ionizationenergy3>
-    <elcond>1,9.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
+    <ionizationenergy1>5.577</ionizationenergy1>
+    <ionizationenergy2>11.059</ionizationenergy2>
+    <ionizationenergy3>19.174</ionizationenergy3>
+    <elcond>1.9 &amp;middot; 10&lt;sup&gt;6&lt;/sup&gt;</elcond>
     <vickers>491</vickers>
     <brinell>363</brinell>
     <period>6</period>
@@ -304,29 +304,29 @@
     <name_cs_CZ>Mangan</name_cs_CZ>
     <symbol>Mn</symbol>
     <name_Latin>Manganum</name_Latin>
-    <atomicmass>54,93805</atomicmass>
-    <oxid>2,3,4,6,7</oxid>
-    <electronegativity>1,5</electronegativity>
-    <density>7,44</density>
+    <atomicmass>54.93805</atomicmass>
+    <oxid>2, 3, 4, 6, 7</oxid>
+    <electronegativity>1.5</electronegativity>
+    <density>7.44</density>
     <stbisot>1</stbisot>
     <unstisot>10</unstisot>
     <mpoint>1244</mpoint>
     <bpoint>2100</bpoint>
     <discovery>1774</discovery>
-    <hardness>5,0</hardness>
+    <hardness>5.0</hardness>
     <name_en_US>Manganese</name_en_US>
     <name_de_DE>Mangan</name_de_DE>
     <name_fr_FR>Manganése</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;5&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,48</heatcap>
-    <thcond>7,82</thcond>
+    <heatcap>0.48</heatcap>
+    <thcond>7.82</thcond>
     <atomicradius>161</atomicradius>
     <covalentradius>139</covalentradius>
     <young>198</young>
-    <ionizationenergy1>7,434</ionizationenergy1>
-    <ionizationenergy2>15,64</ionizationenergy2>
-    <ionizationenergy3>33,667</ionizationenergy3>
-    <elcond>6,2.10&lt;sup&gt;5&lt;/sup&gt;</elcond>
+    <ionizationenergy1>7.434</ionizationenergy1>
+    <ionizationenergy2>15.64</ionizationenergy2>
+    <ionizationenergy3>33.667</ionizationenergy3>
+    <elcond>6.2 &amp;middot; 10&lt;sup&gt;5&lt;/sup&gt;</elcond>
     <brinell>196</brinell>
     <period>4</period>
     <group>VII.B</group>
@@ -343,30 +343,30 @@
     <name_cs_CZ>Molybden</name_cs_CZ>
     <symbol>Mo</symbol>
     <name_Latin>Molybdaneum</name_Latin>
-    <atomicmass>95,94</atomicmass>
-    <oxid>2,3,4,5,6</oxid>
-    <electronegativity>1,8</electronegativity>
-    <density>10,22</density>
+    <atomicmass>95.94</atomicmass>
+    <oxid>2, 3, 4, 5, 6</oxid>
+    <electronegativity>1.8</electronegativity>
+    <density>10.22</density>
     <stbisot>7</stbisot>
     <unstisot>13</unstisot>
     <mpoint>2617</mpoint>
     <bpoint>4650</bpoint>
     <discovery>1785</discovery>
-    <hardness>5,5</hardness>
+    <hardness>5.5</hardness>
     <name_en_US>Molybdenum</name_en_US>
     <name_de_DE>Molybdän</name_de_DE>
     <name_fr_FR>Molybdéne</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;5&lt;/sup&gt; 5s&lt;sup&gt;1&lt;/sup&gt;</elconf>
-    <heatcap>0,25</heatcap>
+    <heatcap>0.25</heatcap>
     <thcond>138</thcond>
     <atomicradius>190</atomicradius>
     <covalentradius>145</covalentradius>
     <young>329</young>
     <shear>20</shear>
-    <ionizationenergy1>7,0924</ionizationenergy1>
-    <ionizationenergy2>16,461</ionizationenergy2>
-    <ionizationenergy3>27,16</ionizationenergy3>
-    <elcond>1,73.10&lt;sup&gt;7&lt;/sup&gt;</elcond>
+    <ionizationenergy1>7.0924</ionizationenergy1>
+    <ionizationenergy2>16.461</ionizationenergy2>
+    <ionizationenergy3>27.16</ionizationenergy3>
+    <elcond>1.73 &amp;middot; 10&lt;sup&gt;7&lt;/sup&gt;</elcond>
     <vickers>1530</vickers>
     <brinell>1500</brinell>
     <period>5</period>
@@ -384,31 +384,31 @@
     <name_cs_CZ>Měď</name_cs_CZ>
     <symbol>Cu</symbol>
     <name_Latin>Cuprum</name_Latin>
-    <atomicmass>63,546</atomicmass>
-    <oxid>1,2,3</oxid>
-    <electronegativity>1,9</electronegativity>
-    <density>8,96</density>
+    <atomicmass>63.546</atomicmass>
+    <oxid>1, 2, 3</oxid>
+    <electronegativity>1.9</electronegativity>
+    <density>8.96</density>
     <stbisot>2</stbisot>
     <unstisot>9</unstisot>
-    <mpoint>1084,5</mpoint>
+    <mpoint>1084.5</mpoint>
     <bpoint>2567</bpoint>
     <discovery>Antiquity</discovery>
-    <hardness>3,0</hardness>
+    <hardness>3.0</hardness>
     <name_en_US>Copper</name_en_US>
     <name_de_DE>Kupfer</name_de_DE>
     <name_fr_FR>Cuivre</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;1&lt;/sup&gt;</elconf>
-    <heatcap>0,385</heatcap>
+    <heatcap>0.385</heatcap>
     <thcond>401</thcond>
     <atomicradius>145</atomicradius>
     <covalentradius>138</covalentradius>
     <young>130</young>
     <shear>48</shear>
-    <ionizationenergy1>7,7264</ionizationenergy1>
-    <ionizationenergy2>20,292</ionizationenergy2>
-    <ionizationenergy3>36,83</ionizationenergy3>
-    <elcond>6,07.10&lt;sup&gt;7&lt;/sup&gt;</elcond>
-    <elresist>0,0169</elresist>
+    <ionizationenergy1>7.7264</ionizationenergy1>
+    <ionizationenergy2>20.292</ionizationenergy2>
+    <ionizationenergy3>36.83</ionizationenergy3>
+    <elcond>6.07 &amp;middot; 10&lt;sup&gt;7&lt;/sup&gt;</elcond>
+    <elresist>0.0169</elresist>
     <vickers>369</vickers>
     <brinell>874</brinell>
     <period>4</period>
@@ -426,28 +426,28 @@
     <name_cs_CZ>Nikl</name_cs_CZ>
     <symbol>Ni</symbol>
     <name_Latin>Niccolum</name_Latin>
-    <atomicmass>58,69</atomicmass>
-    <oxid>2,3</oxid>
-    <electronegativity>1,8</electronegativity>
-    <density>8,908</density>
+    <atomicmass>58.69</atomicmass>
+    <oxid>2, 3</oxid>
+    <electronegativity>1.8</electronegativity>
+    <density>8.908</density>
     <stbisot>5</stbisot>
     <unstisot>7</unstisot>
     <mpoint>1455</mpoint>
     <bpoint>2732</bpoint>
     <discovery>1751</discovery>
-    <hardness>4,0</hardness>
+    <hardness>4.0</hardness>
     <name_en_US>Nickel</name_en_US>
     <name_de_DE>Nickel</name_de_DE>
     <name_fr_FR>Nickel</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;8&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,444</heatcap>
-    <thcond>90,7</thcond>
+    <heatcap>0.444</heatcap>
+    <thcond>90.7</thcond>
     <young>200</young>
     <shear>76</shear>
-    <ionizationenergy1>7,6398</ionizationenergy1>
-    <ionizationenergy2>18,168</ionizationenergy2>
-    <ionizationenergy3>35,17</ionizationenergy3>
-    <elcond>1,4.10&lt;sup&gt;7&lt;/sup&gt;</elcond>
+    <ionizationenergy1>7.6398</ionizationenergy1>
+    <ionizationenergy2>18.168</ionizationenergy2>
+    <ionizationenergy3>35.17</ionizationenergy3>
+    <elcond>1.4 &amp;middot; 10&lt;sup&gt;7&lt;/sup&gt;</elcond>
     <vickers>638</vickers>
     <brinell>700</brinell>
     <period>4</period>
@@ -465,30 +465,30 @@
     <name_cs_CZ>Niob</name_cs_CZ>
     <symbol>Nb</symbol>
     <name_Latin>Niobium</name_Latin>
-    <atomicmass>92,90638</atomicmass>
-    <oxid>3,5</oxid>
-    <electronegativity>1,6</electronegativity>
-    <density>8,57</density>
+    <atomicmass>92.90638</atomicmass>
+    <oxid>3, 5</oxid>
+    <electronegativity>1.6</electronegativity>
+    <density>8.57</density>
     <stbisot>1</stbisot>
     <unstisot>21</unstisot>
     <mpoint>2468</mpoint>
     <bpoint>4742</bpoint>
     <discovery>1801</discovery>
-    <hardness>6,0</hardness>
+    <hardness>6.0</hardness>
     <name_en_US>Niobium</name_en_US>
     <name_de_DE>Niob</name_de_DE>
     <name_fr_FR>Niobium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;4&lt;/sup&gt; 5s&lt;sup&gt;1&lt;/sup&gt;</elconf>
-    <heatcap>0,265</heatcap>
-    <thcond>53,7</thcond>
+    <heatcap>0.265</heatcap>
+    <thcond>53.7</thcond>
     <atomicradius>198</atomicradius>
     <covalentradius>137</covalentradius>
     <young>105</young>
     <shear>38</shear>
-    <ionizationenergy1>6,7589</ionizationenergy1>
-    <ionizationenergy2>14,32</ionizationenergy2>
-    <ionizationenergy3>25,04</ionizationenergy3>
-    <elcond>6,7.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
+    <ionizationenergy1>6.7589</ionizationenergy1>
+    <ionizationenergy2>14.32</ionizationenergy2>
+    <ionizationenergy3>25.04</ionizationenergy3>
+    <elcond>6.7 &amp;middot; 10&lt;sup&gt;6&lt;/sup&gt;</elcond>
     <vickers>1320</vickers>
     <brinell>736</brinell>
     <period>5</period>
@@ -506,27 +506,27 @@
     <name_cs_CZ>Osmium</name_cs_CZ>
     <symbol>Os</symbol>
     <name_Latin>Osmium</name_Latin>
-    <atomicmass>190,2</atomicmass>
-    <oxid>2,3,4,6,8</oxid>
-    <electronegativity>2,2</electronegativity>
-    <density>22,6</density>
+    <atomicmass>190.2</atomicmass>
+    <oxid>2, 3, 4, 6, 8</oxid>
+    <electronegativity>2.2</electronegativity>
+    <density>22.6</density>
     <stbisot>7</stbisot>
     <unstisot>12</unstisot>
     <mpoint>3045</mpoint>
     <bpoint>5000</bpoint>
     <discovery>1803</discovery>
-    <hardness>8,0</hardness>
+    <hardness>8.0</hardness>
     <name_en_US>Osmium</name_en_US>
     <name_de_DE>Osmium</name_de_DE>
     <name_fr_FR>Osmium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;6&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,13</heatcap>
-    <thcond>87,6</thcond>
+    <heatcap>0.13</heatcap>
+    <thcond>87.6</thcond>
     <atomicradius>185</atomicradius>
     <covalentradius>128</covalentradius>
     <shear>222</shear>
-    <ionizationenergy1>8,7</ionizationenergy1>
-    <elcond>1,23.10&lt;sup&gt;7&lt;/sup&gt;</elcond>
+    <ionizationenergy1>8.7</ionizationenergy1>
+    <elcond>1.23 &amp;middot; 10&lt;sup&gt;7&lt;/sup&gt;</elcond>
     <brinell>3920</brinell>
     <period>6</period>
     <group>VIII.B</group>
@@ -543,32 +543,32 @@
     <name_cs_CZ>Palladium</name_cs_CZ>
     <symbol>Pd</symbol>
     <name_Latin>Palladium</name_Latin>
-    <atomicmass>106,42</atomicmass>
-    <oxid>2,4</oxid>
-    <electronegativity>2,2</electronegativity>
-    <density>12,02</density>
+    <atomicmass>106.42</atomicmass>
+    <oxid>2, 4</oxid>
+    <electronegativity>2.2</electronegativity>
+    <density>12.02</density>
     <stbisot>6</stbisot>
     <unstisot>15</unstisot>
     <mpoint>1554</mpoint>
     <bpoint>3980</bpoint>
     <discovery>1803</discovery>
-    <hardness>4,8</hardness>
+    <hardness>4.8</hardness>
     <name_en_US>Palladium</name_en_US>
     <name_de_DE>Palladium</name_de_DE>
     <name_fr_FR>Palladium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;0&lt;/sup&gt;</elconf>
-    <heatcap>0,244</heatcap>
-    <thcond>71,8</thcond>
+    <heatcap>0.244</heatcap>
+    <thcond>71.8</thcond>
     <atomicradius>169</atomicradius>
     <covalentradius>131</covalentradius>
     <young>121</young>
     <shear>44</shear>
-    <ionizationenergy1>8,3369</ionizationenergy1>
-    <ionizationenergy2>19,63</ionizationenergy2>
-    <ionizationenergy3>32,93</ionizationenergy3>
+    <ionizationenergy1>8.3369</ionizationenergy1>
+    <ionizationenergy2>19.63</ionizationenergy2>
+    <ionizationenergy3>32.93</ionizationenergy3>
     <elcond>10&lt;sup&gt;7&lt;/sup&gt;</elcond>
     <vickers>461</vickers>
-    <brinell>37,3</brinell>
+    <brinell>37.3</brinell>
     <period>5</period>
     <group>VIII.B</group>
     <state>s</state>
@@ -584,30 +584,30 @@
     <name_cs_CZ>Platina</name_cs_CZ>
     <symbol>Pt</symbol>
     <name_Latin>Platinium</name_Latin>
-    <atomicmass>195,08</atomicmass>
-    <oxid>2,4,6</oxid>
-    <electronegativity>2,2</electronegativity>
-    <density>21,45</density>
+    <atomicmass>195.08</atomicmass>
+    <oxid>2, 4, 6</oxid>
+    <electronegativity>2.2</electronegativity>
+    <density>21.45</density>
     <stbisot>6</stbisot>
     <unstisot>28</unstisot>
     <mpoint>1772</mpoint>
     <bpoint>3827</bpoint>
     <discovery>1735</discovery>
-    <hardness>4,3</hardness>
+    <hardness>4.3</hardness>
     <name_en_US>Platinum</name_en_US>
     <name_de_DE>Platin</name_de_DE>
     <name_fr_FR>Platine</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;9&lt;/sup&gt; 6s&lt;sup&gt;1&lt;/sup&gt;</elconf>
-    <heatcap>0,13</heatcap>
-    <thcond>71,6</thcond>
+    <heatcap>0.13</heatcap>
+    <thcond>71.6</thcond>
     <atomicradius>177</atomicradius>
     <covalentradius>128</covalentradius>
     <young>168</young>
     <shear>61</shear>
-    <ionizationenergy1>9,0</ionizationenergy1>
-    <ionizationenergy2>18,563</ionizationenergy2>
-    <elcond>9,4.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
-    <elresist>0,106</elresist>
+    <ionizationenergy1>9.0</ionizationenergy1>
+    <ionizationenergy2>18.563</ionizationenergy2>
+    <elcond>9.4 &amp;middot; 10&lt;sup&gt;6&lt;/sup&gt;</elcond>
+    <elresist>0.106</elresist>
     <vickers>549</vickers>
     <brinell>392</brinell>
     <period>6</period>
@@ -625,28 +625,28 @@
     <name_cs_CZ>Rhenium</name_cs_CZ>
     <symbol>Re</symbol>
     <name_Latin>Rhenium</name_Latin>
-    <atomicmass>186,207</atomicmass>
-    <oxid>2,3,4,6,7</oxid>
-    <electronegativity>1,9</electronegativity>
-    <density>21,03</density>
+    <atomicmass>186.207</atomicmass>
+    <oxid>2, 3, 4, 6, 7</oxid>
+    <electronegativity>1.9</electronegativity>
+    <density>21.03</density>
     <stbisot>2</stbisot>
     <unstisot>20</unstisot>
     <mpoint>3180</mpoint>
     <bpoint>5630</bpoint>
     <discovery>1925</discovery>
-    <hardness>7,0</hardness>
+    <hardness>7.0</hardness>
     <name_en_US>Rhenium</name_en_US>
     <name_de_DE>Rhenium</name_de_DE>
     <name_fr_FR>Rhénium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;5&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,137</heatcap>
-    <thcond>47,9</thcond>
+    <heatcap>0.137</heatcap>
+    <thcond>47.9</thcond>
     <atomicradius>188</atomicradius>
     <covalentradius>159</covalentradius>
     <young>463</young>
     <shear>178</shear>
-    <ionizationenergy1>7,88</ionizationenergy1>
-    <elcond>5,6.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
+    <ionizationenergy1>7.88</ionizationenergy1>
+    <elcond>5.6 &amp;middot; 10&lt;sup&gt;6&lt;/sup&gt;</elcond>
     <vickers>2450</vickers>
     <brinell>1320</brinell>
     <period>6</period>
@@ -664,30 +664,30 @@
     <name_cs_CZ>Rhodium</name_cs_CZ>
     <symbol>Rh</symbol>
     <name_Latin>Rhodium</name_Latin>
-    <atomicmass>102,90550</atomicmass>
-    <oxid>2,3,4,5</oxid>
-    <electronegativity>2,2</electronegativity>
-    <density>12,45</density>
+    <atomicmass>102.90550</atomicmass>
+    <oxid>2, 3, 4, 5</oxid>
+    <electronegativity>2.2</electronegativity>
+    <density>12.45</density>
     <stbisot>1</stbisot>
     <unstisot>19</unstisot>
     <mpoint>1963</mpoint>
     <bpoint>3800</bpoint>
     <discovery>1803</discovery>
-    <hardness>6,0</hardness>
+    <hardness>6.0</hardness>
     <name_en_US>Rhodium</name_en_US>
     <name_de_DE>Rhodium</name_de_DE>
     <name_fr_FR>Rhodium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;8&lt;/sup&gt; 5s&lt;sup&gt;1&lt;/sup&gt;</elconf>
-    <heatcap>0,242</heatcap>
+    <heatcap>0.242</heatcap>
     <thcond>150</thcond>
     <atomicradius>173</atomicradius>
     <covalentradius>135</covalentradius>
     <young>275</young>
     <shear>150</shear>
-    <ionizationenergy1>7,4589</ionizationenergy1>
-    <ionizationenergy2>18,08</ionizationenergy2>
-    <ionizationenergy3>31,06</ionizationenergy3>
-    <elcond>2,3.10&lt;sup&gt;7&lt;/sup&gt;</elcond>
+    <ionizationenergy1>7.4589</ionizationenergy1>
+    <ionizationenergy2>18.08</ionizationenergy2>
+    <ionizationenergy3>31.06</ionizationenergy3>
+    <elcond>2.3 &amp;middot; 10&lt;sup&gt;7&lt;/sup&gt;</elcond>
     <vickers>1246</vickers>
     <brinell>1100</brinell>
     <period>5</period>
@@ -705,31 +705,31 @@
     <name_cs_CZ>Rtuť</name_cs_CZ>
     <symbol>Hg</symbol>
     <name_Latin>Hydrargyum</name_Latin>
-    <atomicmass>200,59</atomicmass>
-    <oxid>1,2</oxid>
-    <electronegativity>1,9</electronegativity>
-    <density>13,546</density>
+    <atomicmass>200.59</atomicmass>
+    <oxid>1, 2</oxid>
+    <electronegativity>1.9</electronegativity>
+    <density>13.546</density>
     <stbisot>7</stbisot>
     <unstisot>19</unstisot>
-    <mpoint>-38,862</mpoint>
-    <bpoint>356,66</bpoint>
+    <mpoint>-38.862</mpoint>
+    <bpoint>356.66</bpoint>
     <discovery>Antiquity</discovery>
-    <hardness>1,5</hardness>
+    <hardness>1.5</hardness>
     <name_en_US>Mercury</name_en_US>
     <name_de_DE>Quecksilber</name_de_DE>
     <name_fr_FR>Mercure</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,140</heatcap>
-    <thcond>8,34</thcond>
+    <heatcap>0.140</heatcap>
+    <thcond>8.34</thcond>
     <criticalpoint>1477</criticalpoint>
     <criticalpress>172</criticalpress>
     <atomicradius>171</atomicradius>
     <covalentradius>149</covalentradius>
-    <ionizationenergy1>10,4375</ionizationenergy1>
-    <ionizationenergy2>18,759</ionizationenergy2>
-    <ionizationenergy3>34,202</ionizationenergy3>
-    <elcond>1.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
-    <elresist>0,959</elresist>
+    <ionizationenergy1>10.4375</ionizationenergy1>
+    <ionizationenergy2>18.759</ionizationenergy2>
+    <ionizationenergy3>34.202</ionizationenergy3>
+    <elcond>1 &amp;middot; 10&lt;sup&gt;6&lt;/sup&gt;</elcond>
+    <elresist>0.959</elresist>
     <period>6</period>
     <group>II.B</group>
     <state>l</state>
@@ -745,30 +745,30 @@
     <name_cs_CZ>Ruthenium</name_cs_CZ>
     <symbol>Ru</symbol>
     <name_Latin>Ruthenium</name_Latin>
-    <atomicmass>101,07</atomicmass>
-    <oxid>2,3,4,6,8</oxid>
-    <electronegativity>2,2</electronegativity>
-    <density>12,41</density>
+    <atomicmass>101.07</atomicmass>
+    <oxid>2, 3, 4, 6, 8</oxid>
+    <electronegativity>2.2</electronegativity>
+    <density>12.41</density>
     <stbisot>7</stbisot>
     <unstisot>9</unstisot>
     <mpoint>2300</mpoint>
     <bpoint>4000</bpoint>
     <discovery>1843</discovery>
-    <hardness>6,5</hardness>
+    <hardness>6.5</hardness>
     <name_en_US>Ruthenium</name_en_US>
     <name_de_DE>Ruthenium</name_de_DE>
     <name_fr_FR>Ruthénium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;7&lt;/sup&gt; 5s&lt;sup&gt;1&lt;/sup&gt;</elconf>
-    <heatcap>0,238</heatcap>
+    <heatcap>0.238</heatcap>
     <thcond>117</thcond>
     <atomicradius>178</atomicradius>
     <covalentradius>126</covalentradius>
     <young>447</young>
     <shear>173</shear>
-    <ionizationenergy1>7,3605</ionizationenergy1>
-    <ionizationenergy2>16,76</ionizationenergy2>
-    <ionizationenergy3>28,47</ionizationenergy3>
-    <elcond>1,4.10&lt;sup&gt;7&lt;/sup&gt;</elcond>
+    <ionizationenergy1>7.3605</ionizationenergy1>
+    <ionizationenergy2>16.76</ionizationenergy2>
+    <ionizationenergy3>28.47</ionizationenergy3>
+    <elcond>1.4 &amp;middot; 10&lt;sup&gt;7&lt;/sup&gt;</elcond>
     <brinell>2160</brinell>
     <period>5</period>
     <group>VIII.B</group>
@@ -785,10 +785,10 @@
     <name_cs_CZ>Skandium</name_cs_CZ>
     <symbol>Sc</symbol>
     <name_Latin>Scandium</name_Latin>
-    <atomicmass>44,955910</atomicmass>
+    <atomicmass>44.955910</atomicmass>
     <oxid>3</oxid>
-    <electronegativity>1,3</electronegativity>
-    <density>2,989</density>
+    <electronegativity>1.3</electronegativity>
+    <density>2.989</density>
     <stbisot>1</stbisot>
     <unstisot>14</unstisot>
     <mpoint>1541</mpoint>
@@ -798,14 +798,14 @@
     <name_de_DE>Scandium</name_de_DE>
     <name_fr_FR>Scandium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;1&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,568</heatcap>
-    <thcond>15,8</thcond>
+    <heatcap>0.568</heatcap>
+    <thcond>15.8</thcond>
     <young>74</young>
     <shear>29</shear>
-    <ionizationenergy1>6,5614</ionizationenergy1>
-    <ionizationenergy2>12,8</ionizationenergy2>
-    <ionizationenergy3>24,76</ionizationenergy3>
-    <elcond>1,8.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
+    <ionizationenergy1>6.5614</ionizationenergy1>
+    <ionizationenergy2>12.8</ionizationenergy2>
+    <ionizationenergy3>24.76</ionizationenergy3>
+    <elcond>1.8 &amp;middot; 10&lt;sup&gt;6&lt;/sup&gt;</elcond>
     <brinell>750</brinell>
     <period>4</period>
     <group>III.B</group>
@@ -822,33 +822,33 @@
     <name_cs_CZ>Stříbro</name_cs_CZ>
     <symbol>Ag</symbol>
     <name_Latin>Argentum</name_Latin>
-    <atomicmass>107,8682</atomicmass>
-    <oxid>1,2,3</oxid>
-    <electronegativity>1,9</electronegativity>
-    <density>10,49</density>
+    <atomicmass>107.8682</atomicmass>
+    <oxid>1, 2, 3</oxid>
+    <electronegativity>1.9</electronegativity>
+    <density>10.49</density>
     <stbisot>2</stbisot>
     <unstisot>25</unstisot>
-    <mpoint>961,93</mpoint>
+    <mpoint>961.93</mpoint>
     <bpoint>2212</bpoint>
     <discovery>Antiquity</discovery>
-    <hardness>2,7</hardness>
+    <hardness>2.7</hardness>
     <name_en_US>Silver</name_en_US>
     <name_de_DE>Silber</name_de_DE>
     <name_fr_FR>Argent</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;1&lt;/sup&gt;</elconf>
-    <heatcap>0,232</heatcap>
+    <heatcap>0.232</heatcap>
     <thcond>429</thcond>
     <atomicradius>165</atomicradius>
     <covalentradius>153</covalentradius>
     <young>83</young>
     <shear>30</shear>
-    <ionizationenergy1>7,5762</ionizationenergy1>
-    <ionizationenergy2>21,49</ionizationenergy2>
-    <ionizationenergy3>34,83</ionizationenergy3>
-    <elcond>6,3.10&lt;sup&gt;7&lt;/sup&gt;</elcond>
-    <elresist>0,0152</elresist>
+    <ionizationenergy1>7.5762</ionizationenergy1>
+    <ionizationenergy2>21.49</ionizationenergy2>
+    <ionizationenergy3>34.83</ionizationenergy3>
+    <elcond>6.3 &amp;middot; 10&lt;sup&gt;7&lt;/sup&gt;</elcond>
+    <elresist>0.0152</elresist>
     <vickers>251</vickers>
-    <brinell>24,5</brinell>
+    <brinell>24.5</brinell>
     <period>5</period>
     <group>I.B</group>
     <state>s</state>
@@ -864,28 +864,28 @@
     <name_cs_CZ>Tantal</name_cs_CZ>
     <symbol>Ta</symbol>
     <name_Latin>Tantalum</name_Latin>
-    <atomicmass>180,9479</atomicmass>
+    <atomicmass>180.9479</atomicmass>
     <oxid>5</oxid>
-    <electronegativity>1,5</electronegativity>
-    <density>16,654</density>
+    <electronegativity>1.5</electronegativity>
+    <density>16.654</density>
     <stbisot>2</stbisot>
     <unstisot>18</unstisot>
     <mpoint>2996</mpoint>
     <bpoint>5660</bpoint>
     <discovery>1802</discovery>
-    <hardness>6,5</hardness>
+    <hardness>6.5</hardness>
     <name_en_US>Tantalum</name_en_US>
     <name_de_DE>Tantal</name_de_DE>
     <name_fr_FR>Tantale</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;3&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,14</heatcap>
-    <thcond>57,5</thcond>
+    <heatcap>0.14</heatcap>
+    <thcond>57.5</thcond>
     <atomicradius>200</atomicradius>
     <covalentradius>138</covalentradius>
     <young>186</young>
     <shear>69</shear>
-    <ionizationenergy1>7,89</ionizationenergy1>
-    <elcond>8,1.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
+    <ionizationenergy1>7.89</ionizationenergy1>
+    <elcond>8.1 &amp;middot; 10&lt;sup&gt;6&lt;/sup&gt;</elcond>
     <vickers>873</vickers>
     <brinell>800</brinell>
     <period>6</period>
@@ -903,10 +903,10 @@
     <name_cs_CZ>Technecium</name_cs_CZ>
     <symbol>Tc</symbol>
     <name_Latin>Tecnetium</name_Latin>
-    <atomicmass>98,9063</atomicmass>
-    <oxid>2,4,7</oxid>
-    <electronegativity>1,9</electronegativity>
-    <density>11,56</density>
+    <atomicmass>98.9063</atomicmass>
+    <oxid>2, 4, 7</oxid>
+    <electronegativity>1.9</electronegativity>
+    <density>11.56</density>
     <stbisot>0</stbisot>
     <unstisot>22</unstisot>
     <mpoint>2150</mpoint>
@@ -916,14 +916,14 @@
     <name_de_DE>Technetium</name_de_DE>
     <name_fr_FR>Technétium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;5&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,24</heatcap>
-    <thcond>50,6</thcond>
+    <heatcap>0.24</heatcap>
+    <thcond>50.6</thcond>
     <atomicradius>183</atomicradius>
     <covalentradius>156</covalentradius>
-    <ionizationenergy1>7,28</ionizationenergy1>
-    <ionizationenergy2>15,26</ionizationenergy2>
-    <ionizationenergy3>29,54</ionizationenergy3>
-    <elcond>5.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
+    <ionizationenergy1>7.28</ionizationenergy1>
+    <ionizationenergy2>15.26</ionizationenergy2>
+    <ionizationenergy3>29.54</ionizationenergy3>
+    <elcond>5 &amp;middot; 10&lt;sup&gt;6&lt;/sup&gt;</elcond>
     <period>5</period>
     <group>VII.B</group>
     <state>s</state>
@@ -939,29 +939,29 @@
     <name_cs_CZ>Titan</name_cs_CZ>
     <symbol>Ti</symbol>
     <name_Latin>Titanium</name_Latin>
-    <atomicmass>47,88</atomicmass>
-    <oxid>2,3,4</oxid>
-    <electronegativity>1,5</electronegativity>
-    <density>4,507</density>
+    <atomicmass>47.88</atomicmass>
+    <oxid>2, 3, 4</oxid>
+    <electronegativity>1.5</electronegativity>
+    <density>4.507</density>
     <stbisot>5</stbisot>
     <unstisot>4</unstisot>
     <mpoint>1660</mpoint>
     <bpoint>3287</bpoint>
     <discovery>1790</discovery>
-    <hardness>6,0</hardness>
+    <hardness>6.0</hardness>
     <name_en_US>Titanium</name_en_US>
     <name_de_DE>Titan</name_de_DE>
     <name_fr_FR>Titane</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;2&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,523</heatcap>
-    <thcond>21,9</thcond>
+    <heatcap>0.523</heatcap>
+    <thcond>21.9</thcond>
     <young>116</young>
     <shear>44</shear>
-    <ionizationenergy1>6,8282</ionizationenergy1>
-    <ionizationenergy2>13,58</ionizationenergy2>
-    <ionizationenergy3>27,491</ionizationenergy3>
-    <elcond>2,6.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
-    <elresist>0,42</elresist>
+    <ionizationenergy1>6.8282</ionizationenergy1>
+    <ionizationenergy2>13.58</ionizationenergy2>
+    <ionizationenergy3>27.491</ionizationenergy3>
+    <elcond>2.6 &amp;middot; 10&lt;sup&gt;6&lt;/sup&gt;</elcond>
+    <elresist>0.42</elresist>
     <vickers>970</vickers>
     <brinell>716</brinell>
     <period>4</period>
@@ -1001,7 +1001,7 @@
     <name_cs_CZ>Seaborgium</name_cs_CZ>
     <symbol>Sg</symbol>
     <name_Latin>Seaborgium</name_Latin>
-    <atomicmass>263,9182</atomicmass>
+    <atomicmass>263.9182</atomicmass>
     <oxid>6</oxid>
     <stbisot>0</stbisot>
     <unstisot>4</unstisot>
@@ -1046,7 +1046,7 @@
     <name_cs_CZ>Dubnium</name_cs_CZ>
     <symbol>Db</symbol>
     <name_Latin>Dubnium</name_Latin>
-    <atomicmass>262,1138</atomicmass>
+    <atomicmass>262.1138</atomicmass>
     <oxid>5</oxid>
     <stbisot>0</stbisot>
     <unstisot>5</unstisot>
@@ -1069,7 +1069,7 @@
     <name_cs_CZ>Bohrium</name_cs_CZ>
     <symbol>Bh</symbol>
     <name_Latin>Bohrium</name_Latin>
-    <atomicmass>262,1229</atomicmass>
+    <atomicmass>262.1229</atomicmass>
     <oxid>7</oxid>
     <stbisot>0</stbisot>
     <unstisot>3</unstisot>
@@ -1092,10 +1092,10 @@
     <name_cs_CZ>Vanad</name_cs_CZ>
     <symbol>V</symbol>
     <name_Latin>Vanadium</name_Latin>
-    <atomicmass>50,9415</atomicmass>
-    <oxid>2,3,4,5</oxid>
-    <electronegativity>1,6</electronegativity>
-    <density>6,11</density>
+    <atomicmass>50.9415</atomicmass>
+    <oxid>2, 3, 4, 5</oxid>
+    <electronegativity>1.6</electronegativity>
+    <density>6.11</density>
     <stbisot>2</stbisot>
     <unstisot>5</unstisot>
     <mpoint>1900</mpoint>
@@ -1106,16 +1106,16 @@
     <name_de_DE>Vanadium</name_de_DE>
     <name_fr_FR>Vanadium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;3&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,489</heatcap>
-    <thcond>30,7</thcond>
+    <heatcap>0.489</heatcap>
+    <thcond>30.7</thcond>
     <atomicradius>171</atomicradius>
     <covalentradius>125</covalentradius>
     <young>128</young>
     <shear>47</shear>
-    <ionizationenergy1>6,7463</ionizationenergy1>
-    <ionizationenergy2>14,65</ionizationenergy2>
-    <ionizationenergy3>29,31</ionizationenergy3>
-    <elcond>4.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
+    <ionizationenergy1>6.7463</ionizationenergy1>
+    <ionizationenergy2>14.65</ionizationenergy2>
+    <ionizationenergy3>29.31</ionizationenergy3>
+    <elcond>4 &amp;middot; 10&lt;sup&gt;6&lt;/sup&gt;</elcond>
     <vickers>628</vickers>
     <brinell>628</brinell>
     <period>4</period>
@@ -1133,29 +1133,29 @@
     <name_cs_CZ>Wolfram</name_cs_CZ>
     <symbol>W</symbol>
     <name_Latin>Wolframium</name_Latin>
-    <atomicmass>183,85</atomicmass>
-    <oxid>2,3,4,5,6</oxid>
-    <electronegativity>1,9</electronegativity>
-    <density>19,3</density>
+    <atomicmass>183.85</atomicmass>
+    <oxid>2, 3, 4, 5, 6</oxid>
+    <electronegativity>1.9</electronegativity>
+    <density>19.3</density>
     <stbisot>5</stbisot>
     <unstisot>16</unstisot>
     <mpoint>3387</mpoint>
     <bpoint>5660</bpoint>
     <discovery>1758</discovery>
-    <hardness>7,5</hardness>
+    <hardness>7.5</hardness>
     <name_en_US>Tungsten</name_en_US>
     <name_de_DE>Wolfram</name_de_DE>
     <name_fr_FR>Tungsténe</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;4&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,13</heatcap>
+    <heatcap>0.13</heatcap>
     <thcond>174</thcond>
     <atomicradius>193</atomicradius>
     <covalentradius>146</covalentradius>
     <young>411</young>
     <shear>161</shear>
-    <ionizationenergy1>7,98</ionizationenergy1>
-    <elcond>1,8.10&lt;sup&gt;7&lt;/sup&gt;</elcond>
-    <elresist>0,0536</elresist>
+    <ionizationenergy1>7.98</ionizationenergy1>
+    <elcond>1.8 &amp;middot; 10&lt;sup&gt;7&lt;/sup&gt;</elcond>
+    <elresist>0.0536</elresist>
     <vickers>3430</vickers>
     <brinell>2570</brinell>
     <period>6</period>
@@ -1173,10 +1173,10 @@
     <name_cs_CZ>Yttrium</name_cs_CZ>
     <symbol>Y</symbol>
     <name_Latin>Yttrium</name_Latin>
-    <atomicmass>88,90585</atomicmass>
+    <atomicmass>88.90585</atomicmass>
     <oxid>3</oxid>
-    <electronegativity>1,2</electronegativity>
-    <density>4,472</density>
+    <electronegativity>1.2</electronegativity>
+    <density>4.472</density>
     <stbisot>1</stbisot>
     <unstisot>20</unstisot>
     <mpoint>1522</mpoint>
@@ -1186,16 +1186,16 @@
     <name_de_DE>Yttrium</name_de_DE>
     <name_fr_FR>Yttrium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;1&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,3</heatcap>
-    <thcond>17,2</thcond>
+    <heatcap>0.3</heatcap>
+    <thcond>17.2</thcond>
     <atomicradius>212</atomicradius>
     <covalentradius>162</covalentradius>
     <young>64</young>
     <shear>26</shear>
-    <ionizationenergy1>6,217</ionizationenergy1>
-    <ionizationenergy2>12,24</ionizationenergy2>
-    <ionizationenergy3>20,52</ionizationenergy3>
-    <elcond>1,8.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
+    <ionizationenergy1>6.217</ionizationenergy1>
+    <ionizationenergy2>12.24</ionizationenergy2>
+    <ionizationenergy3>20.52</ionizationenergy3>
+    <elcond>1.8 &amp;middot; 10&lt;sup&gt;6&lt;/sup&gt;</elcond>
     <brinell>589</brinell>
     <period>5</period>
     <group>III.B</group>
@@ -1212,31 +1212,31 @@
     <name_cs_CZ>Zinek</name_cs_CZ>
     <symbol>Zn</symbol>
     <name_Latin>Zincum</name_Latin>
-    <atomicmass>65,39</atomicmass>
+    <atomicmass>65.39</atomicmass>
     <oxid>2</oxid>
-    <electronegativity>1,6</electronegativity>
-    <density>7,14</density>
+    <electronegativity>1.6</electronegativity>
+    <density>7.14</density>
     <stbisot>5</stbisot>
     <unstisot>10</unstisot>
-    <mpoint>419,58</mpoint>
+    <mpoint>419.58</mpoint>
     <bpoint>907</bpoint>
     <discovery>1530</discovery>
-    <hardness>2,5</hardness>
+    <hardness>2.5</hardness>
     <name_en_US>Zinc</name_en_US>
     <name_de_DE>Zink</name_de_DE>
     <name_fr_FR>Zinc</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,388</heatcap>
+    <heatcap>0.388</heatcap>
     <thcond>116</thcond>
     <atomicradius>142</atomicradius>
     <covalentradius>131</covalentradius>
     <young>108</young>
     <shear>43</shear>
-    <ionizationenergy1>9,3941</ionizationenergy1>
-    <ionizationenergy2>17,964</ionizationenergy2>
-    <ionizationenergy3>39,722</ionizationenergy3>
-    <elcond>1,69.10&lt;sup&gt;7&lt;/sup&gt;</elcond>
-    <elresist>0,0596</elresist>
+    <ionizationenergy1>9.3941</ionizationenergy1>
+    <ionizationenergy2>17.964</ionizationenergy2>
+    <ionizationenergy3>39.722</ionizationenergy3>
+    <elcond>1.69 &amp;middot; 10&lt;sup&gt;7&lt;/sup&gt;</elcond>
+    <elresist>0.0596</elresist>
     <brinell>412</brinell>
     <period>4</period>
     <group>II.B</group>
@@ -1253,30 +1253,30 @@
     <name_cs_CZ>Zirkonium</name_cs_CZ>
     <symbol>Zr</symbol>
     <name_Latin>Zirkonium</name_Latin>
-    <atomicmass>91,244</atomicmass>
+    <atomicmass>91.244</atomicmass>
     <oxid>4</oxid>
-    <electronegativity>1,4</electronegativity>
-    <density>6,506</density>
+    <electronegativity>1.4</electronegativity>
+    <density>6.506</density>
     <stbisot>5</stbisot>
     <unstisot>16</unstisot>
     <mpoint>1852</mpoint>
     <bpoint>3800</bpoint>
     <discovery>1789</discovery>
-    <hardness>5,0</hardness>
+    <hardness>5.0</hardness>
     <name_en_US>Zirconium</name_en_US>
     <name_de_DE>Zirkonium</name_de_DE>
     <name_fr_FR>Zirconium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;2&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,278</heatcap>
-    <thcond>22,7</thcond>
+    <heatcap>0.278</heatcap>
+    <thcond>22.7</thcond>
     <atomicradius>206</atomicradius>
     <covalentradius>148</covalentradius>
     <young>68</young>
     <shear>33</shear>
-    <ionizationenergy1>6,6339</ionizationenergy1>
-    <ionizationenergy2>13,13</ionizationenergy2>
-    <ionizationenergy3>22,99</ionizationenergy3>
-    <elcond>2,3.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
+    <ionizationenergy1>6.6339</ionizationenergy1>
+    <ionizationenergy2>13.13</ionizationenergy2>
+    <ionizationenergy3>22.99</ionizationenergy3>
+    <elcond>2.3 &amp;middot; 10&lt;sup&gt;6&lt;/sup&gt;</elcond>
     <vickers>903</vickers>
     <brinell>650</brinell>
     <period>5</period>
@@ -1294,30 +1294,30 @@
     <name_cs_CZ>Zlato</name_cs_CZ>
     <symbol>Au</symbol>
     <name_Latin>Aurum</name_Latin>
-    <atomicmass>196,96654</atomicmass>
-    <oxid>1,3</oxid>
-    <electronegativity>2,4</electronegativity>
-    <density>19,32</density>
+    <atomicmass>196.96654</atomicmass>
+    <oxid>1, 3</oxid>
+    <electronegativity>2.4</electronegativity>
+    <density>19.32</density>
     <stbisot>1</stbisot>
     <unstisot>20</unstisot>
-    <mpoint>1064,43</mpoint>
+    <mpoint>1064.43</mpoint>
     <bpoint>2966</bpoint>
     <discovery>Antiquity</discovery>
-    <hardness>2,5</hardness>
+    <hardness>2.5</hardness>
     <name_en_US>Gold</name_en_US>
     <name_de_DE>Gold</name_de_DE>
     <name_fr_FR>Or</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;1&lt;/sup&gt;</elconf>
-    <heatcap>0,128</heatcap>
+    <heatcap>0.128</heatcap>
     <thcond>317</thcond>
     <atomicradius>174</atomicradius>
     <covalentradius>144</covalentradius>
     <young>78</young>
     <shear>27</shear>
-    <ionizationenergy1>9,2257</ionizationenergy1>
-    <ionizationenergy2>20,521</ionizationenergy2>
-    <elcond>4,5.10&lt;sup&gt;7&lt;/sup&gt;</elcond>
-    <elresist>0,022</elresist>
+    <ionizationenergy1>9.2257</ionizationenergy1>
+    <ionizationenergy2>20.521</ionizationenergy2>
+    <elcond>4.5 &amp;middot; 10&lt;sup&gt;7&lt;/sup&gt;</elcond>
+    <elresist>0.022</elresist>
     <vickers>216</vickers>
     <brinell>2450</brinell>
     <period>6</period>
@@ -1335,30 +1335,30 @@
     <name_cs_CZ>Železo</name_cs_CZ>
     <symbol>Fe</symbol>
     <name_Latin>Ferrum</name_Latin>
-    <atomicmass>55,847</atomicmass>
-    <oxid>2,3,6</oxid>
-    <electronegativity>1,8</electronegativity>
-    <density>7,874</density>
+    <atomicmass>55.847</atomicmass>
+    <oxid>2, 3, 6</oxid>
+    <electronegativity>1.8</electronegativity>
+    <density>7.874</density>
     <stbisot>4</stbisot>
     <unstisot>6</unstisot>
     <mpoint>1535</mpoint>
     <bpoint>2750</bpoint>
-    <hardness>4,0</hardness>
+    <hardness>4.0</hardness>
     <name_en_US>Iron</name_en_US>
     <name_de_DE>Eisen</name_de_DE>
     <name_fr_FR>Fer</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;6&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,449</heatcap>
-    <thcond>80,2</thcond>
+    <heatcap>0.449</heatcap>
+    <thcond>80.2</thcond>
     <atomicradius>156</atomicradius>
     <covalentradius>125</covalentradius>
     <young>211</young>
     <shear>82</shear>
-    <ionizationenergy1>7,9024</ionizationenergy1>
-    <ionizationenergy2>16,18</ionizationenergy2>
-    <ionizationenergy3>30,651</ionizationenergy3>
-    <elcond>1.10&lt;sup&gt;7&lt;/sup&gt;</elcond>
-    <elresist>0,101</elresist>
+    <ionizationenergy1>7.9024</ionizationenergy1>
+    <ionizationenergy2>16.18</ionizationenergy2>
+    <ionizationenergy3>30.651</ionizationenergy3>
+    <elcond>1 &amp;middot; 10&lt;sup&gt;7&lt;/sup&gt;</elcond>
+    <elresist>0.101</elresist>
     <vickers>608</vickers>
     <brinell>490</brinell>
     <period>4</period>

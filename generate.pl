@@ -56,6 +56,8 @@ foreach my $lang (@{$languages->{lang}}){
 	my $locappname = __($pt::APPNAME);
 	my @elements;
 
+	my $nf = new Number::Format;
+
 	for my $category (@{$categories->{category}}){
 
 		my $data = $xml->XMLin("src/xml/$category->{'filename'}.xml");
@@ -64,6 +66,13 @@ foreach my $lang (@{$languages->{lang}}){
 		 $element->{category} = $category;
 		 $element->{url} = geturl($element, $lang->{locales});
 		 $tableview["$element->{x}"]["$element->{y}"] = $element;
+
+     for my $foo (keys $element){
+             if(looks_like_number($element->{$foo}) || $foo =~ /elcond/){
+                    ( $element->{$foo} = $element->{$foo} ) =~ s/\./$nf->{decimal_point}/g;
+             }
+     }
+
 		 $t->process('element.html',
 			 { 'element' => $element,
 				 'elementname' => "name_$lang->{locales}",

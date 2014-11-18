@@ -5,28 +5,28 @@
     <name_cs_CZ>Dusík</name_cs_CZ>
     <symbol>N</symbol>
     <name_Latin>Nitrogenium</name_Latin>
-    <atomicmass>14,00674</atomicmass>
-    <oxid>-3,1,2,3,4,5</oxid>
-    <electronegativity>3,0</electronegativity>
-    <density>0,0012506</density>
+    <atomicmass>14.00674</atomicmass>
+    <oxid>-3, 1, 2, 3, 4, 5</oxid>
+    <electronegativity>3.0</electronegativity>
+    <density>0.0012506</density>
     <stbisot>2</stbisot>
     <unstisot>4</unstisot>
-    <mpoint>-209,79</mpoint>
-    <bpoint>-195,802</bpoint>
+    <mpoint>-209.79</mpoint>
+    <bpoint>-195.802</bpoint>
     <discovery>1772</discovery>
     <name_en_US>Nitrogen</name_en_US>
     <name_de_DE>Stickstoff</name_de_DE>
     <name_fr_FR>Azote</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;3&lt;/sup&gt;</elconf>
-    <heatcap>1,042</heatcap>
-    <thcond>0,02598</thcond>
-    <criticalpoint>-146,94</criticalpoint>
-    <criticalpress>3,39</criticalpress>
+    <heatcap>1.042</heatcap>
+    <thcond>0.02598</thcond>
+    <criticalpoint>-146.94</criticalpoint>
+    <criticalpress>3.39</criticalpress>
     <atomicradius>56</atomicradius>
     <covalentradius>75</covalentradius>
-    <ionizationenergy1>14,5341</ionizationenergy1>
-    <ionizationenergy2>29,601</ionizationenergy2>
-    <ionizationenergy3>47,448</ionizationenergy3>
+    <ionizationenergy1>14.5341</ionizationenergy1>
+    <ionizationenergy2>29.601</ionizationenergy2>
+    <ionizationenergy3>47.448</ionizationenergy3>
     <period>2</period>
     <group>V.A</group>
     <state>g</state>
@@ -42,27 +42,27 @@
     <name_cs_CZ>Fosfor</name_cs_CZ>
     <symbol>P</symbol>
     <name_Latin>Phosphorus</name_Latin>
-    <atomicmass>30,973762</atomicmass>
-    <oxid>-3,3,5</oxid>
-    <electronegativity>2,1</electronegativity>
-    <density>1,83</density>
+    <atomicmass>30.973762</atomicmass>
+    <oxid>-3, 3, 5</oxid>
+    <electronegativity>2.1</electronegativity>
+    <density>1.83</density>
     <stbisot>1</stbisot>
     <unstisot>6</unstisot>
-    <mpoint>44,1</mpoint>
+    <mpoint>44.1</mpoint>
     <bpoint>280</bpoint>
     <discovery>1669</discovery>
     <name_en_US>Phosphorus</name_en_US>
     <name_de_DE>Phosphor</name_de_DE>
     <name_fr_FR>Phosphore</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;3&lt;/sup&gt;</elconf>
-    <heatcap>0,769</heatcap>
-    <thcond>0,235</thcond>
+    <heatcap>0.769</heatcap>
+    <thcond>0.235</thcond>
     <atomicradius>98</atomicradius>
     <covalentradius>106</covalentradius>
-    <ionizationenergy1>10,4867</ionizationenergy1>
-    <ionizationenergy2>19,725</ionizationenergy2>
-    <ionizationenergy3>30,18</ionizationenergy3>
-    <elcond>1.10&lt;sup&gt;7&lt;/sup&gt;</elcond>
+    <ionizationenergy1>10.4867</ionizationenergy1>
+    <ionizationenergy2>19.725</ionizationenergy2>
+    <ionizationenergy3>30.18</ionizationenergy3>
+    <elcond>1 &amp;middot; 10&lt;sup&gt;7&lt;/sup&gt;</elcond>
     <period>3</period>
     <group>V.A</group>
     <state>s</state>
@@ -78,28 +78,28 @@
     <name_cs_CZ>Kyslík</name_cs_CZ>
     <symbol>O</symbol>
     <name_Latin>Oxygenium</name_Latin>
-    <atomicmass>15,9994</atomicmass>
-    <oxid>-2,-1,2</oxid>
-    <electronegativity>3,5</electronegativity>
-    <density>0,001429</density>
+    <atomicmass>15.9994</atomicmass>
+    <oxid>-2, -1, 2</oxid>
+    <electronegativity>3.5</electronegativity>
+    <density>0.001429</density>
     <stbisot>3</stbisot>
     <unstisot>5</unstisot>
-    <mpoint>-218,79</mpoint>
-    <bpoint>-182,962</bpoint>
+    <mpoint>-218.79</mpoint>
+    <bpoint>-182.962</bpoint>
     <discovery>1774</discovery>
     <name_en_US>Oxygen</name_en_US>
     <name_de_DE>Sauerstoff</name_de_DE>
     <name_fr_FR>Oxygéne</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;4&lt;/sup&gt;</elconf>
-    <heatcap>0,92</heatcap>
-    <thcond>0,2674</thcond>
-    <criticalpoint>-118,56</criticalpoint>
-    <criticalpress>5,043</criticalpress>
+    <heatcap>0.92</heatcap>
+    <thcond>0.2674</thcond>
+    <criticalpoint>-118.56</criticalpoint>
+    <criticalpress>5.043</criticalpress>
     <atomicradius>48</atomicradius>
     <covalentradius>73</covalentradius>
-    <ionizationenergy1>13,6181</ionizationenergy1>
-    <ionizationenergy2>35,117</ionizationenergy2>
-    <ionizationenergy3>54,934</ionizationenergy3>
+    <ionizationenergy1>13.6181</ionizationenergy1>
+    <ionizationenergy2>35.117</ionizationenergy2>
+    <ionizationenergy3>54.934</ionizationenergy3>
     <period>2</period>
     <group>VI.A</group>
     <state>g</state>
@@ -115,30 +115,30 @@
     <name_cs_CZ>Selen</name_cs_CZ>
     <symbol>Se</symbol>
     <name_Latin>Selenium</name_Latin>
-    <atomicmass>78,96</atomicmass>
-    <oxid>-2,2,4,6</oxid>
-    <electronegativity>2,4</electronegativity>
-    <density>4,80</density>
+    <atomicmass>78.96</atomicmass>
+    <oxid>-2, 2, 4, 6</oxid>
+    <electronegativity>2.4</electronegativity>
+    <density>4.80</density>
     <stbisot>6</stbisot>
     <unstisot>14</unstisot>
     <mpoint>217</mpoint>
     <bpoint>685</bpoint>
     <discovery>1817</discovery>
-    <hardness>2,0</hardness>
+    <hardness>2.0</hardness>
     <name_en_US>Selenium</name_en_US>
     <name_de_DE>Selen</name_de_DE>
     <name_fr_FR>Sélénium</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;4&lt;/sup&gt;</elconf>
-    <heatcap>0,32</heatcap>
-    <thcond>2,04</thcond>
+    <heatcap>0.32</heatcap>
+    <thcond>2.04</thcond>
     <criticalpoint>1493</criticalpoint>
-    <criticalpress>27,2</criticalpress>
+    <criticalpress>27.2</criticalpress>
     <young>10</young>
-    <shear>3,7</shear>
-    <ionizationenergy1>9,7524</ionizationenergy1>
-    <ionizationenergy2>21,19</ionizationenergy2>
-    <ionizationenergy3>30,82</ionizationenergy3>
-    <elcond>8.10&lt;sup&gt;6&lt;/sup&gt;</elcond>
+    <shear>3.7</shear>
+    <ionizationenergy1>9.7524</ionizationenergy1>
+    <ionizationenergy2>21.19</ionizationenergy2>
+    <ionizationenergy3>30.82</ionizationenergy3>
+    <elcond>8 &amp;middot; 10&lt;sup&gt;6&lt;/sup&gt;</elcond>
     <brinell>736</brinell>
     <period>4</period>
     <group>VI.A</group>
@@ -155,29 +155,29 @@
     <name_cs_CZ>Síra</name_cs_CZ>
     <symbol>S</symbol>
     <name_Latin>Sulphur</name_Latin>
-    <atomicmass>32,066</atomicmass>
-    <oxid>-2,2,4,6</oxid>
-    <electronegativity>2,5</electronegativity>
-    <density>2,07</density>
+    <atomicmass>32.066</atomicmass>
+    <oxid>-2, 2, 4, 6</oxid>
+    <electronegativity>2.5</electronegativity>
+    <density>2.07</density>
     <stbisot>4</stbisot>
     <unstisot>6</unstisot>
-    <mpoint>112,8</mpoint>
-    <bpoint>444,674</bpoint>
-    <hardness>2,0</hardness>
+    <mpoint>112.8</mpoint>
+    <bpoint>444.674</bpoint>
+    <hardness>2.0</hardness>
     <name_en_US>Sulfur</name_en_US>
     <name_de_DE>Schwefel</name_de_DE>
     <name_fr_FR>Soufre</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;4&lt;/sup&gt;</elconf>
-    <heatcap>0,71</heatcap>
-    <thcond>0,269</thcond>
+    <heatcap>0.71</heatcap>
+    <thcond>0.269</thcond>
     <criticalpoint>1040</criticalpoint>
-    <criticalpress>20,7</criticalpress>
+    <criticalpress>20.7</criticalpress>
     <atomicradius>88</atomicradius>
     <covalentradius>102</covalentradius>
-    <ionizationenergy1>10,36</ionizationenergy1>
-    <ionizationenergy2>23,33</ionizationenergy2>
-    <ionizationenergy3>34,83</ionizationenergy3>
-    <elcond>5.10&lt;sup&gt;-14&lt;/sup&gt;</elcond>
+    <ionizationenergy1>10.36</ionizationenergy1>
+    <ionizationenergy2>23.33</ionizationenergy2>
+    <ionizationenergy3>34.83</ionizationenergy3>
+    <elcond>5 &amp;middot; 10&lt;sup&gt;-14&lt;/sup&gt;</elcond>
     <period>3</period>
     <group>VI.A</group>
     <state>s</state>
@@ -193,10 +193,10 @@
     <name_cs_CZ>Uhlík</name_cs_CZ>
     <symbol>C</symbol>
     <name_Latin>Carboneum</name_Latin>
-    <atomicmass>12,011</atomicmass>
-    <oxid>-4,2,4</oxid>
-    <electronegativity>2,5</electronegativity>
-    <density>3,515</density>
+    <atomicmass>12.011</atomicmass>
+    <oxid>-4, 2, 4</oxid>
+    <electronegativity>2.5</electronegativity>
+    <density>3.515</density>
     <stbisot>2</stbisot>
     <unstisot>5</unstisot>
     <mpoint>3550</mpoint>
@@ -206,14 +206,14 @@
     <name_de_DE>Kohlenstoff</name_de_DE>
     <name_fr_FR>Carbone</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;2&lt;/sup&gt;</elconf>
-    <heatcap>0,709</heatcap>
+    <heatcap>0.709</heatcap>
     <thcond>155</thcond>
     <atomicradius>67</atomicradius>
     <covalentradius>77</covalentradius>
-    <ionizationenergy1>11,2603</ionizationenergy1>
-    <ionizationenergy2>24,383</ionizationenergy2>
-    <ionizationenergy3>47,887</ionizationenergy3>
-    <elcond>1.10&lt;sup&gt;5&lt;/sup&gt;</elcond>
+    <ionizationenergy1>11.2603</ionizationenergy1>
+    <ionizationenergy2>24.383</ionizationenergy2>
+    <ionizationenergy3>47.887</ionizationenergy3>
+    <elcond>1 &amp;middot; 10&lt;sup&gt;5&lt;/sup&gt;</elcond>
     <period>2</period>
     <group>IV.A</group>
     <state>s</state>
@@ -229,23 +229,23 @@
     <name_cs_CZ>Vodík</name_cs_CZ>
     <symbol>H</symbol>
     <name_Latin>Hydrogenium</name_Latin>
-    <atomicmass>1,00794</atomicmass>
-    <oxid>-1,1</oxid>
-    <electronegativity>2,1</electronegativity>
-    <density>0,00008988</density>
+    <atomicmass>1.00794</atomicmass>
+    <oxid>-1, 1</oxid>
+    <electronegativity>2.1</electronegativity>
+    <density>0.00008988</density>
     <stbisot>2</stbisot>
     <unstisot>1</unstisot>
-    <mpoint>-259,34</mpoint>
-    <bpoint>-252,87</bpoint>
+    <mpoint>-259.34</mpoint>
+    <bpoint>-252.87</bpoint>
     <discovery>1766</discovery>
     <name_en_US>Hydrogen</name_en_US>
     <name_de_DE>Wasserstoff</name_de_DE>
     <name_fr_FR>Hydrogéne</name_fr_FR>
     <elconf>1s&lt;sup&gt;1&lt;/sup&gt;</elconf>
-    <heatcap>14,304</heatcap>
-    <thcond>0,1815</thcond>
-    <criticalpoint>-240,18</criticalpoint>
-    <criticalpress>1,293</criticalpress>
+    <heatcap>14.304</heatcap>
+    <thcond>0.1815</thcond>
+    <criticalpoint>-240.18</criticalpoint>
+    <criticalpress>1.293</criticalpress>
     <atomicradius>53</atomicradius>
     <covalentradius>37</covalentradius>
     <period>1</period>

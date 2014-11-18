@@ -5,29 +5,29 @@
     <name_cs_CZ>Brom</name_cs_CZ>
     <symbol>Br</symbol>
     <name_Latin>Bromum</name_Latin>
-    <atomicmass>79,904</atomicmass>
-    <oxid>-1,1,3,5,7</oxid>
-    <electronegativity>2,8</electronegativity>
-    <density>3,123</density>
+    <atomicmass>79.904</atomicmass>
+    <oxid>-1, 1, 3, 5, 7</oxid>
+    <electronegativity>2.8</electronegativity>
+    <density>3.123</density>
     <stbisot>2</stbisot>
     <unstisot>16</unstisot>
-    <mpoint>-7,25</mpoint>
-    <bpoint>58,78</bpoint>
+    <mpoint>-7.25</mpoint>
+    <bpoint>58.78</bpoint>
     <discovery>1826</discovery>
     <name_en_US>Bromine</name_en_US>
     <name_de_DE>Brom</name_de_DE>
     <name_fr_FR>Brome</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;5&lt;/sup&gt;</elconf>
-    <heatcap>0,226</heatcap>
-    <thcond>0,122</thcond>
+    <heatcap>0.226</heatcap>
+    <thcond>0.122</thcond>
     <criticalpoint>315</criticalpoint>
-    <criticalpress>10,34</criticalpress>
+    <criticalpress>10.34</criticalpress>
     <atomicradius>94</atomicradius>
     <covalentradius>114</covalentradius>
-    <ionizationenergy1>11,8138</ionizationenergy1>
-    <ionizationenergy2>21,8</ionizationenergy2>
-    <ionizationenergy3>36,0</ionizationenergy3>
-    <elcond>1.10&lt;sup&gt;-10&lt;/sup&gt;</elcond>
+    <ionizationenergy1>11.8138</ionizationenergy1>
+    <ionizationenergy2>21.8</ionizationenergy2>
+    <ionizationenergy3>36.0</ionizationenergy3>
+    <elcond>1 &amp;middot; 10&lt;sup&gt;-10&lt;/sup&gt;</elcond>
     <period>4</period>
     <group>VII.A</group>
     <state>l</state>
@@ -43,28 +43,28 @@
     <name_cs_CZ>Chlor</name_cs_CZ>
     <symbol>Cl</symbol>
     <name_Latin>Chlorum</name_Latin>
-    <atomicmass>35,4527</atomicmass>
-    <oxid>-1,1,3,4,5,6,7</oxid>
-    <electronegativity>3,0</electronegativity>
-    <density>0,003214</density>
+    <atomicmass>35.4527</atomicmass>
+    <oxid>-1, 1, 3, 4, 5, 6, 7</oxid>
+    <electronegativity>3.0</electronegativity>
+    <density>0.003214</density>
     <stbisot>2</stbisot>
     <unstisot>9</unstisot>
-    <mpoint>-100,98</mpoint>
-    <bpoint>-34,6</bpoint>
+    <mpoint>-100.98</mpoint>
+    <bpoint>-34.6</bpoint>
     <discovery>1774</discovery>
     <name_en_US>Chlorine</name_en_US>
     <name_de_DE>Chlor</name_de_DE>
     <name_fr_FR>Chlore</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;5&lt;/sup&gt;</elconf>
-    <heatcap>0,48</heatcap>
-    <thcond>0,0089</thcond>
-    <criticalpoint>143,75</criticalpoint>
-    <criticalpress>7,991</criticalpress>
+    <heatcap>0.48</heatcap>
+    <thcond>0.0089</thcond>
+    <criticalpoint>143.75</criticalpoint>
+    <criticalpress>7.991</criticalpress>
     <atomicradius>42</atomicradius>
     <covalentradius>71</covalentradius>
-    <ionizationenergy1>12,9676</ionizationenergy1>
-    <ionizationenergy2>23,81</ionizationenergy2>
-    <ionizationenergy3>39,611</ionizationenergy3>
+    <ionizationenergy1>12.9676</ionizationenergy1>
+    <ionizationenergy2>23.81</ionizationenergy2>
+    <ionizationenergy3>39.611</ionizationenergy3>
     <period>3</period>
     <group>VII.A</group>
     <state>g</state>
@@ -80,28 +80,28 @@
     <name_cs_CZ>Fluor</name_cs_CZ>
     <symbol>F</symbol>
     <name_Latin>Fluorum</name_Latin>
-    <atomicmass>18,9984032</atomicmass>
+    <atomicmass>18.9984032</atomicmass>
     <oxid>-1</oxid>
-    <electronegativity>4,0</electronegativity>
-    <density>0,001696</density>
+    <electronegativity>4.0</electronegativity>
+    <density>0.001696</density>
     <stbisot>1</stbisot>
     <unstisot>5</unstisot>
-    <mpoint>-219,62</mpoint>
-    <bpoint>-188,14</bpoint>
+    <mpoint>-219.62</mpoint>
+    <bpoint>-188.14</bpoint>
     <discovery>1886</discovery>
     <name_en_US>Fluorine</name_en_US>
     <name_de_DE>Fluor</name_de_DE>
     <name_fr_FR>Fluor</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;5&lt;/sup&gt;</elconf>
-    <heatcap>0,824</heatcap>
-    <thcond>0,0279</thcond>
-    <criticalpoint>-129,02</criticalpoint>
-    <criticalpress>5,172</criticalpress>
+    <heatcap>0.824</heatcap>
+    <thcond>0.0279</thcond>
+    <criticalpoint>-129.02</criticalpoint>
+    <criticalpress>5.172</criticalpress>
     <atomicradius>42</atomicradius>
     <covalentradius>71</covalentradius>
-    <ionizationenergy1>17,4228</ionizationenergy1>
-    <ionizationenergy2>34,97</ionizationenergy2>
-    <ionizationenergy3>62,707</ionizationenergy3>
+    <ionizationenergy1>17.4228</ionizationenergy1>
+    <ionizationenergy2>34.97</ionizationenergy2>
+    <ionizationenergy3>62.707</ionizationenergy3>
     <period>2</period>
     <group>VII.A</group>
     <state>g</state>
@@ -117,29 +117,29 @@
     <name_cs_CZ>Jod</name_cs_CZ>
     <symbol>I</symbol>
     <name_Latin>Iodium</name_Latin>
-    <atomicmass>126,90447</atomicmass>
-    <oxid>-1,1,3,5,7</oxid>
-    <electronegativity>2,5</electronegativity>
-    <density>4,93</density>
+    <atomicmass>126.90447</atomicmass>
+    <oxid>-1, 1, 3, 5, 7</oxid>
+    <electronegativity>2.5</electronegativity>
+    <density>4.93</density>
     <stbisot>1</stbisot>
     <unstisot>23</unstisot>
-    <mpoint>113,5</mpoint>
-    <bpoint>184,35</bpoint>
+    <mpoint>113.5</mpoint>
+    <bpoint>184.35</bpoint>
     <discovery>1811</discovery>
     <name_en_US>Iodine</name_en_US>
     <name_de_DE>Iod</name_de_DE>
     <name_fr_FR>Iode</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;5&lt;/sup&gt;</elconf>
-    <heatcap>0,145</heatcap>
-    <thcond>0,449</thcond>
+    <heatcap>0.145</heatcap>
+    <thcond>0.449</thcond>
     <criticalpoint>546</criticalpoint>
-    <criticalpress>11,7</criticalpress>
+    <criticalpress>11.7</criticalpress>
     <atomicradius>115</atomicradius>
     <covalentradius>133</covalentradius>
-    <ionizationenergy1>10,4513</ionizationenergy1>
-    <ionizationenergy2>19,131</ionizationenergy2>
-    <ionizationenergy3>33,0</ionizationenergy3>
-    <elcond>1.10&lt;sup&gt;-7&lt;/sup&gt;</elcond>
+    <ionizationenergy1>10.4513</ionizationenergy1>
+    <ionizationenergy2>19.131</ionizationenergy2>
+    <ionizationenergy3>33.0</ionizationenergy3>
+    <elcond>1 &amp;middot; 10&lt;sup&gt;-7&lt;/sup&gt;</elcond>
     <period>5</period>
     <group>VII.A</group>
     <state>s</state>
@@ -156,7 +156,7 @@
     <symbol>Uus</symbol>
     <name_Latin>Ununseptium</name_Latin>
     <atomicmass>294</atomicmass>
-    <oxid>1,3</oxid>
+    <oxid>1, 3</oxid>
     <name_en_US>Ununseptium</name_en_US>
     <name_de_DE>Ununseptium</name_de_DE>
     <name_fr_FR>Ununseptium</name_fr_FR>
@@ -179,9 +179,9 @@
     <name_cs_CZ>Astat</name_cs_CZ>
     <symbol>At</symbol>
     <name_Latin>Astatum</name_Latin>
-    <atomicmass>209,9871</atomicmass>
-    <oxid>-1,1,3,5,7</oxid>
-    <electronegativity>2,2</electronegativity>
+    <atomicmass>209.9871</atomicmass>
+    <oxid>-1, 1, 3, 5, 7</oxid>
+    <electronegativity>2.2</electronegativity>
     <stbisot>0</stbisot>
     <unstisot>21</unstisot>
     <mpoint>302</mpoint>
@@ -191,9 +191,9 @@
     <name_de_DE>Astat</name_de_DE>
     <name_fr_FR>Astate</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;10&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt; 6p&lt;sup&gt;5&lt;/sup&gt;</elconf>
-    <thcond>1,7</thcond>
+    <thcond>1.7</thcond>
     <atomicradius>127</atomicradius>
-    <ionizationenergy1>9,5</ionizationenergy1>
+    <ionizationenergy1>9.5</ionizationenergy1>
     <period>6</period>
     <group>VII.A</group>
     <state>s</state>

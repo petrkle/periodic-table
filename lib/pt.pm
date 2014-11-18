@@ -11,6 +11,8 @@ use File::Basename;
 use Locale::TextDomain ( 'ptable' ,  './locale/' );
 use Encode;
 use Text::Iconv;
+use Number::Format;
+use Scalar::Util qw(looks_like_number);
 Locale::Messages->select_package ('gettext_pp');
 use Getopt::Long;
 
@@ -31,8 +33,8 @@ use Exporter qw(import);
  
 our @EXPORT_OK = qw(get_langs geturl setlocales);
 
-our $VERSION = '14.05.2601';
-our $MSIGUID = '69c1c6a3-e5a4-49f7-969c-d1f10025e94b';
+our $VERSION = '14.11.1801';
+our $MSIGUID = '97f72923-2100-4c8f-9126-6bdb2fe934a5';
 our $APPNAME = 'Periodic Table';
 
 sub get_langs{
