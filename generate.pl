@@ -200,6 +200,7 @@ foreach my $lang (@{$languages->{lang}}){
 
 	$t->process('about.html',
 		{	'title' => $locappname . ' - ' . lc(__('About')),
+		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/about.html",
 		{ binmode => ':utf8' }) or die $t->error;
