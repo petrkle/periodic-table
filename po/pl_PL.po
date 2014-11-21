@@ -267,3 +267,9 @@ msgstr "Kod źródłowy"
 
 msgid "Unknown"
 msgstr "Nieznany"
+
+msgid "Menu"
+msgstr "Oferta"
+
+msgid "Russian"
+msgstr "Rosyjski"

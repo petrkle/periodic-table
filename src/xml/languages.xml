@@ -73,4 +73,13 @@
 		<title>Sistema periódico</title>
 	</lang>
 
+	<lang>
+		<fullname>Russian</fullname>
+		<fullnameloc>Русский</fullnameloc>
+		<locales>ru_RU</locales>
+		<android>ru</android>
+		<browser>ru-RU</browser>
+		<title>Sistema periódico</title>
+	</lang>
+
 </lagnuages>

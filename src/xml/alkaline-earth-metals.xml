@@ -35,6 +35,7 @@
     <name_pl_PL>Bar</name_pl_PL>
     <name_es_ES>Bario</name_es_ES>
     <name_nl_NL>Barium</name_nl_NL>
+    <name_ru_RU>Барий</name_ru_RU>
   </element>
   <element>
     <anumber>88</anumber>
@@ -68,6 +69,7 @@
     <name_pl_PL>Rad</name_pl_PL>
     <name_es_ES>Radio</name_es_ES>
     <name_nl_NL>Radium</name_nl_NL>
+    <name_ru_RU>Радий</name_ru_RU>
   </element>
   <element>
     <anumber>38</anumber>
@@ -105,6 +107,7 @@
     <name_pl_PL>Stront</name_pl_PL>
     <name_es_ES>Estroncio</name_es_ES>
     <name_nl_NL>Strontium</name_nl_NL>
+    <name_ru_RU>Стронций</name_ru_RU>
   </element>
   <element>
     <anumber>20</anumber>
@@ -143,5 +146,6 @@
     <name_pl_PL>Wapń</name_pl_PL>
     <name_es_ES>Calcio</name_es_ES>
     <name_nl_NL>Calcium</name_nl_NL>
+    <name_ru_RU>Кальций</name_ru_RU>
   </element>
 </elements>

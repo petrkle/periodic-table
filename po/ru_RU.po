@@ -1,0 +1,362 @@
+# Periodic Table - Russian translation
+# Natali Bergman <bergnatali@gmail.com>, 2014
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Periodic table\n"
+"Language: ru\n"
+
+#: 
+msgid "Periodic Table"
+msgstr "Таблица Менделеева"
+
+#: 
+msgid "Settings"
+msgstr "Настройки"
+
+#: 
+msgid "Language"
+msgstr "Язык"
+
+#: 
+msgid "About"
+msgstr "О нас"
+
+#: 
+msgid "English"
+msgstr "Английский"
+
+#: 
+msgid "Czech"
+msgstr "Чешский"
+
+#: 
+msgid "Slovak"
+msgstr "Словацкий"
+
+#: 
+msgid "Default language"
+msgstr "Язык по умолчянию"
+
+#: 
+msgid "State"
+msgstr "Страна"
+
+#: 
+#, fuzzy
+msgid "Solid"
+msgstr "Плотный"
+
+#: 
+msgid "Liquid"
+msgstr "Жидкость "
+
+#: 
+msgid "Gas"
+msgstr "Газ"
+
+#: 
+msgid "Symbol"
+msgstr "Символ"
+
+#: 
+msgid "Atomic number"
+msgstr "Атомное число"
+
+#: 
+msgid "Period"
+msgstr "Период"
+
+#: 
+msgid "period"
+msgstr "период"
+
+#: 
+msgid "Element category"
+msgstr "Категория элемента"
+
+#: 
+msgid "Relative atomic mass"
+msgstr "Относительная атомная масса"
+
+#: 
+msgid "Atomic mass"
+msgstr "Атомная масса"
+
+#: 
+msgid "Group"
+msgstr "Группа"
+
+#: 
+msgid "group"
+msgstr "группа"
+
+#: 
+msgid "Electronegativity"
+msgstr "Электро<wbr>отрицательно<wbr>сть"
+
+#: 
+msgid "Oxidation numbers"
+msgstr "Степень окисления"
+
+#: 
+msgid "Electron configuration"
+msgstr "Электронная конфигурация"
+
+#: 
+msgid "Density"
+msgstr "Плотность"
+
+#: 
+msgid "Melting point"
+msgstr "Температура плавления"
+
+#: 
+msgid "Boiling point"
+msgstr "Температура кипения"
+
+#: 
+msgid "Critical point"
+msgstr "Критическая точка"
+
+#: 
+msgid "Critical pressure"
+msgstr "Критическое давление"
+
+#: 
+msgid "Atomic radius"
+msgstr "Атомный радиус"
+
+#: 
+msgid "Covalent radius"
+msgstr "Ковалентный радиус"
+
+#: 
+msgid "Thermal conductivity"
+msgstr "Тепло<wbr>проводность"
+
+#: 
+msgid "Discovery"
+msgstr "Открытие"
+
+#: 
+msgid "Hardness"
+msgstr "Твердость"
+
+#: 
+msgid "Vickers hardness"
+msgstr "Твердость по Виккерсу"
+
+#: 
+msgid "Brinell hardness"
+msgstr "Твердость по Бринеллю"
+
+#: 
+msgid "Mohs scale"
+msgstr "Шкала Мооса"
+
+#: 
+msgid "Shear modulus"
+msgstr "Модуль сдвига"
+
+#: 
+msgid "Young's modulus"
+msgstr "Модуль Юнга"
+
+#: 
+msgid "Electrical resistivity"
+msgstr "Электрическое сопротивление"
+
+#: 
+msgid "Electrical conductivity"
+msgstr "Электрическая проводимость"
+
+#: 
+msgid "Name"
+msgstr "Название"
+
+#: 
+msgid "Latin name"
+msgstr "Название на латыни"
+
+#: 
+msgid "Version"
+msgstr "Версия"
+
+#: 
+msgid "Created"
+msgstr "Создано"
+
+#: 
+msgid "Author"
+msgstr "Автор"
+
+#: 
+msgid "Write review"
+msgstr "Написать j,pjh"
+
+#: 
+msgid "Noble gases"
+msgstr "Благородные газы"
+
+#: 
+msgid "Inner transition elements"
+msgstr "Внутренние переходные элементы"
+
+#: 
+msgid "Transition elements"
+msgstr "Переходные элементы"
+
+#: 
+msgid "Metalloids"
+msgstr "Металлоиды"
+
+#: 
+msgid "Nonmetals"
+msgstr "Неметаллы"
+
+#: 
+msgid "Alkaline earth metals"
+msgstr "Щёлочн<wbr>оземельные металлы"
+
+#: 
+msgid "Metals"
+msgstr "Металлы"
+
+#: 
+msgid "Halogens"
+msgstr "Галогены"
+
+#: 
+msgid "Alkali metals"
+msgstr "Щелочные металлы"
+
+#: 
+msgid "1.st ionization energy"
+msgstr "1. Энергия ионизации"
+
+#: 
+msgid "2.nd ionization energy"
+msgstr "2. Энергия ионизации"
+
+#: 
+msgid "3.rd ionization energy"
+msgstr "3. Энергия ионизации"
+
+#: 
+msgid "Stable isotopes"
+msgstr "Стабильные изотопы"
+
+#: 
+msgid "Unstable isotopes"
+msgstr "Нестабильные изотопы"
+
+#: 
+msgid "Substance"
+msgstr "Вещество"
+
+#: 
+msgid "Talc"
+msgstr "Тальк"
+
+#: 
+msgid "Rock salt"
+msgstr "Каменная соль"
+
+#: 
+msgid "Limestone"
+msgstr "Известняк"
+
+#: 
+msgid "Fluorspar"
+msgstr "Флюорит"
+
+#: 
+msgid "Apatite"
+msgstr "Апатит"
+
+#: 
+msgid "Feldspar"
+msgstr "Полевой шпат"
+
+#: 
+msgid "Quartz"
+msgstr "Квартц"
+
+#: 
+msgid "Topaz"
+msgstr "Топаз"
+
+#: 
+msgid "Corundum"
+msgstr "Корунд"
+
+#: 
+msgid "Diamond"
+msgstr "Алмаз"
+
+#: 
+msgid "Antiquity"
+msgstr "Античность"
+
+#: 
+msgid "Heat capacity"
+msgstr "Теплоёмкость"
+
+#: 
+msgid "Table view"
+msgstr "Вид: таблица"
+
+#: 
+msgid "French"
+msgstr "Французкий"
+
+#: 
+msgid "Russian"
+msgstr "Русский"
+
+#: 
+msgid "German"
+msgstr "Немецкий"
+
+#: 
+msgid "Spanish"
+msgstr "Испанский"
+
+#: 
+msgid "Polish"
+msgstr "Польский"
+
+#: 
+msgid "Download"
+msgstr "Скачать"
+
+#: 
+msgid "Links"
+msgstr "Ссылки"
+
+#: 
+msgid "Source code"
+msgstr "Исходный код"
+
+#: 
+msgid "Unknown"
+msgstr "Неизвестный"
+
+#: 
+msgid "Dutch"
+msgstr "Голландский"
+
+#: 
+msgid "Portuguese"
+msgstr "Португальский"
+
+#: 
+msgid "Estonian"
+msgstr "Эстонский"
+
+msgid "Menu"
+msgstr "Меню"

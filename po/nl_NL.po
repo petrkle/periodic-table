@@ -271,3 +271,6 @@ msgstr "Broncode"
 
 msgid "Unknown"
 msgstr "Onbekend"
+
+msgid "Menu"
+msgstr "Menu"

@@ -267,3 +267,9 @@ msgstr "El código fuente"
 
 msgid "Unknown"
 msgstr "Desconocido"
+
+msgid "Menu"
+msgstr "Menú"
+
+msgid "Russian"
+msgstr "Ruso"

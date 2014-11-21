@@ -36,6 +36,7 @@
     <name_pl_PL>Azot</name_pl_PL>
     <name_es_ES>Nitrógeno</name_es_ES>
     <name_nl_NL>Stikstof</name_nl_NL>
+    <name_ru_RU>Азот</name_ru_RU>
   </element>
   <element>
     <anumber>15</anumber>
@@ -72,6 +73,7 @@
     <name_pl_PL>Fosfor</name_pl_PL>
     <name_es_ES>Fósforo</name_es_ES>
     <name_nl_NL>Fosfor</name_nl_NL>
+    <name_ru_RU>Фосфор</name_ru_RU>
   </element>
   <element>
     <anumber>8</anumber>
@@ -109,6 +111,7 @@
     <name_pl_PL>Tlen</name_pl_PL>
     <name_es_ES>Oxígeno</name_es_ES>
     <name_nl_NL>Zuurstof</name_nl_NL>
+    <name_ru_RU>Кислород</name_ru_RU>
   </element>
   <element>
     <anumber>34</anumber>
@@ -149,6 +152,7 @@
     <name_pl_PL>Selen</name_pl_PL>
     <name_es_ES>Selenio</name_es_ES>
     <name_nl_NL>Seleen</name_nl_NL>
+    <name_ru_RU>Селен</name_ru_RU>
   </element>
   <element>
     <anumber>16</anumber>
@@ -187,6 +191,7 @@
     <name_pl_PL>Siarka</name_pl_PL>
     <name_es_ES>Azufre</name_es_ES>
     <name_nl_NL>Zwavel</name_nl_NL>
+    <name_ru_RU>Сера</name_ru_RU>
   </element>
   <element>
     <anumber>6</anumber>
@@ -223,6 +228,7 @@
     <name_pl_PL>Węgiel</name_pl_PL>
     <name_es_ES>Carbono</name_es_ES>
     <name_nl_NL>Koolstof</name_nl_NL>
+    <name_ru_RU>Углерод</name_ru_RU>
   </element>
   <element>
     <anumber>1</anumber>
@@ -257,5 +263,6 @@
     <name_pl_PL>Wodór</name_pl_PL>
     <name_es_ES>Hidrógeno</name_es_ES>
     <name_nl_NL>Waterstof</name_nl_NL>
+    <name_ru_RU>Водород</name_ru_RU>
   </element>
 </elements>

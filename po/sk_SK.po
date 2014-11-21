@@ -268,3 +268,9 @@ msgstr "Zdrojový kód"
 
 msgid "Unknown"
 msgstr "Neznáme"
+
+msgid "Menu"
+msgstr "Ponuka"
+
+msgid "Russian"
+msgstr "Ruština"
