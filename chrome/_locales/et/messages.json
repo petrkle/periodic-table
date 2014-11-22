@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Perioodilisustabel",
+    "description": "App name"
+  },
+  "appDesc": {
+    "message": "Lihtne perioodilisustabel",
+    "description": "App description"
+  }
+}
