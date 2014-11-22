@@ -23,7 +23,7 @@
 [% ELSE %]
 <table class="elementlist" cellspacing="0" cellpadding="0" border="0">
 [% FOREACH category IN categories %]
-<tr><td><a href="[% category.filename %].html" class="line closed" itemprop="url" title="[% l(category.fullname) %]"><span itemprop="title">[% l(category.fullname) %]</span></a></td></tr>
+<tr><td><a href="[% category.filename %].html" class="line closed" itemprop="url" title="[% l(category.fullname) FILTER remove('<.+>') %]"><span itemprop="title">[% l(category.fullname) %]</span></a></td></tr>
 [% END %]
 </table>
 [% END %]

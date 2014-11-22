@@ -1,9 +1,9 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" /> 
-	<title>[% l(title) %]</title>
-	<meta name="description" content="[% l(title) %]" /> 
-	<meta name="keywords" content="[% l(title) %]" /> 
+	<title>[% l(title) FILTER remove('<.+>') %]</title>
+	<meta name="description" content="[% l(title) FILTER remove('<.+>') %]" /> 
+	<meta name="keywords" content="[% l(title) FILTER remove('<.+>') %]" /> 
 	<link rel="stylesheet" type="text/css" href="../phone.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="../tablet7.css" media="screen and (min-width: 35em)" />
 	<link rel="stylesheet" type="text/css" href="../tablet10.css" media="screen and (min-width: 70em)" />
