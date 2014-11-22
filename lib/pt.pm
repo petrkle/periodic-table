@@ -34,8 +34,8 @@ use Exporter qw(import);
  
 our @EXPORT_OK = qw(get_langs geturl setlocales);
 
-our $VERSION = '22.11.1801';
-our $MSIGUID = '7643fd17-acda-45d2-b51e-fc562ead2426';
+our $VERSION = '14.11.2201';
+our $MSIGUID = 'ba6f846d-c2db-4bbd-b9c3-612505f1a19f';
 our $APPNAME = 'Periodic Table';
 
 sub get_langs{
