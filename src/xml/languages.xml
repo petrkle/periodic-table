@@ -82,4 +82,13 @@
 		<title>Sistema periódico</title>
 	</lang>
 
+	<lang>
+		<fullname>Estonian</fullname>
+		<fullnameloc>Eesti</fullnameloc>
+		<locales>et_EE</locales>
+		<android>et</android>
+		<browser>et-EE</browser>
+		<title>Perioodilisustabel</title>
+	</lang>
+
 </lagnuages>

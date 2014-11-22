@@ -273,3 +273,6 @@ msgstr "Menú"
 
 msgid "Russian"
 msgstr "Ruso"
+
+msgid "Estonian"
+msgstr "Estonio"

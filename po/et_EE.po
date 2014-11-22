@@ -1,0 +1,364 @@
+# Periodic Table - Estonian translation
+# Natali Bergman <bergnatali@gmail.com>, 2014
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Periodic table\n"
+"Language: et\n"
+
+#: 
+msgid "Periodic Table"
+msgstr "Perioodilisustabel"
+
+#: 
+msgid "Settings"
+msgstr "Seaded"
+
+#: 
+msgid "Language"
+msgstr "Keel"
+
+#: 
+msgid "About"
+msgstr "Meist"
+
+#: 
+msgid "English"
+msgstr "Inglise"
+
+#: 
+msgid "Czech"
+msgstr "Tšehhi"
+
+#: 
+msgid "Slovak"
+msgstr "Slovaki"
+
+#: 
+msgid "Default language"
+msgstr "Keel vaikimisi"
+
+#: 
+msgid "State"
+msgstr "Riik"
+
+#: 
+msgid "Solid"
+msgstr "Tahkis"
+
+#: 
+msgid "Liquid"
+msgstr "Vedelik"
+
+#: 
+msgid "Gas"
+msgstr "Gaas"
+
+#: 
+msgid "Symbol"
+msgstr "Sümbol"
+
+#: 
+msgid "Atomic number"
+msgstr "Aatomnumber"
+
+#: 
+msgid "Period"
+msgstr "Periood"
+
+#: 
+msgid "period"
+msgstr "periood"
+
+#: 
+msgid "Element category"
+msgstr "Elemedi rühm"
+
+#: 
+msgid "Relative atomic mass"
+msgstr "Suhteline aatommass"
+
+#: 
+msgid "Atomic mass"
+msgstr "Aatommass"
+
+#: 
+msgid "Group"
+msgstr "Rühm"
+
+#: 
+msgid "group"
+msgstr "rühm"
+
+#: 
+msgid "Electronegativity"
+msgstr "Elektro<wbr>negatiivsus"
+
+#: 
+msgid "Oxidation numbers"
+msgstr "Oksüdatsioon<wbr>iaste"
+
+#: 
+msgid "Electron configuration"
+msgstr "Elektron<wbr>konfigura<wbr>tsiooni"
+
+#: 
+msgid "Density"
+msgstr "Tihedus"
+
+#: 
+msgid "Melting point"
+msgstr "Sulamis<wbr>temperatuur"
+
+#: 
+msgid "Boiling point"
+msgstr "Keemis<wbr>temperatuur"
+
+#: 
+msgid "Critical point"
+msgstr "Kriitiline punkt"
+
+#: 
+msgid "Critical pressure"
+msgstr "Kriitiline rõhk"
+
+#: 
+msgid "Atomic radius"
+msgstr "Aatomraadius"
+
+#: 
+msgid "Covalent radius"
+msgstr "Kovalentne raadius"
+
+#: 
+msgid "Thermal conductivity"
+msgstr "Soojusjuh<wbr>tivus"
+
+#: 
+msgid "Discovery"
+msgstr "Avastamine"
+
+#: 
+msgid "Hardness"
+msgstr "Kõvadus"
+
+#: 
+msgid "Vickers hardness"
+msgstr "Kõvadus Vickersi skaalal"
+
+#: 
+msgid "Brinell hardness"
+msgstr "Kõvadus Brinelli skaalal"
+
+#: 
+msgid "Mohs scale"
+msgstr "Mohsi skaala"
+
+#: 
+msgid "Shear modulus"
+msgstr "Sheari moodul"
+
+#: 
+msgid "Young's modulus"
+msgstr "Youngi moodul"
+
+#: 
+msgid "Electrical resistivity"
+msgstr "Elektriline eritakistus"
+
+#: 
+msgid "Electrical conductivity"
+msgstr "Elektrijuhtivus"
+
+#: 
+msgid "Name"
+msgstr "Nimetus"
+
+#: 
+msgid "Latin name"
+msgstr "Ladinakeelne nimetus"
+
+#: 
+msgid "Version"
+msgstr "Versioon"
+
+#: 
+msgid "Created"
+msgstr "Loodud"
+
+#: 
+msgid "Author"
+msgstr "Autor"
+
+#: 
+msgid "Write review"
+msgstr "Kirjuta arvustus"
+
+#: 
+msgid "Noble gases"
+msgstr "Väärisgaasid"
+
+#: 
+msgid "Inner transition elements"
+msgstr "Sisesiirdeel<wbr>emendid"
+
+#: 
+msgid "Transition elements"
+msgstr "Siirdeel<wbr>emendid"
+
+#: 
+msgid "Metalloids"
+msgstr "Metalloidid"
+
+#: 
+msgid "Nonmetals"
+msgstr "Mittemetallid"
+
+#: 
+msgid "Alkaline earth metals"
+msgstr "Leelismuld<wbr>metallid"
+
+#: 
+msgid "Metals"
+msgstr "Metallid"
+
+#: 
+msgid "Halogens"
+msgstr "Halogeenid"
+
+#: 
+msgid "Alkali metals"
+msgstr "Leelis<wbr>metallid"
+
+#: 
+msgid "1.st ionization energy"
+msgstr "1. ionisatsiooni<wbr>energia"
+
+#: 
+msgid "2.nd ionization energy"
+msgstr "2. ionisatsiooni<wbr>energia"
+
+#: 
+msgid "3.rd ionization energy"
+msgstr "3. ionisatsiooni<wbr>energia"
+
+#: 
+msgid "Stable isotopes"
+msgstr "Stabiilsed isotoobid"
+
+#: 
+msgid "Unstable isotopes"
+msgstr "Ebastabiilsed isotoobid"
+
+#: 
+msgid "Substance"
+msgstr "Põhiolek"
+
+#: 
+msgid "Talc"
+msgstr "Talk"
+
+#: 
+msgid "Rock salt"
+msgstr "Jämesool"
+
+#: 
+msgid "Limestone"
+msgstr "Lubjakivi"
+
+#: 
+msgid "Fluorspar"
+msgstr "Fluoriit"
+
+#: 
+msgid "Apatite"
+msgstr "Apatiit"
+
+#: 
+msgid "Feldspar"
+msgstr "Päevakivi"
+
+#: 
+msgid "Quartz"
+msgstr "Kvarts"
+
+#: 
+msgid "Topaz"
+msgstr "Topaas"
+
+#: 
+msgid "Corundum"
+msgstr "Korund"
+
+#: 
+msgid "Diamond"
+msgstr "Teemant"
+
+#: 
+msgid "Antiquity"
+msgstr "Antiik"
+
+#: 
+msgid "Heat capacity"
+msgstr "Soojusmahtuvus"
+
+#: 
+msgid "Table view"
+msgstr "Tabeli vaade"
+
+#: 
+msgid "French"
+msgstr "Prantsuse"
+
+#: 
+msgid "Russian"
+msgstr "Vene"
+
+#: 
+msgid "German"
+msgstr "Saksa"
+
+#: 
+msgid "Spanish"
+msgstr "Hispaania"
+
+#: 
+msgid "Polish"
+msgstr "Poola"
+
+#: 
+msgid "Download"
+msgstr "Lae alla"
+
+#: 
+msgid "Links"
+msgstr "Lingid"
+
+#: 
+msgid "Source code"
+msgstr "Lähtekood"
+
+#: 
+msgid "Unknown"
+msgstr "Tundmatu"
+
+#: 
+msgid "Dutch"
+msgstr "Hollandi"
+
+#: 
+msgid "Portuguese"
+msgstr "Portugali"
+
+#: 
+msgid "Estonian"
+msgstr "Eesti"
+
+#: 
+msgid "Menu"
+msgstr "Menüü"
+

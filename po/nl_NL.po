@@ -274,3 +274,6 @@ msgstr "Onbekend"
 
 msgid "Menu"
 msgstr "Menu"
+
+msgid "Estonian"
+msgstr "Estlands"

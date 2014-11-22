@@ -273,3 +273,6 @@ msgstr "Nabídka"
 
 msgid "Russian"
 msgstr "Ruština"
+
+msgid "Estonian"
+msgstr "Estonština"
