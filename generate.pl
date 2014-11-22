@@ -272,6 +272,7 @@ if($location){
 
 	copy("src/robots.txt", "$OUT/robots.txt");
 	copy("src/.htaccess", "$OUT/.htaccess");
+	copy("src/browserconfig.xml", "$OUT/browserconfig.xml");
 }
 
 foreach my $dir (('css', 'img', 'font')){
