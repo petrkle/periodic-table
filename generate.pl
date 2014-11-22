@@ -227,9 +227,13 @@ foreach my $lang (@{$languages->{lang}}){
 		"$OUT/$lang->{locales}/mohs.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
+	my $Collator = Unicode::Collate::Locale->new(locale => $lang->{locales});
+
+	my @sortedbylang = sort {$Collator->cmp(decode('UTF-8',__($a->{fullname})), decode('UTF-8',__($b->{fullname})))} @{$languages->{lang}};
+
 	$t->process('language.html',
 		{	'title' => 'Language',
-			'languages' => $languages->{lang},
+			'languages' => [@sortedbylang],
 		},
 		"$OUT/$lang->{locales}/language.html",
 		{ binmode => ':utf8' }) or die $t->error;

@@ -12,6 +12,7 @@ use Locale::TextDomain ( 'ptable' ,  './locale/' );
 use Encode;
 use Text::Iconv;
 use Number::Format;
+use Unicode::Collate::Locale;
 use Scalar::Util qw(looks_like_number);
 Locale::Messages->select_package ('gettext_pp');
 use Getopt::Long;
