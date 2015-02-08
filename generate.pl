@@ -275,7 +275,7 @@ if($location){
 	copy("src/browserconfig.xml", "$OUT/browserconfig.xml");
 }
 
-foreach my $dir (('css', 'img', 'font')){
+foreach my $dir (('css', 'img')){
 	foreach my $file (glob("src/$dir/*")){
 		my ($name,$path) = fileparse($file);
 		copy("$path$name", "$OUT/$name");
