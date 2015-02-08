@@ -55,3 +55,28 @@ p{padding:1em;margin:0;text-align:center;}
 #catpanel p table{margin:auto;white-space:nowrap;}
 #tbmenu li{list-style:none;display:block;float:left;}
 #tbmenu li a{color:#009;text-decoration:underline;padding:0.5em;margin:1px;background:#eee;}
+@media screen and (min-width: 35em){
+	body{font-size:1.3em;}
+	#atom,#menubot,#mohs,.tableview td a{font-size:1em;}
+	.tableview td a{font-size:1.3em;padding:0.5em 0.3em;}
+	.tableview td a sub{font-size:0.4em;padding:1px;}
+	.stableview td a{display:block;padding:0.4em;margin:1px;position:relative;font-size:0.9em;}
+}
+@media screen and (min-width: 70em){
+	body{font-size:1.5em;}
+	#atom,#menubot,#mohs{font-size:1em;}
+	.tableview td a{font-size:2em;padding:0.4em 0.2em;}
+	.tableview td a sub{font-size:0.3em;padding:1px;}
+	.stableview td a{display:block;padding:0.5em;margin:1px;position:relative;font-size:1em;}
+}
+@media print{
+	body{background:#fff;color:#000;}
+	a img{border-width:0;}
+	a:link{color:#000;text-decoration:none;}
+	a:visited{color:#000;text-decoration:none;}
+	a:active{color:#000;text-decoration:none;}
+	#tbmenu,#catpanel,.tableview span{display:none;}
+	#atom{border:1px solid #000}
+	#atom th{padding:0.1em 0.4em;border-right:1px solid #000;border-bottom:1px solid #000;text-align:left;width:49%;}
+	#atom td{padding:0.1em 0.4em;border-bottom:1px solid #000;width:49%;}
+}
