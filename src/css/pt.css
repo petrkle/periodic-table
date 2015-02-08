@@ -1,59 +1,63 @@
-body{font-family:Arial,sans-serif;font-size:1.2em;line-height:1.7em;color:#000;background:#fff;margin:0;padding:0;}
-#header{width:100%;min-width:100%;background:#fb3 url("tts.png") no-repeat 100% 50%;font-size:1.5em;border-bottom:1px #999 solid;}
-.mtitle{font-size:1.5em;}
-#title a{display:block;padding:0.5em 0 0.5em 0;width:100%;height:100%;font-weight:normal;}
-#title a h1{padding:0 0.5em;font-size:0.8em;line-height:0.8em;}
-h2{font-size:1em;font-weight:bold;padding:0.8em;letter-spacing:-1px;background:#eee;border-bottom:1px #999 solid;margin:0;}
-a{color:#000;font-weight:bold;text-decoration:none;}
-a:link{color:#000;text-decoration:none;}
-a:visited{color:#000;text-decoration:none;}
-#home{color:#000;}
-.symbol{display:block;text-align:center;width:5em;background:#ddd;padding-bottom:2em;padding-top:2em;position:relative;}
-.snc{text-align:right;}
-.maxwidth{width:100%;}
-.anumber{font-size:0.5em;display:block;margin:0;padding:0;position:absolute;bottom:-2.5em;right:0.5em;}
-.elementam{display:block;text-align:center;width:8em;background:#ddd;cursor:pointer;padding-bottom:2em;padding-top:2em;}
-.elementname{padding:2em 1em;display:block;}
-.elementlist{width:100%;}
-.line{display:block;padding:2em 1em;border-bottom:1px #999 solid;margin:0;}
-.closed{background:#fff url("right.png") no-repeat 100% 50%;}
-.about{background:#fb3;text-align:center;}
-.element{display:block;background:#fff;padding:0;margin:0;border-bottom:1px #999 solid;cursor:pointer;}
-.tablelink{display:block;width:100%;height:100%;border:solid 1px #f00;}
-#atom{width: 100%;}
-#atom th{padding:1.5em 1em;border-right:1px solid #aaa;border-bottom:1px solid #aaa;text-align:left;width:49%;}
-#atom td{padding:0;border-bottom:1px solid #aaa;width:49%;}
-#atom td div{padding:1.5em 1em;}
-#atom td a {display:block;padding:1.5em 3em 1.5em 1em;font-weight:normal;background:#fff url("right.png") no-repeat 100% 50%;}
-#atom th a,#mohs td a{text-decoration:underline;color:#00f;}
-#mohs{width:100%;}
-#mohs th{padding:1em;text-align:center;}
-#mohs td{padding:1em;}
-#menubot{width:100%;}
-#menubot td{padding:0;text-align:center;width:50%;}
-#menubot .lscell a,#menubot .rscell a{display:block;padding:1em;}
-.lscell{border-bottom:1px solid #aaa;border-right:1px solid #aaa;}
-.rscell{border-bottom:1px solid #aaa;border-right:0;}
-p{padding:1em;margin:0;text-align:center;}
-.tableview,.stableview{text-align:center;width:100%;}
-.tableview td a,.maxwidth th a{display:block;padding:0.5em;margin:1px;position:relative;}
-.tableview td a sub{font-size:0.5em;display:block;margin:0;padding:0;position:absolute;bottom:0;right:0;}
-.stableview td a{display:block;padding:0.3em;margin:1px;position:relative;font-size:0.6em;}
-.maxwidth th a{background:#eee;}
-.alkali-metals{background:#690;}
-.halogens{background:#f96;}
-.alkaline-earth-metals{background:#9c0;}
-.metals{background:#999;}
-.nonmetals{background:#f44;}
-.metalloids{background:#c63;}
-.transition-elements{background:#fb3;}
-.inner-transition-elements{background:#33b5e5;}
-.noble-gases{background:#a6c;}
-.selected{outline:solid 2px #c00;}
-#catpanel p{margin:auto;text-align:center;}
-#catpanel p table{margin:auto;white-space:nowrap;}
-#tbmenu li{list-style:none;display:block;float:left;}
-#tbmenu li a{color:#009;text-decoration:underline;padding:0.5em;margin:1px;background:#eee;}
+@media all{
+	body{font-family:Arial,sans-serif;font-size:1.2em;line-height:1.7em;color:#000;background:#fff;margin:0;padding:0;}
+}
+@media screen{
+	#header{width:100%;min-width:100%;background:#fb3 url("tts.png") no-repeat 100% 50%;font-size:1.5em;border-bottom:1px #999 solid;}
+	.mtitle{font-size:1.5em;}
+	#title a{display:block;padding:0.5em 0 0.5em 0;width:100%;height:100%;font-weight:normal;}
+	#title a h1{padding:0 0.5em;font-size:0.8em;line-height:0.8em;}
+	h2{font-size:1em;font-weight:bold;padding:0.8em;letter-spacing:-1px;background:#eee;border-bottom:1px #999 solid;margin:0;}
+	a{color:#000;font-weight:bold;text-decoration:none;}
+	a:link{color:#000;text-decoration:none;}
+	a:visited{color:#000;text-decoration:none;}
+	#home{color:#000;}
+	.symbol{display:block;text-align:center;width:5em;background:#ddd;padding-bottom:2em;padding-top:2em;position:relative;}
+	.snc{text-align:right;}
+	.maxwidth{width:100%;}
+	.anumber{font-size:0.5em;display:block;margin:0;padding:0;position:absolute;bottom:-2.5em;right:0.5em;}
+	.elementam{display:block;text-align:center;width:8em;background:#ddd;cursor:pointer;padding-bottom:2em;padding-top:2em;}
+	.elementname{padding:2em 1em;display:block;}
+	.elementlist{width:100%;}
+	.line{display:block;padding:2em 1em;border-bottom:1px #999 solid;margin:0;}
+	.closed{background:#fff url("right.png") no-repeat 100% 50%;}
+	.about{background:#fb3;text-align:center;}
+	.element{display:block;background:#fff;padding:0;margin:0;border-bottom:1px #999 solid;cursor:pointer;}
+	.tablelink{display:block;width:100%;height:100%;border:solid 1px #f00;}
+	#atom{width: 100%;}
+	#atom th{padding:1.5em 1em;border-right:1px solid #aaa;border-bottom:1px solid #aaa;text-align:left;width:49%;}
+	#atom td{padding:0;border-bottom:1px solid #aaa;width:49%;}
+	#atom td div{padding:1.5em 1em;}
+	#atom td a {display:block;padding:1.5em 3em 1.5em 1em;font-weight:normal;background:#fff url("right.png") no-repeat 100% 50%;}
+	#atom th a,#mohs td a{text-decoration:underline;color:#00f;}
+	#mohs{width:100%;}
+	#mohs th{padding:1em;text-align:center;}
+	#mohs td{padding:1em;}
+	#menubot{width:100%;}
+	#menubot td{padding:0;text-align:center;width:50%;}
+	#menubot .lscell a,#menubot .rscell a{display:block;padding:1em;}
+	.lscell{border-bottom:1px solid #aaa;border-right:1px solid #aaa;}
+	.rscell{border-bottom:1px solid #aaa;border-right:0;}
+	p{padding:1em;margin:0;text-align:center;}
+	.tableview,.stableview{text-align:center;width:100%;}
+	.tableview td a,.maxwidth th a{display:block;padding:0.5em;margin:1px;position:relative;}
+	.tableview td a sub{font-size:0.5em;display:block;margin:0;padding:0;position:absolute;bottom:0;right:0;}
+	.stableview td a{display:block;padding:0.3em;margin:1px;position:relative;font-size:0.6em;}
+	.maxwidth th a{background:#eee;}
+	.alkali-metals{background:#690;}
+	.halogens{background:#f96;}
+	.alkaline-earth-metals{background:#9c0;}
+	.metals{background:#999;}
+	.nonmetals{background:#f44;}
+	.metalloids{background:#c63;}
+	.transition-elements{background:#fb3;}
+	.inner-transition-elements{background:#33b5e5;}
+	.noble-gases{background:#a6c;}
+	.selected{outline:solid 2px #c00;}
+	#catpanel p{margin:auto;text-align:center;}
+	#catpanel p table{margin:auto;white-space:nowrap;}
+	#tbmenu li{list-style:none;display:block;float:left;}
+	#tbmenu li a{color:#009;text-decoration:underline;padding:0.5em;margin:1px;background:#eee;}
+}
 @media screen and (min-width: 35em){
 	body{font-size:1.3em;}
 	#atom,#menubot,#mohs,.tableview td a{font-size:1em;}
@@ -74,8 +78,12 @@ p{padding:1em;margin:0;text-align:center;}
 	a:link{color:#000;text-decoration:none;}
 	a:visited{color:#000;text-decoration:none;}
 	a:active{color:#000;text-decoration:none;}
-	#tbmenu,#catpanel,.tableview span{display:none;}
+	#tbmenu,.stableview td a{display:none;}
 	#atom{border:1px solid #000}
 	#atom th{padding:0.1em 0.4em;border-right:1px solid #000;border-bottom:1px solid #000;text-align:left;width:49%;}
 	#atom td{padding:0.1em 0.4em;border-bottom:1px solid #000;width:49%;}
+	.maxwidth{border-left:1px solid #000;border-top:1px solid #000;}
+	.maxwidth td,.maxwidth th{border-right:1px solid #000;border-bottom:1px solid #000;padding:2px;}
+	.tableview td a sub{font-size:0.5em;}
+	#title,.stableview td{border:0;}
 }
