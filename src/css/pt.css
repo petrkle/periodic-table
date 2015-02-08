@@ -55,8 +55,10 @@
 	.selected{outline:solid 2px #c00;}
 	#catpanel p{margin:auto;text-align:center;}
 	#catpanel p table{margin:auto;white-space:nowrap;}
-	#tbmenu li{list-style:none;display:block;float:left;}
-	#tbmenu li a{color:#009;text-decoration:underline;padding:0.5em;margin:1px;background:#eee;}
+	.tbmenu,.tbmenu li{list-style:none;padding:0;margin:0;text-align:center;}
+	.tbmenu li a{color:#009;text-decoration:underline;padding:0.5em;margin:0;background:#eee;width:100%;display:block;border-bottom: solid 1px #999;}
+	.tbmenu li.last a{border-bottom:0;}
+	.undertable{margin-top:2em;}
 }
 @media screen and (min-width: 35em){
 	body{font-size:1.3em;}
@@ -64,6 +66,9 @@
 	.tableview td a{font-size:1.3em;padding:0.5em 0.3em;}
 	.tableview td a sub{font-size:0.4em;padding:1px;}
 	.stableview td a{display:block;padding:0.4em;margin:1px;position:relative;font-size:0.9em;}
+	.tbmenu,.tbmenu li{list-style:none;padding:0;margin:0;text-align:left;}
+	.tbmenu li a{color:#009;text-decoration:underline;padding:0.2em;margin:0.5em;background:#eee;display:block;float:left;width:auto;}
+	.tbmenu li a{border-bottom:0;}
 }
 @media screen and (min-width: 70em){
 	body{font-size:1.5em;}
@@ -78,7 +83,7 @@
 	a:link{color:#000;text-decoration:none;}
 	a:visited{color:#000;text-decoration:none;}
 	a:active{color:#000;text-decoration:none;}
-	#tbmenu,.stableview td a{display:none;}
+	.tbmenu,.stableview td a{display:none;}
 	#atom{border:1px solid #000}
 	#atom th{padding:0.1em 0.4em;border-right:1px solid #000;border-bottom:1px solid #000;text-align:left;width:49%;}
 	#atom td{padding:0.1em 0.4em;border-bottom:1px solid #000;width:49%;}

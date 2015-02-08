@@ -1,4 +1,4 @@
-<ul id="tbmenu">
+<ul class="tbmenu[%- IF nohomelink -%] undertable[%- END -%]">
 	[% IF !nohomelink %]
 	<li><a href="index.html" title="[% l("Periodic Table") %]">[% l("Periodic Table") %]</a></li>
 	[% END %]
@@ -6,5 +6,7 @@
 [% IF location %]
 	<li><a href="download.html" title="[% l("Download") %]">[% l("Download") %]</a></li>
 [% END %]
-	<li><a href="about.html" title="[% l("About") %]">[% l("About") %]</a></li>
+	[% IF nohomelink %]
+	<li class="last"><a href="about.html" title="[% l("About") %]">[% l("About") %]</a></li>
+	[% END %]
 </ul>
