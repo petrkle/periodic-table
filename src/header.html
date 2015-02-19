@@ -5,7 +5,9 @@
 	<meta name="description" content="[% l(title) FILTER remove('<.+>') %]" /> 
 	<meta name="keywords" content="[% l(title) FILTER remove('<.+>') %]" /> 
 	<link rel="stylesheet" type="text/css" href="../pt.css" media="all" />
-
+	<!--[if lt IE 10]>
+	<link rel="stylesheet" type="text/css" href="../pt.css" media="screen" />
+	<![endif]-->
 [% IF location %]
 
 	[% IF categories  and !nohomelink %]
@@ -38,18 +40,5 @@
 	[% INCLUDE favicon.html %]
 	[% END %]
 
-	<!--[if lt IE 10]>
-	<link rel="stylesheet" type="text/css" href="../pt.css" media="screen" />
-	<![endif]-->
 </head>
 <body itemscope itemtype="http://schema.org/Breadcrumb">
-[% IF location %]
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-1140497-14', 'kle.cz');
-  ga('send', 'pageview');
-</script>
-[% END %]
