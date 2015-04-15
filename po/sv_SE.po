@@ -1,0 +1,279 @@
+# Periodic table.
+# Copyright (C) 2015 Petr Kletečka
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Periodic table\n"
+"Last-Translator: Johan Torberger <johan.torberger@ownit.nu>\n"
+"Language: sv\n"
+
+msgid "Periodic Table"
+msgstr "Periodiska systemet"
+
+msgid "Settings"
+msgstr "Inställ<wbr>ningar"
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "About"
+msgstr "Om"
+
+msgid "English"
+msgstr "Engelska"
+
+msgid "Czech"
+msgstr "Tjekiska"
+
+msgid "Slovak"
+msgstr "Slovakiska"
+
+msgid "Default language"
+msgstr "Standard<wbr>språk"
+
+msgid "State"
+msgstr "Tillstånd"
+
+msgid "Solid"
+msgstr "Solid"
+
+msgid "Liquid"
+msgstr "Vätska"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Symbol"
+msgstr "Symbol"
+
+msgid "Atomic number"
+msgstr "Atomnummer"
+
+msgid "Period"
+msgstr "Fas"
+
+msgid "period"
+msgstr "fas"
+
+msgid "Element category"
+msgstr "Ämnes<wbr>klass"
+
+msgid "Relative atomic mass"
+msgstr "Relativ atommassa"
+
+msgid "Atomic mass"
+msgstr "Atommassa"
+
+msgid "Group"
+msgstr "Grupp"
+
+msgid "group"
+msgstr "grupp"
+
+msgid "Electronegativity"
+msgstr "Elektro<wbr>negativitet"
+
+msgid "Oxidation numbers"
+msgstr "Oxidationstal"
+
+msgid "Electron configuration"
+msgstr "Elektron<wbr>konfiguration"
+
+msgid "Density"
+msgstr "Densitet"
+
+msgid "Melting point"
+msgstr "Smält<wbr>punkt"
+
+msgid "Boiling point"
+msgstr "Kokpunkt"
+
+msgid "Critical point"
+msgstr "Kritisk punkt"
+
+msgid "Critical pressure"
+msgstr "Kritiskt tryck"
+
+msgid "Atomic radius"
+msgstr "Atomradie"
+
+msgid "Covalent radius"
+msgstr "Kovalent<wbr>radie"
+
+msgid "Thermal conductivity"
+msgstr "Värme<wbr>lednings<wbr>förmåga"
+
+msgid "Discovery"
+msgstr "Upptäckt"
+
+msgid "Hardness"
+msgstr "Hårdhet"
+
+msgid "Vickers hardness"
+msgstr "Vickers<wbr>hårdhet"
+
+msgid "Brinell hardness"
+msgstr "Brinell<wbr>hårdhet"
+
+msgid "Mohs scale"
+msgstr "Mohs skala"
+
+msgid "Shear modulus"
+msgstr "Skjuvmodul"
+
+msgid "Young's modulus"
+msgstr "Elasticitets<wbr>modul"
+
+msgid "Electrical resistivity"
+msgstr "Elektrisk resisti<wbr>vitet"
+
+msgid "Electrical conductivity"
+msgstr "Elektrisk lednings<wbr>förmåga"
+
+msgid "Name"
+msgstr "Namn"
+
+msgid "Latin name"
+msgstr "Latinskt namn"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Created"
+msgstr "Skapad"
+
+msgid "Author"
+msgstr "Skapare"
+
+msgid "Write review"
+msgstr "Skriv recension"
+
+msgid "Noble gases"
+msgstr "Ädelgaser"
+
+msgid "Inner transition elements"
+msgstr "Inre övergångs<wbr>metallerna"
+
+msgid "Transition elements"
+msgstr "Övergångs<wbr>metaller"
+
+msgid "Metalloids"
+msgstr "Halvmetaller"
+
+msgid "Nonmetals"
+msgstr "Icke-metaller"
+
+msgid "Alkaline earth metals"
+msgstr "Jordarts<wbr>metaller"
+
+msgid "Metals"
+msgstr "Metaller"
+
+msgid "Halogens"
+msgstr "Halogener"
+
+msgid "Alkali metals"
+msgstr "Alkali<wbr>metaller"
+
+msgid "1.st ionization energy"
+msgstr "1a jonisations<wbr>potential"
+
+msgid "2.nd ionization energy"
+msgstr "2a jonisations<wbr>potential"
+
+msgid "3.rd ionization energy"
+msgstr "3e jonisations<wbr>potential"
+
+msgid "Stable isotopes"
+msgstr "Stabila isotoper"
+
+msgid "Unstable isotopes"
+msgstr "Instabila isotoper"
+
+msgid "Substance"
+msgstr "Substans"
+
+msgid "Talc"
+msgstr "Talk"
+
+msgid "Rock salt"
+msgstr "Bergssalt"
+
+msgid "Limestone"
+msgstr "Kalksten"
+
+msgid "Fluorspar"
+msgstr "Fluorit"
+
+msgid "Apatite"
+msgstr "Apatit"
+
+msgid "Feldspar"
+msgstr "Fältspat"
+
+msgid "Quartz"
+msgstr "Kvarts"
+
+msgid "Topaz"
+msgstr "Topas"
+
+msgid "Corundum"
+msgstr "Korund"
+
+msgid "Diamond"
+msgstr "Diamant"
+
+msgid "Antiquity"
+msgstr "Antiken"
+
+msgid "Heat capacity"
+msgstr "Värme<wbr>kapacitet"
+
+msgid "Table view"
+msgstr "Bordsvy"
+
+msgid "French"
+msgstr "Franska"
+
+msgid "Russian"
+msgstr "Ryska"
+
+msgid "German"
+msgstr "Tyska"
+
+msgid "Spanish"
+msgstr "Spanska"
+
+msgid "Polish"
+msgstr "Polska"
+
+msgid "Download"
+msgstr "Ladda ner"
+
+msgid "Links"
+msgstr "Länkar"
+
+msgid "Source code"
+msgstr "Källkod"
+
+msgid "Unknown"
+msgstr "Okänd"
+
+msgid "Dutch"
+msgstr "Nederländska"
+
+msgid "Portuguese"
+msgstr "Portugisiska"
+
+msgid "Estonian"
+msgstr "Estonska"
+
+msgid "Menu"
+msgstr "Meny"
+
+msgid "Swedish"
+msgstr "Svenska"
+

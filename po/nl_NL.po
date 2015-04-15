@@ -277,3 +277,6 @@ msgstr "Menu"
 
 msgid "Estonian"
 msgstr "Estlands"
+
+msgid "Swedish"
+msgstr "Zweedse"

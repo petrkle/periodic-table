@@ -38,6 +38,7 @@
     <name_nl_NL>Stikstof</name_nl_NL>
     <name_ru_RU>Азот</name_ru_RU>
     <name_et_EE>Lämmastik</name_et_EE>
+    <name_sv_SE>Kväve</name_sv_SE>
   </element>
   <element>
     <anumber>15</anumber>
@@ -76,6 +77,7 @@
     <name_nl_NL>Fosfor</name_nl_NL>
     <name_ru_RU>Фосфор</name_ru_RU>
     <name_et_EE>Fosfor</name_et_EE>
+    <name_sv_SE>Fosfor</name_sv_SE>
   </element>
   <element>
     <anumber>8</anumber>
@@ -115,6 +117,7 @@
     <name_nl_NL>Zuurstof</name_nl_NL>
     <name_ru_RU>Кислород</name_ru_RU>
     <name_et_EE>Hapnik</name_et_EE>
+    <name_sv_SE>Syre</name_sv_SE>
   </element>
   <element>
     <anumber>34</anumber>
@@ -157,6 +160,7 @@
     <name_nl_NL>Seleen</name_nl_NL>
     <name_ru_RU>Селен</name_ru_RU>
     <name_et_EE>Seleen</name_et_EE>
+    <name_sv_SE>Selen</name_sv_SE>
   </element>
   <element>
     <anumber>16</anumber>
@@ -197,6 +201,7 @@
     <name_nl_NL>Zwavel</name_nl_NL>
     <name_ru_RU>Сера</name_ru_RU>
     <name_et_EE>Väävel</name_et_EE>
+    <name_sv_SE>Svavel</name_sv_SE>
   </element>
   <element>
     <anumber>6</anumber>
@@ -235,6 +240,7 @@
     <name_nl_NL>Koolstof</name_nl_NL>
     <name_ru_RU>Углерод</name_ru_RU>
     <name_et_EE>Süsinik</name_et_EE>
+    <name_sv_SE>Kol</name_sv_SE>
   </element>
   <element>
     <anumber>1</anumber>
@@ -271,5 +277,6 @@
     <name_nl_NL>Waterstof</name_nl_NL>
     <name_ru_RU>Водород</name_ru_RU>
     <name_et_EE>Vesinik</name_et_EE>
+    <name_sv_SE>Väte</name_sv_SE>
   </element>
 </elements>

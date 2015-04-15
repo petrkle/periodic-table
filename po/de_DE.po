@@ -277,3 +277,6 @@ msgstr "Russisch"
 
 msgid "Estonian"
 msgstr "Estnisch"
+
+msgid "Swedish"
+msgstr "Schwedisch"

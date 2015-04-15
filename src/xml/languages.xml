@@ -79,7 +79,7 @@
 		<locales>ru_RU</locales>
 		<android>ru</android>
 		<browser>ru-RU</browser>
-		<title>Sistema periódico</title>
+		<title>Таблица Менделеева</title>
 	</lang>
 
 	<lang>
@@ -89,6 +89,14 @@
 		<android>et</android>
 		<browser>et-EE</browser>
 		<title>Perioodilisustabel</title>
+	</lang>
+	<lang>
+        <fullname>Swedish</fullname>
+        <fullnameloc>Svenska</fullnameloc>
+        <locales>sv_SE</locales>
+        <android>sv</android>
+        <browser>sv-SE</browser>
+        <title>Periodiska systemet</title>
 	</lang>
 
 </lagnuages>

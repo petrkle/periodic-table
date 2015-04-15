@@ -42,6 +42,7 @@
     <name_nl_NL>Beryllium</name_nl_NL>
     <name_ru_RU>Бериллий</name_ru_RU>
     <name_et_EE>Berüllium</name_et_EE>
+    <name_sv_SE>Beryllium</name_sv_SE>
   </element>
   <element>
     <anumber>83</anumber>
@@ -84,6 +85,7 @@
     <name_nl_NL>Bismut</name_nl_NL>
     <name_ru_RU>Висмут</name_ru_RU>
     <name_et_EE>Vismut</name_et_EE>
+    <name_sv_SE>Vismut</name_sv_SE>
   </element>
   <element>
     <anumber>50</anumber>
@@ -126,6 +128,7 @@
     <name_nl_NL>Tin</name_nl_NL>
     <name_ru_RU>Олово</name_ru_RU>
     <name_et_EE>Tina</name_et_EE>
+    <name_sv_SE>Tenn</name_sv_SE>
   </element>
   <element>
     <anumber>31</anumber>
@@ -166,6 +169,7 @@
     <name_nl_NL>Gallium</name_nl_NL>
     <name_ru_RU>Галлий</name_ru_RU>
     <name_et_EE>Gallium</name_et_EE>
+    <name_sv_SE>Gallium</name_sv_SE>
   </element>
   <element>
     <anumber>13</anumber>
@@ -210,6 +214,7 @@
     <name_nl_NL>Aluminium</name_nl_NL>
     <name_ru_RU>Алюминий</name_ru_RU>
     <name_et_EE>Alumiinium</name_et_EE>
+    <name_sv_SE>Aluminium</name_sv_SE>
   </element>
   <element>
     <anumber>12</anumber>
@@ -252,6 +257,7 @@
     <name_nl_NL>Magnesium</name_nl_NL>
     <name_ru_RU>Магний</name_ru_RU>
     <name_et_EE>Magneesium</name_et_EE>
+    <name_sv_SE>Magnesium</name_sv_SE>
   </element>
   <element>
     <anumber>49</anumber>
@@ -292,6 +298,7 @@
     <name_nl_NL>Indium</name_nl_NL>
     <name_ru_RU>Индий</name_ru_RU>
     <name_et_EE>Indium</name_et_EE>
+    <name_sv_SE>Indium</name_sv_SE>
   </element>
   <element>
     <anumber>82</anumber>
@@ -335,6 +342,7 @@
     <name_nl_NL>Lood</name_nl_NL>
     <name_ru_RU>Свинец</name_ru_RU>
     <name_et_EE>Plii</name_et_EE>
+    <name_sv_SE>Bly</name_sv_SE>
   </element>
   <element>
     <anumber>84</anumber>
@@ -368,6 +376,7 @@
     <name_nl_NL>Polonium</name_nl_NL>
     <name_ru_RU>Полоний</name_ru_RU>
     <name_et_EE>Poloonium</name_et_EE>
+    <name_sv_SE>Polonium</name_sv_SE>
   </element>
   <element>
     <anumber>81</anumber>
@@ -407,6 +416,7 @@
     <name_nl_NL>Thallium</name_nl_NL>
     <name_ru_RU>Таллий</name_ru_RU>
     <name_et_EE>Tallium</name_et_EE>
+    <name_sv_SE>Tallium</name_sv_SE>
   </element>
   <element>
     <anumber>113</anumber>
@@ -433,6 +443,7 @@
     <name_nl_NL>Ununtrium</name_nl_NL>
     <name_ru_RU>Унунтрий</name_ru_RU>
     <name_et_EE>Ununtrium</name_et_EE>
+    <name_sv_SE>Ununtrium</name_sv_SE>
   </element>
   <element>
     <anumber>114</anumber>
@@ -459,6 +470,7 @@
     <name_nl_NL>Flerovium</name_nl_NL>
     <name_ru_RU>Флеровий</name_ru_RU>
     <name_et_EE>Fleroovium</name_et_EE>
+    <name_sv_SE>Flerovium</name_sv_SE>
   </element>
   <element>
     <anumber>115</anumber>
@@ -485,6 +497,7 @@
     <name_nl_NL>Ununpentium</name_nl_NL>
     <name_ru_RU>Унунпентий</name_ru_RU>
     <name_et_EE>Ununpentium</name_et_EE>
+    <name_sv_SE>Ununpentium</name_sv_SE>
   </element>
   <element>
     <anumber>116</anumber>
@@ -511,5 +524,6 @@
     <name_nl_NL>Livermorium</name_nl_NL>
     <name_ru_RU>Ливерморий</name_ru_RU>
     <name_et_EE>Livermoorium</name_et_EE>
+    <name_sv_SE>Livermorium</name_sv_SE>
   </element>
 </elements>

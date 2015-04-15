@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Periodiska systemet",
+    "description": "App name"
+  },
+  "appDesc": {
+    "message": "Periodiska systemet.",
+    "description": "App description"
+  }
+}

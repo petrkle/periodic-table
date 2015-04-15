@@ -36,6 +36,7 @@
     <name_nl_NL>Argon</name_nl_NL>
     <name_ru_RU>Аргон</name_ru_RU>
     <name_et_EE>Argoon</name_et_EE>
+    <name_sv_SE>Argon</name_sv_SE>
   </element>
   <element>
     <anumber>2</anumber>
@@ -70,6 +71,7 @@
     <name_nl_NL>Helium</name_nl_NL>
     <name_ru_RU>Гелий</name_ru_RU>
     <name_et_EE>Heelium</name_et_EE>
+    <name_sv_SE>Helium</name_sv_SE>
   </element>
   <element>
     <anumber>36</anumber>
@@ -108,6 +110,7 @@
     <name_nl_NL>Krypton</name_nl_NL>
     <name_ru_RU>Криптон</name_ru_RU>
     <name_et_EE>Krüptoon</name_et_EE>
+    <name_sv_SE>Krypton</name_sv_SE>
   </element>
   <element>
     <anumber>10</anumber>
@@ -145,6 +148,7 @@
     <name_nl_NL>Neon</name_nl_NL>
     <name_ru_RU>Неон</name_ru_RU>
     <name_et_EE>Neoon</name_et_EE>
+    <name_sv_SE>Neon</name_sv_SE>
   </element>
   <element>
     <anumber>86</anumber>
@@ -181,6 +185,7 @@
     <name_nl_NL>Radon</name_nl_NL>
     <name_ru_RU>Радон</name_ru_RU>
     <name_et_EE>Radoon</name_et_EE>
+    <name_sv_SE>Radon</name_sv_SE>
   </element>
   <element>
     <anumber>54</anumber>
@@ -219,6 +224,7 @@
     <name_nl_NL>Xenon</name_nl_NL>
     <name_ru_RU>Ксенон</name_ru_RU>
     <name_et_EE>Ksenoon</name_et_EE>
+    <name_sv_SE>Xenon</name_sv_SE>
   </element>
   <element>
     <anumber>118</anumber>
@@ -245,5 +251,6 @@
     <name_nl_NL>Ununoctium</name_nl_NL>
     <name_ru_RU>Унуноктий</name_ru_RU>
     <name_et_EE>Ununoktium</name_et_EE>
+    <name_sv_SE>Ununoktium</name_sv_SE>
   </element>
 </elements>
