@@ -1,59 +1,35 @@
-# Periodic table.
-# Copyright (C) 2013 Petr Kletečka
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sistema periódico\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-04 13:39+0200\n"
-"PO-Revision-Date: 2013-10-22 12:51+0100\n"
-"Last-Translator: Petr Kletečka <petr@kle.cz>\n"
-"Language-Team: Spanish <petr@kle.cz>\n"
-"Language: es_ES\n"
+"Last-Translator: Dario Silva <dariolancer@gmail.com>\n"
+"Language: pt-BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Periodic Table"
-msgstr "Sistema periódico"
+msgstr "Tabela Periódica"
 
 msgid "Settings"
-msgstr "Ajuste"
+msgstr "Ajustes"
 
 msgid "Language"
 msgstr "Idioma"
 
 msgid "About"
-msgstr "Acerca de"
+msgstr "Sobre"
 
 msgid "English"
-msgstr "Inglés"
+msgstr "Inglês"
 
 msgid "Czech"
-msgstr "Checo"
+msgstr "Tcheco"
 
 msgid "Slovak"
 msgstr "Eslovaco"
 
-msgid "German"
-msgstr "Alemán"
-
-msgid "French"
-msgstr "Francés"
-
-msgid "Polish"
-msgstr "Polaco"
-
-msgid "Spanish"
-msgstr "Español"
-
-msgid "Dutch"
-msgstr "Holandés"
-
 msgid "Default language"
-msgstr "Idioma predeterminado"
+msgstr "Idioma padrão"
 
 msgid "State"
 msgstr "Estado"
@@ -65,13 +41,13 @@ msgid "Liquid"
 msgstr "Líquido"
 
 msgid "Gas"
-msgstr "Gaseoso"
+msgstr "Gasoso"
 
 msgid "Symbol"
 msgstr "Símbolo"
 
 msgid "Atomic number"
-msgstr "Número"
+msgstr "Número atômico"
 
 msgid "Period"
 msgstr "Período"
@@ -80,13 +56,13 @@ msgid "period"
 msgstr "período"
 
 msgid "Element category"
-msgstr "Especies"
+msgstr "Categoria do elemento"
 
 msgid "Relative atomic mass"
-msgstr "Masa atómica relativa"
+msgstr "Massa atômica relativa"
 
 msgid "Atomic mass"
-msgstr "Masa atómica"
+msgstr "Massa atômica"
 
 msgid "Group"
 msgstr "Grupo"
@@ -95,40 +71,40 @@ msgid "group"
 msgstr "grupo"
 
 msgid "Electronegativity"
-msgstr "Electro<wbr>negatividad"
+msgstr "Eletronegatividade"
 
 msgid "Oxidation numbers"
-msgstr "Estado(s) de oxidación"
+msgstr "Números de oxidação"
 
 msgid "Electron configuration"
-msgstr "Configuración electrónica"
+msgstr "Configuração eletrônica"
 
 msgid "Density"
-msgstr "Densidad"
+msgstr "Densidade"
 
 msgid "Melting point"
-msgstr "Punto de fusión"
+msgstr "Ponto de fusão"
 
 msgid "Boiling point"
-msgstr "Punto de ebullición"
+msgstr "Ponto de ebulição"
 
 msgid "Critical point"
-msgstr "Punto crítico"
+msgstr "Ponto crítico"
 
 msgid "Critical pressure"
-msgstr "Presión crítico"
+msgstr "Pressão crítica"
 
 msgid "Atomic radius"
-msgstr "Radio atómico"
+msgstr "Raio atômico"
 
 msgid "Covalent radius"
-msgstr "Radio covalente"
+msgstr "Raio covalente"
 
 msgid "Thermal conductivity"
-msgstr "Conductividad térmica"
+msgstr "Condutividade térmica"
 
 msgid "Discovery"
-msgstr "Descubrimi<wbr>ento"
+msgstr "Descoberta"
 
 msgid "Hardness"
 msgstr "Dureza"
@@ -143,145 +119,160 @@ msgid "Mohs scale"
 msgstr "Escala de Mohs"
 
 msgid "Shear modulus"
-msgstr "Módulo de cizalladura"
+msgstr "Módulo de cisalhamento"
 
 msgid "Young's modulus"
 msgstr "Módulo de Young"
 
 msgid "Electrical resistivity"
-msgstr "Resistividad"
+msgstr "Resistividade elétrica"
 
 msgid "Electrical conductivity"
-msgstr "Conductividad eléctrica"
+msgstr "Condutividade elétrica"
 
 msgid "Name"
-msgstr "Nombre"
+msgstr "Nome"
 
 msgid "Latin name"
-msgstr "Nombre latino"
+msgstr "Nome (latim)"
 
 msgid "Version"
-msgstr "Versión"
+msgstr "Versão"
 
 msgid "Created"
-msgstr "Creado"
+msgstr "Criado"
 
 msgid "Author"
-msgstr "Artífice"
+msgstr "Autor"
 
 msgid "Write review"
-msgstr "Escribir un comentario"
+msgstr "Escrever Análise"
 
 msgid "Noble gases"
-msgstr "Gases nobles"
+msgstr "Gases Nobres"
 
 msgid "Inner transition elements"
-msgstr "Elementos de transición interna"
+msgstr "Elementos de transição interna"
 
 msgid "Transition elements"
-msgstr "Metales de transición"
+msgstr "Elementos de transição"
 
 msgid "Metalloids"
 msgstr "Metaloides"
 
 msgid "Nonmetals"
-msgstr "No metales"
+msgstr "Não-metais"
 
 msgid "Alkaline earth metals"
-msgstr "Metales alcalino<wbr>térreos"
+msgstr "Metais alcalino-terrosos"
 
 msgid "Metals"
-msgstr "Metales"
+msgstr "Metais"
 
 msgid "Halogens"
 msgstr "Halógenos"
 
 msgid "Alkali metals"
-msgstr "Alcalinos"
+msgstr "Metais alcalinos"
 
 msgid "1.st ionization energy"
-msgstr "1.ª Energía de ionización"
+msgstr "Energia de 1ª ionização"
 
 msgid "2.nd ionization energy"
-msgstr "2.ª Energía de ionización"
+msgstr "Energia de 2ª ionização"
 
 msgid "3.rd ionization energy"
-msgstr "3.ª Energía de ionización"
+msgstr "Energia de 3ª ionização"
 
 msgid "Stable isotopes"
-msgstr "Isótopos estables"
+msgstr "Isótopos estáveis"
 
 msgid "Unstable isotopes"
-msgstr "Isótopos inestables"
+msgstr "Isótopos instáveis"
 
 msgid "Substance"
-msgstr "Sustancia"
+msgstr "Substância"
 
 msgid "Talc"
 msgstr "Talco"
 
 msgid "Rock salt"
-msgstr "Yeso"
+msgstr "Sal-gema"
 
 msgid "Limestone"
-msgstr "Calcita"
+msgstr "Calcário"
 
 msgid "Fluorspar"
-msgstr "Fluorita"
+msgstr "Espatoflúor"
 
 msgid "Apatite"
 msgstr "Apatita"
 
 msgid "Feldspar"
-msgstr "Ortoclasa"
+msgstr "Feldspato"
 
 msgid "Quartz"
-msgstr "Cuarzo"
+msgstr "Quartzo"
 
 msgid "Topaz"
-msgstr "Topacio"
+msgstr "Topázio"
 
 msgid "Corundum"
-msgstr "Corindón"
+msgstr "Coríndon"
 
 msgid "Diamond"
 msgstr "Diamante"
 
 msgid "Antiquity"
-msgstr "Antigüedad"
+msgstr "Antiguidade"
 
 msgid "Heat capacity"
-msgstr "Capacidad calorífica"
+msgstr "Capacidade térmica"
 
 msgid "Table view"
-msgstr "Tabla"
+msgstr "Tabela"
 
-msgid "Download"
-msgstr "Descargar"
-
-msgid "Links"
-msgstr "Enlaces"
-
-msgid "Source code"
-msgstr "El código fuente"
-
-msgid "Unknown"
-msgstr "Desconocido"
-
-msgid "Menu"
-msgstr "Menú"
+msgid "French"
+msgstr "Francês"
 
 msgid "Russian"
-msgstr "Ruso"
+msgstr "Russo"
+
+msgid "German"
+msgstr "Alemão"
+
+msgid "Spanish"
+msgstr "Espanhol"
+
+msgid "Polish"
+msgstr "Polonês"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Source code"
+msgstr "Código fonte"
+
+msgid "Unknown"
+msgstr "Desconhecido"
+
+msgid "Dutch"
+msgstr "Holandês"
+
+msgid "Portuguese"
+msgstr "Português"
 
 msgid "Estonian"
-msgstr "Estonio"
+msgstr "Estoniano"
+
+msgid "Menu"
+msgstr "Menu"
 
 msgid "Swedish"
 msgstr "Sueco"
 
-msgid "Portuguese"
-msgstr "Portugués"
-
 msgid "Brazilian Portuguese"
-msgstr "Portugués Brasileño"
+msgstr "Português brasileiro"

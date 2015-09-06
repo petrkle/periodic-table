@@ -41,6 +41,7 @@
     <name_ru_RU>Цезий</name_ru_RU>
     <name_et_EE>Tseesium</name_et_EE>
     <name_sv_SE>Cesium</name_sv_SE>
+    <name_pt_BR>Césio</name_pt_BR>
   </element>
   <element>
     <anumber>19</anumber>
@@ -84,6 +85,7 @@
     <name_ru_RU>Калий</name_ru_RU>
     <name_et_EE>Kaalium</name_et_EE>
     <name_sv_SE>Kalium</name_sv_SE>
+    <name_pt_BR>Potássio</name_pt_BR>
   </element>
   <element>
     <anumber>87</anumber>
@@ -115,6 +117,7 @@
     <name_ru_RU>Франций</name_ru_RU>
     <name_et_EE>Frantsium</name_et_EE>
     <name_sv_SE>Francium</name_sv_SE>
+    <name_pt_BR>Frâncio</name_pt_BR>
   </element>
   <element>
     <anumber>3</anumber>
@@ -156,6 +159,7 @@
     <name_ru_RU>Литий</name_ru_RU>
     <name_et_EE>Liitium</name_et_EE>
     <name_sv_SE>Litium</name_sv_SE>
+    <name_pt_BR>Lítio</name_pt_BR>
   </element>
   <element>
     <anumber>37</anumber>
@@ -200,6 +204,7 @@
     <name_ru_RU>Рубидий</name_ru_RU>
     <name_et_EE>Rubiidium</name_et_EE>
     <name_sv_SE>Rubidium</name_sv_SE>
+    <name_pt_BR>Rubídio</name_pt_BR>
   </element>
   <element>
     <anumber>11</anumber>
@@ -245,5 +250,6 @@
     <name_ru_RU>Натрий</name_ru_RU>
     <name_et_EE>Naatrium</name_et_EE>
     <name_sv_SE>Natrium</name_sv_SE>
+    <name_pt_BR>Sódio</name_pt_BR>
   </element>
 </elements>

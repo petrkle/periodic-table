@@ -38,6 +38,7 @@
     <name_ru_RU>Барий</name_ru_RU>
     <name_et_EE>Baarium</name_et_EE>
     <name_sv_SE>Barium</name_sv_SE>
+    <name_pt_BR>Bário</name_pt_BR>
   </element>
   <element>
     <anumber>88</anumber>
@@ -74,6 +75,7 @@
     <name_ru_RU>Радий</name_ru_RU>
     <name_et_EE>Raadium</name_et_EE>
     <name_sv_SE>Radium</name_sv_SE>
+    <name_pt_BR>Rádio</name_pt_BR>
   </element>
   <element>
     <anumber>38</anumber>
@@ -114,6 +116,7 @@
     <name_ru_RU>Стронций</name_ru_RU>
     <name_et_EE>Strontsium</name_et_EE>
     <name_sv_SE>Strontium</name_sv_SE>
+    <name_pt_BR>Estrôncio</name_pt_BR>
   </element>
   <element>
     <anumber>20</anumber>
@@ -155,5 +158,6 @@
     <name_ru_RU>Кальций</name_ru_RU>
     <name_et_EE>Kaltsium</name_et_EE>
     <name_sv_SE>Kalcium</name_sv_SE>
+    <name_pt_BR>Cálcio</name_pt_BR>
   </element>
 </elements>

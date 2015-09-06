@@ -280,3 +280,9 @@ msgstr "Estónčina"
 
 msgid "Swedish"
 msgstr "Švédčina"
+
+msgid "Portuguese"
+msgstr "Portugalčina"
+
+msgid "Brazilian Portuguese"
+msgstr "Brazílska portugalčina"

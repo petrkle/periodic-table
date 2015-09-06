@@ -37,7 +37,6 @@ msgstr "Язык по умолчянию"
 msgid "State"
 msgstr "Страна"
 
-#, fuzzy
 msgid "Solid"
 msgstr "Плотный"
 
@@ -266,9 +265,6 @@ msgstr "Неизвестный"
 msgid "Dutch"
 msgstr "Голландский"
 
-msgid "Portuguese"
-msgstr "Португальский"
-
 msgid "Estonian"
 msgstr "Эстонский"
 
@@ -277,3 +273,9 @@ msgstr "Меню"
 
 msgid "Swedish"
 msgstr "Шведский"
+
+msgid "Portuguese"
+msgstr "Португальский"
+
+msgid "Brazilian Portuguese"
+msgstr "Бразильский португальский"

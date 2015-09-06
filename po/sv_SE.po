@@ -265,9 +265,6 @@ msgstr "Okänd"
 msgid "Dutch"
 msgstr "Nederländska"
 
-msgid "Portuguese"
-msgstr "Portugisiska"
-
 msgid "Estonian"
 msgstr "Estonska"
 
@@ -277,3 +274,8 @@ msgstr "Meny"
 msgid "Swedish"
 msgstr "Svenska"
 
+msgid "Portuguese"
+msgstr "Portugisiska"
+
+msgid "Brazilian Portuguese"
+msgstr "Brasiliansk portugisiska"

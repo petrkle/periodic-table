@@ -42,6 +42,7 @@
     <name_ru_RU>Сурьма</name_ru_RU>
     <name_et_EE>Antimon</name_et_EE>
     <name_sv_SE>Antimon</name_sv_SE>
+    <name_pt_BR>Antimônio</name_pt_BR>
   </element>
   <element>
     <anumber>33</anumber>
@@ -84,6 +85,7 @@
     <name_ru_RU>Мышьяк</name_ru_RU>
     <name_et_EE>Arseen</name_et_EE>
     <name_sv_SE>Arsenik</name_sv_SE>
+    <name_pt_BR>Arsênio</name_pt_BR>
   </element>
   <element>
     <anumber>5</anumber>
@@ -125,6 +127,7 @@
     <name_ru_RU>Бор</name_ru_RU>
     <name_et_EE>Boor</name_et_EE>
     <name_sv_SE>Bor</name_sv_SE>
+    <name_pt_BR>Boro</name_pt_BR>
   </element>
   <element>
     <anumber>32</anumber>
@@ -163,6 +166,7 @@
     <name_ru_RU>Германий</name_ru_RU>
     <name_et_EE>Germaanium</name_et_EE>
     <name_sv_SE>Germanium</name_sv_SE>
+    <name_pt_BR>Germânio</name_pt_BR>
   </element>
   <element>
     <anumber>14</anumber>
@@ -204,6 +208,7 @@
     <name_ru_RU>Кремний</name_ru_RU>
     <name_et_EE>Räni</name_et_EE>
     <name_sv_SE>Kisel</name_sv_SE>
+    <name_pt_BR>Silício</name_pt_BR>
   </element>
   <element>
     <anumber>52</anumber>
@@ -247,5 +252,6 @@
     <name_ru_RU>Теллур</name_ru_RU>
     <name_et_EE>Telluur</name_et_EE>
     <name_sv_SE>Tellur</name_sv_SE>
+    <name_pt_BR>Telúrio</name_pt_BR>
   </element>
 </elements>

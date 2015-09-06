@@ -32,6 +32,7 @@
     <name_ru_RU>Америций</name_ru_RU>
     <name_et_EE>Ameriitsium</name_et_EE>
     <name_sv_SE>Americium</name_sv_SE>
+    <name_pt_BR>Amerício</name_pt_BR>
   </element>
   <element>
     <anumber>97</anumber>
@@ -63,6 +64,7 @@
     <name_ru_RU>Берклий</name_ru_RU>
     <name_et_EE>Berkeelium</name_et_EE>
     <name_sv_SE>Berkelium</name_sv_SE>
+    <name_pt_BR>Berquélio</name_pt_BR>
   </element>
   <element>
     <anumber>58</anumber>
@@ -106,6 +108,7 @@
     <name_ru_RU>Церий</name_ru_RU>
     <name_et_EE>Tseerium</name_et_EE>
     <name_sv_SE>Cerium</name_sv_SE>
+    <name_pt_BR>Cério</name_pt_BR>
   </element>
   <element>
     <anumber>96</anumber>
@@ -137,6 +140,7 @@
     <name_ru_RU>Кюрий</name_ru_RU>
     <name_et_EE>Kuurium</name_et_EE>
     <name_sv_SE>Curium</name_sv_SE>
+    <name_pt_BR>Cúrio</name_pt_BR>
   </element>
   <element>
     <anumber>66</anumber>
@@ -179,6 +183,7 @@
     <name_ru_RU>Диспрозий</name_ru_RU>
     <name_et_EE>Düsproosium</name_et_EE>
     <name_sv_SE>Dysprosium</name_sv_SE>
+    <name_pt_BR>Disprósio</name_pt_BR>
   </element>
   <element>
     <anumber>99</anumber>
@@ -209,6 +214,7 @@
     <name_ru_RU>Эйнштейний</name_ru_RU>
     <name_et_EE>Einsteinium</name_et_EE>
     <name_sv_SE>Einsteinium</name_sv_SE>
+    <name_pt_BR>Einstênio</name_pt_BR>
   </element>
   <element>
     <anumber>68</anumber>
@@ -251,6 +257,7 @@
     <name_ru_RU>Эрбий</name_ru_RU>
     <name_et_EE>Erbium</name_et_EE>
     <name_sv_SE>Erbium</name_sv_SE>
+    <name_pt_BR>Érbio</name_pt_BR>
   </element>
   <element>
     <anumber>63</anumber>
@@ -292,6 +299,7 @@
     <name_ru_RU>Европий</name_ru_RU>
     <name_et_EE>Euroopium</name_et_EE>
     <name_sv_SE>Europium</name_sv_SE>
+    <name_pt_BR>Európio</name_pt_BR>
   </element>
   <element>
     <anumber>100</anumber>
@@ -321,6 +329,7 @@
     <name_ru_RU>Фермий</name_ru_RU>
     <name_et_EE>Fermium</name_et_EE>
     <name_sv_SE>Fermium</name_sv_SE>
+    <name_pt_BR>Férmio</name_pt_BR>
   </element>
   <element>
     <anumber>64</anumber>
@@ -364,6 +373,7 @@
     <name_ru_RU>Гадолиний</name_ru_RU>
     <name_et_EE>Gadoliinium</name_et_EE>
     <name_sv_SE>Gadolinium</name_sv_SE>
+    <name_pt_BR>Gadolínio</name_pt_BR>
   </element>
   <element>
     <anumber>67</anumber>
@@ -407,6 +417,7 @@
     <name_ru_RU>Гольмий</name_ru_RU>
     <name_et_EE>Holmium</name_et_EE>
     <name_sv_SE>Holmium</name_sv_SE>
+    <name_pt_BR>Hólmio</name_pt_BR>
   </element>
   <element>
     <anumber>98</anumber>
@@ -438,6 +449,7 @@
     <name_ru_RU>Калифорний</name_ru_RU>
     <name_et_EE>Kalifornium</name_et_EE>
     <name_sv_SE>Californium</name_sv_SE>
+    <name_pt_BR>Califórnio</name_pt_BR>
   </element>
   <element>
     <anumber>103</anumber>
@@ -466,6 +478,7 @@
     <name_ru_RU>Лоуренсий</name_ru_RU>
     <name_et_EE>Lavrentsium</name_et_EE>
     <name_sv_SE>Lawrencium</name_sv_SE>
+    <name_pt_BR>Laurêncio</name_pt_BR>
   </element>
   <element>
     <anumber>71</anumber>
@@ -509,6 +522,7 @@
     <name_ru_RU>Лютеций</name_ru_RU>
     <name_et_EE>Luteetsium</name_et_EE>
     <name_sv_SE>Lutetium</name_sv_SE>
+    <name_pt_BR>Lutécio</name_pt_BR>
   </element>
   <element>
     <anumber>101</anumber>
@@ -538,6 +552,7 @@
     <name_ru_RU>Менделевий</name_ru_RU>
     <name_et_EE>Mendeleevium</name_et_EE>
     <name_sv_SE>Mendelevium</name_sv_SE>
+    <name_pt_BR>Mendelévio</name_pt_BR>
   </element>
   <element>
     <anumber>60</anumber>
@@ -580,6 +595,7 @@
     <name_ru_RU>Неодим</name_ru_RU>
     <name_et_EE>Neodüüm</name_et_EE>
     <name_sv_SE>Neodym</name_sv_SE>
+    <name_pt_BR>Neodímio</name_pt_BR>
   </element>
   <element>
     <anumber>93</anumber>
@@ -614,6 +630,7 @@
     <name_ru_RU>Нептуний</name_ru_RU>
     <name_et_EE>Neptuunium</name_et_EE>
     <name_sv_SE>Neptunium</name_sv_SE>
+    <name_pt_BR>Neptúnio</name_pt_BR>
   </element>
   <element>
     <anumber>102</anumber>
@@ -643,6 +660,7 @@
     <name_ru_RU>Нобелий</name_ru_RU>
     <name_et_EE>Nobeelium</name_et_EE>
     <name_sv_SE>Nobelium</name_sv_SE>
+    <name_pt_BR>Nobélio</name_pt_BR>
   </element>
   <element>
     <anumber>94</anumber>
@@ -680,6 +698,7 @@
     <name_ru_RU>Плутоний</name_ru_RU>
     <name_et_EE>Plutoonium</name_et_EE>
     <name_sv_SE>Plutonium</name_sv_SE>
+    <name_pt_BR>Plutônio</name_pt_BR>
   </element>
   <element>
     <anumber>59</anumber>
@@ -723,6 +742,7 @@
     <name_ru_RU>Празеодим</name_ru_RU>
     <name_et_EE>Praseodüüm</name_et_EE>
     <name_sv_SE>Praseodym</name_sv_SE>
+    <name_pt_BR>Praseodímio</name_pt_BR>
   </element>
   <element>
     <anumber>61</anumber>
@@ -762,6 +782,7 @@
     <name_ru_RU>Прометий</name_ru_RU>
     <name_et_EE>Promeetium</name_et_EE>
     <name_sv_SE>Prometium</name_sv_SE>
+    <name_pt_BR>Promécio</name_pt_BR>
   </element>
   <element>
     <anumber>91</anumber>
@@ -795,6 +816,7 @@
     <name_ru_RU>Протактиний</name_ru_RU>
     <name_et_EE>Protaktiinium</name_et_EE>
     <name_sv_SE>Protaktinium</name_sv_SE>
+    <name_pt_BR>Protactínio</name_pt_BR>
   </element>
   <element>
     <anumber>62</anumber>
@@ -838,6 +860,7 @@
     <name_ru_RU>Самарий</name_ru_RU>
     <name_et_EE>Samaarium</name_et_EE>
     <name_sv_SE>Samarium</name_sv_SE>
+    <name_pt_BR>Samário</name_pt_BR>
   </element>
   <element>
     <anumber>65</anumber>
@@ -880,6 +903,7 @@
     <name_ru_RU>Тербий</name_ru_RU>
     <name_et_EE>Terbium</name_et_EE>
     <name_sv_SE>Terbium</name_sv_SE>
+    <name_pt_BR>Térbio</name_pt_BR>
   </element>
   <element>
     <anumber>90</anumber>
@@ -922,6 +946,7 @@
     <name_ru_RU>Торий</name_ru_RU>
     <name_et_EE>Toorium</name_et_EE>
     <name_sv_SE>Torium</name_sv_SE>
+    <name_pt_BR>Tório</name_pt_BR>
   </element>
   <element>
     <anumber>69</anumber>
@@ -964,6 +989,7 @@
     <name_ru_RU>Тулий</name_ru_RU>
     <name_et_EE>Tuulium</name_et_EE>
     <name_sv_SE>Tulium</name_sv_SE>
+    <name_pt_BR>Túlio</name_pt_BR>
   </element>
   <element>
     <anumber>92</anumber>
@@ -1004,6 +1030,7 @@
     <name_ru_RU>Уран</name_ru_RU>
     <name_et_EE>Uraan</name_et_EE>
     <name_sv_SE>Uran</name_sv_SE>
+    <name_pt_BR>Urânio</name_pt_BR>
   </element>
   <element>
     <anumber>70</anumber>
@@ -1046,5 +1073,6 @@
     <name_ru_RU>Иттербий</name_ru_RU>
     <name_et_EE>Üterbium</name_et_EE>
     <name_sv_SE>Ytterbium</name_sv_SE>
+    <name_pt_BR>Itérbio</name_pt_BR>
   </element>
 </elements>

@@ -265,9 +265,6 @@ msgstr "Tundmatu"
 msgid "Dutch"
 msgstr "Hollandi"
 
-msgid "Portuguese"
-msgstr "Portugali"
-
 msgid "Estonian"
 msgstr "Eesti"
 
@@ -276,3 +273,9 @@ msgstr "Menüü"
 
 msgid "Swedish"
 msgstr "Rootsi"
+
+msgid "Portuguese"
+msgstr "Portugalų"
+
+msgid "Brazilian Portuguese"
+msgstr "Brazilijos portugalų"

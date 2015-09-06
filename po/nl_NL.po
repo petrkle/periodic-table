@@ -280,3 +280,9 @@ msgstr "Estlands"
 
 msgid "Swedish"
 msgstr "Zweedse"
+
+msgid "Portuguese"
+msgstr "Portugees"
+
+msgid "Brazilian Portuguese"
+msgstr "Braziliaans Portugees"
