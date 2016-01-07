@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HOME='http://pt.kle.cz'
+HOME='https://pt.kle.cz'
 WWW=www
 SITEMAP="$WWW/sitemap.xml"
 

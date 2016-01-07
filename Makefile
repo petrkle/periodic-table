@@ -11,7 +11,7 @@ help:
 
 web:
 	cd po ; $(MAKE)
-	./generate.pl --location http://pt.kl.cz --out www
+	./generate.pl --location https://pt.kl.cz --out www
 	./sitemap.sh
 	$(COMPRESS) www www
 
