@@ -1,6 +1,6 @@
 # Periodic Table
 
-http://pt.kle.cz
+https://pt.kle.cz
 
 ## Add your language
 

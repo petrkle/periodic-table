@@ -2,12 +2,12 @@
   "name": "__MSG_appName__",
   "description": "__MSG_appDesc__",
 	"default_locale": "en",
-  "version": "1.4",
+  "version": "1.5",
 	"manifest_version": 2,
   "app": {
-    "urls": [ "http://pt.kle.cz/" ],
+    "urls": [ "https://pt.kle.cz/" ],
     "launch": {
-      "web_url": "http://pt.kle.cz/"
+      "web_url": "https://pt.kle.cz/"
     }
   },
   "icons": {
