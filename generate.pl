@@ -271,7 +271,6 @@ if($location){
 		{ binmode => ':utf8' }) or die $t->error;
 
 	copy("src/robots.txt", "$OUT/robots.txt");
-	copy("src/.htaccess", "$OUT/.htaccess");
 	copy("src/browserconfig.xml", "$OUT/browserconfig.xml");
 }
 
