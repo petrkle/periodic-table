@@ -5,12 +5,12 @@
 		Name='!(loc.ApplicationName) $(var.ProductVersion)'
 		Language='1033' 
 		Version='$(var.ProductVersion)'
-		Manufacturer='http://pt.kle.cz'
+		Manufacturer='https://pt.kle.cz'
 		UpgradeCode='a679dd0a-7162-4958-8c19-7e48b92fb843'>
 
 	<Package Description='!(loc.ApplicationName) $(var.ProductVersion)'
 		Comments='!(loc.ApplicationName) $(var.ProductVersion)'
-		Manufacturer='http://pt.kle.cz'
+		Manufacturer='https://pt.kle.cz'
 		InstallerVersion='200'
 		Compressed='yes' 
 		Keywords='soubory'
@@ -39,12 +39,12 @@
 	<Icon Id="ProductIcon" SourceFile="img\app.ico"/>
 	<Property Id="ARPPRODUCTICON" Value="ProductIcon" />
 	<Property Id='ARPCOMMENTS' Value="!(loc.ApplicationName) $(var.ProductVersion)" />
-	<Property Id='ARPCONTACT' Value="http://pt.kle.cz" />
-	<Property Id='ARPHELPLINK' Value="http://pt.kle.cz" />
-	<Property Id='ARPURLUPDATEINFO' Value="http://pt.kle.cz" />
+	<Property Id='ARPCONTACT' Value="https://pt.kle.cz" />
+	<Property Id='ARPHELPLINK' Value="https://pt.kle.cz" />
+	<Property Id='ARPURLUPDATEINFO' Value="https://pt.kle.cz" />
 	<Property Id='ARPHELPTELEPHONE' Value="+000 123 456 789" />
-	<Property Id='ARPREADME' Value="http://pt.kle.cz" />
-	<Property Id='ARPURLINFOABOUT' Value="http://pt.kle.cz" />
+	<Property Id='ARPREADME' Value="https://pt.kle.cz" />
+	<Property Id='ARPURLINFOABOUT' Value="https://pt.kle.cz" />
 
 	<Feature Id='main' Title='pt.kle.cz' Description='!(loc.ApplicationName) $(var.ProductVersion)' Level='1'>
 		<?include components-[% lang %].wxs ?>
