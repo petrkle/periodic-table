@@ -263,6 +263,15 @@ if($location){
 		{ binmode => ':utf8' }) or die $t->error;
 
 
+	$t->process('redir.js',
+		{ 
+			'title' => $pt::APPNAME,
+			'languages' => $languages->{lang}
+		},
+		"$OUT/redir.js",
+		{ binmode => ':utf8' }) or die $t->error;
+
+
 	$t->process('404.html',
 		{ 
 			'title' => 'Not found',

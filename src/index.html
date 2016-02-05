@@ -4,72 +4,15 @@
 	<title>[% title %]</title>
 	<meta name="description" content="Clear periodic table of chemical elements. Available in English, French, German, Spanish, Polish, Czech and Slovak." /> 
 	<meta name="keywords" content="Periodic Table, Chemie, chemistry, tabulka" /> 
-
-<script type="text/javascript">
-function splash() {
-	
-	var language = '';
-	if ( navigator && navigator.userAgent && (language = navigator.userAgent.match(/android.*\W(\w\w)-(\w\w)\W/i))){
-					language = language[1];
-	}
-
-	if (!language && navigator) {
-					if (navigator.language) {
-									language = navigator.language;
-					} else if (navigator.browserLanguage) {
-									language = navigator.browserLanguage;
-					} else if (navigator.systemLanguage) {
-									language = navigator.systemLanguage;
-					} else if (navigator.userLanguage) {
-									language = navigator.userLanguage;
-					}
-					language = language.substr(0, 2);
-	}
-
-	if(typeof(Storage)!=="undefined"){
-		if (localStorage.getItem('lang') != null) {
-			language = localStorage.getItem('lang');
-		}
-	}
-
-	switch (language) {
-[% FOREACH loc IN languages -%]
-		case '[% loc.android -%]':
-			redir('[% loc.locales -%]');
-			break;
-		case '[% loc.browser -%]':
-			redir('[% loc.locales -%]');
-			break;
-[% END -%]
-		default:
-			redir('en_US');
-			break;
-	}
-};
-
-function redir(lang){
-		window.location.replace(lang + "/index.html");
-}
-
-</script>
+	<script type="text/javascript" src="redir.js"></script>
 [% INCLUDE favicon.html %]
+	<link rel="stylesheet" type="text/css" href="index.css" media="screen" />
 </head>
-<body onload="splash();">
-	<style type="text/css">
-		body{margin:0;padding:0;font-family:Arial,sans-serif;font-size:2em;text-align:center;}
-		ul{margin:0;padding:0;}
-		ul li{list-style:none;margin:0;padding:0;}
-		ul li a{display:block;width:100%;padding:1em 0;border-bottom:solid 1px #000;background:#eee;color:#000;text-decoration:none;}
-		#testtube{position:absolute;top:50%;left:50%;width:255px;height:278px;margin-top:-127px;margin-left:-139px;}
-	</style>
-
-<noscript>
+<body>
 	<ul itemscope itemtype="http://schema.org/Breadcrumb">
 [% FOREACH loc IN languages -%]
 <li><a href="[% location %]/[% loc.locales %]/index.html" title="[% loc.fullnameloc %]" itemprop="url"><span itemprop="title">[% loc.title %]</span></a></li>
 [% END -%]
 	</ul>
-</noscript>
-
 </body>
 </html>

@@ -1,0 +1,5 @@
+body{margin:0;padding:0;font-family:Arial,sans-serif;font-size:2em;text-align:center;}
+ul{margin:0;padding:0;}
+ul li{list-style:none;margin:0;padding:0;}
+ul li a{display:block;width:100%;padding:1em 0;border-bottom:solid 1px #000;background:#eee;color:#000;text-decoration:none;}
+#testtube{position:absolute;top:50%;left:50%;width:255px;height:278px;margin-top:-127px;margin-left:-139px;}
