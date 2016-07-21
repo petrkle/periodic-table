@@ -1,5 +1,5 @@
 @media all{
-	body{font-family:Arial,sans-serif;font-size:1.2em;line-height:1.7em;color:#000;background:#fff;margin:0;padding:0;}
+	body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";font-size:1.2em;line-height:1.7em;color:#000;background:#fff;margin:0;padding:0;}
 }
 @media screen{
 	#header{width:100%;min-width:100%;background:#fb3 url("tts.png") no-repeat 100% 50%;font-size:1.5em;border-bottom:1px #999 solid;}
