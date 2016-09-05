@@ -70,7 +70,7 @@ msgid "period"
 msgstr "Période"
 
 msgid "Element category"
-msgstr "Série chimiques"
+msgstr "Série chimique"
 
 msgid "Relative atomic mass"
 msgstr "Masse atomique relative"
@@ -190,13 +190,13 @@ msgid "Alkali metals"
 msgstr "Métaux alcalins"
 
 msgid "1.st ionization energy"
-msgstr "1er Énergie d'ionisation"
+msgstr "1ère Énergie d'ionisation"
 
 msgid "2.nd ionization energy"
-msgstr "2e Énergie d'ionisation"
+msgstr "2ème Énergie d'ionisation"
 
 msgid "3.rd ionization energy"
-msgstr "3e Énergie d'ionisation"
+msgstr "3ème Énergie d'ionisation"
 
 msgid "Stable isotopes"
 msgstr "Isotopes stables"
