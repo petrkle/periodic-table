@@ -7,7 +7,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Periodic Table"
-msgstr "Tableau périodique"
+msgstr "Tableau Périodique"
 
 msgid "Settings"
 msgstr "Réglages"
@@ -46,7 +46,7 @@ msgid "Default language"
 msgstr "Langue par défaut"
 
 msgid "State"
-msgstr "State"
+msgstr "État physique"
 
 msgid "Solid"
 msgstr "Solide"
@@ -67,16 +67,16 @@ msgid "Period"
 msgstr "Période"
 
 msgid "period"
-msgstr "période"
+msgstr "Période"
 
 msgid "Element category"
-msgstr "Série chimique"
+msgstr "Série chimiques"
 
 msgid "Relative atomic mass"
 msgstr "Masse atomique relative"
 
 msgid "Atomic mass"
-msgstr "Masse Atomique"
+msgstr "Masse atomique"
 
 msgid "Group"
 msgstr "Groupe"
@@ -163,13 +163,13 @@ msgid "Write review"
 msgstr "Votre Note"
 
 msgid "Noble gases"
-msgstr "Gaz noble"
+msgstr "Gaz nobles"
 
 msgid "Inner transition elements"
-msgstr "Métaux de transition"
+msgstr "Métaux de transition profonde"
 
 msgid "Transition elements"
-msgstr "Métal de transition"
+msgstr "Métaux de transition"
 
 msgid "Metalloids"
 msgstr "Métalloïdes"
@@ -181,13 +181,13 @@ msgid "Alkaline earth metals"
 msgstr "Métaux alcalino-terreux"
 
 msgid "Metals"
-msgstr "Métal pauvre"
+msgstr "Métaux pauvres"
 
 msgid "Halogens"
-msgstr "Halogène"
+msgstr "Halogènes"
 
 msgid "Alkali metals"
-msgstr "Métal alcalin"
+msgstr "Métaux alcalins"
 
 msgid "1.st ionization energy"
 msgstr "1er Énergie d'ionisation"
@@ -199,7 +199,7 @@ msgid "3.rd ionization energy"
 msgstr "3e Énergie d'ionisation"
 
 msgid "Stable isotopes"
-msgstr "Isotopes stable"
+msgstr "Isotopes stables"
 
 msgid "Unstable isotopes"
 msgstr "Isotopes instables"

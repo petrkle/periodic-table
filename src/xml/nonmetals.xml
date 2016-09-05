@@ -97,7 +97,7 @@
     <discovery>1774</discovery>
     <name_en_US>Oxygen</name_en_US>
     <name_de_DE>Sauerstoff</name_de_DE>
-    <name_fr_FR>Oxygéne</name_fr_FR>
+    <name_fr_FR>Oxygène</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;4&lt;/sup&gt;</elconf>
     <heatcap>0.92</heatcap>
     <thcond>0.2674</thcond>
@@ -264,7 +264,7 @@
     <discovery>1766</discovery>
     <name_en_US>Hydrogen</name_en_US>
     <name_de_DE>Wasserstoff</name_de_DE>
-    <name_fr_FR>Hydrogéne</name_fr_FR>
+    <name_fr_FR>Hydrogène</name_fr_FR>
     <elconf>1s&lt;sup&gt;1&lt;/sup&gt;</elconf>
     <heatcap>14.304</heatcap>
     <thcond>0.1815</thcond>

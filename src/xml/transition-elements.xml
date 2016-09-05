@@ -348,7 +348,7 @@
     <hardness>5.0</hardness>
     <name_en_US>Manganese</name_en_US>
     <name_de_DE>Mangan</name_de_DE>
-    <name_fr_FR>Manganése</name_fr_FR>
+    <name_fr_FR>Manganèse</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;5&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <heatcap>0.48</heatcap>
     <thcond>7.82</thcond>
@@ -391,7 +391,7 @@
     <hardness>5.5</hardness>
     <name_en_US>Molybdenum</name_en_US>
     <name_de_DE>Molybdän</name_de_DE>
-    <name_fr_FR>Molybdéne</name_fr_FR>
+    <name_fr_FR>Molybdène</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;5&lt;/sup&gt; 5s&lt;sup&gt;1&lt;/sup&gt;</elconf>
     <heatcap>0.25</heatcap>
     <thcond>138</thcond>
@@ -1269,7 +1269,7 @@
     <hardness>7.5</hardness>
     <name_en_US>Tungsten</name_en_US>
     <name_de_DE>Wolfram</name_de_DE>
-    <name_fr_FR>Tungsténe</name_fr_FR>
+    <name_fr_FR>Tungstène</name_fr_FR>
     <elconf>1s&lt;sup&gt;2&lt;/sup&gt; 2s&lt;sup&gt;2&lt;/sup&gt; 2p&lt;sup&gt;6&lt;/sup&gt; 3s&lt;sup&gt;2&lt;/sup&gt; 3p&lt;sup&gt;6&lt;/sup&gt; 3d&lt;sup&gt;10&lt;/sup&gt; 4s&lt;sup&gt;2&lt;/sup&gt; 4p&lt;sup&gt;6&lt;/sup&gt; 4d&lt;sup&gt;10&lt;/sup&gt; 5s&lt;sup&gt;2&lt;/sup&gt; 5p&lt;sup&gt;6&lt;/sup&gt; 4f&lt;sup&gt;14&lt;/sup&gt; 5d&lt;sup&gt;4&lt;/sup&gt; 6s&lt;sup&gt;2&lt;/sup&gt;</elconf>
     <heatcap>0.13</heatcap>
     <thcond>174</thcond>
