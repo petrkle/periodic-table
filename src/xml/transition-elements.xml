@@ -36,6 +36,7 @@
     <name_et_EE>Aktiinium</name_et_EE>
     <name_sv_SE>Aktinium</name_sv_SE>
     <name_pt_BR>Actínio</name_pt_BR>
+    <name_it_IT>Attinio</name_it_IT>
   </element>
   <element>
     <anumber>24</anumber>
@@ -81,6 +82,7 @@
     <name_et_EE>Kroom</name_et_EE>
     <name_sv_SE>Krom</name_sv_SE>
     <name_pt_BR>Crômio</name_pt_BR>
+    <name_it_IT>Cromo</name_it_IT>
   </element>
   <element>
     <anumber>72</anumber>
@@ -126,6 +128,7 @@
     <name_et_EE>Hafnium</name_et_EE>
     <name_sv_SE>Hafnium</name_sv_SE>
     <name_pt_BR>Háfnio</name_pt_BR>
+    <name_it_IT>Afnio</name_it_IT>
   </element>
   <element>
     <anumber>77</anumber>
@@ -169,6 +172,7 @@
     <name_et_EE>Iriidium</name_et_EE>
     <name_sv_SE>Iridium</name_sv_SE>
     <name_pt_BR>Irídio</name_pt_BR>
+    <name_it_IT>Iridio</name_it_IT>
   </element>
   <element>
     <anumber>48</anumber>
@@ -213,6 +217,7 @@
     <name_et_EE>Kaadmium</name_et_EE>
     <name_sv_SE>Kadmium</name_sv_SE>
     <name_pt_BR>Cádmio</name_pt_BR>
+    <name_it_IT>Cadmio</name_it_IT>
   </element>
   <element>
     <anumber>27</anumber>
@@ -258,6 +263,7 @@
     <name_et_EE>Koobalt</name_et_EE>
     <name_sv_SE>Kobolt</name_sv_SE>
     <name_pt_BR>Cobalto</name_pt_BR>
+    <name_it_IT>Cobalto</name_it_IT>
   </element>
   <element>
     <anumber>104</anumber>
@@ -286,6 +292,7 @@
     <name_et_EE>Rutherfordium</name_et_EE>
     <name_sv_SE>Rutherfordium</name_sv_SE>
     <name_pt_BR>Rutherfórdio</name_pt_BR>
+    <name_it_IT>Rutherfordio</name_it_IT>
   </element>
   <element>
     <anumber>57</anumber>
@@ -330,6 +337,7 @@
     <name_et_EE>Lantaan</name_et_EE>
     <name_sv_SE>Lantan</name_sv_SE>
     <name_pt_BR>Lantânio</name_pt_BR>
+    <name_it_IT>Lantanio</name_it_IT>
   </element>
   <element>
     <anumber>25</anumber>
@@ -373,6 +381,7 @@
     <name_et_EE>Mangaan</name_et_EE>
     <name_sv_SE>Mangan</name_sv_SE>
     <name_pt_BR>Manganês</name_pt_BR>
+    <name_it_IT>Manganese</name_it_IT>
   </element>
   <element>
     <anumber>42</anumber>
@@ -418,6 +427,7 @@
     <name_et_EE>Molübdeen</name_et_EE>
     <name_sv_SE>Molybden</name_sv_SE>
     <name_pt_BR>Molibdênio</name_pt_BR>
+    <name_it_IT>Molibdeno</name_it_IT>
   </element>
   <element>
     <anumber>29</anumber>
@@ -464,6 +474,7 @@
     <name_et_EE>Vask</name_et_EE>
     <name_sv_SE>Koppar</name_sv_SE>
     <name_pt_BR>Cobre</name_pt_BR>
+    <name_it_IT>Rame</name_it_IT>
   </element>
   <element>
     <anumber>28</anumber>
@@ -507,6 +518,7 @@
     <name_et_EE>Nikkel</name_et_EE>
     <name_sv_SE>Nickel</name_sv_SE>
     <name_pt_BR>Níquel</name_pt_BR>
+    <name_it_IT>Nichel</name_it_IT>
   </element>
   <element>
     <anumber>41</anumber>
@@ -552,6 +564,7 @@
     <name_et_EE>Nioobium</name_et_EE>
     <name_sv_SE>Niob</name_sv_SE>
     <name_pt_BR>Nióbio</name_pt_BR>
+    <name_it_IT>Niobio</name_it_IT>
   </element>
   <element>
     <anumber>76</anumber>
@@ -593,6 +606,7 @@
     <name_et_EE>Osmium</name_et_EE>
     <name_sv_SE>Osmium</name_sv_SE>
     <name_pt_BR>Ósmio</name_pt_BR>
+    <name_it_IT>Osmio</name_it_IT>
   </element>
   <element>
     <anumber>46</anumber>
@@ -638,6 +652,7 @@
     <name_et_EE>Pallaadium</name_et_EE>
     <name_sv_SE>Palladium</name_sv_SE>
     <name_pt_BR>Paládio</name_pt_BR>
+    <name_it_IT>Palladio</name_it_IT>
   </element>
   <element>
     <anumber>78</anumber>
@@ -683,6 +698,7 @@
     <name_et_EE>Plaatina</name_et_EE>
     <name_sv_SE>Platina</name_sv_SE>
     <name_pt_BR>Platina</name_pt_BR>
+    <name_it_IT>Platino</name_it_IT>
   </element>
   <element>
     <anumber>75</anumber>
@@ -726,6 +742,7 @@
     <name_et_EE>Reenium</name_et_EE>
     <name_sv_SE>Rhenium</name_sv_SE>
     <name_pt_BR>Rênio</name_pt_BR>
+    <name_it_IT>Renio</name_it_IT>
   </element>
   <element>
     <anumber>45</anumber>
@@ -771,6 +788,7 @@
     <name_et_EE>Roodium</name_et_EE>
     <name_sv_SE>Rodium</name_sv_SE>
     <name_pt_BR>Ródio</name_pt_BR>
+    <name_it_IT>Rodio</name_it_IT>
   </element>
   <element>
     <anumber>80</anumber>
@@ -815,6 +833,7 @@
     <name_et_EE>Elavhõbe</name_et_EE>
     <name_sv_SE>Kvicksilver</name_sv_SE>
     <name_pt_BR>Mercúrio</name_pt_BR>
+    <name_it_IT>Mercurio</name_it_IT>
   </element>
   <element>
     <anumber>44</anumber>
@@ -859,6 +878,7 @@
     <name_et_EE>Ruteenium</name_et_EE>
     <name_sv_SE>Rutenium</name_sv_SE>
     <name_pt_BR>Rutênio</name_pt_BR>
+    <name_it_IT>Rutenio</name_it_IT>
   </element>
   <element>
     <anumber>21</anumber>
@@ -900,6 +920,7 @@
     <name_et_EE>Skandium</name_et_EE>
     <name_sv_SE>Skandium</name_sv_SE>
     <name_pt_BR>Escândio</name_pt_BR>
+    <name_it_IT>Scandio</name_it_IT>
   </element>
   <element>
     <anumber>47</anumber>
@@ -946,6 +967,7 @@
     <name_et_EE>Hõbe</name_et_EE>
     <name_sv_SE>Silver</name_sv_SE>
     <name_pt_BR>Prata</name_pt_BR>
+    <name_it_IT>Argento</name_it_IT>
   </element>
   <element>
     <anumber>73</anumber>
@@ -989,6 +1011,7 @@
     <name_et_EE>Tantaal</name_et_EE>
     <name_sv_SE>Tantal</name_sv_SE>
     <name_pt_BR>Tântalo</name_pt_BR>
+    <name_it_IT>Tantalio</name_it_IT>
   </element>
   <element>
     <anumber>43</anumber>
@@ -1029,6 +1052,7 @@
     <name_et_EE>Tehneetsium</name_et_EE>
     <name_sv_SE>Teknetium</name_sv_SE>
     <name_pt_BR>Tecnécio</name_pt_BR>
+    <name_it_IT>Tecnezio</name_it_IT>
   </element>
   <element>
     <anumber>22</anumber>
@@ -1073,6 +1097,7 @@
     <name_et_EE>Titaan</name_et_EE>
     <name_sv_SE>Titan</name_sv_SE>
     <name_pt_BR>Titânio</name_pt_BR>
+    <name_it_IT>Titanio</name_it_IT>
   </element>
   <element>
     <anumber>109</anumber>
@@ -1099,6 +1124,7 @@
     <name_et_EE>Meitneerium</name_et_EE>
     <name_sv_SE>Meitnerium</name_sv_SE>
     <name_pt_BR>Meitnério</name_pt_BR>
+    <name_it_IT>Meitnerio</name_it_IT>
   </element>
   <element>
     <anumber>106</anumber>
@@ -1126,6 +1152,7 @@
     <name_et_EE>Seaborgium</name_et_EE>
     <name_sv_SE>Seaborgium</name_sv_SE>
     <name_pt_BR>Seabórgio</name_pt_BR>
+    <name_it_IT>Seaborgio</name_it_IT>
   </element>
   <element>
     <anumber>108</anumber>
@@ -1152,6 +1179,7 @@
     <name_et_EE>Hassium</name_et_EE>
     <name_sv_SE>Hassium</name_sv_SE>
     <name_pt_BR>Hássio</name_pt_BR>
+    <name_it_IT>Hassio</name_it_IT>
   </element>
   <element>
     <anumber>105</anumber>
@@ -1179,6 +1207,7 @@
     <name_et_EE>Dubnium</name_et_EE>
     <name_sv_SE>Dubnium</name_sv_SE>
     <name_pt_BR>Dúbnio</name_pt_BR>
+    <name_it_IT>Dubnio</name_it_IT>
   </element>
   <element>
     <anumber>107</anumber>
@@ -1206,6 +1235,7 @@
     <name_et_EE>Bohrium</name_et_EE>
     <name_sv_SE>Bohrium</name_sv_SE>
     <name_pt_BR>Bóhrio</name_pt_BR>
+    <name_it_IT>Bohrio</name_it_IT>
   </element>
   <element>
     <anumber>23</anumber>
@@ -1251,6 +1281,7 @@
     <name_et_EE>Vanaadium</name_et_EE>
     <name_sv_SE>Vanadin</name_sv_SE>
     <name_pt_BR>Vanádio</name_pt_BR>
+    <name_it_IT>Vanadio</name_it_IT>
   </element>
   <element>
     <anumber>74</anumber>
@@ -1295,6 +1326,7 @@
     <name_et_EE>Volfram</name_et_EE>
     <name_sv_SE>Volfram</name_sv_SE>
     <name_pt_BR>Tungstênio</name_pt_BR>
+    <name_it_IT>Tungsteno</name_it_IT>
   </element>
   <element>
     <anumber>39</anumber>
@@ -1338,6 +1370,7 @@
     <name_et_EE>Ütrium</name_et_EE>
     <name_sv_SE>Yttrium</name_sv_SE>
     <name_pt_BR>Ítrio</name_pt_BR>
+    <name_it_IT>Ittrio</name_it_IT>
   </element>
   <element>
     <anumber>30</anumber>
@@ -1383,6 +1416,7 @@
     <name_et_EE>Tsink</name_et_EE>
     <name_sv_SE>Zink</name_sv_SE>
     <name_pt_BR>Zinco</name_pt_BR>
+    <name_it_IT>Zinco</name_it_IT>
   </element>
   <element>
     <anumber>40</anumber>
@@ -1428,6 +1462,7 @@
     <name_et_EE>Tsirkoonium</name_et_EE>
     <name_sv_SE>Zirkonium</name_sv_SE>
     <name_pt_BR>Zircônio</name_pt_BR>
+    <name_it_IT>Zirconio</name_it_IT>
   </element>
   <element>
     <anumber>79</anumber>
@@ -1473,6 +1508,7 @@
     <name_et_EE>Kuld</name_et_EE>
     <name_sv_SE>Guld</name_sv_SE>
     <name_pt_BR>Ouro</name_pt_BR>
+    <name_it_IT>Oro</name_it_IT>
   </element>
   <element>
     <anumber>26</anumber>
@@ -1518,6 +1554,7 @@
     <name_et_EE>Raud</name_et_EE>
     <name_sv_SE>Järn</name_sv_SE>
     <name_pt_BR>Ferro</name_pt_BR>
+    <name_it_IT>Ferro</name_it_IT>
   </element>
   <element>
     <anumber>110</anumber>
@@ -1546,6 +1583,7 @@
     <name_et_EE>Darmstadtium</name_et_EE>
     <name_sv_SE>Darmstadtium</name_sv_SE>
     <name_pt_BR>Darmstádtio</name_pt_BR>
+    <name_it_IT>Darmstadtio</name_it_IT>
   </element>
   <element>
     <anumber>111</anumber>
@@ -1574,6 +1612,7 @@
     <name_et_EE>Röntgeenium</name_et_EE>
     <name_sv_SE>Röntgenium</name_sv_SE>
     <name_pt_BR>Roentgênio</name_pt_BR>
+    <name_it_IT>Roentgenio</name_it_IT>
   </element>
   <element>
     <anumber>112</anumber>
@@ -1602,5 +1641,6 @@
     <name_et_EE>Koperniitsium</name_et_EE>
     <name_sv_SE>Copernicium</name_sv_SE>
     <name_pt_BR>Copernício</name_pt_BR>
+    <name_it_IT>Copernicio</name_it_IT>
   </element>
 </elements>

@@ -40,6 +40,7 @@
     <name_et_EE>Lämmastik</name_et_EE>
     <name_sv_SE>Kväve</name_sv_SE>
     <name_pt_BR>Nitrogênio</name_pt_BR>
+    <name_it_IT>Azoto</name_it_IT>
   </element>
   <element>
     <anumber>15</anumber>
@@ -80,6 +81,7 @@
     <name_et_EE>Fosfor</name_et_EE>
     <name_sv_SE>Fosfor</name_sv_SE>
     <name_pt_BR>Fósforo</name_pt_BR>
+    <name_it_IT>Fosforo</name_it_IT>
   </element>
   <element>
     <anumber>8</anumber>
@@ -121,6 +123,7 @@
     <name_et_EE>Hapnik</name_et_EE>
     <name_sv_SE>Syre</name_sv_SE>
     <name_pt_BR>Oxigênio</name_pt_BR>
+    <name_it_IT>Ossigeno</name_it_IT>
   </element>
   <element>
     <anumber>34</anumber>
@@ -165,6 +168,7 @@
     <name_et_EE>Seleen</name_et_EE>
     <name_sv_SE>Selen</name_sv_SE>
     <name_pt_BR>Selênio</name_pt_BR>
+    <name_it_IT>Selenio</name_it_IT>
   </element>
   <element>
     <anumber>16</anumber>
@@ -207,6 +211,7 @@
     <name_et_EE>Väävel</name_et_EE>
     <name_sv_SE>Svavel</name_sv_SE>
     <name_pt_BR>Enxofre</name_pt_BR>
+    <name_it_IT>Zolfo</name_it_IT>
   </element>
   <element>
     <anumber>6</anumber>
@@ -247,6 +252,7 @@
     <name_et_EE>Süsinik</name_et_EE>
     <name_sv_SE>Kol</name_sv_SE>
     <name_pt_BR>Carbono</name_pt_BR>
+    <name_it_IT>Carbonio</name_it_IT>
   </element>
   <element>
     <anumber>1</anumber>
@@ -285,5 +291,6 @@
     <name_et_EE>Vesinik</name_et_EE>
     <name_sv_SE>Väte</name_sv_SE>
     <name_pt_BR>Hidrogênio</name_pt_BR>
+    <name_it_IT>Idrogeno</name_it_IT>
   </element>
 </elements>

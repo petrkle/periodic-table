@@ -43,6 +43,7 @@
     <name_et_EE>Antimon</name_et_EE>
     <name_sv_SE>Antimon</name_sv_SE>
     <name_pt_BR>Antimônio</name_pt_BR>
+    <name_it_IT>Antimonio</name_it_IT>
   </element>
   <element>
     <anumber>33</anumber>
@@ -86,6 +87,7 @@
     <name_et_EE>Arseen</name_et_EE>
     <name_sv_SE>Arsenik</name_sv_SE>
     <name_pt_BR>Arsênio</name_pt_BR>
+    <name_it_IT>Arsenico</name_it_IT>
   </element>
   <element>
     <anumber>5</anumber>
@@ -128,6 +130,7 @@
     <name_et_EE>Boor</name_et_EE>
     <name_sv_SE>Bor</name_sv_SE>
     <name_pt_BR>Boro</name_pt_BR>
+    <name_it_IT>Boro</name_it_IT>
   </element>
   <element>
     <anumber>32</anumber>
@@ -167,6 +170,7 @@
     <name_et_EE>Germaanium</name_et_EE>
     <name_sv_SE>Germanium</name_sv_SE>
     <name_pt_BR>Germânio</name_pt_BR>
+    <name_it_IT>Germanio</name_it_IT>
   </element>
   <element>
     <anumber>14</anumber>
@@ -209,6 +213,7 @@
     <name_et_EE>Räni</name_et_EE>
     <name_sv_SE>Kisel</name_sv_SE>
     <name_pt_BR>Silício</name_pt_BR>
+    <name_it_IT>Silicio</name_it_IT>
   </element>
   <element>
     <anumber>52</anumber>
@@ -253,5 +258,6 @@
     <name_et_EE>Telluur</name_et_EE>
     <name_sv_SE>Tellur</name_sv_SE>
     <name_pt_BR>Telúrio</name_pt_BR>
+    <name_it_IT>Tellurio</name_it_IT>
   </element>
 </elements>

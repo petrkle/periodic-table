@@ -277,3 +277,6 @@ msgstr "Portuguese"
 
 msgid "Brazilian Portuguese"
 msgstr "Brazilian Portuguese"
+
+msgid "Italian"
+msgstr "Italian"

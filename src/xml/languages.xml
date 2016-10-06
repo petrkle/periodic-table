@@ -92,21 +92,30 @@
 	</lang>
 
 	<lang>
-        <fullname>Swedish</fullname>
-        <fullnameloc>Svenska</fullnameloc>
-        <locales>sv_SE</locales>
-        <android>sv</android>
-        <browser>sv-SE</browser>
-        <title>Periodiska systemet</title>
+		<fullname>Swedish</fullname>
+		<fullnameloc>Svenska</fullnameloc>
+		<locales>sv_SE</locales>
+		<android>sv</android>
+		<browser>sv-SE</browser>
+		<title>Periodiska systemet</title>
 	</lang>
 
 	<lang>
-        <fullname>Brazilian Portuguese</fullname>
-        <fullnameloc>Português brasileiro</fullnameloc>
-        <locales>pt_BR</locales>
-        <android>pt-rBR</android>
-        <browser>pt-BR</browser>
-        <title>Tabela periódica</title>
+		<fullname>Brazilian Portuguese</fullname>
+		<fullnameloc>Português brasileiro</fullnameloc>
+		<locales>pt_BR</locales>
+		<android>pt-rBR</android>
+		<browser>pt-BR</browser>
+		<title>Tabela periódica</title>
+	</lang>
+
+	<lang>
+		<fullname>Italian</fullname>
+		<fullnameloc>Italiano</fullnameloc>
+		<locales>it_IT</locales>
+		<android>it</android>
+		<browser>it-IT</browser>
+		<title>Tavola Periodica</title>
 	</lang>
 
 </lagnuages>

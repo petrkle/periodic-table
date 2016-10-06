@@ -279,3 +279,6 @@ msgstr "Portugalų"
 
 msgid "Brazilian Portuguese"
 msgstr "Brazilijos portugalų"
+
+msgid "Italian"
+msgstr "Itaallane"

@@ -279,3 +279,6 @@ msgstr "Estoński"
 
 msgid "Swedish"
 msgstr "Szwedzki"
+
+msgid "Italian"
+msgstr "Włoszczyzna"
