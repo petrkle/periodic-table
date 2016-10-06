@@ -1,0 +1,279 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACCHETTO VERSIONE\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-04 13:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Periodic Table"
+msgstr "Tavola periodica"
+
+msgid "Settings"
+msgstr "impostazioni"
+
+msgid "Language"
+msgstr "Lingua"
+
+msgid "About"
+msgstr "Di"
+
+msgid "English"
+msgstr "Inglese"
+
+msgid "Czech"
+msgstr "ceco"
+
+msgid "Slovak"
+msgstr "slovacco"
+
+msgid "German"
+msgstr "Tedesco"
+
+msgid "French"
+msgstr "francese"
+
+msgid "Polish"
+msgstr "polacco"
+
+msgid "Spanish"
+msgstr "spagnolo"
+
+msgid "Dutch"
+msgstr "olandese"
+
+msgid "Default language"
+msgstr "Lingua di default"
+
+msgid "State"
+msgstr "Stato"
+
+msgid "Solid"
+msgstr "Solido"
+
+msgid "Liquid"
+msgstr "Liquido"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Symbol"
+msgstr "Simbolo"
+
+msgid "Atomic number"
+msgstr "Numero atomico"
+
+msgid "Period"
+msgstr "Periodo"
+
+msgid "period"
+msgstr "period0"
+
+msgid "Element category"
+msgstr "categoria Element"
+
+msgid "Relative atomic mass"
+msgstr "Massa atomica relativa"
+
+msgid "Atomic mass"
+msgstr "Massa atomica"
+
+msgid "Group"
+msgstr "Gruppo"
+
+msgid "group"
+msgstr "Gruppo"
+
+msgid "Electronegativity"
+msgstr "elettronegatività"
+
+msgid "Oxidation numbers"
+msgstr "numeri di ossidazione"
+
+msgid "Electron configuration"
+msgstr "configurazione elettronica"
+
+msgid "Density"
+msgstr "Densità"
+
+msgid "Melting point"
+msgstr "Punto di fusione"
+
+msgid "Boiling point"
+msgstr "Punto di ebollizione"
+
+msgid "Critical point"
+msgstr "Punto critico"
+
+msgid "Critical pressure"
+msgstr "pressione critica"
+
+msgid "Atomic radius"
+msgstr "Raggio atomico"
+
+msgid "Covalent radius"
+msgstr "raggio covalente"
+
+msgid "Thermal conductivity"
+msgstr "Conduttività termica"
+
+msgid "Discovery"
+msgstr "Scoperta"
+
+msgid "Hardness"
+msgstr "Durezza"
+
+msgid "Vickers hardness"
+msgstr "Vickers durezza"
+
+msgid "Brinell hardness"
+msgstr "Brinell durezza"
+
+msgid "Mohs scale"
+msgstr "Mohs scala"
+
+msgid "Shear modulus"
+msgstr "Shear modulo"
+
+msgid "Young's modulus"
+msgstr "Young's modulo"
+
+msgid "Electrical resistivity"
+msgstr "Electrical resistività"
+
+msgid "Electrical conductivity"
+msgstr "Electrical conducibilità"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Latin name"
+msgstr "nome latino"
+
+msgid "Version"
+msgstr "Versione"
+
+msgid "Created"
+msgstr "Creato"
+
+msgid "Author"
+msgstr "Autore"
+
+msgid "Write review"
+msgstr "Scrivere una recensione"
+
+msgid "Noble gases"
+msgstr "gas nobili"
+
+msgid "Inner transition elements"
+msgstr "elementi di transizione interne"
+
+msgid "Transition elements"
+msgstr "elementi di transizione"
+
+msgid "Metalloids"
+msgstr "metalloidi"
+
+msgid "Nonmetals"
+msgstr "non metalli"
+
+msgid "Alkaline earth metals"
+msgstr "metalli alcalino-terrosi"
+
+msgid "Metals"
+msgstr "metalli"
+
+msgid "Halogens"
+msgstr "alogeni"
+
+msgid "Alkali metals"
+msgstr "Metalli alcalini"
+
+msgid "1.st ionization energy"
+msgstr "energia di ionizzazione 1.st"
+
+msgid "2.nd ionization energy"
+msgstr "energia di ionizzazione 2.nd"
+
+msgid "3.rd ionization energy"
+msgstr "energia di ionizzazione 3.rd"
+
+msgid "Stable isotopes"
+msgstr "isotopi stabili"
+
+msgid "Unstable isotopes"
+msgstr "instabile isotopi"
+
+msgid "Substance"
+msgstr "Sostanza"
+
+msgid "Talc"
+msgstr "Talco"
+
+msgid "Rock salt"
+msgstr "Salgemma"
+
+msgid "Limestone"
+msgstr "Calcare"
+
+msgid "Fluorspar"
+msgstr "fluorite"
+
+msgid "Apatite"
+msgstr "apatite"
+
+msgid "Feldspar"
+msgstr "Feldspato"
+
+msgid "Quartz"
+msgstr "Quarzo"
+
+msgid "Topaz"
+msgstr "Topazio"
+
+msgid "Corundum"
+msgstr "corindone"
+
+msgid "Diamond"
+msgstr "Diamante"
+
+msgid "Antiquity"
+msgstr "antichità"
+
+msgid "Heat capacity"
+msgstr "Capacità termica"
+
+msgid "Table view"
+msgstr "vista tabella"
+
+msgid "Download"
+msgstr "Scaricare"
+
+msgid "Links"
+msgstr "Collegamento"
+
+msgid "Source code"
+msgstr "Codice sorgente"
+
+msgid "Unknown"
+msgstr "Sconosciuto"
+
+msgid "Swedish"
+msgstr "svedese"
+
+msgid "Portuguese"
+msgstr "portoghese"
+
+msgid "Brazilian Portuguese"
+msgstr "Portoghese brasiliano"
