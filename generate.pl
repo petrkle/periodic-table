@@ -214,13 +214,6 @@ foreach my $lang (@{$languages->{lang}}){
 		"$OUT/$lang->{locales}/download.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
-	$t->process('links.html',
-		{	'title' => $locappname . ' - ' . lc(__('Links')),
-		  'lang' => $lang->{locales},
-		},
-		"$OUT/$lang->{locales}/links.html",
-		{ binmode => ':utf8' }) or die $t->error;
-
 	$t->process('mohs.html',
 		{	'title' => 'Mohs scale',
 		},
