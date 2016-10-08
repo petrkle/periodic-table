@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Tavola Periodica",
+    "description": "App name"
+  },
+  "appDesc": {
+    "message": "Trasparente tavola periodica degli elementi chimici.",
+    "description": "App description"
+  }
+}
