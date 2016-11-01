@@ -1,5 +1,5 @@
 [% IF period -%]
-[% title = "${period}. " _ l('period') -%]
+[% title = l("%d. period", period) -%]
 [% titlelink="p.html" -%]
 [% ELSE %]
 [% titlelink="index.html" -%]
@@ -25,7 +25,7 @@
 [% ELSE %]
 <table class="elementlist" cellspacing="0" cellpadding="0" border="0">
 [% FOREACH per IN periods %]
-<tr><td><a href="p[% per.number %].html" class="line closed" itemprop="url" title="[% per.number %]. [% l('period') %]"><span itemprop="title">[% per.number %]. [% l('period') %]</span></a></td></tr>
+<tr><td><a href="p[% per.number %].html" class="line closed" itemprop="url" title="[% per.number %]. [% l('period') %]"><span itemprop="title">[% l("%d. period", per.number) %]</span></a></td></tr>
 [% END %]
 </table>
 [% END %]

@@ -107,6 +107,9 @@ foreach my $lang (@{$languages->{lang}}){
 	my @sortedbyanumber = sort {$a->{anumber} <=> $b->{anumber}} @elements;
 	my @sortedbyln = sort {$a->{name_Latin} cmp $b->{name_Latin}} @elements;
 	my @sortedbyam = sort {$a->{atomicmass} =~ s/,/./r <=> $b->{atomicmass} =~ s/,/./r} @elements;
+	my $Collator = Unicode::Collate::Locale->new(locale => $lang->{locales});
+	my @langsorted = sort {$Collator->cmp(decode('UTF-8',__($a->{fullname})), decode('UTF-8',__($b->{fullname})))} @{$languages->{lang}};
+	my @categorysorted = sort {$Collator->cmp(decode('UTF-8',__($a->{fullname})), decode('UTF-8',__($b->{fullname})))} @{$categories->{category}};
 
 	for my $group (@{$groups->{group}}){
 
@@ -186,7 +189,7 @@ foreach my $lang (@{$languages->{lang}}){
 		{	'title' => $locappname,
 		  'elementname' => "name_$lang->{locales}",
 			'lang' => $lang->{locales},
-			'categories' => $categories->{category}
+			'categories' => [@categorysorted]
 		},
 		"$OUT/$lang->{locales}/category.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -220,13 +223,9 @@ foreach my $lang (@{$languages->{lang}}){
 		"$OUT/$lang->{locales}/mohs.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
-	my $Collator = Unicode::Collate::Locale->new(locale => $lang->{locales});
-
-	my @sortedbylang = sort {$Collator->cmp(decode('UTF-8',__($a->{fullname})), decode('UTF-8',__($b->{fullname})))} @{$languages->{lang}};
-
 	$t->process('language.html',
 		{	'title' => 'Language',
-			'languages' => [@sortedbylang],
+			'languages' => [@langsorted],
 		},
 		"$OUT/$lang->{locales}/language.html",
 		{ binmode => ':utf8' }) or die $t->error;
