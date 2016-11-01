@@ -55,8 +55,8 @@ msgstr "Атомное число"
 msgid "Period"
 msgstr "Период"
 
-msgid "period"
-msgstr "период"
+msgid "%d. period"
+msgstr "%d. период"
 
 msgid "Element category"
 msgstr "Категория элемента"

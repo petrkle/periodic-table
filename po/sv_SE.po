@@ -55,8 +55,8 @@ msgstr "Atomnummer"
 msgid "Period"
 msgstr "Fas"
 
-msgid "period"
-msgstr "fas"
+msgid "%d. period"
+msgstr "%d. fas"
 
 msgid "Element category"
 msgstr "Ämnes<wbr>klass"

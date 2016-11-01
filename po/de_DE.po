@@ -77,8 +77,8 @@ msgstr "Ordnungszahl"
 msgid "Period"
 msgstr "Periode"
 
-msgid "period"
-msgstr "periode"
+msgid "%d. period"
+msgstr "%d. periode"
 
 msgid "Element category"
 msgstr "Spezies"

@@ -76,8 +76,8 @@ msgstr "Número"
 msgid "Period"
 msgstr "Período"
 
-msgid "period"
-msgstr "período"
+msgid "%d. period"
+msgstr "%d. período"
 
 msgid "Element category"
 msgstr "Especies"

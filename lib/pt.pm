@@ -18,7 +18,7 @@ Locale::Messages->select_package ('gettext_pp');
 use Getopt::Long;
 
 $Template::Stash::ROOT_OPS->{ 'l' }    = sub {
-	return decode('UTF-8', __(shift));
+	return decode('UTF-8', sprintf __ shift, shift);
 };
 
 $Template::Stash::ROOT_OPS->{ 'url' }    = sub {
@@ -34,8 +34,8 @@ use Exporter qw(import);
  
 our @EXPORT_OK = qw(get_langs geturl setlocales);
 
-our $VERSION = '16.10.0601';
-our $MSIGUID = '22821ebb-e255-4088-81f2-8a9ec8ae9826';
+our $VERSION = '16.11.0101';
+our $MSIGUID = '29145cf6-6172-485c-a3f3-659d7d62cc2b';
 our $APPNAME = 'Periodic Table';
 
 sub get_langs{

@@ -66,11 +66,11 @@ msgstr "Numéro atomique"
 msgid "Period"
 msgstr "Période"
 
-msgid "period"
-msgstr "Période"
+msgid "%d. period"
+msgstr "Période %d"
 
 msgid "Element category"
-msgstr "Série chimique"
+msgstr "Familles chimiques"
 
 msgid "Relative atomic mass"
 msgstr "Masse atomique relative"

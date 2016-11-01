@@ -76,8 +76,8 @@ msgstr "Liczba atomowa"
 msgid "Period"
 msgstr "Okres"
 
-msgid "period"
-msgstr "okres"
+msgid "%d. period"
+msgstr "%d. okres"
 
 msgid "Element category"
 msgstr "Gatunek"

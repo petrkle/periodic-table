@@ -76,8 +76,8 @@ msgstr "Protonové číslo"
 msgid "Period"
 msgstr "Perioda"
 
-msgid "period"
-msgstr "perioda"
+msgid "%d. period"
+msgstr "%d. perioda"
 
 msgid "Element category"
 msgstr "Druh"
