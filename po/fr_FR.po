@@ -70,7 +70,7 @@ msgid "%d. period"
 msgstr "Période %d"
 
 msgid "Element category"
-msgstr "Familles chimiques"
+msgstr "Famille chimique"
 
 msgid "Relative atomic mass"
 msgstr "Masse atomique relative"
