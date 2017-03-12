@@ -119,7 +119,8 @@ foreach my $lang (@{$languages->{lang}}){
 				'cur_l' => $group->{'fullname'},
 				'title' => $locappname,
 		  	'elementname' => "name_$lang->{locales}",
-				'groups' => $groups->{group}
+				'groups' => $groups->{group},
+		  	'lang' => $lang->{locales},
 			},
 			"$OUT/$lang->{locales}/$group->{'filename'}.html",
 			{ binmode => ':utf8' }) or die $t->error;
@@ -129,6 +130,7 @@ foreach my $lang (@{$languages->{lang}}){
 		{ 'elements' => [@sortedbyanumber],
 			'title' => 'Atomic number',
 		  'elementname' => "name_$lang->{locales}",
+		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/index-an.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -137,6 +139,7 @@ foreach my $lang (@{$languages->{lang}}){
 		{ 'elements' => [@sortedbyln],
 			'title' => 'Latin name',
 		  'elementname' => "name_$lang->{locales}",
+		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/index-ln.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -145,6 +148,7 @@ foreach my $lang (@{$languages->{lang}}){
 		{ 'elements' => [@sortedbyln],
 			'title' => $locappname,
 		  'elementname' => "name_$lang->{locales}",
+		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/list.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -153,6 +157,7 @@ foreach my $lang (@{$languages->{lang}}){
 		{ 'elements' => [@sortedbyam],
 			'title' => 'Atomic mass',
 		  'elementname' => "name_$lang->{locales}",
+		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/index-am.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -160,7 +165,8 @@ foreach my $lang (@{$languages->{lang}}){
 	$t->process('menu.html',
 		{
 			'title' => 'Menu',
-			'nomenulink' => 'true'
+			'nomenulink' => 'true',
+		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/menu.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -171,7 +177,8 @@ foreach my $lang (@{$languages->{lang}}){
 				'periods' => $periods->{period},
 				'period' => $period->{'number'},
 		  	'elementname' => "name_$lang->{locales}",
-				'title' => $locappname
+				'title' => $locappname,
+		  	'lang' => $lang->{locales},
 			},
 			"$OUT/$lang->{locales}/p$period->{'number'}.html",
 			{ binmode => ':utf8' }) or die $t->error;
@@ -181,6 +188,7 @@ foreach my $lang (@{$languages->{lang}}){
 		{ 'periods' => $periods->{period},
 			'title' => $locappname,
 		  'elementname' => "name_$lang->{locales}",
+		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/p.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -196,7 +204,8 @@ foreach my $lang (@{$languages->{lang}}){
 
 	$t->process('group.html',
 		{	'title' => $locappname,
-			'groups' => $groups->{group}
+			'groups' => $groups->{group},
+		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/group.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -210,7 +219,8 @@ foreach my $lang (@{$languages->{lang}}){
 
 	$t->process('download.html',
 		{	'title' => $locappname . ' - ' . lc(__('Download')),
-		  'lang' => $lang->{android},
+		  'langandroid' => $lang->{android},
+		  'lang' => $lang->{locales},
 		  'msilang' => $msilang,
 		  'msiversion' => $pt::VERSION,
 		},
@@ -219,6 +229,7 @@ foreach my $lang (@{$languages->{lang}}){
 
 	$t->process('mohs.html',
 		{	'title' => 'Mohs scale',
+		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/mohs.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -226,8 +237,16 @@ foreach my $lang (@{$languages->{lang}}){
 	$t->process('language.html',
 		{	'title' => 'Language',
 			'languages' => [@langsorted],
+		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/language.html",
+		{ binmode => ':utf8' }) or die $t->error;
+
+	$t->process('manifest.json',
+		{	'title' => decode('UTF-8',$locappname),
+		  'lang' => $lang->{locales},
+		},
+		"$OUT/$lang->{locales}/manifest.json",
 		{ binmode => ':utf8' }) or die $t->error;
 
 	$t->process('tableview.html',

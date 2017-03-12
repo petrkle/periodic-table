@@ -1,0 +1,20 @@
+{
+  "name": "[% title %]",
+  "short_name": "[% title %]",
+	"start_url": "/[% lang %]/",
+	"scope": "/[% lang %]/",
+  "icons": [
+    {
+      "src": "/apple-touch-icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+	],
+	"prefer_related_applications": true,
+	"related_applications": [
+  {
+  "platform": "play",
+  "id": "cz.kle.tabulka"
+  }
+]
+}
