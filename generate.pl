@@ -67,7 +67,7 @@ foreach my $lang (@{$languages->{lang}}){
 		 $element->{url} = geturl($element, $lang->{locales});
 		 $tableview["$element->{x}"]["$element->{y}"] = $element;
 
-     for my $foo (keys $element){
+     for my $foo (keys %$element){
              if(looks_like_number($element->{$foo}) || $foo =~ /elcond/){
                     ( $element->{$foo} = $element->{$foo} ) =~ s/\./$nf->{decimal_point}/g;
              }
