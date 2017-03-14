@@ -282,6 +282,14 @@ if($location){
 		"$OUT/redir.js",
 		{ binmode => ':utf8' }) or die $t->error;
 
+	$t->process('language.js',
+		{
+			'title' => $pt::APPNAME,
+			'languages' => $languages->{lang}
+		},
+		"$OUT/language.js",
+		{ binmode => ':utf8' }) or die $t->error;
+
 
 	$t->process('404.html',
 		{ 
