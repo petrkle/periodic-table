@@ -1,3 +1,4 @@
+requires 'IPC::System::Simple';
 requires 'Locale::Messages';
 requires 'Locale::TextDomain';
 requires 'Number::Format';
