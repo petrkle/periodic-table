@@ -1,12 +1,13 @@
 COMPRESS=java -jar $(HOME)/lib/htmlcompressor-1.5.3.jar --compress-js --compress-css --remove-surrounding-spaces all -r -m '*.html' -o
 
 help:
-	@echo "help     - this help"
-	@echo "web      - generate pt.kle.cz"
-	@echo "upload   - upload files on web"
-	@echo "msiprep  - prepare files for msi packages"
-	@echo "pt.zip   - hosted app for Chrome store"
-	@echo "clean    - remove generated files"
+	@echo "help         - this help"
+	@echo "web          - generate pt.kle.cz"
+	@echo "upload       - upload files on web"
+	@echo "uploadbeta   - upload files on test web"
+	@echo "msiprep      - prepare files for msi packages"
+	@echo "pt.zip       - hosted app for Chrome store"
+	@echo "clean        - remove generated files"
 
 
 web:
@@ -17,6 +18,9 @@ web:
 
 upload:
 	./upload.sh
+
+uploadbeta:
+	./upload-beta.sh
 
 msiprep:
 	cd po ; $(MAKE)
