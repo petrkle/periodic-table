@@ -172,32 +172,32 @@
   </element>
   <element>
     <anumber>117</anumber>
-    <name_cs_CZ>Ununseptium</name_cs_CZ>
-    <symbol>Uus</symbol>
-    <name_Latin>Ununseptium</name_Latin>
+    <name_cs_CZ>Tennessine</name_cs_CZ>
+    <symbol>Ts</symbol>
+    <name_Latin>Tennessine</name_Latin>
     <atomicmass>294</atomicmass>
     <oxid>1, 3</oxid>
-    <name_en_US>Ununseptium</name_en_US>
-    <name_de_DE>Ununseptium</name_de_DE>
-    <name_fr_FR>Ununseptium</name_fr_FR>
+    <name_en_US>Tennessine</name_en_US>
+    <name_de_DE>Tennessine</name_de_DE>
+    <name_fr_FR>Tennessine</name_fr_FR>
     <elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;10&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt; 7p&lt;sup&gt;5&lt;/sup&gt;</elconf>
     <period>7</period>
     <group>VII.A</group>
     <state>s</state>
     <stbisot>0</stbisot>
     <unstisot>2</unstisot>
-    <name_sk_SK>Ununseptium</name_sk_SK>
+    <name_sk_SK>Tennessine</name_sk_SK>
     <discovery>2010</discovery>
     <x>16</x>
     <y>6</y>
-    <name_pl_PL>Ununseptium</name_pl_PL>
-    <name_es_ES>Ununseptium</name_es_ES>
-    <name_nl_NL>Ununseptium</name_nl_NL>
-    <name_ru_RU>Унунсептий</name_ru_RU>
-    <name_et_EE>Ununseptium</name_et_EE>
-    <name_sv_SE>Ununseptium</name_sv_SE>
-    <name_pt_BR>Ununséptio</name_pt_BR>
-    <name_it_IT>Ununseptium</name_it_IT>
+    <name_pl_PL>Tennessine</name_pl_PL>
+    <name_es_ES>Tennessine</name_es_ES>
+    <name_nl_NL>Tennessine</name_nl_NL>
+    <name_ru_RU>Теннессин</name_ru_RU>
+    <name_et_EE>Tennessine</name_et_EE>
+    <name_sv_SE>Tennessine</name_sv_SE>
+    <name_pt_BR>Tennessine</name_pt_BR>
+    <name_it_IT>Tennessine</name_it_IT>
   </element>
   <element>
     <anumber>85</anumber>

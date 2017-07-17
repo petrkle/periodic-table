@@ -440,32 +440,32 @@
   </element>
   <element>
     <anumber>113</anumber>
-    <name_cs_CZ>Ununtrium</name_cs_CZ>
-    <symbol>Uut</symbol>
-    <name_Latin>Ununtrium</name_Latin>
+    <name_cs_CZ>Nihonium</name_cs_CZ>
+    <symbol>Nh</symbol>
+    <name_Latin>Nihonium</name_Latin>
     <atomicmass>286</atomicmass>
     <oxid>1</oxid>
-    <name_en_US>Ununtrium</name_en_US>
-    <name_de_DE>Ununtrium</name_de_DE>
-    <name_fr_FR>Ununtrium</name_fr_FR>
+    <name_en_US>Nihonium</name_en_US>
+    <name_de_DE>Nihonium</name_de_DE>
+    <name_fr_FR>Nihonium</name_fr_FR>
     <elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;10&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt; 7p&lt;sup&gt;1&lt;/sup&gt;</elconf>
     <period>7</period>
     <group>III.A</group>
     <state>s</state>
     <stbisot>0</stbisot>
     <unstisot>4</unstisot>
-    <name_sk_SK>Ununtrium</name_sk_SK>
+    <name_sk_SK>Nihonium</name_sk_SK>
     <discovery>2003</discovery>
     <x>12</x>
     <y>6</y>
-    <name_pl_PL>Ununtrium</name_pl_PL>
-    <name_es_ES>Ununtrium</name_es_ES>
-    <name_nl_NL>Ununtrium</name_nl_NL>
-    <name_ru_RU>Унунтрий</name_ru_RU>
-    <name_et_EE>Ununtrium</name_et_EE>
-    <name_sv_SE>Ununtrium</name_sv_SE>
-    <name_pt_BR>Unúntrio</name_pt_BR>
-    <name_it_IT>Ununtrium</name_it_IT>
+    <name_pl_PL>Nihonium</name_pl_PL>
+    <name_es_ES>Nihonium</name_es_ES>
+    <name_nl_NL>Nihonium</name_nl_NL>
+    <name_ru_RU>Нихоний</name_ru_RU>
+    <name_et_EE>Nihonium</name_et_EE>
+    <name_sv_SE>Nihonium</name_sv_SE>
+    <name_pt_BR>Nihonium</name_pt_BR>
+    <name_it_IT>Nihonium</name_it_IT>
   </element>
   <element>
     <anumber>114</anumber>
@@ -498,32 +498,32 @@
   </element>
   <element>
     <anumber>115</anumber>
-    <name_cs_CZ>Ununpentium</name_cs_CZ>
-    <symbol>Uup</symbol>
-    <name_Latin>Ununpentium</name_Latin>
+    <name_cs_CZ>Moscovium</name_cs_CZ>
+    <symbol>Mc</symbol>
+    <name_Latin>Moscovium</name_Latin>
     <atomicmass>289</atomicmass>
     <oxid>1</oxid>
-    <name_en_US>Ununpentium</name_en_US>
-    <name_de_DE>Ununpentium</name_de_DE>
-    <name_fr_FR>Ununpentium</name_fr_FR>
+    <name_en_US>Moscovium</name_en_US>
+    <name_de_DE>Moscovium</name_de_DE>
+    <name_fr_FR>Moscovium</name_fr_FR>
     <elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;10&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt; 7p&lt;sup&gt;3&lt;/sup&gt;</elconf>
     <period>7</period>
     <group>V.A</group>
     <state>s</state>
     <stbisot>0</stbisot>
     <unstisot>2</unstisot>
-    <name_sk_SK>Ununpentium</name_sk_SK>
+    <name_sk_SK>Moscovium</name_sk_SK>
     <discovery>2003</discovery>
     <x>14</x>
     <y>6</y>
-    <name_pl_PL>Ununpentium</name_pl_PL>
-    <name_es_ES>Ununpentium</name_es_ES>
-    <name_nl_NL>Ununpentium</name_nl_NL>
-    <name_ru_RU>Унунпентий</name_ru_RU>
-    <name_et_EE>Ununpentium</name_et_EE>
-    <name_sv_SE>Ununpentium</name_sv_SE>
-    <name_pt_BR>Ununpêntio</name_pt_BR>
-    <name_it_IT>Ununpentium</name_it_IT>
+    <name_pl_PL>Moscovium</name_pl_PL>
+    <name_es_ES>Moscovium</name_es_ES>
+    <name_nl_NL>Moscovium</name_nl_NL>
+    <name_ru_RU>Московий</name_ru_RU>
+    <name_et_EE>Moscovium</name_et_EE>
+    <name_sv_SE>Moscovium</name_sv_SE>
+    <name_pt_BR>Moscovium</name_pt_BR>
+    <name_it_IT>Moscovium</name_it_IT>
   </element>
   <element>
     <anumber>116</anumber>

@@ -240,31 +240,31 @@
   </element>
   <element>
     <anumber>118</anumber>
-    <name_cs_CZ>Ununoctium</name_cs_CZ>
-    <symbol>Uuo</symbol>
-    <name_Latin>Ununoctium</name_Latin>
+    <name_cs_CZ>Oganesson</name_cs_CZ>
+    <symbol>Og</symbol>
+    <name_Latin>Oganesson</name_Latin>
     <atomicmass>294</atomicmass>
     <oxid>2, 4</oxid>
-    <name_en_US>Ununoctium</name_en_US>
-    <name_de_DE>Ununoctium</name_de_DE>
-    <name_fr_FR>Ununoctium</name_fr_FR>
+    <name_en_US>Oganesson</name_en_US>
+    <name_de_DE>Oganesson</name_de_DE>
+    <name_fr_FR>Oganesson</name_fr_FR>
     <elconf>5f&lt;sup&gt;14&lt;/sup&gt; 6d&lt;sup&gt;10&lt;/sup&gt; 7s&lt;sup&gt;2&lt;/sup&gt; 7p&lt;sup&gt;6&lt;/sup&gt;</elconf>
     <period>7</period>
     <group>VIII.A</group>
     <state>s</state>
     <stbisot>0</stbisot>
     <unstisot>1</unstisot>
-    <name_sk_SK>Ununoctium</name_sk_SK>
+    <name_sk_SK>Oganesson</name_sk_SK>
     <discovery>2002</discovery>
     <x>17</x>
     <y>6</y>
-    <name_pl_PL>Ununoctium</name_pl_PL>
-    <name_es_ES>Ununoctium</name_es_ES>
-    <name_nl_NL>Ununoctium</name_nl_NL>
-    <name_ru_RU>Унуноктий</name_ru_RU>
-    <name_et_EE>Ununoktium</name_et_EE>
-    <name_sv_SE>Ununoktium</name_sv_SE>
-    <name_pt_BR>Ununóctio</name_pt_BR>
-    <name_it_IT>Ununoctium</name_it_IT>
+    <name_pl_PL>Oganesson</name_pl_PL>
+    <name_es_ES>Oganesson</name_es_ES>
+    <name_nl_NL>Oganesson</name_nl_NL>
+    <name_ru_RU>Оганесон</name_ru_RU>
+    <name_et_EE>Oganesson</name_et_EE>
+    <name_sv_SE>Oganesson</name_sv_SE>
+    <name_pt_BR>Oganesson</name_pt_BR>
+    <name_it_IT>Oganesson</name_it_IT>
   </element>
 </elements>
