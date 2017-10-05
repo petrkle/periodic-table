@@ -45,6 +45,7 @@
     <name_sv_SE>Beryllium</name_sv_SE>
     <name_pt_BR>Berílio</name_pt_BR>
     <name_it_IT>Berillio</name_it_IT>
+    <name_hu_HU>Berillium</name_hu_HU>
   </element>
   <element>
     <anumber>83</anumber>
@@ -90,6 +91,7 @@
     <name_sv_SE>Vismut</name_sv_SE>
     <name_pt_BR>Bismuto</name_pt_BR>
     <name_it_IT>Bismuto</name_it_IT>
+    <name_hu_HU>Bizmut</name_hu_HU>
   </element>
   <element>
     <anumber>50</anumber>
@@ -135,6 +137,7 @@
     <name_sv_SE>Tenn</name_sv_SE>
     <name_pt_BR>Estanho</name_pt_BR>
     <name_it_IT>Stagno</name_it_IT>
+    <name_hu_HU>Ón</name_hu_HU>
   </element>
   <element>
     <anumber>31</anumber>
@@ -178,6 +181,7 @@
     <name_sv_SE>Gallium</name_sv_SE>
     <name_pt_BR>Gálio</name_pt_BR>
     <name_it_IT>Gallio</name_it_IT>
+    <name_hu_HU>Gallium</name_hu_HU>
   </element>
   <element>
     <anumber>13</anumber>
@@ -225,6 +229,7 @@
     <name_sv_SE>Aluminium</name_sv_SE>
     <name_pt_BR>Alumínio</name_pt_BR>
     <name_it_IT>Alluminio</name_it_IT>
+    <name_hu_HU>Alumínium</name_hu_HU>
   </element>
   <element>
     <anumber>12</anumber>
@@ -270,6 +275,7 @@
     <name_sv_SE>Magnesium</name_sv_SE>
     <name_pt_BR>Magnésio</name_pt_BR>
     <name_it_IT>Magnesio</name_it_IT>
+    <name_hu_HU>Magnézium</name_hu_HU>
   </element>
   <element>
     <anumber>49</anumber>
@@ -313,6 +319,7 @@
     <name_sv_SE>Indium</name_sv_SE>
     <name_pt_BR>Índio</name_pt_BR>
     <name_it_IT>Indio</name_it_IT>
+    <name_hu_HU>Indium</name_hu_HU>
   </element>
   <element>
     <anumber>82</anumber>
@@ -359,6 +366,7 @@
     <name_sv_SE>Bly</name_sv_SE>
     <name_pt_BR>Chumbo</name_pt_BR>
     <name_it_IT>Piombo</name_it_IT>
+    <name_hu_HU>Ólom</name_hu_HU>
   </element>
   <element>
     <anumber>84</anumber>
@@ -395,6 +403,7 @@
     <name_sv_SE>Polonium</name_sv_SE>
     <name_pt_BR>Polônio</name_pt_BR>
     <name_it_IT>Polonio</name_it_IT>
+    <name_hu_HU>Polónium</name_hu_HU>
   </element>
   <element>
     <anumber>81</anumber>
@@ -437,6 +446,7 @@
     <name_sv_SE>Tallium</name_sv_SE>
     <name_pt_BR>Tálio</name_pt_BR>
     <name_it_IT>Tallio</name_it_IT>
+    <name_hu_HU>Tallium</name_hu_HU>
   </element>
   <element>
     <anumber>113</anumber>
@@ -466,6 +476,7 @@
     <name_sv_SE>Nihonium</name_sv_SE>
     <name_pt_BR>Nihonium</name_pt_BR>
     <name_it_IT>Nihonium</name_it_IT>
+    <name_hu_HU>Nihonium</name_hu_HU>
   </element>
   <element>
     <anumber>114</anumber>
@@ -495,6 +506,7 @@
     <name_sv_SE>Flerovium</name_sv_SE>
     <name_pt_BR>Fleróvio</name_pt_BR>
     <name_it_IT>Flerovio</name_it_IT>
+    <name_hu_HU>Flerovium</name_hu_HU>
   </element>
   <element>
     <anumber>115</anumber>
@@ -524,6 +536,7 @@
     <name_sv_SE>Moscovium</name_sv_SE>
     <name_pt_BR>Moscovium</name_pt_BR>
     <name_it_IT>Moscovium</name_it_IT>
+    <name_hu_HU>Moszkovium</name_hu_HU>
   </element>
   <element>
     <anumber>116</anumber>
@@ -553,5 +566,6 @@
     <name_sv_SE>Livermorium</name_sv_SE>
     <name_pt_BR>Livermório</name_pt_BR>
     <name_it_IT>Livermorio</name_it_IT>
+    <name_hu_HU>Livermorium</name_hu_HU>
   </element>
 </elements>

@@ -40,6 +40,7 @@
     <name_sv_SE>Barium</name_sv_SE>
     <name_pt_BR>Bário</name_pt_BR>
     <name_it_IT>Bario</name_it_IT>
+    <name_hu_HU>Bárium</name_hu_HU>
   </element>
   <element>
     <anumber>88</anumber>
@@ -78,6 +79,7 @@
     <name_sv_SE>Radium</name_sv_SE>
     <name_pt_BR>Rádio</name_pt_BR>
     <name_it_IT>Radio</name_it_IT>
+    <name_hu_HU>Rádium</name_hu_HU>
   </element>
   <element>
     <anumber>38</anumber>
@@ -120,6 +122,7 @@
     <name_sv_SE>Strontium</name_sv_SE>
     <name_pt_BR>Estrôncio</name_pt_BR>
     <name_it_IT>Stronzio</name_it_IT>
+    <name_hu_HU>Stroncium</name_hu_HU>
   </element>
   <element>
     <anumber>20</anumber>
@@ -163,5 +166,6 @@
     <name_sv_SE>Kalcium</name_sv_SE>
     <name_pt_BR>Cálcio</name_pt_BR>
     <name_it_IT>Calcio</name_it_IT>
+    <name_hu_HU>Kalcium</name_hu_HU>
   </element>
 </elements>

@@ -42,6 +42,7 @@
     <name_sv_SE>Brom</name_sv_SE>
     <name_pt_BR>Bromo</name_pt_BR>
     <name_it_IT>Bromo</name_it_IT>
+    <name_hu_HU>Bróm</name_hu_HU>
   </element>
   <element>
     <anumber>17</anumber>
@@ -84,6 +85,7 @@
     <name_sv_SE>Klor</name_sv_SE>
     <name_pt_BR>Cloro</name_pt_BR>
     <name_it_IT>Cloro</name_it_IT>
+    <name_hu_HU>Klór</name_hu_HU>
   </element>
   <element>
     <anumber>9</anumber>
@@ -126,6 +128,7 @@
     <name_sv_SE>Fluor</name_sv_SE>
     <name_pt_BR>Flúor</name_pt_BR>
     <name_it_IT>Fluoro</name_it_IT>
+    <name_hu_HU>Fluor</name_hu_HU>
   </element>
   <element>
     <anumber>53</anumber>
@@ -169,6 +172,7 @@
     <name_sv_SE>Jod</name_sv_SE>
     <name_pt_BR>Iodo</name_pt_BR>
     <name_it_IT>Iodio</name_it_IT>
+    <name_hu_HU>Jód</name_hu_HU>
   </element>
   <element>
     <anumber>117</anumber>
@@ -198,6 +202,7 @@
     <name_sv_SE>Tennessine</name_sv_SE>
     <name_pt_BR>Tennessine</name_pt_BR>
     <name_it_IT>Tennessine</name_it_IT>
+    <name_hu_HU>Tennesszin</name_hu_HU>
   </element>
   <element>
     <anumber>85</anumber>
@@ -233,5 +238,6 @@
     <name_sv_SE>Astat</name_sv_SE>
     <name_pt_BR>Ástato</name_pt_BR>
     <name_it_IT>Astato</name_it_IT>
+    <name_hu_HU>Asztácium</name_hu_HU>
   </element>
 </elements>

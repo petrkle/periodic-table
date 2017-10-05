@@ -39,6 +39,7 @@
     <name_sv_SE>Argon</name_sv_SE>
     <name_pt_BR>Argônio</name_pt_BR>
     <name_it_IT>Argon</name_it_IT>
+    <name_hu_HU>Argon</name_hu_HU>
   </element>
   <element>
     <anumber>2</anumber>
@@ -76,6 +77,7 @@
     <name_sv_SE>Helium</name_sv_SE>
     <name_pt_BR>Hélio</name_pt_BR>
     <name_it_IT>Elio</name_it_IT>
+    <name_hu_HU>Hélium</name_hu_HU>
   </element>
   <element>
     <anumber>36</anumber>
@@ -117,6 +119,7 @@
     <name_sv_SE>Krypton</name_sv_SE>
     <name_pt_BR>Criptônio</name_pt_BR>
     <name_it_IT>Kripton</name_it_IT>
+    <name_hu_HU>Kripton</name_hu_HU>
   </element>
   <element>
     <anumber>10</anumber>
@@ -157,6 +160,7 @@
     <name_sv_SE>Neon</name_sv_SE>
     <name_pt_BR>Néon</name_pt_BR>
     <name_it_IT>Neon</name_it_IT>
+    <name_hu_HU>Neon</name_hu_HU>
   </element>
   <element>
     <anumber>86</anumber>
@@ -196,6 +200,7 @@
     <name_sv_SE>Radon</name_sv_SE>
     <name_pt_BR>Radônio</name_pt_BR>
     <name_it_IT>Radon</name_it_IT>
+    <name_hu_HU>Radon</name_hu_HU>
   </element>
   <element>
     <anumber>54</anumber>
@@ -237,6 +242,7 @@
     <name_sv_SE>Xenon</name_sv_SE>
     <name_pt_BR>Xenônio</name_pt_BR>
     <name_it_IT>Xeno</name_it_IT>
+    <name_hu_HU>Xenon</name_hu_HU>
   </element>
   <element>
     <anumber>118</anumber>
@@ -266,5 +272,6 @@
     <name_sv_SE>Oganesson</name_sv_SE>
     <name_pt_BR>Oganesson</name_pt_BR>
     <name_it_IT>Oganesson</name_it_IT>
+    <name_hu_HU>Oganesszon</name_hu_HU>
   </element>
 </elements>
