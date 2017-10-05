@@ -44,6 +44,7 @@
     <name_pt_BR>Césio</name_pt_BR>
     <name_it_IT>Cesio</name_it_IT>
     <name_hu_HU>Cézium</name_hu_HU>
+    <name_vi_VN>Xêsi</name_vi_VN>
   </element>
   <element>
     <anumber>19</anumber>
@@ -90,6 +91,7 @@
     <name_pt_BR>Potássio</name_pt_BR>
     <name_it_IT>Potassio</name_it_IT>
     <name_hu_HU>Kálium</name_hu_HU>
+    <name_vi_VN>Kali</name_vi_VN>
   </element>
   <element>
     <anumber>87</anumber>
@@ -124,6 +126,7 @@
     <name_pt_BR>Frâncio</name_pt_BR>
     <name_it_IT>Francio</name_it_IT>
     <name_hu_HU>Francium</name_hu_HU>
+    <name_vi_VN>Franxi</name_vi_VN>
   </element>
   <element>
     <anumber>3</anumber>
@@ -168,6 +171,7 @@
     <name_pt_BR>Lítio</name_pt_BR>
     <name_it_IT>Litio</name_it_IT>
     <name_hu_HU>Lítium</name_hu_HU>
+    <name_vi_VN>Liti</name_vi_VN>
   </element>
   <element>
     <anumber>37</anumber>
@@ -215,6 +219,7 @@
     <name_pt_BR>Rubídio</name_pt_BR>
     <name_it_IT>Rubidio</name_it_IT>
     <name_hu_HU>Rubídium</name_hu_HU>
+    <name_vi_VN>Rubiđi</name_vi_VN>
   </element>
   <element>
     <anumber>11</anumber>
@@ -263,5 +268,6 @@
     <name_pt_BR>Sódio</name_pt_BR>
     <name_it_IT>Sodio</name_it_IT>
     <name_hu_HU>Nátrium</name_hu_HU>
+    <name_vi_VN>Natri</name_vi_VN>
   </element>
 </elements>
