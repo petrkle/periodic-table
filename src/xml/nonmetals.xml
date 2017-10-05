@@ -43,6 +43,7 @@
     <name_it_IT>Azoto</name_it_IT>
     <name_hu_HU>Nitrogén</name_hu_HU>
     <name_vi_VN>Nitơ</name_vi_VN>
+    <name_be_BY>Азот</name_be_BY>
   </element>
   <element>
     <anumber>15</anumber>
@@ -86,6 +87,7 @@
     <name_it_IT>Fosforo</name_it_IT>
     <name_hu_HU>Foszfor</name_hu_HU>
     <name_vi_VN>Phốtpho</name_vi_VN>
+    <name_be_BY>Фосфар</name_be_BY>
   </element>
   <element>
     <anumber>8</anumber>
@@ -130,6 +132,7 @@
     <name_it_IT>Ossigeno</name_it_IT>
     <name_hu_HU>Oxigén</name_hu_HU>
     <name_vi_VN>Ôxy</name_vi_VN>
+    <name_be_BY>Кісларод</name_be_BY>
   </element>
   <element>
     <anumber>34</anumber>
@@ -177,6 +180,7 @@
     <name_it_IT>Selenio</name_it_IT>
     <name_hu_HU>Szelén</name_hu_HU>
     <name_vi_VN>Selen</name_vi_VN>
+    <name_be_BY>Селен</name_be_BY>
   </element>
   <element>
     <anumber>16</anumber>
@@ -222,6 +226,7 @@
     <name_it_IT>Zolfo</name_it_IT>
     <name_hu_HU>Kén</name_hu_HU>
     <name_vi_VN>Lưu huỳnh</name_vi_VN>
+    <name_be_BY>Сера</name_be_BY>
   </element>
   <element>
     <anumber>6</anumber>
@@ -265,6 +270,7 @@
     <name_it_IT>Carbonio</name_it_IT>
     <name_hu_HU>Szén</name_hu_HU>
     <name_vi_VN>Cacbon</name_vi_VN>
+    <name_be_BY>Вуглярод</name_be_BY>
   </element>
   <element>
     <anumber>1</anumber>
@@ -306,5 +312,6 @@
     <name_it_IT>Idrogeno</name_it_IT>
     <name_hu_HU>Hidrogén</name_hu_HU>
     <name_vi_VN>Hiđrô</name_vi_VN>
+    <name_be_BY>Вадарод</name_be_BY>
   </element>
 </elements>
