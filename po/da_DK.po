@@ -81,13 +81,13 @@ msgid "%d. period"
 msgstr "%d. periode"
 
 msgid "Element category"
-msgstr "Element kategori"
+msgstr "Grundstof kategori"
 
 msgid "Relative atomic mass"
 msgstr "Relativ atommasse"
 
 msgid "Atomic mass"
-msgstr "Atommass"
+msgstr "Atommasse"
 
 msgid "Group"
 msgstr "Gruppe"
@@ -99,7 +99,7 @@ msgid "Electronegativity"
 msgstr "Elektronegativitet"
 
 msgid "Oxidation numbers"
-msgstr "Oxideringsnumre"
+msgstr "Oxideringsnummer"
 
 msgid "Electron configuration"
 msgstr "Elektronkonfiguration"
@@ -147,7 +147,7 @@ msgid "Shear modulus"
 msgstr "Forskydningsmodul"
 
 msgid "Young's modulus"
-msgstr "Young's modul"
+msgstr "Youngs modul"
 
 msgid "Electrical resistivity"
 msgstr "Elektrisk modstand"
@@ -177,10 +177,10 @@ msgid "Noble gases"
 msgstr "Ædle gasser"
 
 msgid "Inner transition elements"
-msgstr "Indre overgangsgrundstoffer"
+msgstr "Indre overgangs-grundstoffer"
 
 msgid "Transition elements"
-msgstr "Overgangsgrundstoffer"
+msgstr "Overgangs-grundstoffer"
 
 msgid "Metalloids"
 msgstr "Halvmetaller"
@@ -228,7 +228,7 @@ msgid "Limestone"
 msgstr "Kalksten"
 
 msgid "Fluorspar"
-msgstr "Flusspat"
+msgstr "Fluorit"
 
 msgid "Apatite"
 msgstr "Apatit"
