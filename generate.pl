@@ -80,6 +80,7 @@ foreach my $lang (@{$languages->{lang}}){
 				 'cur' => $category->{'filename'},
 				 'cur_l' => $category->{'fullname'},
 				 'lang' => $lang->{locales},
+				 'sitelang' => $lang->{android},
 				 title => $locappname
 			 },
 			 "$OUT/$lang->{locales}/".$element->{'url'}.".html",
@@ -96,6 +97,7 @@ foreach my $lang (@{$languages->{lang}}){
 				'lang' => $lang->{locales},
 				'title' => $locappname,
 		  	'elementname' => "name_$lang->{locales}",
+				 'sitelang' => $lang->{android},
 				'categories' => $categories->{category}
 			},
 			"$OUT/$lang->{locales}/$category->{'filename'}.html",
@@ -120,6 +122,7 @@ foreach my $lang (@{$languages->{lang}}){
 				'title' => $locappname,
 		  	'elementname' => "name_$lang->{locales}",
 				'groups' => $groups->{group},
+			  'sitelang' => $lang->{android},
 		  	'lang' => $lang->{locales},
 			},
 			"$OUT/$lang->{locales}/$group->{'filename'}.html",
@@ -130,6 +133,7 @@ foreach my $lang (@{$languages->{lang}}){
 		{ 'elements' => [@sortedbyanumber],
 			'title' => 'Atomic number',
 		  'elementname' => "name_$lang->{locales}",
+			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/index-an.html",
@@ -139,6 +143,7 @@ foreach my $lang (@{$languages->{lang}}){
 		{ 'elements' => [@sortedbyln],
 			'title' => 'Latin name',
 		  'elementname' => "name_$lang->{locales}",
+			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/index-ln.html",
@@ -148,6 +153,7 @@ foreach my $lang (@{$languages->{lang}}){
 		{ 'elements' => [@sortedbyln],
 			'title' => $locappname,
 		  'elementname' => "name_$lang->{locales}",
+			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/list.html",
@@ -157,6 +163,7 @@ foreach my $lang (@{$languages->{lang}}){
 		{ 'elements' => [@sortedbyam],
 			'title' => 'Atomic mass',
 		  'elementname' => "name_$lang->{locales}",
+			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/index-am.html",
@@ -166,6 +173,7 @@ foreach my $lang (@{$languages->{lang}}){
 		{
 			'title' => 'Menu',
 			'nomenulink' => 'true',
+			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/menu.html",
@@ -178,6 +186,7 @@ foreach my $lang (@{$languages->{lang}}){
 				'period' => $period->{'number'},
 		  	'elementname' => "name_$lang->{locales}",
 				'title' => $locappname,
+			  'sitelang' => $lang->{android},
 		  	'lang' => $lang->{locales},
 			},
 			"$OUT/$lang->{locales}/p$period->{'number'}.html",
@@ -188,6 +197,7 @@ foreach my $lang (@{$languages->{lang}}){
 		{ 'periods' => $periods->{period},
 			'title' => $locappname,
 		  'elementname' => "name_$lang->{locales}",
+			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/p.html",
@@ -197,6 +207,7 @@ foreach my $lang (@{$languages->{lang}}){
 		{	'title' => $locappname,
 		  'elementname' => "name_$lang->{locales}",
 			'lang' => $lang->{locales},
+			'sitelang' => $lang->{android},
 			'categories' => [@categorysorted]
 		},
 		"$OUT/$lang->{locales}/category.html",
@@ -205,6 +216,7 @@ foreach my $lang (@{$languages->{lang}}){
 	$t->process('group.html',
 		{	'title' => $locappname,
 			'groups' => $groups->{group},
+			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/group.html",
@@ -212,6 +224,7 @@ foreach my $lang (@{$languages->{lang}}){
 
 	$t->process('about.html',
 		{	'title' => $locappname . ' - ' . lc(__('About')),
+			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/about.html",
@@ -222,6 +235,7 @@ foreach my $lang (@{$languages->{lang}}){
 		  'langandroid' => $lang->{android},
 		  'lang' => $lang->{locales},
 		  'msilang' => $msilang,
+			'sitelang' => $lang->{android},
 		  'msiversion' => $pt::VERSION,
 		},
 		"$OUT/$lang->{locales}/download.html",
@@ -229,6 +243,7 @@ foreach my $lang (@{$languages->{lang}}){
 
 	$t->process('mohs.html',
 		{	'title' => 'Mohs scale',
+			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/mohs.html",
@@ -237,6 +252,7 @@ foreach my $lang (@{$languages->{lang}}){
 	$t->process('language.html',
 		{	'title' => 'Language',
 			'languages' => [@langsorted],
+			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
 		},
 		"$OUT/$lang->{locales}/language.html",
@@ -255,6 +271,7 @@ foreach my $lang (@{$languages->{lang}}){
 			'categories' => [@{$categories->{category}}],
 		 	'elementname' => "name_$lang->{locales}",
 		  'lang' => $lang->{locales},
+			'sitelang' => $lang->{android},
 			'nohomelink' => 'true'
 		},
 		"$OUT/$lang->{locales}/index.html",
@@ -268,7 +285,8 @@ if($location){
 	$t->process('index.html',
 		{ 
 			'title' => $pt::APPNAME,
-			'languages' => $languages->{lang}
+			'languages' => $languages->{lang},
+			'sitelang' => 'en',
 		},
 		"$OUT/index.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -277,7 +295,8 @@ if($location){
 	$t->process('redir.js',
 		{ 
 			'title' => $pt::APPNAME,
-			'languages' => $languages->{lang}
+			'languages' => $languages->{lang},
+			'sitelang' => 'en',
 		},
 		"$OUT/redir.js",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -285,7 +304,8 @@ if($location){
 	$t->process('language.js',
 		{
 			'title' => $pt::APPNAME,
-			'languages' => $languages->{lang}
+			'languages' => $languages->{lang},
+			'sitelang' => 'en',
 		},
 		"$OUT/language.js",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -294,6 +314,7 @@ if($location){
 	$t->process('404.html',
 		{ 
 			'title' => 'Not found',
+			'sitelang' => 'en',
 		},
 		"$OUT/404.html",
 		{ binmode => ':utf8' }) or die $t->error;
