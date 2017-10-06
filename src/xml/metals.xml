@@ -48,6 +48,7 @@
     <name_hu_HU>Berillium</name_hu_HU>
     <name_vi_VN>Berili</name_vi_VN>
     <name_be_BY>Берылій</name_be_BY>
+    <name_da_DK>Beryllium</name_da_DK>
   </element>
   <element>
     <anumber>83</anumber>
@@ -96,6 +97,7 @@
     <name_hu_HU>Bizmut</name_hu_HU>
     <name_vi_VN>Bismut</name_vi_VN>
     <name_be_BY>Вісмут</name_be_BY>
+    <name_da_DK>Bismuth</name_da_DK>
   </element>
   <element>
     <anumber>50</anumber>
@@ -144,6 +146,7 @@
     <name_hu_HU>Ón</name_hu_HU>
     <name_vi_VN>Thiếc</name_vi_VN>
     <name_be_BY>Волава</name_be_BY>
+    <name_da_DK>Tin</name_da_DK>
   </element>
   <element>
     <anumber>31</anumber>
@@ -190,6 +193,7 @@
     <name_hu_HU>Gallium</name_hu_HU>
     <name_vi_VN>Gali</name_vi_VN>
     <name_be_BY>Галій</name_be_BY>
+    <name_da_DK>Gallium</name_da_DK>
   </element>
   <element>
     <anumber>13</anumber>
@@ -240,6 +244,7 @@
     <name_hu_HU>Alumínium</name_hu_HU>
     <name_vi_VN>Nhôm</name_vi_VN>
     <name_be_BY>Алюміній</name_be_BY>
+    <name_da_DK>Aluminium</name_da_DK>
   </element>
   <element>
     <anumber>12</anumber>
@@ -288,6 +293,7 @@
     <name_hu_HU>Magnézium</name_hu_HU>
     <name_vi_VN>Magiê</name_vi_VN>
     <name_be_BY>Магній</name_be_BY>
+    <name_da_DK>Magnesium</name_da_DK>
   </element>
   <element>
     <anumber>49</anumber>
@@ -334,6 +340,7 @@
     <name_hu_HU>Indium</name_hu_HU>
     <name_vi_VN>Indi</name_vi_VN>
     <name_be_BY>Індый</name_be_BY>
+    <name_da_DK>Indium</name_da_DK>
   </element>
   <element>
     <anumber>82</anumber>
@@ -383,6 +390,7 @@
     <name_hu_HU>Ólom</name_hu_HU>
     <name_vi_VN>Chì</name_vi_VN>
     <name_be_BY>Свінец</name_be_BY>
+    <name_da_DK>Bly</name_da_DK>
   </element>
   <element>
     <anumber>84</anumber>
@@ -422,6 +430,7 @@
     <name_hu_HU>Polónium</name_hu_HU>
     <name_vi_VN>Poloni</name_vi_VN>
     <name_be_BY>Палоній</name_be_BY>
+    <name_da_DK>Polonium</name_da_DK>
   </element>
   <element>
     <anumber>81</anumber>
@@ -467,6 +476,7 @@
     <name_hu_HU>Tallium</name_hu_HU>
     <name_vi_VN>Tali</name_vi_VN>
     <name_be_BY>Талій</name_be_BY>
+    <name_da_DK>Thallium</name_da_DK>
   </element>
   <element>
     <anumber>113</anumber>
@@ -499,6 +509,7 @@
     <name_hu_HU>Nihonium</name_hu_HU>
     <name_vi_VN>Nihoni</name_vi_VN>
     <name_be_BY>Нихоный</name_be_BY>
+    <name_da_DK>Nihonium</name_da_DK>
   </element>
   <element>
     <anumber>114</anumber>
@@ -531,6 +542,7 @@
     <name_hu_HU>Flerovium</name_hu_HU>
     <name_vi_VN>Flerovi</name_vi_VN>
     <name_be_BY>Флеровій</name_be_BY>
+    <name_da_DK>Flerovium</name_da_DK>
   </element>
   <element>
     <anumber>115</anumber>
@@ -563,6 +575,7 @@
     <name_hu_HU>Moszkovium</name_hu_HU>
     <name_vi_VN>Moscovi</name_vi_VN>
     <name_be_BY>Московый</name_be_BY>
+    <name_da_DK>Moscovium</name_da_DK>
   </element>
   <element>
     <anumber>116</anumber>
@@ -595,5 +608,6 @@
     <name_hu_HU>Livermorium</name_hu_HU>
     <name_vi_VN>Livermori</name_vi_VN>
     <name_be_BY>Ліверморый</name_be_BY>
+    <name_da_DK>Livermorium</name_da_DK>
   </element>
 </elements>

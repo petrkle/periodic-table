@@ -118,4 +118,13 @@
 		<title>Tavola Periodica</title>
 	</lang>
 
+	<lang>
+		<fullname>Danish</fullname>
+		<fullnameloc>Dansk</fullnameloc>
+		<locales>da_DK</locales>
+		<android>da</android>
+		<browser>da-DK</browser>
+		<title>Periodisk System</title>
+	</lang>
+
 </lagnuages>
