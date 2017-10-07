@@ -94,7 +94,7 @@ msgid "group"
 msgstr "csoport"
 
 msgid "Electronegativity"
-msgstr "Elektronegativitás"
+msgstr "Elektro<wbr>negativitás"
 
 msgid "Oxidation numbers"
 msgstr "Oxidációs számok"

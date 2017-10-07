@@ -127,4 +127,13 @@
 		<title>Periodisk System</title>
 	</lang>
 
+	<lang>
+		<fullname>Hungarian</fullname>
+		<fullnameloc>Magyar</fullnameloc>
+		<locales>hu_HU</locales>
+		<android>hu</android>
+		<browser>hu-HU</browser>
+		<title>Periódusos</title>
+	</lang>
+
 </lagnuages>
