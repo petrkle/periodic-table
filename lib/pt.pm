@@ -50,7 +50,7 @@ sub get_langs{
 sub geturl {
 	my $element = shift;
 	my $lang = shift;
-	if ($lang =~ /(ru_RU)/){
+	if ($lang =~ /(ru_RU|be_BY|hu_HU)/){
 		$lang = 'Latin';
 	}
 	my $converter = Text::Iconv->new("UTF-8", "ASCII//TRANSLIT");
