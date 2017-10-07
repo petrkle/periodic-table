@@ -15,266 +15,266 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Periódusos"
+msgid "Periodic Table"
 msgstr "Periódusos"
 
-msgid "Beállítások"
+msgid "Settings"
 msgstr "Beállítások"
 
-msgid "Nyelv"
+msgid "Language"
 msgstr "Nyelv"
 
-msgid "A"
-msgstr "A"
+msgid "About"
+msgstr "Ról ről"
 
-msgid "Angol"
+msgid "English"
 msgstr "Angol"
 
-msgid "Cseh"
+msgid "Czech"
 msgstr "Cseh"
 
-msgid "Szlovák"
+msgid "Slovak"
 msgstr "Szlovák"
 
-msgid "Német"
+msgid "German"
 msgstr "Német"
 
-msgid "A francia"
+msgid "French"
 msgstr "Francia"
 
-msgid "Lengyel"
+msgid "Polish"
 msgstr "Lengyel"
 
-msgid "Spanyol"
+msgid "Spanish"
 msgstr "Spanyol"
 
-msgid "Holland"
+msgid "Dutch"
 msgstr "Holland"
 
-msgid "Alapértelmezett nyelv"
+msgid "Default language"
 msgstr "Alapértelmezett nyelv"
 
-msgid "Állam"
+msgid "State"
 msgstr "Állam"
 
-msgid "Szilárd"
+msgid "Solid"
 msgstr "Szilárd"
 
-msgid "Folyékony"
+msgid "Liquid"
 msgstr "Folyékony"
 
-msgid "Gáz"
+msgid "Gas"
 msgstr "Gáz"
 
-msgid "Szimbólum"
+msgid "Symbol"
 msgstr "Szimbólum"
 
-msgid "Rendszáma"
+msgid "Atomic number"
 msgstr "Rendszáma"
 
-msgid "Idő"
+msgid "Period"
 msgstr "Idő"
 
-msgid "a(z) %d. időszak"
+msgid "%d. period"
 msgstr "%d. időszak"
 
-msgid "Elem kategória"
+msgid "Element category"
 msgstr "Elem kategória"
 
-msgid "Relatív atomtömeg"
+msgid "Relative atomic mass"
 msgstr "Relatív atomtömeg"
 
-msgid "Atomtömeg"
+msgid "Atomic mass"
 msgstr "Atomtömeg"
 
-msgid "Csoport"
+msgid "Group"
 msgstr "Csoport"
 
-msgid "csoport"
+msgid "group"
 msgstr "csoport"
 
-msgid "Elektronegativitás"
+msgid "Electronegativity"
 msgstr "Elektronegativitás"
 
-msgid "Oxidációs számok"
+msgid "Oxidation numbers"
 msgstr "Oxidációs számok"
 
-msgid "Elektronszerkezet"
+msgid "Electron configuration"
 msgstr "Elektron beßllφtßsa"
 
-msgid "Sűrűség"
+msgid "Density"
 msgstr "Sűrűség"
 
-msgid "Olvadáspont"
+msgid "Melting point"
 msgstr "Olvadáspont"
 
-msgid "Forráspont"
+msgid "Boiling point"
 msgstr "Forráspont"
 
-msgid "Kritikus pont"
+msgid "Critical point"
 msgstr "Kritikus pont"
 
-msgid "Kritikus nyomás"
+msgid "Critical pressure"
 msgstr "Kritikus nyomás"
 
 msgid "Atomic radius"
 msgstr "Atomic radius"
 
-msgid "Kovalens sugár"
+msgid "Covalent radius"
 msgstr "Kovalens sugár"
 
-msgid "Hővezető"
+msgid "Thermal conductivity"
 msgstr "Hővezető"
 
-msgid "Felfedezés"
+msgid "Discovery"
 msgstr "Discovery"
 
-msgid "Keménység"
+msgid "Hardness"
 msgstr "Keménység"
 
-msgid "Vickers keménység"
+msgid "Vickers hardness"
 msgstr "Vickers keménység"
 
-msgid "Brinell-keménység"
+msgid "Brinell hardness"
 msgstr "Brinell-keménység"
 
-msgid "Mohs-skála"
+msgid "Mohs scale"
 msgstr "Mohs-skála"
 
-msgid "Nyírási modulus"
+msgid "Shear modulus"
 msgstr "Nyírási modulus"
 
-msgid "Young-modulus"
-msgstr "Young-modulus"
+msgid "Young's modulus"
+msgstr "Young modulus"
 
-msgid "Elektromos ellenállás"
+msgid "Electrical resistivity"
 msgstr "Elektromos ellenállás"
 
-msgid "Villamos vezetőképessége"
+msgid "Electrical conductivity"
 msgstr "Villamos vezetőképessége"
 
-msgid "Név"
+msgid "Name"
 msgstr "Név"
 
-msgid "Latin neve"
+msgid "Latin name"
 msgstr "Latin neve"
 
-msgid "Verzió"
+msgid "Version"
 msgstr "Verzió"
 
-msgid "Készült"
+msgid "Created"
 msgstr "Készült"
 
-msgid "Szerző"
+msgid "Author"
 msgstr "Szerző"
 
-msgid "Írás áttekintés"
+msgid "Write review"
 msgstr "Write áttekintés"
 
-msgid "Nemes gázok"
+msgid "Noble gases"
 msgstr "Nemes gázok"
 
-msgid "Belső átmeneti elemek"
+msgid "Inner transition elements"
 msgstr "Belső átmeneti elemek"
 
-msgid "Átmeneti elemek"
+msgid "Transition elements"
 msgstr "Átmeneti elemek"
 
-msgid "Félfémek"
+msgid "Metalloids"
 msgstr "Félfémek"
 
-msgid "Nagykönyvben meg van írva"
+msgid "Nonmetals"
 msgstr "Nagykönyvben meg van írva"
 
-msgid "alkáliföldfémek"
+msgid "Alkaline earth metals"
 msgstr "alkáliföldfémek"
 
-msgid "Fémek"
+msgid "Metals"
 msgstr "Fémek"
 
-msgid "Halogének"
+msgid "Halogens"
 msgstr "Halogének"
 
-msgid "Alkáli fémek"
+msgid "Alkali metals"
 msgstr "Alkáli fémek"
 
-msgid "1.st Ionizációs energia"
+msgid "1.st ionization energy"
 msgstr "1.st Ionizációs energia"
 
-msgid "2.nd Ionizációs energia"
+msgid "2.nd ionization energy"
 msgstr "2.nd Ionizációs energia"
 
-msgid "3.rd Ionizációs energia"
+msgid "3.rd ionization energy"
 msgstr "3.rd Ionizációs energia"
 
-msgid "Stabil izotóp"
+msgid "Stable isotopes"
 msgstr "Stabil izotóp"
 
-msgid "Instabil izotóp"
+msgid "Unstable isotopes"
 msgstr "Instabil izotóp"
 
-msgid "Anyag"
+msgid "Substance"
 msgstr "Anyag"
 
-msgid "Talkum"
+msgid "Talc"
 msgstr "Talkum"
 
-msgid "Kősó"
+msgid "Rock salt"
 msgstr "Kősó"
 
-msgid "Mészkő"
+msgid "Limestone"
 msgstr "Mészkő"
 
-msgid "Folypát"
+msgid "Fluorspar"
 msgstr "Folypát"
 
-msgid "Apatit"
+msgid "Apatite"
 msgstr "Apatit"
 
-msgid "Földpát"
+msgid "Feldspar"
 msgstr "Földpát"
 
-msgid "Kvarc"
+msgid "Quartz"
 msgstr "Kvarc"
 
-msgid "Topáz"
+msgid "Topaz"
 msgstr "Topáz"
 
-msgid "Korund"
+msgid "Corundum"
 msgstr "Korund"
 
-msgid "Gyémánt"
+msgid "Diamond"
 msgstr "Gyémánt"
 
-msgid "Antik"
+msgid "Antiquity"
 msgstr "Antik"
 
-msgid "Hőkapacitás"
+msgid "Heat capacity"
 msgstr "Hőkapacitás"
 
-msgid "Tábla nézet"
+msgid "Table view"
 msgstr "Tábla nézet"
 
-msgid "Letöltés"
+msgid "Download"
 msgstr "Letöltés"
 
-msgid "Linkek"
+msgid "Links"
 msgstr "Linkek"
 
-msgid "Forráskód"
+msgid "Source code"
 msgstr "Forráskód"
 
-msgid "Ismeretlen"
+msgid "Unknown"
 msgstr "Ismeretlen"
 
-msgid "Svéd"
+msgid "Swedish"
 msgstr "Svéd"
 
-msgid "Portugál"
+msgid "Portuguese"
 msgstr "Portugál"
 
-msgid "Brazíliai portugál"
+msgid "Brazilian Portuguese"
 msgstr "Brazíliai portugál"
 
-msgid "Olasz"
+msgid "Italian"
 msgstr "Olasz"
