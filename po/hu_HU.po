@@ -1,0 +1,280 @@
+# Hungarian translation
+# Copyright (C) 2017
+# This file is distributed under the same license as the PACKAGE package.
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-04 13:39+0200\n"
+"PO-Revision-Date: 2017-10-06 10:10+0400\n"
+"Last-Translator: Stephen Pfaff\n"
+"Language-Team: Hungarian\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Periodic Table"
+msgstr "Periódusos"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "Language"
+msgstr "Nyelv"
+
+msgid "About"
+msgstr "Ról ről"
+
+msgid "English"
+msgstr "Angol"
+
+msgid "Czech"
+msgstr "Cseh"
+
+msgid "Slovak"
+msgstr "Szlovák"
+
+msgid "German"
+msgstr "Német"
+
+msgid "French"
+msgstr "Francia"
+
+msgid "Polish"
+msgstr "Lengyel"
+
+msgid "Spanish"
+msgstr "Spanyol"
+
+msgid "Dutch"
+msgstr "Holland"
+
+msgid "Default language"
+msgstr "Alapértelmezett nyelv"
+
+msgid "State"
+msgstr "Állam"
+
+msgid "Solid"
+msgstr "Szilárd"
+
+msgid "Liquid"
+msgstr "Folyékony"
+
+msgid "Gas"
+msgstr "Gáz"
+
+msgid "Symbol"
+msgstr "Szimbólum"
+
+msgid "Atomic number"
+msgstr "Rendszáma"
+
+msgid "Period"
+msgstr "Idő"
+
+msgid "%d. period"
+msgstr "%d. időszak"
+
+msgid "Element category"
+msgstr "Elem kategória"
+
+msgid "Relative atomic mass"
+msgstr "Relatív atomtömeg"
+
+msgid "Atomic mass"
+msgstr "Atomtömeg"
+
+msgid "Group"
+msgstr "Csoport"
+
+msgid "group"
+msgstr "csoport"
+
+msgid "Electronegativity"
+msgstr "Elektronegativitás"
+
+msgid "Oxidation numbers"
+msgstr "Oxidációs számok"
+
+msgid "Electron configuration"
+msgstr "Elektron beßllφtßsa"
+
+msgid "Density"
+msgstr "Sűrűség"
+
+msgid "Melting point"
+msgstr "Olvadáspont"
+
+msgid "Boiling point"
+msgstr "Forráspont"
+
+msgid "Critical point"
+msgstr "Kritikus pont"
+
+msgid "Critical pressure"
+msgstr "Kritikus nyomás"
+
+msgid "Atomic radius"
+msgstr "Atomic radius"
+
+msgid "Covalent radius"
+msgstr "Kovalens sugár"
+
+msgid "Thermal conductivity"
+msgstr "Hővezető"
+
+msgid "Discovery"
+msgstr "Discovery"
+
+msgid "Hardness"
+msgstr "Keménység"
+
+msgid "Vickers hardness"
+msgstr "Vickers keménység"
+
+msgid "Brinell hardness"
+msgstr "Brinell-keménység"
+
+msgid "Mohs scale"
+msgstr "Mohs-skála"
+
+msgid "Shear modulus"
+msgstr "Nyírási modulus"
+
+msgid "Young's modulus"
+msgstr "Young modulus"
+
+msgid "Electrical resistivity"
+msgstr "Elektromos ellenállás"
+
+msgid "Electrical conductivity"
+msgstr "Villamos vezetőképessége"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Latin name"
+msgstr "Latin neve"
+
+msgid "Version"
+msgstr "Verzió"
+
+msgid "Created"
+msgstr "Készült"
+
+msgid "Author"
+msgstr "Szerző"
+
+msgid "Write review"
+msgstr "Write áttekintés"
+
+msgid "Noble gases"
+msgstr "Nemes gázok"
+
+msgid "Inner transition elements"
+msgstr "Belső átmeneti elemek"
+
+msgid "Transition elements"
+msgstr "Átmeneti elemek"
+
+msgid "Metalloids"
+msgstr "Félfémek"
+
+msgid "Nonmetals"
+msgstr "Nagykönyvben meg van írva"
+
+msgid "Alkaline earth metals"
+msgstr "alkáliföldfémek"
+
+msgid "Metals"
+msgstr "Fémek"
+
+msgid "Halogens"
+msgstr "Halogének"
+
+msgid "Alkali metals"
+msgstr "Alkáli fémek"
+
+msgid "1.st ionization energy"
+msgstr "1.st Ionizációs energia"
+
+msgid "2.nd ionization energy"
+msgstr "2.nd Ionizációs energia"
+
+msgid "3.rd ionization energy"
+msgstr "3.rd Ionizációs energia"
+
+msgid "Stable isotopes"
+msgstr "Stabil izotóp"
+
+msgid "Unstable isotopes"
+msgstr "Instabil izotóp"
+
+msgid "Substance"
+msgstr "Anyag"
+
+msgid "Talc"
+msgstr "Talkum"
+
+msgid "Rock salt"
+msgstr "Kősó"
+
+msgid "Limestone"
+msgstr "Mészkő"
+
+msgid "Fluorspar"
+msgstr "Folypát"
+
+msgid "Apatite"
+msgstr "Apatit"
+
+msgid "Feldspar"
+msgstr "Földpát"
+
+msgid "Quartz"
+msgstr "Kvarc"
+
+msgid "Topaz"
+msgstr "Topáz"
+
+msgid "Corundum"
+msgstr "Korund"
+
+msgid "Diamond"
+msgstr "Gyémánt"
+
+msgid "Antiquity"
+msgstr "Antik"
+
+msgid "Heat capacity"
+msgstr "Hőkapacitás"
+
+msgid "Table view"
+msgstr "Tábla nézet"
+
+msgid "Download"
+msgstr "Letöltés"
+
+msgid "Links"
+msgstr "Linkek"
+
+msgid "Source code"
+msgstr "Forráskód"
+
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+msgid "Swedish"
+msgstr "Svéd"
+
+msgid "Portuguese"
+msgstr "Portugál"
+
+msgid "Brazilian Portuguese"
+msgstr "Brazíliai portugál"
+
+msgid "Italian"
+msgstr "Olasz"
