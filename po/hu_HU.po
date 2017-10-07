@@ -1,0 +1,280 @@
+# Hungarian translation
+# Copyright (C) 2017
+# This file is distributed under the same license as the PACKAGE package.
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-04 13:39+0200\n"
+"PO-Revision-Date: 2017-10-06 10:10+0400\n"
+"Last-Translator: Stephen Pfaff\n"
+"Language-Team: Hungarian\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Periódusos"
+msgstr "Periódusos"
+
+msgid "Beállítások"
+msgstr "Beállítások"
+
+msgid "Nyelv"
+msgstr "Nyelv"
+
+msgid "A"
+msgstr "A"
+
+msgid "Angol"
+msgstr "Angol"
+
+msgid "Cseh"
+msgstr "Cseh"
+
+msgid "Szlovák"
+msgstr "Szlovák"
+
+msgid "Német"
+msgstr "Német"
+
+msgid "A francia"
+msgstr "Francia"
+
+msgid "Lengyel"
+msgstr "Lengyel"
+
+msgid "Spanyol"
+msgstr "Spanyol"
+
+msgid "Holland"
+msgstr "Holland"
+
+msgid "Alapértelmezett nyelv"
+msgstr "Alapértelmezett nyelv"
+
+msgid "Állam"
+msgstr "Állam"
+
+msgid "Szilárd"
+msgstr "Szilárd"
+
+msgid "Folyékony"
+msgstr "Folyékony"
+
+msgid "Gáz"
+msgstr "Gáz"
+
+msgid "Szimbólum"
+msgstr "Szimbólum"
+
+msgid "Rendszáma"
+msgstr "Rendszáma"
+
+msgid "Idő"
+msgstr "Idő"
+
+msgid "a(z) %d. időszak"
+msgstr "%d. időszak"
+
+msgid "Elem kategória"
+msgstr "Elem kategória"
+
+msgid "Relatív atomtömeg"
+msgstr "Relatív atomtömeg"
+
+msgid "Atomtömeg"
+msgstr "Atomtömeg"
+
+msgid "Csoport"
+msgstr "Csoport"
+
+msgid "csoport"
+msgstr "csoport"
+
+msgid "Elektronegativitás"
+msgstr "Elektronegativitás"
+
+msgid "Oxidációs számok"
+msgstr "Oxidációs számok"
+
+msgid "Elektronszerkezet"
+msgstr "Elektron beßllφtßsa"
+
+msgid "Sűrűség"
+msgstr "Sűrűség"
+
+msgid "Olvadáspont"
+msgstr "Olvadáspont"
+
+msgid "Forráspont"
+msgstr "Forráspont"
+
+msgid "Kritikus pont"
+msgstr "Kritikus pont"
+
+msgid "Kritikus nyomás"
+msgstr "Kritikus nyomás"
+
+msgid "Atomic radius"
+msgstr "Atomic radius"
+
+msgid "Kovalens sugár"
+msgstr "Kovalens sugár"
+
+msgid "Hővezető"
+msgstr "Hővezető"
+
+msgid "Felfedezés"
+msgstr "Discovery"
+
+msgid "Keménység"
+msgstr "Keménység"
+
+msgid "Vickers keménység"
+msgstr "Vickers keménység"
+
+msgid "Brinell-keménység"
+msgstr "Brinell-keménység"
+
+msgid "Mohs-skála"
+msgstr "Mohs-skála"
+
+msgid "Nyírási modulus"
+msgstr "Nyírási modulus"
+
+msgid "Young-modulus"
+msgstr "Young-modulus"
+
+msgid "Elektromos ellenállás"
+msgstr "Elektromos ellenállás"
+
+msgid "Villamos vezetőképessége"
+msgstr "Villamos vezetőképessége"
+
+msgid "Név"
+msgstr "Név"
+
+msgid "Latin neve"
+msgstr "Latin neve"
+
+msgid "Verzió"
+msgstr "Verzió"
+
+msgid "Készült"
+msgstr "Készült"
+
+msgid "Szerző"
+msgstr "Szerző"
+
+msgid "Írás áttekintés"
+msgstr "Write áttekintés"
+
+msgid "Nemes gázok"
+msgstr "Nemes gázok"
+
+msgid "Belső átmeneti elemek"
+msgstr "Belső átmeneti elemek"
+
+msgid "Átmeneti elemek"
+msgstr "Átmeneti elemek"
+
+msgid "Félfémek"
+msgstr "Félfémek"
+
+msgid "Nagykönyvben meg van írva"
+msgstr "Nagykönyvben meg van írva"
+
+msgid "alkáliföldfémek"
+msgstr "alkáliföldfémek"
+
+msgid "Fémek"
+msgstr "Fémek"
+
+msgid "Halogének"
+msgstr "Halogének"
+
+msgid "Alkáli fémek"
+msgstr "Alkáli fémek"
+
+msgid "1.st Ionizációs energia"
+msgstr "1.st Ionizációs energia"
+
+msgid "2.nd Ionizációs energia"
+msgstr "2.nd Ionizációs energia"
+
+msgid "3.rd Ionizációs energia"
+msgstr "3.rd Ionizációs energia"
+
+msgid "Stabil izotóp"
+msgstr "Stabil izotóp"
+
+msgid "Instabil izotóp"
+msgstr "Instabil izotóp"
+
+msgid "Anyag"
+msgstr "Anyag"
+
+msgid "Talkum"
+msgstr "Talkum"
+
+msgid "Kősó"
+msgstr "Kősó"
+
+msgid "Mészkő"
+msgstr "Mészkő"
+
+msgid "Folypát"
+msgstr "Folypát"
+
+msgid "Apatit"
+msgstr "Apatit"
+
+msgid "Földpát"
+msgstr "Földpát"
+
+msgid "Kvarc"
+msgstr "Kvarc"
+
+msgid "Topáz"
+msgstr "Topáz"
+
+msgid "Korund"
+msgstr "Korund"
+
+msgid "Gyémánt"
+msgstr "Gyémánt"
+
+msgid "Antik"
+msgstr "Antik"
+
+msgid "Hőkapacitás"
+msgstr "Hőkapacitás"
+
+msgid "Tábla nézet"
+msgstr "Tábla nézet"
+
+msgid "Letöltés"
+msgstr "Letöltés"
+
+msgid "Linkek"
+msgstr "Linkek"
+
+msgid "Forráskód"
+msgstr "Forráskód"
+
+msgid "Ismeretlen"
+msgstr "Ismeretlen"
+
+msgid "Svéd"
+msgstr "Svéd"
+
+msgid "Portugál"
+msgstr "Portugál"
+
+msgid "Brazíliai portugál"
+msgstr "Brazíliai portugál"
+
+msgid "Olasz"
+msgstr "Olasz"
