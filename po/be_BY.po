@@ -11,7 +11,7 @@ msgstr ""
 "Language: ru\n"
 
 msgid "Periodic Table"
-msgstr "Табліца Мендзяле<wbr>ева"
+msgstr "Табліца Мендзялеева"
 
 msgid "Settings"
 msgstr "Наладкі"
