@@ -32,7 +32,7 @@ msgid "Slovak"
 msgstr "Словацкий"
 
 msgid "Default language"
-msgstr "Язык по умолчянию"
+msgstr "Язык по умолчанию"
 
 msgid "State"
 msgstr "Страна"
@@ -149,7 +149,7 @@ msgid "Author"
 msgstr "Автор"
 
 msgid "Write review"
-msgstr "Написать j,pjh"
+msgstr "Написать отзыв"
 
 msgid "Noble gases"
 msgstr "Благородные газы"
@@ -215,7 +215,7 @@ msgid "Feldspar"
 msgstr "Полевой шпат"
 
 msgid "Quartz"
-msgstr "Квартц"
+msgstr "Кварц"
 
 msgid "Topaz"
 msgstr "Топаз"
@@ -236,7 +236,7 @@ msgid "Table view"
 msgstr "Вид: таблица"
 
 msgid "French"
-msgstr "Французкий"
+msgstr "Французский"
 
 msgid "Russian"
 msgstr "Русский"
@@ -281,4 +281,4 @@ msgid "Brazilian Portuguese"
 msgstr "Бразильский португальский"
 
 msgid "Italian"
-msgstr "итальянец"
+msgstr "Итальянский"
