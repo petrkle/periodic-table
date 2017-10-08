@@ -1,0 +1,284 @@
+# Periodic Table - Belarusian translation
+# Maksim Labovich <lumihis+github@gmail.com>, 2014
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Periodic table\n"
+"Last-Translator: Maksim Labovich <lumihis+github@gmail.com>\n"
+"Language: ru\n"
+
+msgid "Periodic Table"
+msgstr "Табліца Мендзяле<wbr>ева"
+
+msgid "Settings"
+msgstr "Наладкі"
+
+msgid "Language"
+msgstr "Мова"
+
+msgid "About"
+msgstr "Пра нас"
+
+msgid "English"
+msgstr "Англійская"
+
+msgid "Czech"
+msgstr "Чэшская"
+
+msgid "Slovak"
+msgstr "Славацкая"
+
+msgid "Default language"
+msgstr "Агаданая мова"
+
+msgid "State"
+msgstr "Агрэгатны стан"
+
+msgid "Solid"
+msgstr "Цвёрды"
+
+msgid "Liquid"
+msgstr "Вадкі"
+
+msgid "Gas"
+msgstr "Газа<wbr>падобны"
+
+msgid "Symbol"
+msgstr "Сымвал"
+
+msgid "Atomic number"
+msgstr "Атамны нумар"
+
+msgid "Period"
+msgstr "Перыяд"
+
+msgid "%d. period"
+msgstr "%d. перыяд"
+
+msgid "Element category"
+msgstr "Катэго<wbr>рыя элемента"
+
+msgid "Relative atomic mass"
+msgstr "Адносная атомная маса"
+
+msgid "Atomic mass"
+msgstr "Атамная маса"
+
+msgid "Group"
+msgstr "Група"
+
+msgid "group"
+msgstr "група"
+
+msgid "Electronegativity"
+msgstr "Электра<wbr>адмоўна<wbr>сць"
+
+msgid "Oxidation numbers"
+msgstr "Ступень акіс<wbr>лен<wbr>ня"
+
+msgid "Electron configuration"
+msgstr "Электрон<wbr>ная канфі<wbr>гура<wbr>цыя"
+
+msgid "Density"
+msgstr "Шчыльнасць"
+
+msgid "Melting point"
+msgstr "Тэмпе<wbr>ратура плаўлення"
+
+msgid "Boiling point"
+msgstr "Тэмпе<wbr>ратура кіпення"
+
+msgid "Critical point"
+msgstr "Крытыч<wbr>ная кропка"
+
+msgid "Critical pressure"
+msgstr "Крытычны ціск"
+
+msgid "Atomic radius"
+msgstr "Атамны радыус"
+
+msgid "Covalent radius"
+msgstr "Кава<wbr>лент<wbr>ны радыус"
+
+msgid "Thermal conductivity"
+msgstr "Цепла<wbr>праводнасць"
+
+msgid "Discovery"
+msgstr "Адкрыццё"
+
+msgid "Hardness"
+msgstr "Цвёрдасць"
+
+msgid "Vickers hardness"
+msgstr "Цвёрдасць па Вікерсу"
+
+msgid "Brinell hardness"
+msgstr "Цвёрдасць па Брынеллю"
+
+msgid "Mohs scale"
+msgstr "Шкала Мооса"
+
+msgid "Shear modulus"
+msgstr "Модуль зруху"
+
+msgid "Young's modulus"
+msgstr "Модуль Юнга"
+
+msgid "Electrical resistivity"
+msgstr "Электрыч<wbr>ны суп<wbr>ра<wbr>ціў"
+
+msgid "Electrical conductivity"
+msgstr "Электрычная пра<wbr>вод<wbr>насць"
+
+msgid "Name"
+msgstr "Назва"
+
+msgid "Latin name"
+msgstr "Назва на латы<wbr>ні"
+
+msgid "Version"
+msgstr "Версія"
+
+msgid "Created"
+msgstr "Створаны"
+
+msgid "Author"
+msgstr "Аўтар"
+
+msgid "Write review"
+msgstr "Напісаць вод<wbr>гук"
+
+msgid "Noble gases"
+msgstr "Выса<wbr>ка<wbr>род<wbr>ныя газы"
+
+msgid "Inner transition elements"
+msgstr "F-эле<wbr>мен<wbr>ты"
+
+msgid "Transition elements"
+msgstr "Пераход<wbr>ныя элемен<wbr>ты"
+
+msgid "Metalloids"
+msgstr "Паўме<wbr>та<wbr>лы"
+
+msgid "Nonmetals"
+msgstr "Немета<wbr>лы"
+
+msgid "Alkaline earth metals"
+msgstr "Шчолач<wbr>ныя рэдка<wbr>зя<wbr>мель<wbr>ныя мета<wbr>лы"
+
+msgid "Metals"
+msgstr "Мета<wbr>лы"
+
+msgid "Halogens"
+msgstr "Галаге<wbr>ны"
+
+msgid "Alkali metals"
+msgstr "Шчолачныя мета<wbr>лы"
+
+msgid "1.st ionization energy"
+msgstr "1. Энергія іяні<wbr>за<wbr>цыі"
+
+msgid "2.nd ionization energy"
+msgstr "2. Энергія іянізацыі"
+
+msgid "3.rd ionization energy"
+msgstr "3. Энергія іяні<wbr>за<wbr>цыі"
+
+msgid "Stable isotopes"
+msgstr "Стабіль<wbr>ныя ізато<wbr>пы"
+
+msgid "Unstable isotopes"
+msgstr "Нестабіль<wbr>ныя ізато<wbr>пы"
+
+msgid "Substance"
+msgstr "Рэчы<wbr>ва"
+
+msgid "Talc"
+msgstr "Тальк"
+
+msgid "Rock salt"
+msgstr "Камен<wbr>ная соль"
+
+msgid "Limestone"
+msgstr "Вап<wbr>няк"
+
+msgid "Fluorspar"
+msgstr "Флюа<wbr>рыт"
+
+msgid "Apatite"
+msgstr "Апа<wbr>тыт"
+
+msgid "Feldspar"
+msgstr "Паля<wbr>вы шпат"
+
+msgid "Quartz"
+msgstr "Кварц"
+
+msgid "Topaz"
+msgstr "Тапаз"
+
+msgid "Corundum"
+msgstr "Ко<wbr>рунд"
+
+msgid "Diamond"
+msgstr "Алмаз"
+
+msgid "Antiquity"
+msgstr "Ан<wbr>тыч<wbr>насць"
+
+msgid "Heat capacity"
+msgstr "Цёп<wbr>ла<wbr>еміс<wbr>тасць"
+
+msgid "Table view"
+msgstr "Выг<wbr>ляд: таб<wbr>лі<wbr>ца"
+
+msgid "French"
+msgstr "Фран<wbr>цуз<wbr>кая"
+
+msgid "Russian"
+msgstr "Рус<wbr>кая"
+
+msgid "German"
+msgstr "Нямец<wbr>кая"
+
+msgid "Spanish"
+msgstr "Іспан<wbr>ская"
+
+msgid "Polish"
+msgstr "Поль<wbr>ская"
+
+msgid "Download"
+msgstr "Спам<wbr>пав<wbr>аць"
+
+msgid "Links"
+msgstr "Спа<wbr>сыл<wbr>кі"
+
+msgid "Source code"
+msgstr "Зы<wbr>ход<wbr>ны код"
+
+msgid "Unknown"
+msgstr "Не<wbr>вя<wbr>до<wbr>мы"
+
+msgid "Dutch"
+msgstr "Нідэр<wbr>ланд<wbr>ская"
+
+msgid "Estonian"
+msgstr "Эстон<wbr>ская"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Swedish"
+msgstr "Швед<wbr>ская"
+
+msgid "Portuguese"
+msgstr "Партугаль<wbr>ская"
+
+msgid "Brazilian Portuguese"
+msgstr "Бразіль<wbr>ская пар<wbr>ту<wbr>галь<wbr>ская"
+
+msgid "Italian"
+msgstr "Італь<wbr>ян<wbr>ская"
