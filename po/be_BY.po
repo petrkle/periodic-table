@@ -1,5 +1,5 @@
 # Periodic Table - Belarusian translation
-# Maksim Labovich <lumihis+github@gmail.com>, 2014
+# Maksim Labovich <lumihis+github@gmail.com>, 2017
 #
 msgid ""
 msgstr ""
@@ -284,10 +284,10 @@ msgid "Italian"
 msgstr "Італь<wbr>ян<wbr>ская"
 
 msgid "Danish"
-msgstr "дацкая мова"
+msgstr "Дацкая"
 
 msgid "Hungarian"
-msgstr "венгерская"
+msgstr "Венгерская"
 
 msgid "Belarusian"
-msgstr "беларускі"
+msgstr "Беларуская"
