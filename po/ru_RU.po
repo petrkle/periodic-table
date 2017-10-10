@@ -7,7 +7,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: Periodic table\n"
-"Last-Translator: Natali Bergman <bergnatali@gmail.com>\n"
+"Last-Translator: Maksim Labovich <lumihis+github@gmail.com>\n"
 "Language: ru\n"
 
 msgid "Periodic Table"
@@ -35,16 +35,16 @@ msgid "Default language"
 msgstr "Язык по умолчанию"
 
 msgid "State"
-msgstr "Страна"
+msgstr "Агрегатное состояние"
 
 msgid "Solid"
-msgstr "Плотный"
+msgstr "Твёрдое"
 
 msgid "Liquid"
-msgstr "Жидкость "
+msgstr "Жидкое"
 
 msgid "Gas"
-msgstr "Газ"
+msgstr "Газообразное"
 
 msgid "Symbol"
 msgstr "Символ"
@@ -161,13 +161,13 @@ msgid "Transition elements"
 msgstr "Переходные элементы"
 
 msgid "Metalloids"
-msgstr "Металлоиды"
+msgstr "Полуметаллы"
 
 msgid "Nonmetals"
 msgstr "Неметаллы"
 
 msgid "Alkaline earth metals"
-msgstr "Щёлочн<wbr>оземельные металлы"
+msgstr "Щёлочно<wbr>земельные металлы"
 
 msgid "Metals"
 msgstr "Металлы"
@@ -282,3 +282,12 @@ msgstr "Бразильский португальский"
 
 msgid "Italian"
 msgstr "Итальянский"
+
+msgid "Danish"
+msgstr "Датский"
+
+msgid "Hungarian"
+msgstr "Венгерский"
+
+msgid "Belarusian"
+msgstr "Белорусский"
