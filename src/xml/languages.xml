@@ -104,7 +104,7 @@
 		<fullname>Brazilian Portuguese</fullname>
 		<fullnameloc>Português brasileiro</fullnameloc>
 		<locales>pt_BR</locales>
-		<android>pt-rBR</android>
+		<android>pt</android>
 		<browser>pt-BR</browser>
 		<title>Tabela periódica</title>
 	</lang>
