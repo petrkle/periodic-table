@@ -11,7 +11,7 @@ msgstr ""
 "Language: ru\n"
 
 msgid "Periodic Table"
-msgstr "Табліца Мендзяле<wbr>ева"
+msgstr "Табліца Мендзялеева"
 
 msgid "Settings"
 msgstr "Наладкі"
@@ -282,3 +282,12 @@ msgstr "Бразіль<wbr>ская пар<wbr>ту<wbr>галь<wbr>ская"
 
 msgid "Italian"
 msgstr "Італь<wbr>ян<wbr>ская"
+
+msgid "Danish"
+msgstr "дацкая мова"
+
+msgid "Hungarian"
+msgstr "венгерская"
+
+msgid "Belarusian"
+msgstr "беларускі"
