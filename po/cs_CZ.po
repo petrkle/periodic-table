@@ -294,3 +294,6 @@ msgstr "Dánština"
 
 msgid "Hungarian"
 msgstr "Maďarština"
+
+msgid "Belarusian"
+msgstr "Běloruština"
