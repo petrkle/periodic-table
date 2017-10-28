@@ -6,7 +6,7 @@ $(SRC)-[% lang %].$(VERSION).exe: $(SRC)-[% lang %].$(VERSION).msi
 	copy /b 7zSD.sfx + [% lang %].conf + $(SRC)-[% lang %].$(VERSION).7z $(SRC)-[% lang %].$(VERSION).exe
 
 $(SRC)-[% lang %].$(VERSION).msi: $(SRC)-[% lang %].wixobj img/*.jpg img/*.ico
-	light.exe -sacl -nologo -sw1076 -ext WixUIExtension -ext WixUtilExtension -cultures:[% lang %] -loc [% lang %].wxl -out $(SRC)-[% lang %].$(VERSION).msi $(SRC)-[% lang %].wixobj
+	light.exe -sacl -nologo -sw1076 -ext WixUIExtension -ext WixUtilExtension -cultures:[% culture %] -loc [% lang %].wxl -out $(SRC)-[% lang %].$(VERSION).msi $(SRC)-[% lang %].wixobj
 
 $(SRC)-[% lang %].wixobj: $(SRC)-[% lang %].wxs files-[% lang %].wxs components-[% lang %].wxs minimalui.wxs
 	candle.exe -nologo -dProductVersion=$(VERSION) -dSRC=$(SRC) -ext WixUIExtension $(SRC)-[% lang %].wxs

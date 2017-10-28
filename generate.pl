@@ -280,17 +280,16 @@ foreach my $lang (@{$languages->{lang}}){
 
 setlocales();
 
+$t->process('index.html',
+	{ 
+		'title' => $pt::APPNAME,
+		'languages' => $languages->{lang},
+		'sitelang' => 'en',
+	},
+	"$OUT/index.html",
+	{ binmode => ':utf8' }) or die $t->error;
+
 if($location){
-
-	$t->process('index.html',
-		{ 
-			'title' => $pt::APPNAME,
-			'languages' => $languages->{lang},
-			'sitelang' => 'en',
-		},
-		"$OUT/index.html",
-		{ binmode => ':utf8' }) or die $t->error;
-
 
 	$t->process('redir.js',
 		{ 

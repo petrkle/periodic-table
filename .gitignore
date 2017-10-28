@@ -1,6 +1,5 @@
 locale
 www
-*.wxl
 *.exe
 *.msi
 *.wixpdb
@@ -13,4 +12,5 @@ msi/components*
 msi/Makefile*
 msi/shortcuts*
 msi/files*
+msi/*.wxl
 pt.zip

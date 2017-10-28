@@ -7,6 +7,7 @@
 		<locales>en_US</locales>
 		<android>en</android>
 		<browser>en-US</browser>
+		<msi>en-US</msi>
 		<title>Periodic Table</title>
 	</lang>
 
@@ -16,6 +17,7 @@
 		<locales>de_DE</locales>
 		<android>de</android>
 		<browser>de-DE</browser>
+		<msi>de-DE</msi>
 		<title>Periodensystem</title>
 	</lang>
 
@@ -25,6 +27,7 @@
 		<locales>fr_FR</locales>
 		<android>fr</android>
 		<browser>fr-FR</browser>
+		<msi>fr-FR</msi>
 		<title>Tableau périodique</title>
 	</lang>
 
@@ -34,6 +37,7 @@
 		<locales>cs_CZ</locales>
 		<android>cs</android>
 		<browser>cs-CZ</browser>
+		<msi>cs-CZ</msi>
 		<title>Periodická soustava prvků</title>
 	</lang>
 
@@ -43,6 +47,7 @@
 		<locales>sk_SK</locales>
 		<android>sk</android>
 		<browser>sk-SK</browser>
+		<msi>sk-SK</msi>
 		<title>Periodická tabuľka</title>
 	</lang>
 
@@ -52,6 +57,7 @@
 		<locales>pl_PL</locales>
 		<android>pl</android>
 		<browser>pl-PL</browser>
+		<msi>pl-PL</msi>
 		<title>Układ okresowy</title>
 	</lang>
 
@@ -61,6 +67,7 @@
 		<locales>es_ES</locales>
 		<android>es</android>
 		<browser>es-ES</browser>
+		<msi>es-ES</msi>
 		<title>Sistema periódico</title>
 	</lang>
 
@@ -70,6 +77,7 @@
 		<locales>nl_NL</locales>
 		<android>nl</android>
 		<browser>nl-NL</browser>
+		<msi>nl-NL</msi>
 		<title>Periodiek syteem</title>
 	</lang>
 
@@ -79,6 +87,7 @@
 		<locales>ru_RU</locales>
 		<android>ru</android>
 		<browser>ru-RU</browser>
+		<msi>ru-RU</msi>
 		<title>Таблица Менделеева</title>
 	</lang>
 
@@ -88,6 +97,7 @@
 		<locales>et_EE</locales>
 		<android>et</android>
 		<browser>et-EE</browser>
+		<msi>et-EE</msi>
 		<title>Perioodilisustabel</title>
 	</lang>
 
@@ -97,6 +107,7 @@
 		<locales>sv_SE</locales>
 		<android>sv</android>
 		<browser>sv-SE</browser>
+		<msi>sv-SE</msi>
 		<title>Periodiska systemet</title>
 	</lang>
 
@@ -106,6 +117,7 @@
 		<locales>pt_BR</locales>
 		<android>pt</android>
 		<browser>pt-BR</browser>
+		<msi>pt-BR</msi>
 		<title>Tabela periódica</title>
 	</lang>
 
@@ -115,6 +127,7 @@
 		<locales>it_IT</locales>
 		<android>it</android>
 		<browser>it-IT</browser>
+		<msi>it-IT</msi>
 		<title>Tavola Periodica</title>
 	</lang>
 
@@ -124,6 +137,7 @@
 		<locales>da_DK</locales>
 		<android>da</android>
 		<browser>da-DK</browser>
+		<msi>da-DK</msi>
 		<title>Periodisk System</title>
 	</lang>
 
@@ -133,6 +147,7 @@
 		<locales>hu_HU</locales>
 		<android>hu</android>
 		<browser>hu-HU</browser>
+		<msi>hu-HU</msi>
 		<title>Periódusos</title>
 	</lang>
 
@@ -142,6 +157,7 @@
 		<locales>be_BY</locales>
 		<android>be</android>
 		<browser>be-BY</browser>
+		<msi>ru-RU</msi>
 		<title>Табліца Мендзялеева</title>
 	</lang>
 

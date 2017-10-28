@@ -1,4 +1,5 @@
 COMPRESS=java -jar $(HOME)/lib/htmlcompressor-1.5.3.jar --compress-js --compress-css --remove-surrounding-spaces all -r -m '*.html' -o
+MSI=msi/pt.kle.cz
 
 help:
 	@echo "help         - this help"
@@ -24,9 +25,9 @@ uploadbeta:
 
 msiprep:
 	cd po ; $(MAKE)
-	./generate.pl --out msi/pt.kle.cz
+	./generate.pl --out $(MSI)
 	./msiprep.pl
-	$(COMPRESS) msi/pt.kle.cz msi/pt.kle.cz
+	$(COMPRESS) $(MSI) $(MSI)
 
 pt.zip: chrome/manifest.json
 	zip -r pt.zip chrome

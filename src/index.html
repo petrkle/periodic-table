@@ -4,14 +4,16 @@
 	<title>[% title %]</title>
 	<meta name="description" content="Clear periodic table of chemical elements. Available in English, French, German, Spanish, Polish, Czech and Slovak." /> 
 	<meta name="keywords" content="Periodic Table, Chemie, chemistry, tabulka" /> 
+[% IF location %]
 	<script type="text/javascript" src="/redir.js"></script>
+[% END %]
 [% INCLUDE favicon.html %]
 	<link rel="stylesheet" type="text/css" href="index.css" media="screen" />
 </head>
 <body>
 	<ul itemscope itemtype="http://schema.org/Breadcrumb">
 [% FOREACH loc IN languages -%]
-<li><a href="[% location %]/[% loc.locales %]/index.html" title="[% loc.fullnameloc %]" itemprop="url"><span itemprop="title">[% loc.title %]</span></a></li>
+<li><a href="[% IF location %][% location %]/[% END %][% loc.locales %]/index.html" title="[% loc.fullnameloc %]" itemprop="url"><span itemprop="title">[% loc.title %]</span></a></li>
 [% END -%]
 	</ul>
 </body>

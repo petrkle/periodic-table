@@ -23,6 +23,7 @@ foreach my $lang(@{$languages->{lang}}){
 	setlocales($lang->{locales});
 
 	my $msilang = lc($lang->{browser});
+	my $culture = lc($lang->{msi});
 
 	$t->process('exe.conf',
 		{	'title' => $pt::APPNAME,
@@ -34,7 +35,7 @@ foreach my $lang(@{$languages->{lang}}){
 
 	$t->process('msi.wxl',
 		{	'title' => $pt::APPNAME,
-			'lang' => $msilang,
+			'lang' => $culture,
 		},
 		"$OUT/$msilang.wxl",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -42,6 +43,7 @@ foreach my $lang(@{$languages->{lang}}){
 	$t->process('Makefile.local',
 		{	'title' => $pt::APPNAME,
 		  'lang' => $msilang,
+		  'culture' => $culture,
 		  'version' => $pt::VERSION,
 		},
 		"$OUT/Makefile.$msilang",
