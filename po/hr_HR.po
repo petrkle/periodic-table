@@ -273,3 +273,15 @@ msgstr "Brazilski portugalski"
 
 msgid "Italian"
 msgstr "Talijanski"
+
+msgid "Danish"
+msgstr ""
+
+msgid "Hungarian"
+msgstr ""
+
+msgid "Belarusian"
+msgstr ""
+
+msgid "Croatian"
+msgstr "Hrvatski"

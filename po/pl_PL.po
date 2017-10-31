@@ -282,3 +282,15 @@ msgstr "Szwedzki"
 
 msgid "Italian"
 msgstr "Włoszczyzna"
+
+msgid "Danish"
+msgstr ""
+
+msgid "Hungarian"
+msgstr ""
+
+msgid "Belarusian"
+msgstr ""
+
+msgid "Croatian"
+msgstr ""

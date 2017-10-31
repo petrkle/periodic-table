@@ -289,3 +289,15 @@ msgstr "Brazílska portugalčina"
 
 msgid "Italian"
 msgstr "Taliančina"
+
+msgid "Danish"
+msgstr ""
+
+msgid "Hungarian"
+msgstr ""
+
+msgid "Belarusian"
+msgstr ""
+
+msgid "Croatian"
+msgstr ""

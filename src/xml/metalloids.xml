@@ -48,6 +48,7 @@
     <name_vi_VN>Antimon</name_vi_VN>
     <name_be_BY>Сурма,</name_be_BY>
     <name_da_DK>Antimon</name_da_DK>
+    <name_hr_HR>Antimon</name_hr_HR>
   </element>
   <element>
     <anumber>33</anumber>
@@ -96,6 +97,7 @@
     <name_vi_VN>Asen</name_vi_VN>
     <name_be_BY>Мыш'як</name_be_BY>
     <name_da_DK>Arsen</name_da_DK>
+    <name_hr_HR>Arsen</name_hr_HR>
   </element>
   <element>
     <anumber>5</anumber>
@@ -143,6 +145,7 @@
     <name_vi_VN>Bo</name_vi_VN>
     <name_be_BY>Бор</name_be_BY>
     <name_da_DK>Bor</name_da_DK>
+    <name_hr_HR>Bor</name_hr_HR>
   </element>
   <element>
     <anumber>32</anumber>
@@ -187,6 +190,7 @@
     <name_vi_VN>Gecmani</name_vi_VN>
     <name_be_BY>Германій</name_be_BY>
     <name_da_DK>Germanium</name_da_DK>
+    <name_hr_HR>Germanij</name_hr_HR>
   </element>
   <element>
     <anumber>14</anumber>
@@ -234,6 +238,7 @@
     <name_vi_VN>Silic</name_vi_VN>
     <name_be_BY>Крэмній</name_be_BY>
     <name_da_DK>Silicium</name_da_DK>
+    <name_hr_HR>Silicij</name_hr_HR>
   </element>
   <element>
     <anumber>52</anumber>
@@ -283,5 +288,6 @@
     <name_vi_VN>Telua</name_vi_VN>
     <name_be_BY>Тэлур</name_be_BY>
     <name_da_DK>Tellur</name_da_DK>
+    <name_hr_HR>Telurij</name_hr_HR>
   </element>
 </elements>

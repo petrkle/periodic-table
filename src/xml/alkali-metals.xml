@@ -47,6 +47,7 @@
     <name_vi_VN>Xêsi</name_vi_VN>
     <name_be_BY>Цэзій</name_be_BY>
     <name_da_DK>Cæsium</name_da_DK>
+    <name_hr_HR>Cezij</name_hr_HR>
   </element>
   <element>
     <anumber>19</anumber>
@@ -96,6 +97,7 @@
     <name_vi_VN>Kali</name_vi_VN>
     <name_be_BY>Калій</name_be_BY>
     <name_da_DK>Kalium</name_da_DK>
+    <name_hr_HR>Kalij</name_hr_HR>
   </element>
   <element>
     <anumber>87</anumber>
@@ -133,6 +135,7 @@
     <name_vi_VN>Franxi</name_vi_VN>
     <name_be_BY>Францый</name_be_BY>
     <name_da_DK>Francium</name_da_DK>
+    <name_hr_HR>Francij</name_hr_HR>
   </element>
   <element>
     <anumber>3</anumber>
@@ -180,6 +183,7 @@
     <name_vi_VN>Liti</name_vi_VN>
     <name_be_BY>Літый</name_be_BY>
     <name_da_DK>Lithium</name_da_DK>
+    <name_hr_HR>Litij</name_hr_HR>
   </element>
   <element>
     <anumber>37</anumber>
@@ -230,6 +234,7 @@
     <name_vi_VN>Rubiđi</name_vi_VN>
     <name_be_BY>Рубідый</name_be_BY>
     <name_da_DK>Rubidium</name_da_DK>
+    <name_hr_HR>Rubidij</name_hr_HR>
   </element>
   <element>
     <anumber>11</anumber>
@@ -281,5 +286,6 @@
     <name_vi_VN>Natri</name_vi_VN>
     <name_be_BY>Натрый</name_be_BY>
     <name_da_DK>Natrium</name_da_DK>
+    <name_hr_HR>Natrij</name_hr_HR>
   </element>
 </elements>

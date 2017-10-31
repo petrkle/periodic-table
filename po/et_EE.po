@@ -282,3 +282,15 @@ msgstr "Brazilijos portugalų"
 
 msgid "Italian"
 msgstr "Itaallane"
+
+msgid "Danish"
+msgstr ""
+
+msgid "Hungarian"
+msgstr ""
+
+msgid "Belarusian"
+msgstr ""
+
+msgid "Croatian"
+msgstr ""

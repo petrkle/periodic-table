@@ -44,6 +44,7 @@
     <name_vi_VN>Bari</name_vi_VN>
     <name_be_BY>Барый</name_be_BY>
     <name_da_DK>Barium</name_da_DK>
+    <name_hr_HR>Barij</name_hr_HR>
   </element>
   <element>
     <anumber>88</anumber>
@@ -86,6 +87,7 @@
     <name_vi_VN>Radi</name_vi_VN>
     <name_be_BY>Радый</name_be_BY>
     <name_da_DK>Radium</name_da_DK>
+    <name_hr_HR>Radij</name_hr_HR>
   </element>
   <element>
     <anumber>38</anumber>
@@ -132,6 +134,7 @@
     <name_vi_VN>Stronti</name_vi_VN>
     <name_be_BY>Стронцый</name_be_BY>
     <name_da_DK>Strontium</name_da_DK>
+    <name_hr_HR>Stroncij</name_hr_HR>
   </element>
   <element>
     <anumber>20</anumber>
@@ -179,5 +182,6 @@
     <name_vi_VN>Canxi</name_vi_VN>
     <name_be_BY>Кальцый</name_be_BY>
     <name_da_DK>Calcium</name_da_DK>
+    <name_hr_HR>Kalcij</name_hr_HR>
   </element>
 </elements>

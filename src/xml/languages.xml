@@ -161,4 +161,14 @@
 		<title>Табліца Мендзялеева</title>
 	</lang>
 
+	<lang>
+		<fullname>Croatian</fullname>
+		<fullnameloc>Hrvatski</fullnameloc>
+		<locales>hr_HR</locales>
+		<android>hr</android>
+		<browser>hr-HR</browser>
+		<msi>hr-HR</msi>
+		<title>Periodni sustav elemenata</title>
+	</lang>
+
 </lagnuages>

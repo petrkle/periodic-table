@@ -283,3 +283,12 @@ msgstr "Italiensk"
 
 msgid "Danish"
 msgstr "Dansk"
+
+msgid "Hungarian"
+msgstr ""
+
+msgid "Belarusian"
+msgstr ""
+
+msgid "Croatian"
+msgstr ""

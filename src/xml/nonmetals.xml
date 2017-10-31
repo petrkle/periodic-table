@@ -45,6 +45,7 @@
     <name_vi_VN>Nitơ</name_vi_VN>
     <name_be_BY>Азот</name_be_BY>
     <name_da_DK>Nitrogen</name_da_DK>
+    <name_hr_HR>Dušik</name_hr_HR>
   </element>
   <element>
     <anumber>15</anumber>
@@ -90,6 +91,7 @@
     <name_vi_VN>Phốtpho</name_vi_VN>
     <name_be_BY>Фосфар</name_be_BY>
     <name_da_DK>Fosfor</name_da_DK>
+    <name_hr_HR>Fosfor</name_hr_HR>
   </element>
   <element>
     <anumber>8</anumber>
@@ -136,6 +138,7 @@
     <name_vi_VN>Ôxy</name_vi_VN>
     <name_be_BY>Кісларод</name_be_BY>
     <name_da_DK>Oxygen</name_da_DK>
+    <name_hr_HR>Kisik</name_hr_HR>
   </element>
   <element>
     <anumber>34</anumber>
@@ -185,6 +188,7 @@
     <name_vi_VN>Selen</name_vi_VN>
     <name_be_BY>Селен</name_be_BY>
     <name_da_DK>Selenium</name_da_DK>
+    <name_hr_HR>Selenij</name_hr_HR>
   </element>
   <element>
     <anumber>16</anumber>
@@ -232,6 +236,7 @@
     <name_vi_VN>Lưu huỳnh</name_vi_VN>
     <name_be_BY>Сера</name_be_BY>
     <name_da_DK>Svovl</name_da_DK>
+    <name_hr_HR>Sumpor</name_hr_HR>
   </element>
   <element>
     <anumber>6</anumber>
@@ -277,6 +282,7 @@
     <name_vi_VN>Cacbon</name_vi_VN>
     <name_be_BY>Вуглярод</name_be_BY>
     <name_da_DK>Carbon</name_da_DK>
+    <name_hr_HR>Ugljik</name_hr_HR>
   </element>
   <element>
     <anumber>1</anumber>
@@ -320,5 +326,6 @@
     <name_vi_VN>Hiđrô</name_vi_VN>
     <name_be_BY>Вадарод</name_be_BY>
     <name_da_DK>Hydrogen</name_da_DK>
+    <name_hr_HR>Vodik</name_hr_HR>
   </element>
 </elements>
