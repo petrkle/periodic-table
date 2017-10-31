@@ -5,7 +5,7 @@ help:
 	@echo "help         - this help"
 	@echo "web          - generate pt.kle.cz"
 	@echo "upload       - upload files on web"
-	@echo "uploadbeta   - upload files on test web"
+	@echo "beta         - upload files on test web"
 	@echo "msiprep      - prepare files for msi packages"
 	@echo "pt.zip       - hosted app for Chrome store"
 	@echo "clean        - remove generated files"
@@ -20,7 +20,7 @@ web:
 upload:
 	./upload.sh
 
-uploadbeta:
+beta:
 	./upload-beta.sh
 
 msiprep:
