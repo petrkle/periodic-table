@@ -1,0 +1,275 @@
+# Periodic Table - Croatian translation
+# Tomislav Horvat <tomhorvat@gmail.com>, 2017
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Tomislav Horvat <tomhorvat@gmail.com>\n"
+"Project-Id-Version: Periodic table\n"
+"Language: hr_HR\n"
+
+msgid "Periodic Table"
+msgstr "Periodni sustav elemenata"
+
+msgid "Settings"
+msgstr "Postavke"
+
+msgid "Language"
+msgstr "Jezik"
+
+msgid "About"
+msgstr "O projektu"
+
+msgid "English"
+msgstr "Engleski"
+
+msgid "Czech"
+msgstr "Češki"
+
+msgid "Slovak"
+msgstr "Slovački"
+
+msgid "German"
+msgstr "Njemački"
+
+msgid "French"
+msgstr "Francuski"
+
+msgid "Polish"
+msgstr "Poljski"
+
+msgid "Spanish"
+msgstr "Španjolski"
+
+msgid "Dutch"
+msgstr "Nizozemski"
+
+msgid "Default language"
+msgstr "Zadani jezik"
+
+msgid "State"
+msgstr "Stanje"
+
+msgid "Solid"
+msgstr "Krutina"
+
+msgid "Liquid"
+msgstr "Tekućina"
+
+msgid "Gas"
+msgstr "Plin"
+
+msgid "Symbol"
+msgstr "Simbol"
+
+msgid "Atomic number"
+msgstr "Atomski broj"
+
+msgid "Period"
+msgstr "Perioda"
+
+msgid "%d. period"
+msgstr "%d. perioda"
+
+msgid "Element category"
+msgstr "Skupina"
+
+msgid "Relative atomic mass"
+msgstr "Relativna atomska masa"
+
+msgid "Atomic mass"
+msgstr "Atomska masa"
+
+msgid "Group"
+msgstr "Grupa"
+
+msgid "group"
+msgstr "grupa"
+
+msgid "Electronegativity"
+msgstr "Elektronegativnost"
+
+msgid "Oxidation numbers"
+msgstr "Oksidacijski brojevi"
+
+msgid "Electron configuration"
+msgstr "Elektronska konfiguracija"
+
+msgid "Density"
+msgstr "Gustoća"
+
+msgid "Melting point"
+msgstr "Talište"
+
+msgid "Boiling point"
+msgstr "Vrelište"
+
+msgid "Critical point"
+msgstr "Kritična točka"
+
+msgid "Critical pressure"
+msgstr "Kritični tlak"
+
+msgid "Atomic radius"
+msgstr "Atomski radijus"
+
+msgid "Covalent radius"
+msgstr "Kovalentni radijus"
+
+msgid "Thermal conductivity"
+msgstr "Toplinska vodljivost"
+
+msgid "Discovery"
+msgstr "Otkriven"
+
+msgid "Hardness"
+msgstr "Tvrdoća"
+
+msgid "Vickers hardness"
+msgstr "Tvrdoća po Vickersu"
+
+msgid "Brinell hardness"
+msgstr "Tvrdoća po Brinellu"
+
+msgid "Mohs scale"
+msgstr "Mohsova ljestvica"
+
+msgid "Shear modulus"
+msgstr "Smični modul"
+
+msgid "Young's modulus"
+msgstr "Youngov modul elastičnosti"
+
+msgid "Electrical resistivity"
+msgstr "Električna otpornost"
+
+msgid "Electrical conductivity"
+msgstr "Električna provodnost"
+
+msgid "Name"
+msgstr "Naziv"
+
+msgid "Latin name"
+msgstr "Latinski naziv"
+
+msgid "Version"
+msgstr "Verzija"
+
+msgid "Created"
+msgstr "Kreiran"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Write review"
+msgstr "Napiši recenziju"
+
+msgid "Noble gases"
+msgstr "Plemeniti plinovi"
+
+msgid "Inner transition elements"
+msgstr "Unutarnji prijelazni elementi"
+
+msgid "Transition elements"
+msgstr "Prijelazni metali"
+
+msgid "Metalloids"
+msgstr "Polumetali"
+
+msgid "Nonmetals"
+msgstr "Nemetali"
+
+msgid "Alkaline earth metals"
+msgstr "Zemnoalkalijski metali"
+
+msgid "Metals"
+msgstr "Metali"
+
+msgid "Halogens"
+msgstr "Halogeni elementi"
+
+msgid "Alkali metals"
+msgstr "Alkalijski metali"
+
+msgid "1.st ionization energy"
+msgstr "1. energija ionizacije"
+
+msgid "2.nd ionization energy"
+msgstr "2. energija ionizacije"
+
+msgid "3.rd ionization energy"
+msgstr "3. energija ionizacije"
+
+msgid "Stable isotopes"
+msgstr "Stabilni izotopi"
+
+msgid "Unstable isotopes"
+msgstr "Nestabilni izotopi"
+
+msgid "Substance"
+msgstr "Supstanca"
+
+msgid "Talc"
+msgstr "Talk"
+
+msgid "Rock salt"
+msgstr "Halit"
+
+msgid "Limestone"
+msgstr "Vapnenac"
+
+msgid "Fluorspar"
+msgstr "Fluorit"
+
+msgid "Apatite"
+msgstr "Apatit"
+
+msgid "Feldspar"
+msgstr "Feldspat"
+
+msgid "Quartz"
+msgstr "Kvarc"
+
+msgid "Topaz"
+msgstr "Topaz"
+
+msgid "Corundum"
+msgstr "Korund"
+
+msgid "Diamond"
+msgstr "Dijamant"
+
+msgid "Antiquity"
+msgstr "Antika"
+
+msgid "Heat capacity"
+msgstr "Toplinski kapacitet"
+
+msgid "Table view"
+msgstr "Tablični pregled"
+
+msgid "Download"
+msgstr "Preuzimanje"
+
+msgid "Links"
+msgstr "Linkovi"
+
+msgid "Source code"
+msgstr "Izvorni kod"
+
+msgid "Unknown"
+msgstr "Nepoznat"
+
+msgid "Swedish"
+msgstr "Švedski"
+
+msgid "Portuguese"
+msgstr "Portugalski"
+
+msgid "Brazilian Portuguese"
+msgstr "Brazilski portugalski"
+
+msgid "Italian"
+msgstr "Talijanski"
