@@ -2,7 +2,7 @@
 	body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";font-size:1.2em;line-height:1.7em;color:#000;background:#fff;margin:0;padding:0;}
 }
 @media screen{
-	#header{width:100%;min-width:100%;background:#fb3 url("test-tube.svg") no-repeat 100% 50%;font-size:1.5em;border-bottom:1px #999 solid;border-right:0.5em solid transparent;}
+	#header{width:100%;min-width:100%;background:#fb3 url("test-tube.svg") no-repeat 100% 50%;font-size:1.5em;border-bottom:1px #999 solid;background-origin:content-box;padding-right:0.5em;}
 	.mtitle{font-size:1.5em;}
 	#title a{display:block;padding:0.5em 0 0.5em 0;width:100%;height:100%;font-weight:normal;}
 	#title a h1{padding:0 0.5em;font-size:0.8em;line-height:0.8em;}
@@ -19,7 +19,7 @@
 	.elementname{padding:2em 1em;display:block;}
 	.elementlist{width:100%;}
 	.line{display:block;padding:2em 1em;border-bottom:1px #999 solid;margin:0;}
-	.closed{background:#fff url("right.svg") no-repeat 98% 50%;background-size:1em;}
+	.closed{background:#fff url("right.svg") no-repeat 100% 50%;background-size:1em;background-origin:content-box;padding-right:1em;}
 	.about{background:#fb3;text-align:center;}
 	.element{display:block;background:#fff;padding:0;margin:0;border-bottom:1px #999 solid;cursor:pointer;}
 	.tablelink{display:block;width:100%;height:100%;border:solid 1px #f00;}
@@ -27,7 +27,7 @@
 	#atom th{padding:1.5em 1em;border-right:1px solid #aaa;border-bottom:1px solid #aaa;text-align:left;width:49%;}
 	#atom td{padding:0;border-bottom:1px solid #aaa;width:49%;}
 	#atom td div{padding:1.5em 1em;}
-	#atom td a {display:block;padding:1.5em 3em 1.5em 1em;font-weight:normal;background:#fff url("right.svg") no-repeat 98% 50%;background-size:1em;}
+	#atom td a {display:block;padding:1.5em 3em 1.5em 1em;font-weight:normal;background:#fff url("right.svg") no-repeat 100% 50%;background-size:1em;background-origin:content-box;padding-right:1em;}
 	#atom th a,#mohs td a{text-decoration:underline;color:#00f;}
 	#mohs{width:100%;}
 	#mohs th{padding:1em;text-align:center;}
