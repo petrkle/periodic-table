@@ -99,7 +99,7 @@ msgid "Electronegativity"
 msgstr "Elektronegativite"
 
 msgid "Oxidation numbers"
-msgstr "Oxidasyon numaraları"
+msgstr "Oksidasyon numaraları"
 
 msgid "Electron configuration"
 msgstr "Elektron konfigürasyonu"
