@@ -281,13 +281,13 @@ msgid "Italian"
 msgstr "Italiana"
 
 msgid "Danish"
-msgstr ""
+msgstr "Dinamarquês"
 
 msgid "Hungarian"
-msgstr ""
+msgstr "Húngaro"
 
 msgid "Belarusian"
-msgstr ""
+msgstr "Bielorrussa"
 
 msgid "Croatian"
-msgstr ""
+msgstr "Croácia"
