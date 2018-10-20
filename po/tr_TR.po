@@ -1,0 +1,285 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-04 13:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Ozan KARAALI <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Periodic Table"
+msgstr "Periyodik Tablo"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Language"
+msgstr "Dil"
+
+msgid "About"
+msgstr "Hakkında"
+
+msgid "English"
+msgstr "İngilizce"
+
+msgid "Czech"
+msgstr "Çekçe"
+
+msgid "Slovak"
+msgstr "Slovakça"
+
+msgid "German"
+msgstr "Almanca"
+
+msgid "French"
+msgstr "Fransızca"
+
+msgid "Polish"
+msgstr "Lehçe"
+
+msgid "Spanish"
+msgstr "İspanyolca"
+
+msgid "Dutch"
+msgstr "Felemenkçe"
+
+msgid "Default language"
+msgstr "Varsayılan dil"
+
+msgid "State"
+msgstr "Hal"
+
+msgid "Solid"
+msgstr "Katı"
+
+msgid "Liquid"
+msgstr "Sıvı"
+
+msgid "Gas"
+msgstr "Gaz"
+
+msgid "Symbol"
+msgstr "Sembol"
+
+msgid "Atomic number"
+msgstr "Atomik numara"
+
+msgid "Period"
+msgstr "Periyot"
+
+msgid "%d. period"
+msgstr "%d. periyot"
+
+msgid "Element category"
+msgstr "Element kategorisi"
+
+msgid "Relative atomic mass"
+msgstr "Bağıl atomik kütle"
+
+msgid "Atomic mass"
+msgstr "Atomik kütle"
+
+msgid "Group"
+msgstr "Grup"
+
+msgid "group"
+msgstr "grup"
+
+msgid "Electronegativity"
+msgstr "Elektronegativite"
+
+msgid "Oxidation numbers"
+msgstr "Oksidasyon numaraları"
+
+msgid "Electron configuration"
+msgstr "Elektron konfigürasyonu"
+
+msgid "Density"
+msgstr "Yoğunluk"
+
+msgid "Melting point"
+msgstr "Erime noktası"
+
+msgid "Boiling point"
+msgstr "Kaynama noktası"
+
+msgid "Critical point"
+msgstr "Kritik nokta"
+
+msgid "Critical pressure"
+msgstr "Kritik basınç"
+
+msgid "Atomic radius"
+msgstr "Atomic yarıçap"
+
+msgid "Covalent radius"
+msgstr "Kovalent yarıçap"
+
+msgid "Thermal conductivity"
+msgstr "Termal iletkenlik"
+
+msgid "Discovery"
+msgstr "Keşif"
+
+msgid "Hardness"
+msgstr "Sertlik"
+
+msgid "Vickers hardness"
+msgstr "Vickers sertliği"
+
+msgid "Brinell hardness"
+msgstr "Brinell sertliği"
+
+msgid "Mohs scale"
+msgstr "Mohs ölçüsü"
+
+msgid "Shear modulus"
+msgstr "Kesme katsayısı"
+
+msgid "Young's modulus"
+msgstr "Young katsayısı"
+
+msgid "Electrical resistivity"
+msgstr "Electrik direnimi"
+
+msgid "Electrical conductivity"
+msgstr "Electrik iletkenliği"
+
+msgid "Name"
+msgstr "Ad"
+
+msgid "Latin name"
+msgstr "Latince ad"
+
+msgid "Version"
+msgstr "Sürüm"
+
+msgid "Created"
+msgstr "Yaratıldı"
+
+msgid "Author"
+msgstr "Yazar"
+
+msgid "Write review"
+msgstr "İnceleme yaz"
+
+msgid "Noble gases"
+msgstr "Soy gazlar"
+
+msgid "Inner transition elements"
+msgstr "İç geçiş elementleri"
+
+msgid "Transition elements"
+msgstr "Geçiş elementleri"
+
+msgid "Metalloids"
+msgstr "Metaloidler"
+
+msgid "Nonmetals"
+msgstr "Ametaller"
+
+msgid "Alkaline earth metals"
+msgstr "Alkalin toprak metalleri"
+
+msgid "Metals"
+msgstr "Metaller"
+
+msgid "Halogens"
+msgstr "Halogenler"
+
+msgid "Alkali metals"
+msgstr "Alkali metaller"
+
+msgid "1.st ionization energy"
+msgstr "1. iyonizasyon enerjisi"
+
+msgid "2.nd ionization energy"
+msgstr "2. iyonizasyon enerjisi"
+
+msgid "3.rd ionization energy"
+msgstr "3. iyonizasyon enerjisi"
+
+msgid "Stable isotopes"
+msgstr "Kararlı izotoplar"
+
+msgid "Unstable isotopes"
+msgstr "Kararsız izotoplar"
+
+msgid "Substance"
+msgstr "Madde"
+
+msgid "Talc"
+msgstr "Talk"
+
+msgid "Rock salt"
+msgstr "Kaya tuzu"
+
+msgid "Limestone"
+msgstr "Kireçtaşı"
+
+msgid "Fluorspar"
+msgstr "Fluşpat"
+
+msgid "Apatite"
+msgstr "Apatit"
+
+msgid "Feldspar"
+msgstr "Feldispat"
+
+msgid "Quartz"
+msgstr "Kuvars"
+
+msgid "Topaz"
+msgstr "Topaz"
+
+msgid "Corundum"
+msgstr "Korindon"
+
+msgid "Diamond"
+msgstr "Elmas"
+
+msgid "Antiquity"
+msgstr "Eskilik"
+
+msgid "Heat capacity"
+msgstr "Isı kapasitesi"
+
+msgid "Table view"
+msgstr "Tablo görünümü"
+
+msgid "Download"
+msgstr "İndir"
+
+msgid "Links"
+msgstr "Linkler"
+
+msgid "Source code"
+msgstr "Kaynak kodu"
+
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+msgid "Swedish"
+msgstr "İsveççe"
+
+msgid "Portuguese"
+msgstr "Portekizce"
+
+msgid "Brazilian Portuguese"
+msgstr "Brezilya Portekizcesi"
+
+msgid "Italian"
+msgstr "İtalyanca"
+
+msgid "Turkish"
+msgstr "Türkçe"
