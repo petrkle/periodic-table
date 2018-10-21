@@ -280,13 +280,13 @@ msgid "Italian"
 msgstr "Italien"
 
 msgid "Danish"
-msgstr ""
+msgstr "Danois"
 
 msgid "Hungarian"
-msgstr ""
+msgstr "Hongrois"
 
 msgid "Belarusian"
-msgstr ""
+msgstr "Biélorusse"
 
 msgid "Croatian"
-msgstr ""
+msgstr "Croate"
