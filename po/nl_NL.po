@@ -111,7 +111,7 @@ msgid "Covalent radius"
 msgstr "Covalente straal"
 
 msgid "Thermal conductivity"
-msgstr "Thermische geleidbaarh<wbr>eid"
+msgstr "Thermische geleidbaar-<wbr>heid"
 
 msgid "Discovery"
 msgstr "Ontdekking"
@@ -132,13 +132,13 @@ msgid "Shear modulus"
 msgstr "Schuif<wbr>modulus"
 
 msgid "Young's modulus"
-msgstr "Young's modulus"
+msgstr "Elasticiteits modulus"
 
 msgid "Electrical resistivity"
 msgstr "Elektrische weerstand"
 
 msgid "Electrical conductivity"
-msgstr "Geleidings<wbr>vermogen"
+msgstr "Geleidings-<wbr>vermogen"
 
 msgid "Name"
 msgstr "Naam"
@@ -162,10 +162,10 @@ msgid "Noble gases"
 msgstr "Edelgassen"
 
 msgid "Inner transition elements"
-msgstr "Innerlijke overgangsel<wbr>ementen"
+msgstr "Innerlijke overgangs-<wbr>elementen"
 
 msgid "Transition elements"
-msgstr "Overgangs<wbr>elementen"
+msgstr "Overgangs-<wbr>elementen"
 
 msgid "Metalloids"
 msgstr "Metalloïden"
@@ -279,7 +279,7 @@ msgid "Estonian"
 msgstr "Estlands"
 
 msgid "Swedish"
-msgstr "Zweedse"
+msgstr "Zweeds"
 
 msgid "Portuguese"
 msgstr "Portugees"
@@ -288,16 +288,16 @@ msgid "Brazilian Portuguese"
 msgstr "Braziliaans Portugees"
 
 msgid "Italian"
-msgstr "Italiaan"
+msgstr "Italiaans"
 
 msgid "Danish"
-msgstr ""
+msgstr "Deens"
 
 msgid "Hungarian"
-msgstr ""
+msgstr "Hongaars"
 
 msgid "Belarusian"
-msgstr ""
+msgstr "Wit Russisch"
 
 msgid "Croatian"
-msgstr ""
+msgstr "Kroaats"
