@@ -300,3 +300,9 @@ msgstr "Bieloruso"
 
 msgid "Croatian"
 msgstr "Croata"
+
+msgid "Turkish"
+msgstr ""
+
+msgid "Finnish"
+msgstr ""

@@ -283,3 +283,12 @@ msgstr "İtalyanca"
 
 msgid "Turkish"
 msgstr "Türkçe"
+
+msgid "Danish"
+msgstr ""
+
+msgid "Croatian"
+msgstr ""
+
+msgid "Finnish"
+msgstr ""

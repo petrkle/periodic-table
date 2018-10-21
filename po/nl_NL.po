@@ -301,3 +301,9 @@ msgstr "Wit Russisch"
 
 msgid "Croatian"
 msgstr "Kroaats"
+
+msgid "Turkish"
+msgstr ""
+
+msgid "Finnish"
+msgstr ""

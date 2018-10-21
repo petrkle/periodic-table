@@ -290,3 +290,9 @@ msgstr "Biélorusse"
 
 msgid "Croatian"
 msgstr "Croate"
+
+msgid "Turkish"
+msgstr ""
+
+msgid "Finnish"
+msgstr ""
