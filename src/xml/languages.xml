@@ -171,4 +171,14 @@
 		<title>Periodni sustav elemenata</title>
 	</lang>
 
+	<lang>
+		<fullname>Turkish</fullname>
+		<fullnameloc>Türkçe</fullnameloc>
+		<locales>tr_TR</locales>
+		<android>tr</android>
+		<browser>tr-TR</browser>
+		<msi>tr-TR</msi>
+		<title>Periyodik Tablo</title>
+	</lang>
+
 </lagnuages>
