@@ -1,0 +1,296 @@
+# Periodic Table - Finnish translation
+# Janne Sauvala <janne.sauvala@gmail.com>, 2018
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Periodic table\n"
+"Last-Translator: Janne Sauvala <janne.sauvala@gmail.com>\n"
+"Language: fi\n"
+
+msgid "Periodic Table"
+msgstr "Jaksollinen järjestelmä"
+
+msgid "Settings"
+msgstr "Asetukset"
+
+msgid "Language"
+msgstr "Kieli"
+
+msgid "About"
+msgstr "Tietoja"
+
+msgid "English"
+msgstr "Englanti"
+
+msgid "Czech"
+msgstr "Tsekki"
+
+msgid "Slovak"
+msgstr "Slovakia"
+
+msgid "Default language"
+msgstr "Oletuskieli"
+
+msgid "State"
+msgstr "Tila"
+
+msgid "Solid"
+msgstr "Kiinteä"
+
+msgid "Liquid"
+msgstr "Neste"
+
+msgid "Gas"
+msgstr "Kaasu"
+
+msgid "Symbol"
+msgstr "Kemiallinen merkki"
+
+msgid "Atomic number"
+msgstr "Atomimäärä"
+
+msgid "Period"
+msgstr "Jakso"
+
+msgid "%d. period"
+msgstr "%d. jakso"
+
+msgid "Element category"
+msgstr "Elementtiluokka"
+
+msgid "Relative atomic mass"
+msgstr "Suhteellinen atomimassa"
+
+msgid "Atomic mass"
+msgstr "Atomimassa"
+
+msgid "Group"
+msgstr "Ryhmä"
+
+msgid "group"
+msgstr "ryhmä"
+
+msgid "Electronegativity"
+msgstr "Elektronegatiivisuus<wbr>"
+
+msgid "Oxidation numbers"
+msgstr "Hapetusnumerot"
+
+msgid "Electron configuration"
+msgstr "Elektronikokoonpano"
+
+msgid "Density"
+msgstr "Tiheys"
+
+msgid "Melting point"
+msgstr "Sulamispiste"
+
+msgid "Boiling point"
+msgstr "Kiehumispiste"
+
+msgid "Critical point"
+msgstr "Kriittinen piste"
+
+msgid "Critical pressure"
+msgstr "Kriittinen paine"
+
+msgid "Atomic radius"
+msgstr "Atomisäde"
+
+msgid "Covalent radius"
+msgstr "Kovalenttinen säde"
+
+msgid "Thermal conductivity"
+msgstr "Lämmönjohtokyky"
+
+msgid "Discovery"
+msgstr "Löytö"
+
+msgid "Hardness"
+msgstr "Kovuus"
+
+msgid "Vickers hardness"
+msgstr "Vickers-kovuus"
+
+msgid "Brinell hardness"
+msgstr "Brinell-kovuus"
+
+msgid "Mohs scale"
+msgstr "Mohsin asteikko"
+
+msgid "Shear modulus"
+msgstr "Liukukerroin"
+
+msgid "Young's modulus"
+msgstr "Youngin moduuli"
+
+msgid "Electrical resistivity"
+msgstr "Sähköinen resistanssi"
+
+msgid "Electrical conductivity"
+msgstr "Sähkönjohtavuus"
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "Latin name"
+msgstr "Latinalainen nimi"
+
+msgid "Version"
+msgstr "Versio"
+
+msgid "Created"
+msgstr "Luotu"
+
+msgid "Author"
+msgstr "Tekijä"
+
+msgid "Write review"
+msgstr "Kirjoita arvostelu"
+
+msgid "Noble gases"
+msgstr "Jalokaasut"
+
+msgid "Inner transition elements"
+msgstr "Sisäiset siirtymäelementit"
+
+msgid "Transition elements"
+msgstr "Siirtymäelementit"
+
+msgid "Metalloids"
+msgstr "Puolimetalli"
+
+msgid "Nonmetals"
+msgstr "Epämetallit"
+
+msgid "Alkaline earth metals"
+msgstr "Maa-alkalimetallit"
+
+msgid "Metals"
+msgstr "metallit"
+
+msgid "Halogens"
+msgstr "Halogeenit"
+
+msgid "Alkali metals"
+msgstr "Alkalimetallit"
+
+msgid "1.st ionization energy"
+msgstr "1. ionisaatioenergia"
+
+msgid "2.nd ionization energy"
+msgstr "2. ionisaatioenergia"
+
+msgid "3.rd ionization energy"
+msgstr "3. ionisaatioenergia"
+
+msgid "Stable isotopes"
+msgstr "Stabiilit isotyypit"
+
+msgid "Unstable isotopes"
+msgstr "Epästabiilit isotyypit"
+
+msgid "Substance"
+msgstr "Substanssi"
+
+msgid "Talc"
+msgstr "Talkki"
+
+msgid "Vuorisalt"
+msgstr "Kivisuola"
+
+msgid "Limestone"
+msgstr "Kalkkikivi"
+
+msgid "Fluorspar"
+msgstr "Fluoriitti"
+
+msgid "Apatite"
+msgstr "Apatiitti"
+
+msgid "Feldspar"
+msgstr "Maasälpä"
+
+msgid "Quartz"
+msgstr "Kvartsi"
+
+msgid "Topaz"
+msgstr "Topaasi"
+
+msgid "Corundum"
+msgstr "Korundi"
+
+msgid "Diamond"
+msgstr "Timantti"
+
+msgid "Antiquity"
+msgstr "Antiikin"
+
+msgid "Heat capacity"
+msgstr "Lämpökapasiteetti"
+
+msgid "Table view"
+msgstr "Taulunäkymä"
+
+msgid "French"
+msgstr "Ranska"
+
+msgid "Russian"
+msgstr "Venäjä"
+
+msgid "German"
+msgstr "Saksa"
+
+msgid "Spanish"
+msgstr "Espanja"
+
+msgid "Polish"
+msgstr "Puola"
+
+msgid "Download"
+msgstr "Lataa"
+
+msgid "Links"
+msgstr "Linkit"
+
+msgid "Source code"
+msgstr "Lähdekoodi"
+
+msgid "Unknown"
+msgstr "Tuntematon"
+
+msgid "Dutch"
+msgstr "Hollanti"
+
+msgid "Estonian"
+msgstr "Viro"
+
+msgid "Menu"
+msgstr "Valikko"
+
+msgid "Swedish"
+msgstr "Ruotsi"
+
+msgid "Portuguese"
+msgstr "Portugali"
+
+msgid "Brazilian Portuguese"
+msgstr "Brasilian portugali"
+
+msgid "Italian"
+msgstr "Italia"
+
+msgid "Danish"
+msgstr "Tanska"
+
+msgid "Hungarian"
+msgstr "Unkari"
+
+msgid "Belarusian"
+msgstr "Valkovenäjä"
+
+msgid "Croatian"
+msgstr "Kroatia"
