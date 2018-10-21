@@ -47,6 +47,7 @@
     <name_da_DK>Nitrogen</name_da_DK>
     <name_hr_HR>Dušik</name_hr_HR>
     <name_tr_TR>Azot</name_tr_TR>
+    <name_fi_FI>Typpi</name_fi_FI>
   </element>
   <element>
     <anumber>15</anumber>
@@ -94,6 +95,7 @@
     <name_da_DK>Fosfor</name_da_DK>
     <name_hr_HR>Fosfor</name_hr_HR>
     <name_tr_TR>Fosfor</name_tr_TR>
+    <name_fi_FI>Fosfori</name_fi_FI>
   </element>
   <element>
     <anumber>8</anumber>
@@ -142,6 +144,7 @@
     <name_da_DK>Oxygen</name_da_DK>
     <name_hr_HR>Kisik</name_hr_HR>
     <name_tr_TR>Oksijen</name_tr_TR>
+    <name_fi_FI>Happi</name_fi_FI>
   </element>
   <element>
     <anumber>34</anumber>
@@ -193,6 +196,7 @@
     <name_da_DK>Selenium</name_da_DK>
     <name_hr_HR>Selenij</name_hr_HR>
     <name_tr_TR>Selenyum</name_tr_TR>
+    <name_fi_FI>Seleeni</name_fi_FI>
   </element>
   <element>
     <anumber>16</anumber>
@@ -242,6 +246,7 @@
     <name_da_DK>Svovl</name_da_DK>
     <name_hr_HR>Sumpor</name_hr_HR>
     <name_tr_TR>Kükürt</name_tr_TR>
+    <name_fi_FI>Rikki</name_fi_FI>
   </element>
   <element>
     <anumber>6</anumber>
@@ -289,6 +294,7 @@
     <name_da_DK>Carbon</name_da_DK>
     <name_hr_HR>Ugljik</name_hr_HR>
     <name_tr_TR>Karbon</name_tr_TR>
+    <name_fi_FI>Hiili</name_fi_FI>
   </element>
   <element>
     <anumber>1</anumber>
@@ -334,5 +340,6 @@
     <name_da_DK>Hydrogen</name_da_DK>
     <name_hr_HR>Vodik</name_hr_HR>
     <name_tr_TR>Hidrojen</name_tr_TR>
+    <name_fi_FI>Vety</name_fi_FI>
   </element>
 </elements>

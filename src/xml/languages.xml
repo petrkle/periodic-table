@@ -181,4 +181,14 @@
 		<title>Periyodik Tablo</title>
 	</lang>
 
+	<lang>
+		<fullname>Finnish</fullname>
+		<fullnameloc>Suomalainen</fullnameloc>
+		<locales>fi_FI</locales>
+		<android>fi</android>
+		<browser>fi-FI</browser>
+		<msi>fi-FI</msi>
+		<title>Jaksollinen järjestelmä</title>
+	</lang>
+
 </lagnuages>

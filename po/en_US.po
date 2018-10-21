@@ -283,3 +283,6 @@ msgstr "Italian"
 
 msgid "Turkish"
 msgstr "Turkish"
+
+msgid "Finnish"
+msgstr "Finnish"
