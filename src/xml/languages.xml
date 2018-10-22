@@ -201,4 +201,14 @@
 		<title>Jadual Berkala</title>
 	</lang>
 
+	<lang>
+		<fullname>Indonesian</fullname>
+		<fullnameloc>Indonesia</fullnameloc>
+		<locales>id_ID</locales>
+		<android>id</android>
+		<browser>id-ID</browser>
+		<msi>id-ID</msi>
+		<title>Tabel Periodik</title>
+	</lang>
+
 </lagnuages>

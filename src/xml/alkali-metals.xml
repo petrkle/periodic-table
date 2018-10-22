@@ -51,6 +51,7 @@
     <name_tr_TR>Sezyum</name_tr_TR>
     <name_fi_FI>Cesium</name_fi_FI>
     <name_ms_MY>Sesium</name_ms_MY>
+    <name_id_ID>Sesium</name_id_ID>
   </element>
   <element>
     <anumber>19</anumber>
@@ -104,6 +105,7 @@
     <name_tr_TR>Potasyum</name_tr_TR>
     <name_fi_FI>Kalium</name_fi_FI>
     <name_ms_MY>Kalium</name_ms_MY>
+    <name_id_ID>Kalium</name_id_ID>
   </element>
   <element>
     <anumber>87</anumber>
@@ -145,6 +147,7 @@
     <name_tr_TR>Fransiyum</name_tr_TR>
     <name_fi_FI>Frankium</name_fi_FI>
     <name_ms_MY>Fransium</name_ms_MY>
+    <name_id_ID>Fransium</name_id_ID>
   </element>
   <element>
     <anumber>3</anumber>
@@ -196,6 +199,7 @@
     <name_tr_TR>Lityum</name_tr_TR>
     <name_fi_FI>Litium</name_fi_FI>
     <name_ms_MY>Litium</name_ms_MY>
+    <name_id_ID>Litium</name_id_ID>
   </element>
   <element>
     <anumber>37</anumber>
@@ -250,6 +254,7 @@
     <name_tr_TR>Rubidyum</name_tr_TR>
     <name_fi_FI>Rubidium</name_fi_FI>
     <name_ms_MY>Rubidium</name_ms_MY>
+    <name_id_ID>Rubidium</name_id_ID>
   </element>
   <element>
     <anumber>11</anumber>
@@ -305,5 +310,6 @@
     <name_tr_TR>Sodyum</name_tr_TR>
     <name_fi_FI>Natrium</name_fi_FI>
     <name_ms_MY>Natrium</name_ms_MY>
+    <name_id_ID>Natrium</name_id_ID>
   </element>
 </elements>

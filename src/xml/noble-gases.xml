@@ -47,6 +47,7 @@
     <name_tr_TR>Argon</name_tr_TR>
     <name_fi_FI>Argon</name_fi_FI>
     <name_ms_MY>Argon</name_ms_MY>
+    <name_id_ID>Argon</name_id_ID>
   </element>
   <element>
     <anumber>2</anumber>
@@ -92,6 +93,7 @@
     <name_tr_TR>Helyum</name_tr_TR>
     <name_fi_FI>Helium</name_fi_FI>
     <name_ms_MY>Helium</name_ms_MY>
+    <name_id_ID>Helium</name_id_ID>
   </element>
   <element>
     <anumber>36</anumber>
@@ -141,6 +143,7 @@
     <name_tr_TR>Kripton</name_tr_TR>
     <name_fi_FI>Krypton</name_fi_FI>
     <name_ms_MY>Kripton</name_ms_MY>
+    <name_id_ID>Kripton</name_id_ID>
   </element>
   <element>
     <anumber>10</anumber>
@@ -189,6 +192,7 @@
     <name_tr_TR>Neon</name_tr_TR>
     <name_fi_FI>Neon</name_fi_FI>
     <name_ms_MY>Neon</name_ms_MY>
+    <name_id_ID>Neon</name_id_ID>
   </element>
   <element>
     <anumber>86</anumber>
@@ -236,6 +240,7 @@
     <name_tr_TR>Radon</name_tr_TR>
     <name_fi_FI>Radon</name_fi_FI>
     <name_ms_MY>Radon</name_ms_MY>
+    <name_id_ID>Radon</name_id_ID>
   </element>
   <element>
     <anumber>54</anumber>
@@ -285,6 +290,7 @@
     <name_tr_TR>Ksenon</name_tr_TR>
     <name_fi_FI>Ksenon</name_fi_FI>
     <name_ms_MY>Xenon</name_ms_MY>
+    <name_id_ID>Xenon</name_id_ID>
   </element>
   <element>
     <anumber>118</anumber>
@@ -322,5 +328,6 @@
     <name_tr_TR>Oganeson</name_tr_TR>
     <name_fi_FI>Oganesson</name_fi_FI>
     <name_ms_MY>Ununoktium</name_ms_MY>
+    <name_id_ID>Oganeson</name_id_ID>
   </element>
 </elements>
