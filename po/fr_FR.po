@@ -292,7 +292,7 @@ msgid "Croatian"
 msgstr "Croate"
 
 msgid "Turkish"
-msgstr ""
+msgstr "Turque"
 
 msgid "Finnish"
-msgstr ""
+msgstr "Finnois"
