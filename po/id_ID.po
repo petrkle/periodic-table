@@ -1,0 +1,294 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-04 13:39+0200\n"
+"PO-Revision-Date: 2018-10-22 23:07+0700\n"
+"Last-Translator: Hisman <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Periodic Table"
+msgstr "Tabel Periodik"
+
+msgid "Settings"
+msgstr "Pengaturan"
+
+msgid "Language"
+msgstr "Bahasa"
+
+msgid "About"
+msgstr "Tentang"
+
+msgid "English"
+msgstr "Inggris"
+
+msgid "Czech"
+msgstr "Ceko"
+
+msgid "Slovak"
+msgstr "Slowakia"
+
+msgid "German"
+msgstr "Jerman"
+
+msgid "French"
+msgstr "Perancis"
+
+msgid "Polish"
+msgstr "Polandia"
+
+msgid "Spanish"
+msgstr "Spanyol"
+
+msgid "Dutch"
+msgstr "Belanda"
+
+msgid "Default language"
+msgstr "Bahasa default"
+
+msgid "State"
+msgstr "Keadaan"
+
+msgid "Solid"
+msgstr "Padat"
+
+msgid "Liquid"
+msgstr "Cair"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Symbol"
+msgstr "Simbol"
+
+msgid "Atomic number"
+msgstr "Nomor atom"
+
+msgid "Period"
+msgstr "Periode"
+
+msgid "%d. period"
+msgstr "%d. periode"
+
+msgid "Element category"
+msgstr "Kategori unsur"
+
+msgid "Relative atomic mass"
+msgstr "Massa atom relatif"
+
+msgid "Atomic mass"
+msgstr "Massa atom"
+
+msgid "Group"
+msgstr "Grup"
+
+msgid "group"
+msgstr "grup"
+
+msgid "Electronegativity"
+msgstr "Elektronegativitas"
+
+msgid "Oxidation numbers"
+msgstr "Bilangan oksidasi"
+
+msgid "Electron configuration"
+msgstr "Konfigurasi elektron"
+
+msgid "Density"
+msgstr "Massa jenis"
+
+msgid "Melting point"
+msgstr "Titik lebur"
+
+msgid "Boiling point"
+msgstr "Titik didih"
+
+msgid "Critical point"
+msgstr "Titik kritis"
+
+msgid "Critical pressure"
+msgstr "Tekanan kritis"
+
+msgid "Atomic radius"
+msgstr "Jari-jari atom"
+
+msgid "Covalent radius"
+msgstr "Jari-jari kovalen"
+
+msgid "Thermal conductivity"
+msgstr "Konduktivitas termal"
+
+msgid "Discovery"
+msgstr "Penemuan"
+
+msgid "Hardness"
+msgstr "Kekerasan"
+
+msgid "Vickers hardness"
+msgstr "Kekerasan vickers"
+
+msgid "Brinell hardness"
+msgstr "Kekerasan Brinell"
+
+msgid "Mohs scale"
+msgstr "Skala Mohs"
+
+msgid "Shear modulus"
+msgstr "Modulus geser"
+
+msgid "Young's modulus"
+msgstr "Modulus Young"
+
+msgid "Electrical resistivity"
+msgstr "Resistivitas listrik"
+
+msgid "Electrical conductivity"
+msgstr "Konduktivitas listrik"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "Latin name"
+msgstr "Nama latin"
+
+msgid "Version"
+msgstr "Versi"
+
+msgid "Created"
+msgstr "Dibuat"
+
+msgid "Author"
+msgstr "Penulis"
+
+msgid "Write review"
+msgstr "Tulis ulasan"
+
+msgid "Noble gases"
+msgstr "Gas mulia"
+
+msgid "Inner transition elements"
+msgstr "Unsur transisi dalam"
+
+msgid "Transition elements"
+msgstr "Unsur transisi"
+
+msgid "Metalloids"
+msgstr "Metaloid"
+
+msgid "Nonmetals"
+msgstr "Bukan logam"
+
+msgid "Alkaline earth metals"
+msgstr "Logam alkali tanah"
+
+msgid "Metals"
+msgstr "Logam"
+
+msgid "Halogens"
+msgstr "Halogen"
+
+msgid "Alkali metals"
+msgstr "Logam alkali"
+
+msgid "1.st ionization energy"
+msgstr "Energi ionisasi pertama"
+
+msgid "2.nd ionization energy"
+msgstr "Energi ionisasi kedua"
+
+msgid "3.rd ionization energy"
+msgstr "Energi ionisasi ketiga"
+
+msgid "Stable isotopes"
+msgstr "Isotop stabil"
+
+msgid "Unstable isotopes"
+msgstr "Isotop tidak stabil"
+
+msgid "Substance"
+msgstr "Zat"
+
+msgid "Talc"
+msgstr "Talek"
+
+msgid "Rock salt"
+msgstr "Garam batu"
+
+msgid "Limestone"
+msgstr "Batu kapur"
+
+msgid "Fluorspar"
+msgstr "Fluorspar"
+
+msgid "Apatite"
+msgstr "Apatit"
+
+msgid "Feldspar"
+msgstr "Feldspar"
+
+msgid "Quartz"
+msgstr "Kuarsa"
+
+msgid "Topaz"
+msgstr "Topaz"
+
+msgid "Corundum"
+msgstr "Korundum"
+
+msgid "Diamond"
+msgstr "Intan"
+
+msgid "Antiquity"
+msgstr "Kekunoan"
+
+msgid "Heat capacity"
+msgstr "Kapasitas panas"
+
+msgid "Table view"
+msgstr "Tampilan tabel"
+
+msgid "Download"
+msgstr "Unduh"
+
+msgid "Links"
+msgstr "Tautan"
+
+msgid "Source code"
+msgstr "Kode sumber"
+
+msgid "Unknown"
+msgstr "Tidak dikenal"
+
+msgid "Swedish"
+msgstr "Swedia"
+
+msgid "Portuguese"
+msgstr "Portugis"
+
+msgid "Brazilian Portuguese"
+msgstr "Portugis (Brazil)"
+
+msgid "Italian"
+msgstr "Italy"
+
+msgid "Turkish"
+msgstr "Turki"
+
+msgid "Finnish"
+msgstr "Finlandia"
+
+msgid "Danish"
+msgstr "Denmark"
+
+msgid "Croatian"
+msgstr "Kroasia"
