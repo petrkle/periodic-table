@@ -20,7 +20,7 @@ msgid "Periodic Table"
 msgstr "Układ okresowy"
 
 msgid "Settings"
-msgstr "Regulacja"
+msgstr "Ustawienia"
 
 msgid "Language"
 msgstr "Język"
@@ -95,10 +95,10 @@ msgid "group"
 msgstr "grupa"
 
 msgid "Electronegativity"
-msgstr "Elektro<wbr>ujemność"
+msgstr "Elektroujemność"
 
 msgid "Oxidation numbers"
-msgstr "Liczba utlenienia"
+msgstr "Stopień utlenienia"
 
 msgid "Electron configuration"
 msgstr "Konfiguracja elektronowa"
@@ -200,19 +200,19 @@ msgid "Alkali metals"
 msgstr "Litowce"
 
 msgid "1.st ionization energy"
-msgstr "1. potencjały jonizacyjne"
+msgstr "1. potencjał jonizacyjny"
 
 msgid "2.nd ionization energy"
-msgstr "2. potencjały jonizacyjne"
+msgstr "2. potencjał jonizacyjny"
 
 msgid "3.rd ionization energy"
-msgstr "3. potencjały jonizacyjne"
+msgstr "3. potencjał jonizacyjny"
 
 msgid "Stable isotopes"
 msgstr "Stabilne izotopy"
 
 msgid "Unstable isotopes"
-msgstr "Nietrwały izotopy"
+msgstr "Nietrwałe izotopy"
 
 msgid "Substance"
 msgstr "Substancja"
@@ -221,10 +221,10 @@ msgid "Talc"
 msgstr "Talk"
 
 msgid "Rock salt"
-msgstr "Gips"
+msgstr "Halit"
 
 msgid "Limestone"
-msgstr "Kalcit"
+msgstr "Kalcyt"
 
 msgid "Fluorspar"
 msgstr "Fluoryt"
@@ -248,10 +248,10 @@ msgid "Diamond"
 msgstr "Diament"
 
 msgid "Antiquity"
-msgstr "Antyk"
+msgstr "Starożytność"
 
 msgid "Heat capacity"
-msgstr "Tepelná kapacita"
+msgstr "Pojemność cieplna"
 
 msgid "Table view"
 msgstr "Tabela"
@@ -269,7 +269,7 @@ msgid "Unknown"
 msgstr "Nieznany"
 
 msgid "Menu"
-msgstr "Oferta"
+msgstr "Menu"
 
 msgid "Russian"
 msgstr "Rosyjski"
@@ -281,16 +281,22 @@ msgid "Swedish"
 msgstr "Szwedzki"
 
 msgid "Italian"
-msgstr "Włoszczyzna"
+msgstr "Włoski"
 
 msgid "Danish"
-msgstr ""
+msgstr "Duński"
 
 msgid "Hungarian"
-msgstr ""
+msgstr "Węgierski"
 
 msgid "Belarusian"
-msgstr ""
+msgstr "Białoruski"
 
 msgid "Croatian"
+msgstr "Chorwacki"
+
+msgid "Turkish"
+msgstr ""
+
+msgid "Finnish"
 msgstr ""

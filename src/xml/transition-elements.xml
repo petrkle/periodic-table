@@ -42,6 +42,10 @@
     <name_be_BY>Актыній</name_be_BY>
     <name_da_DK>Actinium</name_da_DK>
     <name_hr_HR>Aktinij</name_hr_HR>
+    <name_tr_TR>Aktinyum</name_tr_TR>
+    <name_fi_FI>Aktinium</name_fi_FI>
+    <name_ms_MY>Aktinium</name_ms_MY>
+    <name_id_ID>Aktinium</name_id_ID>
   </element>
   <element>
     <anumber>24</anumber>
@@ -93,6 +97,10 @@
     <name_be_BY>Хром</name_be_BY>
     <name_da_DK>Krom</name_da_DK>
     <name_hr_HR>Krom</name_hr_HR>
+    <name_tr_TR>Krom</name_tr_TR>
+    <name_fi_FI>Kromi</name_fi_FI>
+    <name_ms_MY>Kromium</name_ms_MY>
+    <name_id_ID>Kromium</name_id_ID>
   </element>
   <element>
     <anumber>72</anumber>
@@ -144,6 +152,10 @@
     <name_be_BY>Гафній</name_be_BY>
     <name_da_DK>Hafnium</name_da_DK>
     <name_hr_HR>Hafnij</name_hr_HR>
+    <name_tr_TR>Hafniyum</name_tr_TR>
+    <name_fi_FI>Hafnium</name_fi_FI>
+    <name_ms_MY>Hafnium</name_ms_MY>
+    <name_id_ID>Hafnium</name_id_ID>
   </element>
   <element>
     <anumber>77</anumber>
@@ -193,6 +205,10 @@
     <name_be_BY>Ірыдый</name_be_BY>
     <name_da_DK>Iridium</name_da_DK>
     <name_hr_HR>Iridij</name_hr_HR>
+    <name_tr_TR>İridyum</name_tr_TR>
+    <name_fi_FI>Iridium</name_fi_FI>
+    <name_ms_MY>Iridium</name_ms_MY>
+    <name_id_ID>Iridium</name_id_ID>
   </element>
   <element>
     <anumber>48</anumber>
@@ -243,6 +259,10 @@
     <name_be_BY>Кадмій</name_be_BY>
     <name_da_DK>Cadmium</name_da_DK>
     <name_hr_HR>Kadmij</name_hr_HR>
+    <name_tr_TR>Kadmiyum</name_tr_TR>
+    <name_fi_FI>Kadmium</name_fi_FI>
+    <name_ms_MY>Kadmium</name_ms_MY>
+    <name_id_ID>Kadmium</name_id_ID>
   </element>
   <element>
     <anumber>27</anumber>
@@ -294,6 +314,10 @@
     <name_be_BY>Кобальт</name_be_BY>
     <name_da_DK>Kobolt</name_da_DK>
     <name_hr_HR>Kobalt</name_hr_HR>
+    <name_tr_TR>Kobalt</name_tr_TR>
+    <name_fi_FI>Koboltti</name_fi_FI>
+    <name_ms_MY>Kobalt</name_ms_MY>
+    <name_id_ID>Kobalt</name_id_ID>
   </element>
   <element>
     <anumber>104</anumber>
@@ -328,6 +352,10 @@
     <name_be_BY>Рэзерфордый</name_be_BY>
     <name_da_DK>Rutherfordium</name_da_DK>
     <name_hr_HR>Raderfordij</name_hr_HR>
+    <name_tr_TR>Rutherfordiyum</name_tr_TR>
+    <name_fi_FI>Rutherfordium</name_fi_FI>
+    <name_ms_MY>Ruterfordium</name_ms_MY>
+    <name_id_ID>Ruterfordium</name_id_ID>
   </element>
   <element>
     <anumber>57</anumber>
@@ -378,6 +406,10 @@
     <name_be_BY>Лантан</name_be_BY>
     <name_da_DK>Lanthanum</name_da_DK>
     <name_hr_HR>Lantan</name_hr_HR>
+    <name_tr_TR>Lantan</name_tr_TR>
+    <name_fi_FI>Lantaani</name_fi_FI>
+    <name_ms_MY>Lantanum</name_ms_MY>
+    <name_id_ID>Lantanum</name_id_ID>
   </element>
   <element>
     <anumber>25</anumber>
@@ -427,6 +459,10 @@
     <name_be_BY>Марганец</name_be_BY>
     <name_da_DK>Mangan</name_da_DK>
     <name_hr_HR>Mangan</name_hr_HR>
+    <name_tr_TR>Mangan</name_tr_TR>
+    <name_fi_FI>Mangaani</name_fi_FI>
+    <name_ms_MY>Mangan</name_ms_MY>
+    <name_id_ID>Mangan</name_id_ID>
   </element>
   <element>
     <anumber>42</anumber>
@@ -478,6 +514,10 @@
     <name_be_BY>Малібдэн</name_be_BY>
     <name_da_DK>Molybdenum</name_da_DK>
     <name_hr_HR>Molibden</name_hr_HR>
+    <name_tr_TR>Molibden</name_tr_TR>
+    <name_fi_FI>Molybdeeni</name_fi_FI>
+    <name_ms_MY>Molibdenum</name_ms_MY>
+    <name_id_ID>Molibdenum</name_id_ID>
   </element>
   <element>
     <anumber>29</anumber>
@@ -530,6 +570,10 @@
     <name_be_BY>Медзь</name_be_BY>
     <name_da_DK>Kobber</name_da_DK>
     <name_hr_HR>Bakar</name_hr_HR>
+    <name_tr_TR>Bakır</name_tr_TR>
+    <name_fi_FI>Kupari</name_fi_FI>
+    <name_ms_MY>Tembaga</name_ms_MY>
+    <name_id_ID>Tembaga</name_id_ID>
   </element>
   <element>
     <anumber>28</anumber>
@@ -579,6 +623,10 @@
     <name_be_BY>Нікель</name_be_BY>
     <name_da_DK>Nikkel</name_da_DK>
     <name_hr_HR>Nikal</name_hr_HR>
+    <name_tr_TR>Nikel</name_tr_TR>
+    <name_fi_FI>Nikkeli</name_fi_FI>
+    <name_ms_MY>Nikel</name_ms_MY>
+    <name_id_ID>Nikel</name_id_ID>
   </element>
   <element>
     <anumber>41</anumber>
@@ -630,6 +678,10 @@
     <name_be_BY>Ніобій</name_be_BY>
     <name_da_DK>Niobium</name_da_DK>
     <name_hr_HR>Niobij</name_hr_HR>
+    <name_tr_TR>Niobyum</name_tr_TR>
+    <name_fi_FI>Niobium</name_fi_FI>
+    <name_ms_MY>Niobium</name_ms_MY>
+    <name_id_ID>Niobium</name_id_ID>
   </element>
   <element>
     <anumber>76</anumber>
@@ -677,6 +729,10 @@
     <name_be_BY>Осмій</name_be_BY>
     <name_da_DK>Osmium</name_da_DK>
     <name_hr_HR>Osmij</name_hr_HR>
+    <name_tr_TR>Osmiyum</name_tr_TR>
+    <name_fi_FI>Osmium</name_fi_FI>
+    <name_ms_MY>Osmium</name_ms_MY>
+    <name_id_ID>Osmium</name_id_ID>
   </element>
   <element>
     <anumber>46</anumber>
@@ -728,6 +784,10 @@
     <name_be_BY>Паладый</name_be_BY>
     <name_da_DK>Palladium</name_da_DK>
     <name_hr_HR>Paladij</name_hr_HR>
+    <name_tr_TR>Paladyum</name_tr_TR>
+    <name_fi_FI>Palladium</name_fi_FI>
+    <name_ms_MY>Paladium</name_ms_MY>
+    <name_id_ID>Paladium</name_id_ID>
   </element>
   <element>
     <anumber>78</anumber>
@@ -779,6 +839,10 @@
     <name_be_BY>Плаціна</name_be_BY>
     <name_da_DK>Platin</name_da_DK>
     <name_hr_HR>Platina</name_hr_HR>
+    <name_tr_TR>Platin</name_tr_TR>
+    <name_fi_FI>Platina</name_fi_FI>
+    <name_ms_MY>Platinum</name_ms_MY>
+    <name_id_ID>Platina</name_id_ID>
   </element>
   <element>
     <anumber>75</anumber>
@@ -828,6 +892,10 @@
     <name_be_BY>Рэній</name_be_BY>
     <name_da_DK>Rhenium</name_da_DK>
     <name_hr_HR>Renij</name_hr_HR>
+    <name_tr_TR>Renyum</name_tr_TR>
+    <name_fi_FI>Renium</name_fi_FI>
+    <name_ms_MY>Renium</name_ms_MY>
+    <name_id_ID>Renium</name_id_ID>
   </element>
   <element>
     <anumber>45</anumber>
@@ -879,6 +947,10 @@
     <name_be_BY>Родый</name_be_BY>
     <name_da_DK>Rhodium</name_da_DK>
     <name_hr_HR>Rodij</name_hr_HR>
+    <name_tr_TR>Rodyum</name_tr_TR>
+    <name_fi_FI>Rodium</name_fi_FI>
+    <name_ms_MY>Rodium</name_ms_MY>
+    <name_id_ID>Rodium</name_id_ID>
   </element>
   <element>
     <anumber>80</anumber>
@@ -929,6 +1001,10 @@
     <name_be_BY>Ртуць</name_be_BY>
     <name_da_DK>Kviksølv</name_da_DK>
     <name_hr_HR>Živa</name_hr_HR>
+    <name_tr_TR>Cıva</name_tr_TR>
+    <name_fi_FI>Elohopea</name_fi_FI>
+    <name_ms_MY>Raksa</name_ms_MY>
+    <name_id_ID>Mercury</name_id_ID>
   </element>
   <element>
     <anumber>44</anumber>
@@ -979,6 +1055,10 @@
     <name_be_BY>Рутэній</name_be_BY>
     <name_da_DK>Ruthenium</name_da_DK>
     <name_hr_HR>Rutenij</name_hr_HR>
+    <name_tr_TR>Rutenyum</name_tr_TR>
+    <name_fi_FI>Rutenium</name_fi_FI>
+    <name_ms_MY>Rutenium</name_ms_MY>
+    <name_id_ID>Rutenium</name_id_ID>
   </element>
   <element>
     <anumber>21</anumber>
@@ -1026,6 +1106,10 @@
     <name_be_BY>Скандый</name_be_BY>
     <name_da_DK>Scandium</name_da_DK>
     <name_hr_HR>Skandij</name_hr_HR>
+    <name_tr_TR>Skandiyum</name_tr_TR>
+    <name_fi_FI>Skandium</name_fi_FI>
+    <name_ms_MY>Skandium</name_ms_MY>
+    <name_id_ID>Skandium</name_id_ID>
   </element>
   <element>
     <anumber>47</anumber>
@@ -1078,6 +1162,10 @@
     <name_be_BY>Серабро</name_be_BY>
     <name_da_DK>Sølv</name_da_DK>
     <name_hr_HR>Srebro</name_hr_HR>
+    <name_tr_TR>Gümüş</name_tr_TR>
+    <name_fi_FI>Hopea</name_fi_FI>
+    <name_ms_MY>Perak</name_ms_MY>
+    <name_id_ID>Perak</name_id_ID>
   </element>
   <element>
     <anumber>73</anumber>
@@ -1127,6 +1215,10 @@
     <name_be_BY>Тантал</name_be_BY>
     <name_da_DK>Tantalum</name_da_DK>
     <name_hr_HR>Tantal</name_hr_HR>
+    <name_tr_TR>Tantal</name_tr_TR>
+    <name_fi_FI>Tantaali</name_fi_FI>
+    <name_ms_MY>Tantalum</name_ms_MY>
+    <name_id_ID>Tantalum</name_id_ID>
   </element>
   <element>
     <anumber>43</anumber>
@@ -1173,6 +1265,10 @@
     <name_be_BY>Тэхнецый</name_be_BY>
     <name_da_DK>Technetium</name_da_DK>
     <name_hr_HR>Tehnecij</name_hr_HR>
+    <name_tr_TR>Teknesyum</name_tr_TR>
+    <name_fi_FI>Teknetium</name_fi_FI>
+    <name_ms_MY>Teknetium</name_ms_MY>
+    <name_id_ID>Teknesium</name_id_ID>
   </element>
   <element>
     <anumber>22</anumber>
@@ -1223,6 +1319,10 @@
     <name_be_BY>Тытан,</name_be_BY>
     <name_da_DK>Titan</name_da_DK>
     <name_hr_HR>Titanij</name_hr_HR>
+    <name_tr_TR>Titanyum</name_tr_TR>
+    <name_fi_FI>Titaani</name_fi_FI>
+    <name_ms_MY>Titanium</name_ms_MY>
+    <name_id_ID>Titanium</name_id_ID>
   </element>
   <element>
     <anumber>109</anumber>
@@ -1255,6 +1355,10 @@
     <name_be_BY>Мейтнерый</name_be_BY>
     <name_da_DK>Meitnerium</name_da_DK>
     <name_hr_HR>Majtnerij</name_hr_HR>
+    <name_tr_TR>Meitneriyum</name_tr_TR>
+    <name_fi_FI>Meitnerium</name_fi_FI>
+    <name_ms_MY>Meitnerium</name_ms_MY>
+    <name_id_ID>Meitnerium</name_id_ID>
   </element>
   <element>
     <anumber>106</anumber>
@@ -1288,6 +1392,10 @@
     <name_be_BY>Сіборгій</name_be_BY>
     <name_da_DK>Seaborgium</name_da_DK>
     <name_hr_HR>Siborgij</name_hr_HR>
+    <name_tr_TR>Seaborgiyum</name_tr_TR>
+    <name_fi_FI>Seaborgium</name_fi_FI>
+    <name_ms_MY>Seaborgium</name_ms_MY>
+    <name_id_ID>Seaborgium</name_id_ID>
   </element>
   <element>
     <anumber>108</anumber>
@@ -1320,6 +1428,10 @@
     <name_be_BY>Хасій</name_be_BY>
     <name_da_DK>Hassium</name_da_DK>
     <name_hr_HR>Hasij</name_hr_HR>
+    <name_tr_TR>Hassiyum</name_tr_TR>
+    <name_fi_FI>Hassium</name_fi_FI>
+    <name_ms_MY>Hasium</name_ms_MY>
+    <name_id_ID>Hasium</name_id_ID>
   </element>
   <element>
     <anumber>105</anumber>
@@ -1353,6 +1465,10 @@
     <name_be_BY>Дубній</name_be_BY>
     <name_da_DK>Dubnium</name_da_DK>
     <name_hr_HR>Dubnij</name_hr_HR>
+    <name_tr_TR>Dubniyum</name_tr_TR>
+    <name_fi_FI>Dubnium</name_fi_FI>
+    <name_ms_MY>Dubnium</name_ms_MY>
+    <name_id_ID>Dubnium</name_id_ID>
   </element>
   <element>
     <anumber>107</anumber>
@@ -1386,6 +1502,10 @@
     <name_be_BY>Борый</name_be_BY>
     <name_da_DK>Bohrium</name_da_DK>
     <name_hr_HR>Borij</name_hr_HR>
+    <name_tr_TR>Bohriyum</name_tr_TR>
+    <name_fi_FI>Bohrium</name_fi_FI>
+    <name_ms_MY>Bohrium</name_ms_MY>
+    <name_id_ID>Bohrium</name_id_ID>
   </element>
   <element>
     <anumber>23</anumber>
@@ -1437,6 +1557,10 @@
     <name_be_BY>Ванадый</name_be_BY>
     <name_da_DK>Vanadium</name_da_DK>
     <name_hr_HR>Vanadij</name_hr_HR>
+    <name_tr_TR>Vanadyum</name_tr_TR>
+    <name_fi_FI>Vanadiini</name_fi_FI>
+    <name_ms_MY>Vanadium</name_ms_MY>
+    <name_id_ID>Vanadium</name_id_ID>
   </element>
   <element>
     <anumber>74</anumber>
@@ -1487,6 +1611,10 @@
     <name_be_BY>Вальфрам</name_be_BY>
     <name_da_DK>Wolfram</name_da_DK>
     <name_hr_HR>Volfram</name_hr_HR>
+    <name_tr_TR>Volfram</name_tr_TR>
+    <name_fi_FI>Volframi</name_fi_FI>
+    <name_ms_MY>Tungsten</name_ms_MY>
+    <name_id_ID>Wolfram</name_id_ID>
   </element>
   <element>
     <anumber>39</anumber>
@@ -1536,6 +1664,10 @@
     <name_be_BY>Ітрый</name_be_BY>
     <name_da_DK>Yttrium</name_da_DK>
     <name_hr_HR>Itrij</name_hr_HR>
+    <name_tr_TR>İtriyum</name_tr_TR>
+    <name_fi_FI>Yttrium</name_fi_FI>
+    <name_ms_MY>Itrium</name_ms_MY>
+    <name_id_ID>Itrium</name_id_ID>
   </element>
   <element>
     <anumber>30</anumber>
@@ -1587,6 +1719,10 @@
     <name_be_BY>Цынк</name_be_BY>
     <name_da_DK>Zink</name_da_DK>
     <name_hr_HR>Cink</name_hr_HR>
+    <name_tr_TR>Çinko</name_tr_TR>
+    <name_fi_FI>Sinkki</name_fi_FI>
+    <name_ms_MY>Zink</name_ms_MY>
+    <name_id_ID>Seng</name_id_ID>
   </element>
   <element>
     <anumber>40</anumber>
@@ -1638,6 +1774,10 @@
     <name_be_BY>Цырконій</name_be_BY>
     <name_da_DK>Zirconium</name_da_DK>
     <name_hr_HR>Cirkonij</name_hr_HR>
+    <name_tr_TR>Zirkonyum</name_tr_TR>
+    <name_fi_FI>Zirkonium</name_fi_FI>
+    <name_ms_MY>Zirkonium</name_ms_MY>
+    <name_id_ID>Zirkonium</name_id_ID>
   </element>
   <element>
     <anumber>79</anumber>
@@ -1689,6 +1829,10 @@
     <name_be_BY>Золата</name_be_BY>
     <name_da_DK>Guld</name_da_DK>
     <name_hr_HR>Zlato</name_hr_HR>
+    <name_tr_TR>Altın</name_tr_TR>
+    <name_fi_FI>Kulta</name_fi_FI>
+    <name_ms_MY>Emas</name_ms_MY>
+    <name_id_ID>Emas</name_id_ID>
   </element>
   <element>
     <anumber>26</anumber>
@@ -1740,6 +1884,10 @@
     <name_be_BY>Жалеза</name_be_BY>
     <name_da_DK>Jern</name_da_DK>
     <name_hr_HR>Željezo</name_hr_HR>
+    <name_tr_TR>Demir</name_tr_TR>
+    <name_fi_FI>Rauta</name_fi_FI>
+    <name_ms_MY>Besi</name_ms_MY>
+    <name_id_ID>Besi</name_id_ID>
   </element>
   <element>
     <anumber>110</anumber>
@@ -1774,6 +1922,10 @@
     <name_be_BY>Дармштатый</name_be_BY>
     <name_da_DK>Darmstadtium</name_da_DK>
     <name_hr_HR>Darmštatij</name_hr_HR>
+    <name_tr_TR>Darmstadtiyum</name_tr_TR>
+    <name_fi_FI>Darmstadtium</name_fi_FI>
+    <name_ms_MY>Darmstadtium</name_ms_MY>
+    <name_id_ID>Darmstadtium</name_id_ID>
   </element>
   <element>
     <anumber>111</anumber>
@@ -1808,6 +1960,10 @@
     <name_be_BY>Рэнтгеній</name_be_BY>
     <name_da_DK>Røntgenium</name_da_DK>
     <name_hr_HR>Roentgenij</name_hr_HR>
+    <name_tr_TR>Röntgenyum</name_tr_TR>
+    <name_fi_FI>Röntgenium</name_fi_FI>
+    <name_ms_MY>Roentgenium</name_ms_MY>
+    <name_id_ID>Roentgenium</name_id_ID>
   </element>
   <element>
     <anumber>112</anumber>
@@ -1842,5 +1998,9 @@
     <name_be_BY>Каперніцый</name_be_BY>
     <name_da_DK>Copernicium</name_da_DK>
     <name_hr_HR>Kopernicij</name_hr_HR>
+    <name_tr_TR>Kopernikyum</name_tr_TR>
+    <name_fi_FI>Kopernikium</name_fi_FI>
+    <name_ms_MY>Kopernisium</name_ms_MY>
+    <name_id_ID>Kopernisium</name_id_ID>
   </element>
 </elements>

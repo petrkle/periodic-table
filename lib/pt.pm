@@ -34,8 +34,8 @@ use Exporter qw(import);
  
 our @EXPORT_OK = qw(get_langs geturl setlocales);
 
-our $VERSION = '17.10.3101';
-our $MSIGUID = '2d175a8c-e696-4281-8cef-300461846157';
+our $VERSION = '18.10.2101';
+our $MSIGUID = '06ab8af2-a614-499f-8ba6-aa3aefe6f7a1';
 our $APPNAME = 'Periodic Table';
 
 sub get_langs{
@@ -50,7 +50,7 @@ sub get_langs{
 sub geturl {
 	my $element = shift;
 	my $lang = shift;
-	if ($lang =~ /(ru_RU|be_BY|hu_HU)/){
+	if ($lang =~ /(ru_RU|be_BY|hu_HU|tr_TR)/){
 		$lang = 'Latin';
 	}
 	my $converter = Text::Iconv->new("UTF-8", "ASCII//TRANSLIT");

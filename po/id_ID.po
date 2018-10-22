@@ -9,70 +9,70 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-04 13:39+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2018-10-22 23:07+0700\n"
+"Last-Translator: Hisman <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: en_US\n"
+"Language: id_ID\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Periodic Table"
-msgstr "Periodisk System"
+msgstr "Tabel Periodik"
 
 msgid "Settings"
-msgstr "Indstillinger"
+msgstr "Pengaturan"
 
 msgid "Language"
-msgstr "Sprog"
+msgstr "Bahasa"
 
 msgid "About"
-msgstr "Om"
+msgstr "Tentang"
 
 msgid "English"
-msgstr "Engelsk"
+msgstr "Inggris"
 
 msgid "Czech"
-msgstr "Tjekkisk"
+msgstr "Ceko"
 
 msgid "Slovak"
-msgstr "Slovakisk"
+msgstr "Slowakia"
 
 msgid "German"
-msgstr "Tysk"
+msgstr "Jerman"
 
 msgid "French"
-msgstr "Fransk"
+msgstr "Perancis"
 
 msgid "Polish"
-msgstr "Polsk"
+msgstr "Polandia"
 
 msgid "Spanish"
-msgstr "Spansk"
+msgstr "Spanyol"
 
 msgid "Dutch"
-msgstr "Hallandsk"
+msgstr "Belanda"
 
 msgid "Default language"
-msgstr "Standard sprog"
+msgstr "Bahasa default"
 
 msgid "State"
-msgstr "Tilstand"
+msgstr "Keadaan"
 
 msgid "Solid"
-msgstr "Solid"
+msgstr "Padat"
 
 msgid "Liquid"
-msgstr "Flydende"
+msgstr "Cair"
 
 msgid "Gas"
 msgstr "Gas"
 
 msgid "Symbol"
-msgstr "Symbol"
+msgstr "Simbol"
 
 msgid "Atomic number"
-msgstr "Atomnummer"
+msgstr "Nomor atom"
 
 msgid "Period"
 msgstr "Periode"
@@ -81,220 +81,214 @@ msgid "%d. period"
 msgstr "%d. periode"
 
 msgid "Element category"
-msgstr "Grundstof kategori"
+msgstr "Kategori unsur"
 
 msgid "Relative atomic mass"
-msgstr "Relativ atommasse"
+msgstr "Massa atom relatif"
 
 msgid "Atomic mass"
-msgstr "Atommasse"
+msgstr "Massa atom"
 
 msgid "Group"
-msgstr "Gruppe"
+msgstr "Grup"
 
 msgid "group"
-msgstr "gruppe"
+msgstr "grup"
 
 msgid "Electronegativity"
-msgstr "Elektronegativitet"
+msgstr "Elektronegativitas"
 
 msgid "Oxidation numbers"
-msgstr "Oxideringsnummer"
+msgstr "Bilangan oksidasi"
 
 msgid "Electron configuration"
-msgstr "Elektronkonfiguration"
+msgstr "Konfigurasi elektron"
 
 msgid "Density"
-msgstr "Densitet"
+msgstr "Massa jenis"
 
 msgid "Melting point"
-msgstr "Smeltepunkt"
+msgstr "Titik lebur"
 
 msgid "Boiling point"
-msgstr "Kogepunkt"
+msgstr "Titik didih"
 
 msgid "Critical point"
-msgstr "Kritisk punkt"
+msgstr "Titik kritis"
 
 msgid "Critical pressure"
-msgstr "Kritisk tryk"
+msgstr "Tekanan kritis"
 
 msgid "Atomic radius"
-msgstr "Atomradius"
+msgstr "Jari-jari atom"
 
 msgid "Covalent radius"
-msgstr "Kovalent radius"
+msgstr "Jari-jari kovalen"
 
 msgid "Thermal conductivity"
-msgstr "Specifik varmeledningsevne"
+msgstr "Konduktivitas termal"
 
 msgid "Discovery"
-msgstr "Opdagelse"
+msgstr "Penemuan"
 
 msgid "Hardness"
-msgstr "Hårdhed"
+msgstr "Kekerasan"
 
 msgid "Vickers hardness"
-msgstr "Vickers hårdhed"
+msgstr "Kekerasan vickers"
 
 msgid "Brinell hardness"
-msgstr "Brinell hårdhed"
+msgstr "Kekerasan Brinell"
 
 msgid "Mohs scale"
-msgstr "Mohs' skala"
+msgstr "Skala Mohs"
 
 msgid "Shear modulus"
-msgstr "Forskydningsmodul"
+msgstr "Modulus geser"
 
 msgid "Young's modulus"
-msgstr "Youngs modul"
+msgstr "Modulus Young"
 
 msgid "Electrical resistivity"
-msgstr "Elektrisk modstand"
+msgstr "Resistivitas listrik"
 
 msgid "Electrical conductivity"
-msgstr "Elektrisk ledningsevne"
+msgstr "Konduktivitas listrik"
 
 msgid "Name"
-msgstr "Navn"
+msgstr "Nama"
 
 msgid "Latin name"
-msgstr "Latinsk navn"
+msgstr "Nama latin"
 
 msgid "Version"
-msgstr "Version"
+msgstr "Versi"
 
 msgid "Created"
-msgstr "Oprettet"
+msgstr "Dibuat"
 
 msgid "Author"
-msgstr "Forfatter"
+msgstr "Penulis"
 
 msgid "Write review"
-msgstr "Skriv anmeldelse"
+msgstr "Tulis ulasan"
 
 msgid "Noble gases"
-msgstr "Ædle gasser"
+msgstr "Gas mulia"
 
 msgid "Inner transition elements"
-msgstr "Indre overgangs-grundstoffer"
+msgstr "Unsur transisi dalam"
 
 msgid "Transition elements"
-msgstr "Overgangs-grundstoffer"
+msgstr "Unsur transisi"
 
 msgid "Metalloids"
-msgstr "Halvmetaller"
+msgstr "Metaloid"
 
 msgid "Nonmetals"
-msgstr "Ikke-metaller"
+msgstr "Bukan logam"
 
 msgid "Alkaline earth metals"
-msgstr "Jordalkalimetaller"
+msgstr "Logam alkali tanah"
 
 msgid "Metals"
-msgstr "Metaller"
+msgstr "Logam"
 
 msgid "Halogens"
-msgstr "Halogener"
+msgstr "Halogen"
 
 msgid "Alkali metals"
-msgstr "Alkalimetaller"
+msgstr "Logam alkali"
 
 msgid "1.st ionization energy"
-msgstr "Første ioniseringsenergi"
+msgstr "Energi ionisasi pertama"
 
 msgid "2.nd ionization energy"
-msgstr "Anden ioniseringsenergi"
+msgstr "Energi ionisasi kedua"
 
 msgid "3.rd ionization energy"
-msgstr "Tredje ioniseringsenergi"
+msgstr "Energi ionisasi ketiga"
 
 msgid "Stable isotopes"
-msgstr "Stabile isotoper"
+msgstr "Isotop stabil"
 
 msgid "Unstable isotopes"
-msgstr "Ustabile isotoper"
+msgstr "Isotop tidak stabil"
 
 msgid "Substance"
-msgstr "Substans"
+msgstr "Zat"
 
 msgid "Talc"
-msgstr "Talkum"
+msgstr "Talek"
 
 msgid "Rock salt"
-msgstr "Stensalt"
+msgstr "Garam batu"
 
 msgid "Limestone"
-msgstr "Kalksten"
+msgstr "Batu kapur"
 
 msgid "Fluorspar"
-msgstr "Fluorit"
+msgstr "Fluorspar"
 
 msgid "Apatite"
 msgstr "Apatit"
 
 msgid "Feldspar"
-msgstr "Feldspat"
+msgstr "Feldspar"
 
 msgid "Quartz"
-msgstr "Kvarts"
+msgstr "Kuarsa"
 
 msgid "Topaz"
-msgstr "Topas"
+msgstr "Topaz"
 
 msgid "Corundum"
-msgstr "Korund"
+msgstr "Korundum"
 
 msgid "Diamond"
-msgstr "Diamant"
+msgstr "Intan"
 
 msgid "Antiquity"
-msgstr "Antikvitet"
+msgstr "Kekunoan"
 
 msgid "Heat capacity"
-msgstr "Varmekapacitet"
+msgstr "Kapasitas panas"
 
 msgid "Table view"
-msgstr "Tabelvisning"
+msgstr "Tampilan tabel"
 
 msgid "Download"
-msgstr "Hent"
+msgstr "Unduh"
 
 msgid "Links"
-msgstr "Links"
+msgstr "Tautan"
 
 msgid "Source code"
-msgstr "Kildekode"
+msgstr "Kode sumber"
 
 msgid "Unknown"
-msgstr "Ukendt"
+msgstr "Tidak dikenal"
 
 msgid "Swedish"
-msgstr "Svensk"
+msgstr "Swedia"
 
 msgid "Portuguese"
-msgstr "Portugisisk"
+msgstr "Portugis"
 
 msgid "Brazilian Portuguese"
-msgstr "Brasiliansk Portugisisk"
+msgstr "Portugis (Brazil)"
 
 msgid "Italian"
-msgstr "Italiensk"
-
-msgid "Danish"
-msgstr "Dansk"
-
-msgid "Hungarian"
-msgstr ""
-
-msgid "Belarusian"
-msgstr ""
-
-msgid "Croatian"
-msgstr ""
+msgstr "Italy"
 
 msgid "Turkish"
-msgstr ""
+msgstr "Turki"
 
 msgid "Finnish"
-msgstr ""
+msgstr "Finlandia"
+
+msgid "Danish"
+msgstr "Denmark"
+
+msgid "Croatian"
+msgstr "Kroasia"

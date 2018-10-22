@@ -294,3 +294,9 @@ msgstr "Белорусский"
 
 msgid "Croatian"
 msgstr ""
+
+msgid "Turkish"
+msgstr ""
+
+msgid "Finnish"
+msgstr ""

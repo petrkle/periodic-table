@@ -275,22 +275,28 @@ msgid "Swedish"
 msgstr "Rootsi"
 
 msgid "Portuguese"
-msgstr "Portugalų"
+msgstr "Portugali"
 
 msgid "Brazilian Portuguese"
-msgstr "Brazilijos portugalų"
+msgstr "Brasiilia portugali"
 
 msgid "Italian"
-msgstr "Itaallane"
+msgstr "Itaalia"
 
 msgid "Danish"
-msgstr ""
+msgstr "Taani"
 
 msgid "Hungarian"
-msgstr ""
+msgstr "Unagri"
 
 msgid "Belarusian"
-msgstr ""
+msgstr "Valgevene"
 
 msgid "Croatian"
-msgstr ""
+msgstr "Horvaatia"
+
+msgid "Turkish"
+msgstr "Türgi"
+
+msgid "Finnish"
+msgstr "Soome"

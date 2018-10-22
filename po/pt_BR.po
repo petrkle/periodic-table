@@ -281,13 +281,19 @@ msgid "Italian"
 msgstr "Italiana"
 
 msgid "Danish"
-msgstr ""
+msgstr "Dinamarquês"
 
 msgid "Hungarian"
-msgstr ""
+msgstr "Húngaro"
 
 msgid "Belarusian"
-msgstr ""
+msgstr "Bielorrusso"
 
 msgid "Croatian"
-msgstr ""
+msgstr "Croata"
+
+msgid "Turkish"
+msgstr "Turco"
+
+msgid "Finnish"
+msgstr "Finlandês"

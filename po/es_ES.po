@@ -20,7 +20,7 @@ msgid "Periodic Table"
 msgstr "Sistema periódico"
 
 msgid "Settings"
-msgstr "Ajuste"
+msgstr "Ajustes"
 
 msgid "Language"
 msgstr "Idioma"
@@ -128,7 +128,7 @@ msgid "Thermal conductivity"
 msgstr "Conductividad térmica"
 
 msgid "Discovery"
-msgstr "Descubrimi<wbr>ento"
+msgstr "Descubrimiento"
 
 msgid "Hardness"
 msgstr "Dureza"
@@ -158,7 +158,7 @@ msgid "Name"
 msgstr "Nombre"
 
 msgid "Latin name"
-msgstr "Nombre latino"
+msgstr "Nombre en Latín"
 
 msgid "Version"
 msgstr "Versión"
@@ -167,7 +167,7 @@ msgid "Created"
 msgstr "Creado"
 
 msgid "Author"
-msgstr "Artífice"
+msgstr "Autor"
 
 msgid "Write review"
 msgstr "Escribir un comentario"
@@ -290,13 +290,19 @@ msgid "Italian"
 msgstr "Italiano"
 
 msgid "Danish"
-msgstr ""
+msgstr "Danés"
 
 msgid "Hungarian"
-msgstr ""
+msgstr "Húngaro"
 
 msgid "Belarusian"
-msgstr ""
+msgstr "Bieloruso"
 
 msgid "Croatian"
+msgstr "Croata"
+
+msgid "Turkish"
+msgstr ""
+
+msgid "Finnish"
 msgstr ""

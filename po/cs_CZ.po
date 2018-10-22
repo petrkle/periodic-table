@@ -300,3 +300,9 @@ msgstr "Běloruština"
 
 msgid "Croatian"
 msgstr "Chorvatština"
+
+msgid "Turkish"
+msgstr "Turečtina"
+
+msgid "Finnish"
+msgstr "Finština"

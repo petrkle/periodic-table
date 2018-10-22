@@ -45,6 +45,10 @@
     <name_be_BY>Барый</name_be_BY>
     <name_da_DK>Barium</name_da_DK>
     <name_hr_HR>Barij</name_hr_HR>
+    <name_tr_TR>Baryum</name_tr_TR>
+    <name_fi_FI>Barium</name_fi_FI>
+    <name_ms_MY>Barium</name_ms_MY>
+    <name_id_ID>Barium</name_id_ID>
   </element>
   <element>
     <anumber>88</anumber>
@@ -88,6 +92,10 @@
     <name_be_BY>Радый</name_be_BY>
     <name_da_DK>Radium</name_da_DK>
     <name_hr_HR>Radij</name_hr_HR>
+    <name_tr_TR>Radyum</name_tr_TR>
+    <name_fi_FI>Radium</name_fi_FI>
+    <name_ms_MY>Radium</name_ms_MY>
+    <name_id_ID>Radium</name_id_ID>
   </element>
   <element>
     <anumber>38</anumber>
@@ -135,6 +143,10 @@
     <name_be_BY>Стронцый</name_be_BY>
     <name_da_DK>Strontium</name_da_DK>
     <name_hr_HR>Stroncij</name_hr_HR>
+    <name_tr_TR>Stronsiyum</name_tr_TR>
+    <name_fi_FI>Strontium</name_fi_FI>
+    <name_ms_MY>Strontium</name_ms_MY>
+    <name_id_ID>Stronsium</name_id_ID>
   </element>
   <element>
     <anumber>20</anumber>
@@ -183,5 +195,9 @@
     <name_be_BY>Кальцый</name_be_BY>
     <name_da_DK>Calcium</name_da_DK>
     <name_hr_HR>Kalcij</name_hr_HR>
+    <name_tr_TR>Kalsiyum</name_tr_TR>
+    <name_fi_FI>Kalsium</name_fi_FI>
+    <name_ms_MY>Kalsium</name_ms_MY>
+    <name_id_ID>Kalsium</name_id_ID>
   </element>
 </elements>
