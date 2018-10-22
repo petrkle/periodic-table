@@ -287,13 +287,13 @@ msgid "Hungarian"
 msgstr "Húngaro"
 
 msgid "Belarusian"
-msgstr "Bielorrussa"
+msgstr "Bielorrusso"
 
 msgid "Croatian"
-msgstr "Croácia"
+msgstr "Croata"
 
 msgid "Turkish"
-msgstr ""
+msgstr "Turco"
 
 msgid "Finnish"
-msgstr ""
+msgstr "Finlandês"
