@@ -51,6 +51,7 @@
     <name_hr_HR>Antimon</name_hr_HR>
     <name_tr_TR>Antimon</name_tr_TR>
     <name_fi_FI>Antimoni</name_fi_FI>
+    <name_ms_MY>Antimoni</name_ms_MY>
   </element>
   <element>
     <anumber>33</anumber>
@@ -102,6 +103,7 @@
     <name_hr_HR>Arsen</name_hr_HR>
     <name_tr_TR>Arsenik</name_tr_TR>
     <name_fi_FI>Arseeni</name_fi_FI>
+    <name_ms_MY>Arsenik</name_ms_MY>
   </element>
   <element>
     <anumber>5</anumber>
@@ -152,6 +154,7 @@
     <name_hr_HR>Bor</name_hr_HR>
     <name_tr_TR>Bor</name_tr_TR>
     <name_fi_FI>Boori</name_fi_FI>
+    <name_ms_MY>Boron</name_ms_MY>
   </element>
   <element>
     <anumber>32</anumber>
@@ -199,6 +202,7 @@
     <name_hr_HR>Germanij</name_hr_HR>
     <name_tr_TR>Germanyum</name_tr_TR>
     <name_fi_FI>Germanium</name_fi_FI>
+    <name_ms_MY>Germanium</name_ms_MY>
   </element>
   <element>
     <anumber>14</anumber>
@@ -249,6 +253,7 @@
     <name_hr_HR>Silicij</name_hr_HR>
     <name_tr_TR>Silisyum</name_tr_TR>
     <name_fi_FI>Pii</name_fi_FI>
+    <name_ms_MY>Silikon</name_ms_MY>
   </element>
   <element>
     <anumber>52</anumber>
@@ -301,5 +306,6 @@
     <name_hr_HR>Telurij</name_hr_HR>
     <name_tr_TR>Tellür</name_tr_TR>
     <name_fi_FI>Telluuri</name_fi_FI>
+    <name_ms_MY>Telurium</name_ms_MY>
   </element>
 </elements>

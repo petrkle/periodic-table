@@ -41,6 +41,7 @@
     <name_hr_HR>Americij</name_hr_HR>
     <name_tr_TR>Amerikyum</name_tr_TR>
     <name_fi_FI>Amerikium</name_fi_FI>
+    <name_ms_MY>Amerisium</name_ms_MY>
   </element>
   <element>
     <anumber>97</anumber>
@@ -81,6 +82,7 @@
     <name_hr_HR>Berkelij</name_hr_HR>
     <name_tr_TR>Berkelyum</name_tr_TR>
     <name_fi_FI>Berkelium</name_fi_FI>
+    <name_ms_MY>Berkelium</name_ms_MY>
   </element>
   <element>
     <anumber>58</anumber>
@@ -133,6 +135,7 @@
     <name_hr_HR>Cerij</name_hr_HR>
     <name_tr_TR>Seryum</name_tr_TR>
     <name_fi_FI>Cerium</name_fi_FI>
+    <name_ms_MY>Serium</name_ms_MY>
   </element>
   <element>
     <anumber>96</anumber>
@@ -173,6 +176,7 @@
     <name_hr_HR>Kirij</name_hr_HR>
     <name_tr_TR>Küriyum</name_tr_TR>
     <name_fi_FI>Curium</name_fi_FI>
+    <name_ms_MY>Kurium</name_ms_MY>
   </element>
   <element>
     <anumber>66</anumber>
@@ -224,6 +228,7 @@
     <name_hr_HR>Disprozij</name_hr_HR>
     <name_tr_TR>Disprozyum</name_tr_TR>
     <name_fi_FI>Dysprosium</name_fi_FI>
+    <name_ms_MY>Disprosium</name_ms_MY>
   </element>
   <element>
     <anumber>99</anumber>
@@ -263,6 +268,7 @@
     <name_hr_HR>Ajnštajnij</name_hr_HR>
     <name_tr_TR>Aynştaynyum</name_tr_TR>
     <name_fi_FI>Einsteinium</name_fi_FI>
+    <name_ms_MY>Einsteinium</name_ms_MY>
   </element>
   <element>
     <anumber>68</anumber>
@@ -314,6 +320,7 @@
     <name_hr_HR>Erbij</name_hr_HR>
     <name_tr_TR>Erbiyum</name_tr_TR>
     <name_fi_FI>Erbium</name_fi_FI>
+    <name_ms_MY>Erbium</name_ms_MY>
   </element>
   <element>
     <anumber>63</anumber>
@@ -364,6 +371,7 @@
     <name_hr_HR>Europij</name_hr_HR>
     <name_tr_TR>Evropiyum</name_tr_TR>
     <name_fi_FI>Europium</name_fi_FI>
+    <name_ms_MY>Europium</name_ms_MY>
   </element>
   <element>
     <anumber>100</anumber>
@@ -402,6 +410,7 @@
     <name_hr_HR>Fermij</name_hr_HR>
     <name_tr_TR>Fermiyum</name_tr_TR>
     <name_fi_FI>Fermium</name_fi_FI>
+    <name_ms_MY>Fermium</name_ms_MY>
   </element>
   <element>
     <anumber>64</anumber>
@@ -454,6 +463,7 @@
     <name_hr_HR>Gadolinij</name_hr_HR>
     <name_tr_TR>Gadolinyum</name_tr_TR>
     <name_fi_FI>Gadolinium</name_fi_FI>
+    <name_ms_MY>Gadolinium</name_ms_MY>
   </element>
   <element>
     <anumber>67</anumber>
@@ -506,6 +516,7 @@
     <name_hr_HR>Holmij</name_hr_HR>
     <name_tr_TR>Holmiyum</name_tr_TR>
     <name_fi_FI>Holmium</name_fi_FI>
+    <name_ms_MY>Holmium</name_ms_MY>
   </element>
   <element>
     <anumber>98</anumber>
@@ -546,6 +557,7 @@
     <name_hr_HR>Kalifornij</name_hr_HR>
     <name_tr_TR>Kaliforniyum</name_tr_TR>
     <name_fi_FI>Kalifornium</name_fi_FI>
+    <name_ms_MY>Kalifornium</name_ms_MY>
   </element>
   <element>
     <anumber>103</anumber>
@@ -583,6 +595,7 @@
     <name_hr_HR>Lorensij</name_hr_HR>
     <name_tr_TR>Lavrensiyum</name_tr_TR>
     <name_fi_FI>Lawrencium</name_fi_FI>
+    <name_ms_MY>Lawrensium</name_ms_MY>
   </element>
   <element>
     <anumber>71</anumber>
@@ -635,6 +648,7 @@
     <name_hr_HR>Lutecij</name_hr_HR>
     <name_tr_TR>Lutesyum</name_tr_TR>
     <name_fi_FI>Lutetium</name_fi_FI>
+    <name_ms_MY>Lutetium</name_ms_MY>
   </element>
   <element>
     <anumber>101</anumber>
@@ -673,6 +687,7 @@
     <name_hr_HR>Mendelevij</name_hr_HR>
     <name_tr_TR>Mendelevyum</name_tr_TR>
     <name_fi_FI>Mendelevium</name_fi_FI>
+    <name_ms_MY>Mendelevium</name_ms_MY>
   </element>
   <element>
     <anumber>60</anumber>
@@ -724,6 +739,7 @@
     <name_hr_HR>Neodimij</name_hr_HR>
     <name_tr_TR>Neodimyum</name_tr_TR>
     <name_fi_FI>Neodyymi</name_fi_FI>
+    <name_ms_MY>Neodimium</name_ms_MY>
   </element>
   <element>
     <anumber>93</anumber>
@@ -767,6 +783,7 @@
     <name_hr_HR>Neptunij</name_hr_HR>
     <name_tr_TR>Neptünyum</name_tr_TR>
     <name_fi_FI>Neptunium</name_fi_FI>
+    <name_ms_MY>Neptunium</name_ms_MY>
   </element>
   <element>
     <anumber>102</anumber>
@@ -805,6 +822,7 @@
     <name_hr_HR>Nobelij</name_hr_HR>
     <name_tr_TR>Nobelyum</name_tr_TR>
     <name_fi_FI>Nobelium</name_fi_FI>
+    <name_ms_MY>Nobelium</name_ms_MY>
   </element>
   <element>
     <anumber>94</anumber>
@@ -851,6 +869,7 @@
     <name_hr_HR>Plutonij</name_hr_HR>
     <name_tr_TR>Plütonyum</name_tr_TR>
     <name_fi_FI>Plutonium</name_fi_FI>
+    <name_ms_MY>Plutonium</name_ms_MY>
   </element>
   <element>
     <anumber>59</anumber>
@@ -903,6 +922,7 @@
     <name_hr_HR>Praseodimij</name_hr_HR>
     <name_tr_TR>Praseodim</name_tr_TR>
     <name_fi_FI>Praseodyymi</name_fi_FI>
+    <name_ms_MY>Praseodimium</name_ms_MY>
   </element>
   <element>
     <anumber>61</anumber>
@@ -951,6 +971,7 @@
     <name_hr_HR>Prometij</name_hr_HR>
     <name_tr_TR>Prometyum</name_tr_TR>
     <name_fi_FI>Prometium</name_fi_FI>
+    <name_ms_MY>Prometium</name_ms_MY>
   </element>
   <element>
     <anumber>91</anumber>
@@ -993,6 +1014,7 @@
     <name_hr_HR>Protaktinij</name_hr_HR>
     <name_tr_TR>Protaktinyum</name_tr_TR>
     <name_fi_FI>Protaktinium</name_fi_FI>
+    <name_ms_MY>Protaktinium</name_ms_MY>
   </element>
   <element>
     <anumber>62</anumber>
@@ -1045,6 +1067,7 @@
     <name_hr_HR>Samarij</name_hr_HR>
     <name_tr_TR>Samaryum</name_tr_TR>
     <name_fi_FI>Samarium</name_fi_FI>
+    <name_ms_MY>Samarium</name_ms_MY>
   </element>
   <element>
     <anumber>65</anumber>
@@ -1096,6 +1119,7 @@
     <name_hr_HR>Terbij</name_hr_HR>
     <name_tr_TR>Terbiyum</name_tr_TR>
     <name_fi_FI>Terbium</name_fi_FI>
+    <name_ms_MY>Terbium</name_ms_MY>
   </element>
   <element>
     <anumber>90</anumber>
@@ -1147,6 +1171,7 @@
     <name_hr_HR>Torij</name_hr_HR>
     <name_tr_TR>Toryum</name_tr_TR>
     <name_fi_FI>Torium</name_fi_FI>
+    <name_ms_MY>Torium</name_ms_MY>
   </element>
   <element>
     <anumber>69</anumber>
@@ -1198,6 +1223,7 @@
     <name_hr_HR>Tulij</name_hr_HR>
     <name_tr_TR>Tulyum</name_tr_TR>
     <name_fi_FI>Tulium</name_fi_FI>
+    <name_ms_MY>Tulium</name_ms_MY>
   </element>
   <element>
     <anumber>92</anumber>
@@ -1247,6 +1273,7 @@
     <name_hr_HR>Uranij</name_hr_HR>
     <name_tr_TR>Uranyum</name_tr_TR>
     <name_fi_FI>Uraani</name_fi_FI>
+    <name_ms_MY>Uranium</name_ms_MY>
   </element>
   <element>
     <anumber>70</anumber>
@@ -1298,5 +1325,6 @@
     <name_hr_HR>Iterbij</name_hr_HR>
     <name_tr_TR>İterbiyum</name_tr_TR>
     <name_fi_FI>Ytterbium</name_fi_FI>
+    <name_ms_MY>Iterbium</name_ms_MY>
   </element>
 </elements>
