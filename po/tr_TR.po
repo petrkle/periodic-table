@@ -120,7 +120,7 @@ msgid "Critical pressure"
 msgstr "Kritik basınç"
 
 msgid "Atomic radius"
-msgstr "Atomic yarıçap"
+msgstr "Atomik yarıçap"
 
 msgid "Covalent radius"
 msgstr "Kovalent yarıçap"
@@ -129,7 +129,7 @@ msgid "Thermal conductivity"
 msgstr "Termal iletkenlik"
 
 msgid "Discovery"
-msgstr "Keşif"
+msgstr "Keşif tarihi"
 
 msgid "Hardness"
 msgstr "Sertlik"
@@ -183,19 +183,19 @@ msgid "Transition elements"
 msgstr "Geçiş elementleri"
 
 msgid "Metalloids"
-msgstr "Metaloidler"
+msgstr "Yarı metaller"
 
 msgid "Nonmetals"
 msgstr "Ametaller"
 
 msgid "Alkaline earth metals"
-msgstr "Alkalin toprak metalleri"
+msgstr "Alkali toprak metalleri"
 
 msgid "Metals"
 msgstr "Metaller"
 
 msgid "Halogens"
-msgstr "Halogenler"
+msgstr "Halojenler"
 
 msgid "Alkali metals"
 msgstr "Alkali metaller"
