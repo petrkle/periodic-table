@@ -197,7 +197,7 @@
 		<locales>ms_MY</locales>
 		<android>ms</android>
 		<browser>ms-MY</browser>
-		<msi>ms-MY</msi>
+		<msi>en-US</msi>
 		<title>Jadual Berkala</title>
 	</lang>
 
@@ -207,7 +207,7 @@
 		<locales>id_ID</locales>
 		<android>id</android>
 		<browser>id-ID</browser>
-		<msi>id-ID</msi>
+		<msi>en-US</msi>
 		<title>Tabel Periodik</title>
 	</lang>
 
