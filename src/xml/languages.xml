@@ -211,4 +211,14 @@
 		<title>Tabel Periodik</title>
 	</lang>
 
+	<lang>
+		<fullname>Afrikaans</fullname>
+		<fullnameloc>Afrikaans</fullnameloc>
+		<locales>af_ZA</locales>
+		<android>af</android>
+		<browser>af-ZA</browser>
+		<msi>nl-NL</msi>
+		<title>Periodieke Tabel</title>
+	</lang>
+
 </lagnuages>

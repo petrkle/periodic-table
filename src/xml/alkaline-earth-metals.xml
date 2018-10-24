@@ -49,6 +49,7 @@
     <name_fi_FI>Barium</name_fi_FI>
     <name_ms_MY>Barium</name_ms_MY>
     <name_id_ID>Barium</name_id_ID>
+    <name_af_ZA>Barium</name_af_ZA>
   </element>
   <element>
     <anumber>88</anumber>
@@ -96,6 +97,7 @@
     <name_fi_FI>Radium</name_fi_FI>
     <name_ms_MY>Radium</name_ms_MY>
     <name_id_ID>Radium</name_id_ID>
+    <name_af_ZA>Radium</name_af_ZA>
   </element>
   <element>
     <anumber>38</anumber>
@@ -147,6 +149,7 @@
     <name_fi_FI>Strontium</name_fi_FI>
     <name_ms_MY>Strontium</name_ms_MY>
     <name_id_ID>Stronsium</name_id_ID>
+    <name_af_ZA>Stronsium</name_af_ZA>
   </element>
   <element>
     <anumber>20</anumber>
@@ -199,5 +202,6 @@
     <name_fi_FI>Kalsium</name_fi_FI>
     <name_ms_MY>Kalsium</name_ms_MY>
     <name_id_ID>Kalsium</name_id_ID>
+    <name_af_ZA>Kalsium</name_af_ZA>
   </element>
 </elements>

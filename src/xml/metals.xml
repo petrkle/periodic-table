@@ -54,6 +54,7 @@
     <name_fi_FI>Beryllium</name_fi_FI>
     <name_ms_MY>Berilium</name_ms_MY>
     <name_id_ID>Berilium</name_id_ID>
+    <name_af_ZA>Berillium</name_af_ZA>
   </element>
   <element>
     <anumber>83</anumber>
@@ -108,6 +109,7 @@
     <name_fi_FI>Vismutti</name_fi_FI>
     <name_ms_MY>Bismut</name_ms_MY>
     <name_id_ID>Bismut</name_id_ID>
+    <name_af_ZA>Bismut</name_af_ZA>
   </element>
   <element>
     <anumber>50</anumber>
@@ -162,6 +164,7 @@
     <name_fi_FI>Tina</name_fi_FI>
     <name_ms_MY>Timah</name_ms_MY>
     <name_id_ID>Timah</name_id_ID>
+    <name_af_ZA>Tin</name_af_ZA>
   </element>
   <element>
     <anumber>31</anumber>
@@ -214,6 +217,7 @@
     <name_fi_FI>Gallium</name_fi_FI>
     <name_ms_MY>Galium</name_ms_MY>
     <name_id_ID>Galium</name_id_ID>
+    <name_af_ZA>Gallium</name_af_ZA>
   </element>
   <element>
     <anumber>13</anumber>
@@ -270,6 +274,7 @@
     <name_fi_FI>Alumiini</name_fi_FI>
     <name_ms_MY>Aluminium</name_ms_MY>
     <name_id_ID>Aluminium</name_id_ID>
+    <name_af_ZA>Aluminium</name_af_ZA>
   </element>
   <element>
     <anumber>12</anumber>
@@ -324,6 +329,7 @@
     <name_fi_FI>Magnesium</name_fi_FI>
     <name_ms_MY>Magnesium</name_ms_MY>
     <name_id_ID>Magnesium</name_id_ID>
+    <name_af_ZA>Magnesium</name_af_ZA>
   </element>
   <element>
     <anumber>49</anumber>
@@ -376,6 +382,7 @@
     <name_fi_FI>Indium</name_fi_FI>
     <name_ms_MY>Indium</name_ms_MY>
     <name_id_ID>Indium</name_id_ID>
+    <name_af_ZA>Indium</name_af_ZA>
   </element>
   <element>
     <anumber>82</anumber>
@@ -431,6 +438,7 @@
     <name_fi_FI>Lyijy</name_fi_FI>
     <name_ms_MY>Plumbum</name_ms_MY>
     <name_id_ID>Timbal</name_id_ID>
+    <name_af_ZA>Lood</name_af_ZA>
   </element>
   <element>
     <anumber>84</anumber>
@@ -476,6 +484,7 @@
     <name_fi_FI>Polonium</name_fi_FI>
     <name_ms_MY>Polonium</name_ms_MY>
     <name_id_ID>Polonium</name_id_ID>
+    <name_af_ZA>Polonium</name_af_ZA>
   </element>
   <element>
     <anumber>81</anumber>
@@ -527,6 +536,7 @@
     <name_fi_FI>Tallium</name_fi_FI>
     <name_ms_MY>Talium</name_ms_MY>
     <name_id_ID>Talium</name_id_ID>
+    <name_af_ZA>Tallium</name_af_ZA>
   </element>
   <element>
     <anumber>113</anumber>
@@ -565,6 +575,7 @@
     <name_fi_FI>Nihonium</name_fi_FI>
     <name_ms_MY>Ununtrium</name_ms_MY>
     <name_id_ID>Nihonium</name_id_ID>
+    <name_af_ZA>Nihonium</name_af_ZA>
   </element>
   <element>
     <anumber>114</anumber>
@@ -603,6 +614,7 @@
     <name_fi_FI>Flerovium</name_fi_FI>
     <name_ms_MY>Ununkuadium</name_ms_MY>
     <name_id_ID>Flerovium</name_id_ID>
+    <name_af_ZA>Flerovium</name_af_ZA>
   </element>
   <element>
     <anumber>115</anumber>
@@ -641,6 +653,7 @@
     <name_fi_FI>Moskovium</name_fi_FI>
     <name_ms_MY>Ununpentium</name_ms_MY>
     <name_id_ID>Moskovium</name_id_ID>
+    <name_af_ZA>Moskovium</name_af_ZA>
   </element>
   <element>
     <anumber>116</anumber>
@@ -679,5 +692,6 @@
     <name_fi_FI>Livermorium</name_fi_FI>
     <name_ms_MY>Ununheksium</name_ms_MY>
     <name_id_ID>Livermorium</name_id_ID>
+    <name_af_ZA>Livermorium</name_af_ZA>
   </element>
 </elements>

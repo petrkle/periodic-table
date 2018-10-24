@@ -51,6 +51,7 @@
     <name_fi_FI>Bromi</name_fi_FI>
     <name_ms_MY>Bromin</name_ms_MY>
     <name_id_ID>Bromin</name_id_ID>
+    <name_af_ZA>Broom</name_af_ZA>
   </element>
   <element>
     <anumber>17</anumber>
@@ -102,6 +103,7 @@
     <name_fi_FI>Kloori</name_fi_FI>
     <name_ms_MY>Klorin</name_ms_MY>
     <name_id_ID>Klor</name_id_ID>
+    <name_af_ZA>Chloor</name_af_ZA>
   </element>
   <element>
     <anumber>9</anumber>
@@ -153,6 +155,7 @@
     <name_fi_FI>Fluori</name_fi_FI>
     <name_ms_MY>Fluorin</name_ms_MY>
     <name_id_ID>Fluor</name_id_ID>
+    <name_af_ZA>Fluoor</name_af_ZA>
   </element>
   <element>
     <anumber>53</anumber>
@@ -205,6 +208,7 @@
     <name_fi_FI>Jodi</name_fi_FI>
     <name_ms_MY>Iodin</name_ms_MY>
     <name_id_ID>Iodin</name_id_ID>
+    <name_af_ZA>Jodium</name_af_ZA>
   </element>
   <element>
     <anumber>117</anumber>
@@ -243,6 +247,7 @@
     <name_fi_FI>Tennessiini</name_fi_FI>
     <name_ms_MY>Ununseptium</name_ms_MY>
     <name_id_ID>Tenesin</name_id_ID>
+    <name_af_ZA>Tennessien</name_af_ZA>
   </element>
   <element>
     <anumber>85</anumber>
@@ -287,5 +292,6 @@
     <name_fi_FI>Astatiini</name_fi_FI>
     <name_ms_MY>Astatin</name_ms_MY>
     <name_id_ID>Astatin</name_id_ID>
+    <name_af_ZA>Astaat</name_af_ZA>
   </element>
 </elements>
