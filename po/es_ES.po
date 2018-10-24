@@ -302,7 +302,7 @@ msgid "Croatian"
 msgstr "Croata"
 
 msgid "Turkish"
-msgstr ""
+msgstr "Turco"
 
 msgid "Finnish"
-msgstr ""
+msgstr "Finlandés"
