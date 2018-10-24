@@ -306,3 +306,6 @@ msgstr "Turco"
 
 msgid "Finnish"
 msgstr "Finlandés"
+
+msgid "Afrikaans"
+msgstr ""

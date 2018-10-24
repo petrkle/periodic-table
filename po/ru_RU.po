@@ -300,3 +300,6 @@ msgstr ""
 
 msgid "Finnish"
 msgstr ""
+
+msgid "Afrikaans"
+msgstr ""

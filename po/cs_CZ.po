@@ -306,3 +306,6 @@ msgstr "Turečtina"
 
 msgid "Finnish"
 msgstr "Finština"
+
+msgid "Afrikaans"
+msgstr "Afrikánština"

@@ -292,3 +292,6 @@ msgstr "Deens"
 
 msgid "Croatian"
 msgstr "Kroatische"
+
+msgid "Afrikaans"
+msgstr ""

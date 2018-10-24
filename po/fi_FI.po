@@ -294,3 +294,6 @@ msgstr "Valkovenäjä"
 
 msgid "Croatian"
 msgstr "Kroatia"
+
+msgid "Afrikaans"
+msgstr ""

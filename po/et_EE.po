@@ -300,3 +300,6 @@ msgstr "Türgi"
 
 msgid "Finnish"
 msgstr "Soome"
+
+msgid "Afrikaans"
+msgstr ""

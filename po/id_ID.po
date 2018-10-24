@@ -292,3 +292,6 @@ msgstr "Denmark"
 
 msgid "Croatian"
 msgstr "Kroasia"
+
+msgid "Afrikaans"
+msgstr ""
