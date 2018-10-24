@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Periodieke tabel",
+    "description": "App name"
+  },
+  "appDesc": {
+    "message": "Duidelike periodieke tabel van die elemente.",
+    "description": "App description"
+  }
+}
