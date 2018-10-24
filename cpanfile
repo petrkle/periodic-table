@@ -4,5 +4,5 @@ requires 'Locale::TextDomain';
 requires 'Number::Format';
 requires 'Template';
 requires 'Template::Stash';
-requires 'Text::Iconv';
+requires 'Text::Unidecode';
 requires 'XML::Simple';

@@ -10,12 +10,12 @@ use File::Path qw(make_path);
 use File::Basename;
 use Locale::TextDomain ( 'ptable' ,  './locale/' );
 use Encode;
-use Text::Iconv;
 use Number::Format;
 use Unicode::Collate::Locale;
 use Scalar::Util qw(looks_like_number);
 Locale::Messages->select_package ('gettext_pp');
 use Getopt::Long;
+use Text::Unidecode;
 
 $Template::Stash::ROOT_OPS->{ 'l' }    = sub {
 	return decode('UTF-8', sprintf __ shift, shift);
@@ -50,11 +50,10 @@ sub get_langs{
 sub geturl {
 	my $element = shift;
 	my $lang = shift;
-	if ($lang =~ /(ru_RU|be_BY|hu_HU|tr_TR)/){
+	if ($lang =~ /(ru_RU|be_BY)/){
 		$lang = 'Latin';
 	}
-	my $converter = Text::Iconv->new("UTF-8", "ASCII//TRANSLIT");
-	return lc($converter->convert($element->{"name_$lang"}));
+	return lc(Text::Unidecode->unidecode($element->{"name_$lang"}));
 }
 
 sub setlocales {
