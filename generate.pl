@@ -169,16 +169,6 @@ foreach my $lang (@{$languages->{lang}}){
 		"$OUT/$lang->{locales}/index-am.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
-	$t->process('menu.html',
-		{
-			'title' => 'Menu',
-			'nomenulink' => 'true',
-			'sitelang' => $lang->{android},
-		  'lang' => $lang->{locales},
-		},
-		"$OUT/$lang->{locales}/menu.html",
-		{ binmode => ':utf8' }) or die $t->error;
-
 	for my $period (@{$periods->{period}}){
 		$t->process('period.html',
 			{ 'elements' => [@sortedbyanumber],
