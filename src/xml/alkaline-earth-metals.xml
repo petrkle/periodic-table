@@ -50,6 +50,7 @@
     <name_ms_MY>Barium</name_ms_MY>
     <name_id_ID>Barium</name_id_ID>
     <name_af_ZA>Barium</name_af_ZA>
+    <name_uk_UA>Барій</name_uk_UA>
   </element>
   <element>
     <anumber>88</anumber>
@@ -98,6 +99,7 @@
     <name_ms_MY>Radium</name_ms_MY>
     <name_id_ID>Radium</name_id_ID>
     <name_af_ZA>Radium</name_af_ZA>
+    <name_uk_UA>Радій</name_uk_UA>
   </element>
   <element>
     <anumber>38</anumber>
@@ -150,6 +152,7 @@
     <name_ms_MY>Strontium</name_ms_MY>
     <name_id_ID>Stronsium</name_id_ID>
     <name_af_ZA>Stronsium</name_af_ZA>
+    <name_uk_UA>Стронцій</name_uk_UA>
   </element>
   <element>
     <anumber>20</anumber>
@@ -203,5 +206,6 @@
     <name_ms_MY>Kalsium</name_ms_MY>
     <name_id_ID>Kalsium</name_id_ID>
     <name_af_ZA>Kalsium</name_af_ZA>
+    <name_uk_UA>Кальцій</name_uk_UA>
   </element>
 </elements>

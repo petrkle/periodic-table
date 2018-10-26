@@ -8,7 +8,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: Periodic table\n"
 "Last-Translator: Orest Karpiak <orekpk@gmail.com>\n"
-"Language: ua\n"
+"Language: uk_UA\n"
 
 msgid "Periodic Table"
 msgstr "Таблиця Мєндєлєєва"
@@ -303,3 +303,6 @@ msgstr "Фінська"
 
 msgid "Afrikaans"
 msgstr "Африканська"
+
+msgid "Ukrainian"
+msgstr ""

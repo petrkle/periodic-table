@@ -54,6 +54,7 @@
     <name_ms_MY>Antimoni</name_ms_MY>
     <name_id_ID>Antimon</name_id_ID>
     <name_af_ZA>Antimoon</name_af_ZA>
+    <name_uk_UA>Стибій</name_uk_UA>
   </element>
   <element>
     <anumber>33</anumber>
@@ -108,6 +109,7 @@
     <name_ms_MY>Arsenik</name_ms_MY>
     <name_id_ID>Arsen</name_id_ID>
     <name_af_ZA>Arseen</name_af_ZA>
+    <name_uk_UA>Арсен</name_uk_UA>
   </element>
   <element>
     <anumber>5</anumber>
@@ -161,6 +163,7 @@
     <name_ms_MY>Boron</name_ms_MY>
     <name_id_ID>Boron</name_id_ID>
     <name_af_ZA>Boorgc</name_af_ZA>
+    <name_uk_UA>Бор</name_uk_UA>
   </element>
   <element>
     <anumber>32</anumber>
@@ -211,6 +214,7 @@
     <name_ms_MY>Germanium</name_ms_MY>
     <name_id_ID>Germanium</name_id_ID>
     <name_af_ZA>Germanium</name_af_ZA>
+    <name_uk_UA>Германій</name_uk_UA>
   </element>
   <element>
     <anumber>14</anumber>
@@ -264,6 +268,7 @@
     <name_ms_MY>Silikon</name_ms_MY>
     <name_id_ID>Silikon</name_id_ID>
     <name_af_ZA>Silikon</name_af_ZA>
+    <name_uk_UA>Силіцій</name_uk_UA>
   </element>
   <element>
     <anumber>52</anumber>
@@ -319,5 +324,6 @@
     <name_ms_MY>Telurium</name_ms_MY>
     <name_id_ID>Telurium</name_id_ID>
     <name_af_ZA>Telluur</name_af_ZA>
+    <name_uk_UA>Телур</name_uk_UA>
   </element>
 </elements>

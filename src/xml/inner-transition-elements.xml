@@ -44,6 +44,7 @@
     <name_ms_MY>Amerisium</name_ms_MY>
     <name_id_ID>Amerisium</name_id_ID>
     <name_af_ZA>Amerikium</name_af_ZA>
+    <name_uk_UA>Америцій</name_uk_UA>
   </element>
   <element>
     <anumber>97</anumber>
@@ -87,6 +88,7 @@
     <name_ms_MY>Berkelium</name_ms_MY>
     <name_id_ID>Berkelium</name_id_ID>
     <name_af_ZA>Berkelium</name_af_ZA>
+    <name_uk_UA>Берклій</name_uk_UA>
   </element>
   <element>
     <anumber>58</anumber>
@@ -142,6 +144,7 @@
     <name_ms_MY>Serium</name_ms_MY>
     <name_id_ID>Serium</name_id_ID>
     <name_af_ZA>Serium</name_af_ZA>
+    <name_uk_UA>Церій</name_uk_UA>
   </element>
   <element>
     <anumber>96</anumber>
@@ -185,6 +188,7 @@
     <name_ms_MY>Kurium</name_ms_MY>
     <name_id_ID>Kurium</name_id_ID>
     <name_af_ZA>Curium</name_af_ZA>
+    <name_uk_UA>Кюрій</name_uk_UA>
   </element>
   <element>
     <anumber>66</anumber>
@@ -239,6 +243,7 @@
     <name_ms_MY>Disprosium</name_ms_MY>
     <name_id_ID>Disprosium</name_id_ID>
     <name_af_ZA>Disprosium</name_af_ZA>
+    <name_uk_UA>Диспрозій</name_uk_UA>
   </element>
   <element>
     <anumber>99</anumber>
@@ -281,6 +286,7 @@
     <name_ms_MY>Einsteinium</name_ms_MY>
     <name_id_ID>Einsteinium</name_id_ID>
     <name_af_ZA>Einsteinium</name_af_ZA>
+    <name_uk_UA>Ейнштейній</name_uk_UA>
   </element>
   <element>
     <anumber>68</anumber>
@@ -335,6 +341,7 @@
     <name_ms_MY>Erbium</name_ms_MY>
     <name_id_ID>Erbium</name_id_ID>
     <name_af_ZA>Erbium</name_af_ZA>
+    <name_uk_UA>Ербій</name_uk_UA>
   </element>
   <element>
     <anumber>63</anumber>
@@ -388,6 +395,7 @@
     <name_ms_MY>Europium</name_ms_MY>
     <name_id_ID>Europium</name_id_ID>
     <name_af_ZA>Europium</name_af_ZA>
+    <name_uk_UA>Європій</name_uk_UA>
   </element>
   <element>
     <anumber>100</anumber>
@@ -429,6 +437,7 @@
     <name_ms_MY>Fermium</name_ms_MY>
     <name_id_ID>Fermium</name_id_ID>
     <name_af_ZA>Fermium</name_af_ZA>
+    <name_uk_UA>Фермій</name_uk_UA>
   </element>
   <element>
     <anumber>64</anumber>
@@ -484,6 +493,7 @@
     <name_ms_MY>Gadolinium</name_ms_MY>
     <name_id_ID>Gadolinium</name_id_ID>
     <name_af_ZA>Gadolinium</name_af_ZA>
+    <name_uk_UA>Гадоліній</name_uk_UA>
   </element>
   <element>
     <anumber>67</anumber>
@@ -539,6 +549,7 @@
     <name_ms_MY>Holmium</name_ms_MY>
     <name_id_ID>Holmium</name_id_ID>
     <name_af_ZA>Holmium</name_af_ZA>
+    <name_uk_UA>Гольмій</name_uk_UA>
   </element>
   <element>
     <anumber>98</anumber>
@@ -582,6 +593,7 @@
     <name_ms_MY>Kalifornium</name_ms_MY>
     <name_id_ID>Kalifornium</name_id_ID>
     <name_af_ZA>Kalifornium</name_af_ZA>
+    <name_uk_UA>Каліфорній</name_uk_UA>
   </element>
   <element>
     <anumber>103</anumber>
@@ -622,6 +634,7 @@
     <name_ms_MY>Lawrensium</name_ms_MY>
     <name_id_ID>Lawrensium</name_id_ID>
     <name_af_ZA>Lawrensium</name_af_ZA>
+    <name_uk_UA>Лоуренсій</name_uk_UA>
   </element>
   <element>
     <anumber>71</anumber>
@@ -677,6 +690,7 @@
     <name_ms_MY>Lutetium</name_ms_MY>
     <name_id_ID>Lutesium</name_id_ID>
     <name_af_ZA>Lutesium</name_af_ZA>
+    <name_uk_UA>Лютецій</name_uk_UA>
   </element>
   <element>
     <anumber>101</anumber>
@@ -718,6 +732,7 @@
     <name_ms_MY>Mendelevium</name_ms_MY>
     <name_id_ID>Mendelevium</name_id_ID>
     <name_af_ZA>Mendelevium</name_af_ZA>
+    <name_uk_UA>Менделевій</name_uk_UA>
   </element>
   <element>
     <anumber>60</anumber>
@@ -772,6 +787,7 @@
     <name_ms_MY>Neodimium</name_ms_MY>
     <name_id_ID>Neodimium</name_id_ID>
     <name_af_ZA>Neodimium</name_af_ZA>
+    <name_uk_UA>Неодим</name_uk_UA>
   </element>
   <element>
     <anumber>93</anumber>
@@ -818,6 +834,7 @@
     <name_ms_MY>Neptunium</name_ms_MY>
     <name_id_ID>Neptunium</name_id_ID>
     <name_af_ZA>Neptunium</name_af_ZA>
+    <name_uk_UA>Нептуній</name_uk_UA>
   </element>
   <element>
     <anumber>102</anumber>
@@ -859,6 +876,7 @@
     <name_ms_MY>Nobelium</name_ms_MY>
     <name_id_ID>Nobelium</name_id_ID>
     <name_af_ZA>Nobelium</name_af_ZA>
+    <name_uk_UA>Нобелій</name_uk_UA>
   </element>
   <element>
     <anumber>94</anumber>
@@ -908,6 +926,7 @@
     <name_ms_MY>Plutonium</name_ms_MY>
     <name_id_ID>Plutonium</name_id_ID>
     <name_af_ZA>Plutonium</name_af_ZA>
+    <name_uk_UA>Плутоній</name_uk_UA>
   </element>
   <element>
     <anumber>59</anumber>
@@ -963,6 +982,7 @@
     <name_ms_MY>Praseodimium</name_ms_MY>
     <name_id_ID>Praseodimium</name_id_ID>
     <name_af_ZA>Praseodimium</name_af_ZA>
+    <name_uk_UA>Празеодим</name_uk_UA>
   </element>
   <element>
     <anumber>61</anumber>
@@ -1014,6 +1034,7 @@
     <name_ms_MY>Prometium</name_ms_MY>
     <name_id_ID>Prometium</name_id_ID>
     <name_af_ZA>Prometium</name_af_ZA>
+    <name_uk_UA>Прометій</name_uk_UA>
   </element>
   <element>
     <anumber>91</anumber>
@@ -1059,6 +1080,7 @@
     <name_ms_MY>Protaktinium</name_ms_MY>
     <name_id_ID>Protaktinium</name_id_ID>
     <name_af_ZA>Protaktinium</name_af_ZA>
+    <name_uk_UA>Протактиній</name_uk_UA>
   </element>
   <element>
     <anumber>62</anumber>
@@ -1114,6 +1136,7 @@
     <name_ms_MY>Samarium</name_ms_MY>
     <name_id_ID>Samarium</name_id_ID>
     <name_af_ZA>Samarium</name_af_ZA>
+    <name_uk_UA>Самарій</name_uk_UA>
   </element>
   <element>
     <anumber>65</anumber>
@@ -1168,6 +1191,7 @@
     <name_ms_MY>Terbium</name_ms_MY>
     <name_id_ID>Terbium</name_id_ID>
     <name_af_ZA>Terbium</name_af_ZA>
+    <name_uk_UA>Тербій</name_uk_UA>
   </element>
   <element>
     <anumber>90</anumber>
@@ -1222,6 +1246,7 @@
     <name_ms_MY>Torium</name_ms_MY>
     <name_id_ID>Torium</name_id_ID>
     <name_af_ZA>Torium</name_af_ZA>
+    <name_uk_UA>Торій</name_uk_UA>
   </element>
   <element>
     <anumber>69</anumber>
@@ -1276,6 +1301,7 @@
     <name_ms_MY>Tulium</name_ms_MY>
     <name_id_ID>Tulium</name_id_ID>
     <name_af_ZA>Tulium</name_af_ZA>
+    <name_uk_UA>Тулій</name_uk_UA>
   </element>
   <element>
     <anumber>92</anumber>
@@ -1328,6 +1354,7 @@
     <name_ms_MY>Uranium</name_ms_MY>
     <name_id_ID>Uranium</name_id_ID>
     <name_af_ZA>Uraan</name_af_ZA>
+    <name_uk_UA>Уран</name_uk_UA>
   </element>
   <element>
     <anumber>70</anumber>
@@ -1382,5 +1409,6 @@
     <name_ms_MY>Iterbium</name_ms_MY>
     <name_id_ID>Iterbium</name_id_ID>
     <name_af_ZA>Ytterbium</name_af_ZA>
+    <name_uk_UA>Ітербій</name_uk_UA>
   </element>
 </elements>

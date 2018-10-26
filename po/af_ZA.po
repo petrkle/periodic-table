@@ -295,3 +295,6 @@ msgstr "Kroatische"
 
 msgid "Afrikaans"
 msgstr ""
+
+msgid "Ukrainian"
+msgstr ""

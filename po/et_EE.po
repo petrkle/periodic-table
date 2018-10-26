@@ -303,3 +303,6 @@ msgstr "Soome"
 
 msgid "Afrikaans"
 msgstr ""
+
+msgid "Ukrainian"
+msgstr ""

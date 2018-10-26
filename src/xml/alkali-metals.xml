@@ -53,6 +53,7 @@
     <name_ms_MY>Sesium</name_ms_MY>
     <name_id_ID>Sesium</name_id_ID>
     <name_af_ZA>Sesium</name_af_ZA>
+    <name_uk_UA>Цезій</name_uk_UA>
   </element>
   <element>
     <anumber>19</anumber>
@@ -108,6 +109,7 @@
     <name_ms_MY>Kalium</name_ms_MY>
     <name_id_ID>Kalium</name_id_ID>
     <name_af_ZA>Kalium</name_af_ZA>
+    <name_uk_UA>Калій</name_uk_UA>
   </element>
   <element>
     <anumber>87</anumber>
@@ -151,6 +153,7 @@
     <name_ms_MY>Fransium</name_ms_MY>
     <name_id_ID>Fransium</name_id_ID>
     <name_af_ZA>Frankium</name_af_ZA>
+    <name_uk_UA>Францій</name_uk_UA>
   </element>
   <element>
     <anumber>3</anumber>
@@ -204,6 +207,7 @@
     <name_ms_MY>Litium</name_ms_MY>
     <name_id_ID>Litium</name_id_ID>
     <name_af_ZA>Litium</name_af_ZA>
+    <name_uk_UA>Літій</name_uk_UA>
   </element>
   <element>
     <anumber>37</anumber>
@@ -260,6 +264,7 @@
     <name_ms_MY>Rubidium</name_ms_MY>
     <name_id_ID>Rubidium</name_id_ID>
     <name_af_ZA>Rubidium</name_af_ZA>
+    <name_uk_UA>Рубідій</name_uk_UA>
   </element>
   <element>
     <anumber>11</anumber>
@@ -317,5 +322,6 @@
     <name_ms_MY>Natrium</name_ms_MY>
     <name_id_ID>Natrium</name_id_ID>
     <name_af_ZA>Natrium</name_af_ZA>
+    <name_uk_UA>Натрій</name_uk_UA>
   </element>
 </elements>

@@ -15,7 +15,6 @@ use Unicode::Collate::Locale;
 use Scalar::Util qw(looks_like_number);
 Locale::Messages->select_package ('gettext_pp');
 use Getopt::Long;
-use Text::Unidecode;
 
 $Template::Stash::ROOT_OPS->{ 'l' }    = sub {
 	return decode('UTF-8', sprintf __ shift, shift);
@@ -34,8 +33,8 @@ use Exporter qw(import);
  
 our @EXPORT_OK = qw(get_langs geturl setlocales);
 
-our $VERSION = '18.10.2401';
-our $MSIGUID = '6c91e9d8-41b7-4768-b8c8-f0eb647b0ee3';
+our $VERSION = '18.10.2601';
+our $MSIGUID = '2b94d63e-d38e-4407-b142-ba1fd68b3a3d';
 our $APPNAME = 'Periodic Table';
 
 sub get_langs{
@@ -50,10 +49,11 @@ sub get_langs{
 sub geturl {
 	my $element = shift;
 	my $lang = shift;
-	if ($lang =~ /(ru_RU|be_BY)/){
+	if ($lang =~ /(ru_RU|be_BY|uk_UA)/){
 		$lang = 'Latin';
 	}
-	return lc(Text::Unidecode->unidecode($element->{"name_$lang"}));
+	use Text::Unidecode qw(unidecode);
+	return lc(unidecode($element->{"name_$lang"}));
 }
 
 sub setlocales {

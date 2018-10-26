@@ -51,6 +51,7 @@
     <name_ms_MY>Nitrogen</name_ms_MY>
     <name_id_ID>Nitrogen</name_id_ID>
     <name_af_ZA>Stikstof</name_af_ZA>
+    <name_uk_UA>Нітроген</name_uk_UA>
   </element>
   <element>
     <anumber>15</anumber>
@@ -102,6 +103,7 @@
     <name_ms_MY>Fosforus</name_ms_MY>
     <name_id_ID>Fosforus</name_id_ID>
     <name_af_ZA>Fosfor</name_af_ZA>
+    <name_uk_UA>Фосфор</name_uk_UA>
   </element>
   <element>
     <anumber>8</anumber>
@@ -154,6 +156,7 @@
     <name_ms_MY>Oksigen</name_ms_MY>
     <name_id_ID>Oksigen</name_id_ID>
     <name_af_ZA>Suurstof</name_af_ZA>
+    <name_uk_UA>Оксиген</name_uk_UA>
   </element>
   <element>
     <anumber>34</anumber>
@@ -209,6 +212,7 @@
     <name_ms_MY>Selenium</name_ms_MY>
     <name_id_ID>Selenium</name_id_ID>
     <name_af_ZA>Seleen</name_af_ZA>
+    <name_uk_UA>Селен</name_uk_UA>
   </element>
   <element>
     <anumber>16</anumber>
@@ -262,6 +266,7 @@
     <name_ms_MY>Sulfur</name_ms_MY>
     <name_id_ID>Belerang</name_id_ID>
     <name_af_ZA>Swaelgc</name_af_ZA>
+    <name_uk_UA>Сульфур</name_uk_UA>
   </element>
   <element>
     <anumber>6</anumber>
@@ -313,6 +318,7 @@
     <name_ms_MY>Karbon</name_ms_MY>
     <name_id_ID>Karbon</name_id_ID>
     <name_af_ZA>Koolstof</name_af_ZA>
+    <name_uk_UA>Карбон</name_uk_UA>
   </element>
   <element>
     <anumber>1</anumber>
@@ -362,5 +368,6 @@
     <name_ms_MY>Hidrogen</name_ms_MY>
     <name_id_ID>Hidrogen</name_id_ID>
     <name_af_ZA>Waterstof</name_af_ZA>
+    <name_uk_UA>Водень</name_uk_UA>
   </element>
 </elements>

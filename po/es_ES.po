@@ -309,3 +309,6 @@ msgstr "Finlandés"
 
 msgid "Afrikaans"
 msgstr ""
+
+msgid "Ukrainian"
+msgstr ""

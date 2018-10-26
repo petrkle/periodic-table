@@ -221,4 +221,14 @@
 		<title>Periodieke Tabel</title>
 	</lang>
 
+	<lang>
+		<fullname>Ukrainian</fullname>
+		<fullnameloc>український</fullnameloc>
+		<locales>uk_UA</locales>
+		<android>uk</android>
+		<browser>uk-UA</browser>
+		<msi>uk-UA</msi>
+		<title>Таблиця Мєндєлєєва</title>
+	</lang>
+
 </lagnuages>

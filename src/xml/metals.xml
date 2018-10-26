@@ -55,6 +55,7 @@
     <name_ms_MY>Berilium</name_ms_MY>
     <name_id_ID>Berilium</name_id_ID>
     <name_af_ZA>Berillium</name_af_ZA>
+    <name_uk_UA>Берилій</name_uk_UA>
   </element>
   <element>
     <anumber>83</anumber>
@@ -110,6 +111,7 @@
     <name_ms_MY>Bismut</name_ms_MY>
     <name_id_ID>Bismut</name_id_ID>
     <name_af_ZA>Bismut</name_af_ZA>
+    <name_uk_UA>Бісмут</name_uk_UA>
   </element>
   <element>
     <anumber>50</anumber>
@@ -165,6 +167,7 @@
     <name_ms_MY>Timah</name_ms_MY>
     <name_id_ID>Timah</name_id_ID>
     <name_af_ZA>Tin</name_af_ZA>
+    <name_uk_UA>Станум</name_uk_UA>
   </element>
   <element>
     <anumber>31</anumber>
@@ -218,6 +221,7 @@
     <name_ms_MY>Galium</name_ms_MY>
     <name_id_ID>Galium</name_id_ID>
     <name_af_ZA>Gallium</name_af_ZA>
+    <name_uk_UA>Галій</name_uk_UA>
   </element>
   <element>
     <anumber>13</anumber>
@@ -275,6 +279,7 @@
     <name_ms_MY>Aluminium</name_ms_MY>
     <name_id_ID>Aluminium</name_id_ID>
     <name_af_ZA>Aluminium</name_af_ZA>
+    <name_uk_UA>Алюміній</name_uk_UA>
   </element>
   <element>
     <anumber>12</anumber>
@@ -330,6 +335,7 @@
     <name_ms_MY>Magnesium</name_ms_MY>
     <name_id_ID>Magnesium</name_id_ID>
     <name_af_ZA>Magnesium</name_af_ZA>
+    <name_uk_UA>Магній</name_uk_UA>
   </element>
   <element>
     <anumber>49</anumber>
@@ -383,6 +389,7 @@
     <name_ms_MY>Indium</name_ms_MY>
     <name_id_ID>Indium</name_id_ID>
     <name_af_ZA>Indium</name_af_ZA>
+    <name_uk_UA>Індій</name_uk_UA>
   </element>
   <element>
     <anumber>82</anumber>
@@ -439,6 +446,7 @@
     <name_ms_MY>Plumbum</name_ms_MY>
     <name_id_ID>Timbal</name_id_ID>
     <name_af_ZA>Lood</name_af_ZA>
+    <name_uk_UA>Плюмбум</name_uk_UA>
   </element>
   <element>
     <anumber>84</anumber>
@@ -485,6 +493,7 @@
     <name_ms_MY>Polonium</name_ms_MY>
     <name_id_ID>Polonium</name_id_ID>
     <name_af_ZA>Polonium</name_af_ZA>
+    <name_uk_UA>Полоній</name_uk_UA>
   </element>
   <element>
     <anumber>81</anumber>
@@ -537,6 +546,7 @@
     <name_ms_MY>Talium</name_ms_MY>
     <name_id_ID>Talium</name_id_ID>
     <name_af_ZA>Tallium</name_af_ZA>
+    <name_uk_UA>Талій</name_uk_UA>
   </element>
   <element>
     <anumber>113</anumber>
@@ -576,6 +586,7 @@
     <name_ms_MY>Ununtrium</name_ms_MY>
     <name_id_ID>Nihonium</name_id_ID>
     <name_af_ZA>Nihonium</name_af_ZA>
+    <name_uk_UA>Ніхоній</name_uk_UA>
   </element>
   <element>
     <anumber>114</anumber>
@@ -615,6 +626,7 @@
     <name_ms_MY>Ununkuadium</name_ms_MY>
     <name_id_ID>Flerovium</name_id_ID>
     <name_af_ZA>Flerovium</name_af_ZA>
+    <name_uk_UA>Флеровій</name_uk_UA>
   </element>
   <element>
     <anumber>115</anumber>
@@ -654,6 +666,7 @@
     <name_ms_MY>Ununpentium</name_ms_MY>
     <name_id_ID>Moskovium</name_id_ID>
     <name_af_ZA>Moskovium</name_af_ZA>
+    <name_uk_UA>Московій</name_uk_UA>
   </element>
   <element>
     <anumber>116</anumber>
@@ -693,5 +706,6 @@
     <name_ms_MY>Ununheksium</name_ms_MY>
     <name_id_ID>Livermorium</name_id_ID>
     <name_af_ZA>Livermorium</name_af_ZA>
+    <name_uk_UA>Ліверморій</name_uk_UA>
   </element>
 </elements>
