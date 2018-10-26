@@ -308,7 +308,7 @@ msgid "Finnish"
 msgstr "Finlandés"
 
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikáans"
 
 msgid "Ukrainian"
-msgstr ""
+msgstr "Ucraniano"
