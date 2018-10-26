@@ -1,0 +1,305 @@
+# Periodic Table - Ukrainian translation
+# Orest Karpiak <orekpk@gmail.com>, 2018
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Periodic table\n"
+"Last-Translator: Orest Karpiak <orekpk@gmail.com>\n"
+"Language: ua\n"
+
+msgid "Periodic Table"
+msgstr "Таблиця Мєндєлєєва"
+
+msgid "Settings"
+msgstr "Налаштування"
+
+msgid "Language"
+msgstr "Мова"
+
+msgid "About"
+msgstr "Про нас"
+
+msgid "English"
+msgstr "Англійська"
+
+msgid "Czech"
+msgstr "Чеська"
+
+msgid "Slovak"
+msgstr "Словацька"
+
+msgid "Default language"
+msgstr "Мова за умовчуванням"
+
+msgid "State"
+msgstr "Агрегатний стан"
+
+msgid "Solid"
+msgstr "Твердий"
+
+msgid "Liquid"
+msgstr "Рідкий"
+
+msgid "Gas"
+msgstr "Газоподібний"
+
+msgid "Symbol"
+msgstr "Символ"
+
+msgid "Atomic number"
+msgstr "Атомне число"
+
+msgid "Period"
+msgstr "Період"
+
+msgid "%d. period"
+msgstr "%d. період"
+
+msgid "Element category"
+msgstr "Категорія елементу"
+
+msgid "Relative atomic mass"
+msgstr "Відносна атомна маса"
+
+msgid "Atomic mass"
+msgstr "Атомна маса"
+
+msgid "Group"
+msgstr "Група"
+
+msgid "group"
+msgstr "група"
+
+msgid "Electronegativity"
+msgstr "Електронегативність"
+
+msgid "Oxidation numbers"
+msgstr "Степінь окислення"
+
+msgid "Electron configuration"
+msgstr "Електронна конфігурація"
+
+msgid "Density"
+msgstr "Густина"
+
+msgid "Melting point"
+msgstr "Температура плавлення"
+
+msgid "Boiling point"
+msgstr "Температура кипіння"
+
+msgid "Critical point"
+msgstr "Критична точка"
+
+msgid "Critical pressure"
+msgstr "Критичний тиск"
+
+msgid "Atomic radius"
+msgstr "Атомний радіус"
+
+msgid "Covalent radius"
+msgstr "Ковалентний радіус"
+
+msgid "Thermal conductivity"
+msgstr "Теплопровідність"
+
+msgid "Discovery"
+msgstr "Відкриття"
+
+msgid "Hardness"
+msgstr "Твердість"
+
+msgid "Vickers hardness"
+msgstr "Твердість за Вікерсом"
+
+msgid "Brinell hardness"
+msgstr "Твердість за Брінелем"
+
+msgid "Mohs scale"
+msgstr "Шкала Мооса"
+
+msgid "Shear modulus"
+msgstr "Модуль зміщення"
+
+msgid "Young's modulus"
+msgstr "Модуль Юнга"
+
+msgid "Electrical resistivity"
+msgstr "Электричний опір"
+
+msgid "Electrical conductivity"
+msgstr "Електропровідність"
+
+msgid "Name"
+msgstr "Назва"
+
+msgid "Latin name"
+msgstr "Латинська назва"
+
+msgid "Version"
+msgstr "Версія"
+
+msgid "Created"
+msgstr "Створено"
+
+msgid "Author"
+msgstr "Автор"
+
+msgid "Write review"
+msgstr "Написати відгук"
+
+msgid "Noble gases"
+msgstr "Благородні гази"
+
+msgid "Inner transition elements"
+msgstr "Внутрішні елементи переходу"
+
+msgid "Transition elements"
+msgstr "Елементи переходу"
+
+msgid "Metalloids"
+msgstr "Метали"
+
+msgid "Nonmetals"
+msgstr "Неметали"
+
+msgid "Alkaline earth metals"
+msgstr "Лужноземельні метали"
+
+msgid "Metals"
+msgstr "Метали"
+
+msgid "Halogens"
+msgstr "Галогени"
+
+msgid "Alkali metals"
+msgstr "Лужні метали"
+
+msgid "1.st ionization energy"
+msgstr "1-ша енергія іонізації"
+
+msgid "2.nd ionization energy"
+msgstr "2-га енеогія іонізації"
+
+msgid "3.rd ionization energy"
+msgstr "3-тя енергія іонізації"
+
+msgid "Stable isotopes"
+msgstr "Стабільні ізотопи"
+
+msgid "Unstable isotopes"
+msgstr "Нестабільні ізотопи"
+
+msgid "Substance"
+msgstr "Речовина"
+
+msgid "Talc"
+msgstr "Тальк"
+
+msgid "Rock salt"
+msgstr "Кам'яна сіль"
+
+msgid "Limestone"
+msgstr "Вапняк"
+
+msgid "Fluorspar"
+msgstr "Флюорит"
+
+msgid "Apatite"
+msgstr "Апатит"
+
+msgid "Feldspar"
+msgstr "Польові шпати"
+
+msgid "Quartz"
+msgstr "Кварц"
+
+msgid "Topaz"
+msgstr "Топаз"
+
+msgid "Corundum"
+msgstr "Корунд"
+
+msgid "Diamond"
+msgstr "Алмаз"
+
+msgid "Antiquity"
+msgstr "Античність"
+
+msgid "Heat capacity"
+msgstr "Теплоємкість"
+
+msgid "Table view"
+msgstr "Вигляд: таблиця"
+
+msgid "French"
+msgstr "Французька"
+
+msgid "Russian"
+msgstr "Російська"
+
+msgid "German"
+msgstr "Німецька"
+
+msgid "Spanish"
+msgstr "Іспанська"
+
+msgid "Polish"
+msgstr "Польська"
+
+msgid "Download"
+msgstr "Завантажити"
+
+msgid "Links"
+msgstr "Посилання"
+
+msgid "Source code"
+msgstr "Вихідний код"
+
+msgid "Unknown"
+msgstr "Невідомо"
+
+msgid "Dutch"
+msgstr "Голландська"
+
+msgid "Estonian"
+msgstr "Естонська"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Swedish"
+msgstr "Шведська"
+
+msgid "Portuguese"
+msgstr "Португальська"
+
+msgid "Brazilian Portuguese"
+msgstr "Бразильска португальська"
+
+msgid "Italian"
+msgstr "Італійська"
+
+msgid "Danish"
+msgstr "Данська"
+
+msgid "Hungarian"
+msgstr "Угорська"
+
+msgid "Belarusian"
+msgstr "Білоруська"
+
+msgid "Croatian"
+msgstr "Хорватська"
+
+msgid "Turkish"
+msgstr "Турецька"
+
+msgid "Finnish"
+msgstr "Фінська"
+
+msgid "Afrikaans"
+msgstr "Африканська"
