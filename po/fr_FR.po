@@ -298,7 +298,7 @@ msgid "Finnish"
 msgstr "Finnois"
 
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikaans"
 
 msgid "Ukrainian"
-msgstr ""
+msgstr "Ukrainien"
