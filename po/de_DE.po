@@ -303,13 +303,13 @@ msgid "Croatian"
 msgstr "Kroatisch"
 
 msgid "Turkish"
-msgstr ""
+msgstr "Türkisch"
 
 msgid "Finnish"
-msgstr ""
+msgstr "Finnisch"
 
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikaans"
 
 msgid "Ukrainian"
-msgstr ""
+msgstr "Ukrainisch"
