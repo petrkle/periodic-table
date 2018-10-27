@@ -293,16 +293,16 @@ msgid "Belarusian"
 msgstr "Белорусский"
 
 msgid "Croatian"
-msgstr ""
+msgstr "Хорватский"
 
 msgid "Turkish"
-msgstr ""
+msgstr "Турецкий"
 
 msgid "Finnish"
-msgstr ""
+msgstr "Финский"
 
 msgid "Afrikaans"
-msgstr ""
+msgstr "Африка́анс"
 
 msgid "Ukrainian"
-msgstr ""
+msgstr "Украинский"
