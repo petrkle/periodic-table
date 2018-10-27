@@ -298,3 +298,9 @@ msgstr "Afrikaans"
 
 msgid "Ukrainian"
 msgstr "Ukrainian"
+
+msgid "Malay"
+msgstr "Malay"
+
+msgid "Indonesian"
+msgstr "Indonesian"

@@ -302,3 +302,9 @@ msgstr "Afrikaans"
 
 msgid "Ukrainian"
 msgstr "Ukrainien"
+
+msgid "Malay"
+msgstr ""
+
+msgid "Indonesian"
+msgstr ""
