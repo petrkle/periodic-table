@@ -7,11 +7,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: Periodic table\n"
-"Last-Translator: Maksim Labovich <lumihis+github@gmail.com>\n"
+"Last-Translators: Maksim Labovich <lumihis+github@gmail.com>, Julia Yatsenko <yatsenko.julia@gmail.com>\n"
 "Language: ru\n"
 
 msgid "Periodic Table"
-msgstr "Таблица Менделеева"
+msgstr "Периодическая таблица"
 
 msgid "Settings"
 msgstr "Настройки"
@@ -74,7 +74,7 @@ msgid "group"
 msgstr "группа"
 
 msgid "Electronegativity"
-msgstr "Электро<wbr>отрицательно<wbr>сть"
+msgstr "Электро<wbr>отрица<wbr>тельность"
 
 msgid "Oxidation numbers"
 msgstr "Степень окисления"
@@ -86,10 +86,10 @@ msgid "Density"
 msgstr "Плотность"
 
 msgid "Melting point"
-msgstr "Температура плавления"
+msgstr "Точка плавления"
 
 msgid "Boiling point"
-msgstr "Температура кипения"
+msgstr "Точка кипения"
 
 msgid "Critical point"
 msgstr "Критическая точка"
@@ -137,7 +137,7 @@ msgid "Name"
 msgstr "Название"
 
 msgid "Latin name"
-msgstr "Название на латыни"
+msgstr "Латинское название"
 
 msgid "Version"
 msgstr "Версия"
@@ -179,13 +179,13 @@ msgid "Alkali metals"
 msgstr "Щелочные металлы"
 
 msgid "1.st ionization energy"
-msgstr "1. Энергия ионизации"
+msgstr "1-ая энергия ионизации"
 
 msgid "2.nd ionization energy"
-msgstr "2. Энергия ионизации"
+msgstr "2-ая энергия ионизации"
 
 msgid "3.rd ionization energy"
-msgstr "3. Энергия ионизации"
+msgstr "3-ья энергия ионизации"
 
 msgid "Stable isotopes"
 msgstr "Стабильные изотопы"
@@ -277,8 +277,8 @@ msgstr "Шведский"
 msgid "Portuguese"
 msgstr "Португальский"
 
-msgid "Brazilian Portuguese"
-msgstr "Бразильский португальский"
+msgid "Brazilian"
+msgstr "Бразильский"
 
 msgid "Italian"
 msgstr "Итальянский"
@@ -302,13 +302,13 @@ msgid "Finnish"
 msgstr "Финский"
 
 msgid "Afrikaans"
-msgstr "Африка́анс"
+msgstr "Африканский"
 
 msgid "Ukrainian"
 msgstr "Украинский"
 
 msgid "Malay"
-msgstr ""
+msgstr "Малайский"
 
 msgid "Indonesian"
-msgstr ""
+msgstr "Индонезийский"
