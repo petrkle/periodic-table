@@ -7,11 +7,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: Periodic table\n"
-"Last-Translator: Orest Karpiak <orekpk@gmail.com>\n"
+"Last-Translators: Orest Karpiak <orekpk@gmail.com and Julia Yatsenko <yatsenko.julia@gmail.com>n"
 "Language: uk_UA\n"
 
 msgid "Periodic Table"
-msgstr "Таблиця Мєндєлєєва"
+msgstr "Періодична таблиця"
 
 msgid "Settings"
 msgstr "Налаштування"
@@ -32,7 +32,7 @@ msgid "Slovak"
 msgstr "Словацька"
 
 msgid "Default language"
-msgstr "Мова за умовчуванням"
+msgstr "Мова за замовчуванням"
 
 msgid "State"
 msgstr "Агрегатний стан"
@@ -86,10 +86,10 @@ msgid "Density"
 msgstr "Густина"
 
 msgid "Melting point"
-msgstr "Температура плавлення"
+msgstr "Точка плавлення"
 
 msgid "Boiling point"
-msgstr "Температура кипіння"
+msgstr "Точка кипіння"
 
 msgid "Critical point"
 msgstr "Критична точка"
@@ -182,7 +182,7 @@ msgid "1.st ionization energy"
 msgstr "1-ша енергія іонізації"
 
 msgid "2.nd ionization energy"
-msgstr "2-га енеогія іонізації"
+msgstr "2-га енергія іонізації"
 
 msgid "3.rd ionization energy"
 msgstr "3-тя енергія іонізації"
@@ -277,8 +277,8 @@ msgstr "Шведська"
 msgid "Portuguese"
 msgstr "Португальська"
 
-msgid "Brazilian Portuguese"
-msgstr "Бразильска португальська"
+msgid "Brazilian"
+msgstr "Бразильска"
 
 msgid "Italian"
 msgstr "Італійська"
@@ -305,10 +305,10 @@ msgid "Afrikaans"
 msgstr "Африканська"
 
 msgid "Ukrainian"
-msgstr ""
+msgstr "Українська"
 
 msgid "Malay"
-msgstr ""
+msgstr "Малайська"
 
 msgid "Indonesian"
-msgstr ""
+msgstr "Індонезійська"
