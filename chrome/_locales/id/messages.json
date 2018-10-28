@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Tabel Periodik",
+    "description": "App name"
+  },
+  "appDesc": {
+    "message": "Tabel periodik unsur-unsur kimia.",
+    "description": "App description"
+  }
+}
