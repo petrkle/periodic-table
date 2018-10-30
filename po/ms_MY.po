@@ -304,3 +304,6 @@ msgstr ""
 
 msgid "Indonesian"
 msgstr ""
+
+msgid "Japanese"
+msgstr ""
