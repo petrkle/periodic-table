@@ -312,3 +312,6 @@ msgstr "Malajski"
 
 msgid "Indonesian"
 msgstr "Indonezyjski"
+
+msgid "Japanese"
+msgstr ""

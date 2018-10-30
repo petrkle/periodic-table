@@ -318,3 +318,6 @@ msgstr "Malajština"
 
 msgid "Indonesian"
 msgstr "Indonéština"
+
+msgid "Japanese"
+msgstr ""

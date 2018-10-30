@@ -309,3 +309,6 @@ msgstr "Malaio"
 
 msgid "Indonesian"
 msgstr "Indonésio"
+
+msgid "Japanese"
+msgstr ""
