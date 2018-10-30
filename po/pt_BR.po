@@ -278,7 +278,7 @@ msgid "Brazilian Portuguese"
 msgstr "Português brasileiro"
 
 msgid "Italian"
-msgstr "Italiana"
+msgstr "Italiano"
 
 msgid "Danish"
 msgstr "Dinamarquês"
@@ -299,13 +299,13 @@ msgid "Finnish"
 msgstr "Finlandês"
 
 msgid "Afrikaans"
-msgstr ""
+msgstr "Africâner"
 
 msgid "Ukrainian"
-msgstr ""
+msgstr "Ucraniano"
 
 msgid "Malay"
-msgstr ""
+msgstr "Malaio"
 
 msgid "Indonesian"
-msgstr ""
+msgstr "Indonésio"
