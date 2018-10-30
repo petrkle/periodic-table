@@ -231,4 +231,14 @@
 		<title>Таблиця Мєндєлєєва</title>
 	</lang>
 
+	<lang>
+		<fullname>Japanese</fullname>
+		<fullnameloc>日本語</fullnameloc>
+		<locales>ja_JP</locales>
+		<android>ja</android>
+		<browser>ja-JP</browser>
+		<msi>ja-JP</msi>
+		<title>周期表</title>
+	</lang>
+
 </lagnuages>

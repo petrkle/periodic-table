@@ -50,6 +50,7 @@
     <name_id_ID>Argon</name_id_ID>
     <name_af_ZA>Argon</name_af_ZA>
     <name_uk_UA>Аргон</name_uk_UA>
+    <name_ja_JP>アルゴン</name_ja_JP>
   </element>
   <element>
     <anumber>2</anumber>
@@ -98,6 +99,7 @@
     <name_id_ID>Helium</name_id_ID>
     <name_af_ZA>Helium</name_af_ZA>
     <name_uk_UA>Гелій</name_uk_UA>
+    <name_ja_JP>ヘリウム</name_ja_JP>
   </element>
   <element>
     <anumber>36</anumber>
@@ -150,6 +152,7 @@
     <name_id_ID>Kripton</name_id_ID>
     <name_af_ZA>Kripton</name_af_ZA>
     <name_uk_UA>Криптон</name_uk_UA>
+    <name_ja_JP>クリプトン</name_ja_JP>
   </element>
   <element>
     <anumber>10</anumber>
@@ -201,6 +204,7 @@
     <name_id_ID>Neon</name_id_ID>
     <name_af_ZA>Neon</name_af_ZA>
     <name_uk_UA>Неон</name_uk_UA>
+    <name_ja_JP>ネオン</name_ja_JP>
   </element>
   <element>
     <anumber>86</anumber>
@@ -251,6 +255,7 @@
     <name_id_ID>Radon</name_id_ID>
     <name_af_ZA>Radon</name_af_ZA>
     <name_uk_UA>Радон</name_uk_UA>
+    <name_ja_JP>ラドン</name_ja_JP>
   </element>
   <element>
     <anumber>54</anumber>
@@ -303,6 +308,7 @@
     <name_id_ID>Xenon</name_id_ID>
     <name_af_ZA>Xenon</name_af_ZA>
     <name_uk_UA>Ксенон</name_uk_UA>
+    <name_ja_JP>キセノン</name_ja_JP>
   </element>
   <element>
     <anumber>118</anumber>
@@ -343,5 +349,6 @@
     <name_id_ID>Oganeson</name_id_ID>
     <name_af_ZA>Oganesson</name_af_ZA>
     <name_uk_UA>Оганесон</name_uk_UA>
+    <name_ja_JP>オガネソン</name_ja_JP>
   </element>
 </elements>

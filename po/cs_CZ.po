@@ -320,4 +320,4 @@ msgid "Indonesian"
 msgstr "Indonéština"
 
 msgid "Japanese"
-msgstr ""
+msgstr "Japonština"
