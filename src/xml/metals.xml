@@ -58,6 +58,7 @@
     <name_uk_UA>Берилій</name_uk_UA>
     <name_ja_JP>ベリリウム</name_ja_JP>
     <name_zh_CN>鈹</name_zh_CN>
+    <name_ro_RO>Beriliu</name_ro_RO>
   </element>
   <element>
     <anumber>83</anumber>
@@ -116,6 +117,7 @@
     <name_uk_UA>Бісмут</name_uk_UA>
     <name_ja_JP>ビスマス</name_ja_JP>
     <name_zh_CN>鉍</name_zh_CN>
+    <name_ro_RO>Bismut</name_ro_RO>
   </element>
   <element>
     <anumber>50</anumber>
@@ -174,6 +176,7 @@
     <name_uk_UA>Станум</name_uk_UA>
     <name_ja_JP>スズ</name_ja_JP>
     <name_zh_CN>錫</name_zh_CN>
+    <name_ro_RO>Staniu</name_ro_RO>
   </element>
   <element>
     <anumber>31</anumber>
@@ -230,6 +233,7 @@
     <name_uk_UA>Галій</name_uk_UA>
     <name_ja_JP>ガリウム</name_ja_JP>
     <name_zh_CN>鎵</name_zh_CN>
+    <name_ro_RO>Galiu</name_ro_RO>
   </element>
   <element>
     <anumber>13</anumber>
@@ -290,6 +294,7 @@
     <name_uk_UA>Алюміній</name_uk_UA>
     <name_ja_JP>アルミニウム</name_ja_JP>
     <name_zh_CN>鋁</name_zh_CN>
+    <name_ro_RO>Aluminiu</name_ro_RO>
   </element>
   <element>
     <anumber>12</anumber>
@@ -348,6 +353,7 @@
     <name_uk_UA>Магній</name_uk_UA>
     <name_ja_JP>マグネシウム</name_ja_JP>
     <name_zh_CN>鎂</name_zh_CN>
+    <name_ro_RO>Magneziu</name_ro_RO>
   </element>
   <element>
     <anumber>49</anumber>
@@ -404,6 +410,7 @@
     <name_uk_UA>Індій</name_uk_UA>
     <name_ja_JP>インジウム</name_ja_JP>
     <name_zh_CN>銦</name_zh_CN>
+    <name_ro_RO>Indiu</name_ro_RO>
   </element>
   <element>
     <anumber>82</anumber>
@@ -463,6 +470,7 @@
     <name_uk_UA>Плюмбум</name_uk_UA>
     <name_ja_JP>鉛</name_ja_JP>
     <name_zh_CN>鉛</name_zh_CN>
+    <name_ro_RO>Plumb</name_ro_RO>
   </element>
   <element>
     <anumber>84</anumber>
@@ -512,6 +520,7 @@
     <name_uk_UA>Полоній</name_uk_UA>
     <name_ja_JP>ポロニウム</name_ja_JP>
     <name_zh_CN>釙</name_zh_CN>
+    <name_ro_RO>Poloniu</name_ro_RO>
   </element>
   <element>
     <anumber>81</anumber>
@@ -567,6 +576,7 @@
     <name_uk_UA>Талій</name_uk_UA>
     <name_ja_JP>タリウム</name_ja_JP>
     <name_zh_CN>鉈</name_zh_CN>
+    <name_ro_RO>Taliu</name_ro_RO>
   </element>
   <element>
     <anumber>113</anumber>
@@ -609,6 +619,7 @@
     <name_uk_UA>Ніхоній</name_uk_UA>
     <name_ja_JP>ニホニウム</name_ja_JP>
     <name_zh_CN>鉨</name_zh_CN>
+    <name_ro_RO>Nihoniu</name_ro_RO>
   </element>
   <element>
     <anumber>114</anumber>
@@ -651,6 +662,7 @@
     <name_uk_UA>Флеровій</name_uk_UA>
     <name_ja_JP>フレロビウム</name_ja_JP>
     <name_zh_CN>鈇</name_zh_CN>
+    <name_ro_RO>Fleroviu</name_ro_RO>
   </element>
   <element>
     <anumber>115</anumber>
@@ -693,6 +705,7 @@
     <name_uk_UA>Московій</name_uk_UA>
     <name_ja_JP>モスコビウム</name_ja_JP>
     <name_zh_CN>鏌</name_zh_CN>
+    <name_ro_RO>Moscoviu</name_ro_RO>
   </element>
   <element>
     <anumber>116</anumber>
@@ -735,5 +748,6 @@
     <name_uk_UA>Ліверморій</name_uk_UA>
     <name_ja_JP>リバモリウム</name_ja_JP>
     <name_zh_CN>鉝</name_zh_CN>
+    <name_ro_RO>Livermoriu</name_ro_RO>
   </element>
 </elements>

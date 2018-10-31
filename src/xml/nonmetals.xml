@@ -54,6 +54,7 @@
     <name_uk_UA>Нітроген</name_uk_UA>
     <name_ja_JP>窒素</name_ja_JP>
     <name_zh_CN>氮</name_zh_CN>
+    <name_ro_RO>Azot</name_ro_RO>
   </element>
   <element>
     <anumber>15</anumber>
@@ -108,6 +109,7 @@
     <name_uk_UA>Фосфор</name_uk_UA>
     <name_ja_JP>リン</name_ja_JP>
     <name_zh_CN>磷</name_zh_CN>
+    <name_ro_RO>Fosfor</name_ro_RO>
   </element>
   <element>
     <anumber>8</anumber>
@@ -163,6 +165,7 @@
     <name_uk_UA>Оксиген</name_uk_UA>
     <name_ja_JP>酸素</name_ja_JP>
     <name_zh_CN>氧</name_zh_CN>
+    <name_ro_RO>Oxigen</name_ro_RO>
   </element>
   <element>
     <anumber>34</anumber>
@@ -221,6 +224,7 @@
     <name_uk_UA>Селен</name_uk_UA>
     <name_ja_JP>セレン</name_ja_JP>
     <name_zh_CN>硒</name_zh_CN>
+    <name_ro_RO>Seleniu</name_ro_RO>
   </element>
   <element>
     <anumber>16</anumber>
@@ -277,6 +281,7 @@
     <name_uk_UA>Сульфур</name_uk_UA>
     <name_ja_JP>硫黄</name_ja_JP>
     <name_zh_CN>硫</name_zh_CN>
+    <name_ro_RO>Sulf</name_ro_RO>
   </element>
   <element>
     <anumber>6</anumber>
@@ -331,6 +336,7 @@
     <name_uk_UA>Карбон</name_uk_UA>
     <name_ja_JP>炭素</name_ja_JP>
     <name_zh_CN>碳</name_zh_CN>
+    <name_ro_RO>Carbon</name_ro_RO>
   </element>
   <element>
     <anumber>1</anumber>
@@ -383,5 +389,6 @@
     <name_uk_UA>Водень</name_uk_UA>
     <name_ja_JP>水素</name_ja_JP>
     <name_zh_CN>氫</name_zh_CN>
+    <name_ro_RO>Hidrogen</name_ro_RO>
   </element>
 </elements>

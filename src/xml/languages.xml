@@ -251,4 +251,14 @@
 		<title>元素周期表</title>
 	</lang>
 
+	<lang>
+		<fullname>Romanian</fullname>
+		<fullnameloc>Română</fullnameloc>
+		<locales>ro_RO</locales>
+		<android>ro</android>
+		<browser>ro-RO</browser>
+		<msi>ro-RO</msi>
+		<title>Tabelul periodic</title>
+	</lang>
+
 </lagnuages>

@@ -310,3 +310,6 @@ msgstr "Japoneză"
 
 msgid "Chinese - Simplified"
 msgstr "Chineză simplificată"
+
+msgid "Romanian"
+msgstr "Română"
