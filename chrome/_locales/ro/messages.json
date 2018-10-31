@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Tabelul periodic",
+    "description": "App name"
+  },
+  "appDesc": {
+    "message": "Tabelul periodic clar al elementelor chimice.",
+    "description": "App description"
+  }
+}
