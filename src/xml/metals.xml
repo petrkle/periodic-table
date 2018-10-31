@@ -57,6 +57,7 @@
     <name_af_ZA>Berillium</name_af_ZA>
     <name_uk_UA>Берилій</name_uk_UA>
     <name_ja_JP>ベリリウム</name_ja_JP>
+    <name_zh_CN>鈹</name_zh_CN>
   </element>
   <element>
     <anumber>83</anumber>
@@ -114,6 +115,7 @@
     <name_af_ZA>Bismut</name_af_ZA>
     <name_uk_UA>Бісмут</name_uk_UA>
     <name_ja_JP>ビスマス</name_ja_JP>
+    <name_zh_CN>鉍</name_zh_CN>
   </element>
   <element>
     <anumber>50</anumber>
@@ -171,6 +173,7 @@
     <name_af_ZA>Tin</name_af_ZA>
     <name_uk_UA>Станум</name_uk_UA>
     <name_ja_JP>スズ</name_ja_JP>
+    <name_zh_CN>錫</name_zh_CN>
   </element>
   <element>
     <anumber>31</anumber>
@@ -226,6 +229,7 @@
     <name_af_ZA>Gallium</name_af_ZA>
     <name_uk_UA>Галій</name_uk_UA>
     <name_ja_JP>ガリウム</name_ja_JP>
+    <name_zh_CN>鎵</name_zh_CN>
   </element>
   <element>
     <anumber>13</anumber>
@@ -285,6 +289,7 @@
     <name_af_ZA>Aluminium</name_af_ZA>
     <name_uk_UA>Алюміній</name_uk_UA>
     <name_ja_JP>アルミニウム</name_ja_JP>
+    <name_zh_CN>鋁</name_zh_CN>
   </element>
   <element>
     <anumber>12</anumber>
@@ -342,6 +347,7 @@
     <name_af_ZA>Magnesium</name_af_ZA>
     <name_uk_UA>Магній</name_uk_UA>
     <name_ja_JP>マグネシウム</name_ja_JP>
+    <name_zh_CN>鎂</name_zh_CN>
   </element>
   <element>
     <anumber>49</anumber>
@@ -397,6 +403,7 @@
     <name_af_ZA>Indium</name_af_ZA>
     <name_uk_UA>Індій</name_uk_UA>
     <name_ja_JP>インジウム</name_ja_JP>
+    <name_zh_CN>銦</name_zh_CN>
   </element>
   <element>
     <anumber>82</anumber>
@@ -455,6 +462,7 @@
     <name_af_ZA>Lood</name_af_ZA>
     <name_uk_UA>Плюмбум</name_uk_UA>
     <name_ja_JP>鉛</name_ja_JP>
+    <name_zh_CN>鉛</name_zh_CN>
   </element>
   <element>
     <anumber>84</anumber>
@@ -503,6 +511,7 @@
     <name_af_ZA>Polonium</name_af_ZA>
     <name_uk_UA>Полоній</name_uk_UA>
     <name_ja_JP>ポロニウム</name_ja_JP>
+    <name_zh_CN>釙</name_zh_CN>
   </element>
   <element>
     <anumber>81</anumber>
@@ -557,6 +566,7 @@
     <name_af_ZA>Tallium</name_af_ZA>
     <name_uk_UA>Талій</name_uk_UA>
     <name_ja_JP>タリウム</name_ja_JP>
+    <name_zh_CN>鉈</name_zh_CN>
   </element>
   <element>
     <anumber>113</anumber>
@@ -598,6 +608,7 @@
     <name_af_ZA>Nihonium</name_af_ZA>
     <name_uk_UA>Ніхоній</name_uk_UA>
     <name_ja_JP>ニホニウム</name_ja_JP>
+    <name_zh_CN>鉨</name_zh_CN>
   </element>
   <element>
     <anumber>114</anumber>
@@ -639,6 +650,7 @@
     <name_af_ZA>Flerovium</name_af_ZA>
     <name_uk_UA>Флеровій</name_uk_UA>
     <name_ja_JP>フレロビウム</name_ja_JP>
+    <name_zh_CN>鈇</name_zh_CN>
   </element>
   <element>
     <anumber>115</anumber>
@@ -680,6 +692,7 @@
     <name_af_ZA>Moskovium</name_af_ZA>
     <name_uk_UA>Московій</name_uk_UA>
     <name_ja_JP>モスコビウム</name_ja_JP>
+    <name_zh_CN>鏌</name_zh_CN>
   </element>
   <element>
     <anumber>116</anumber>
@@ -721,5 +734,6 @@
     <name_af_ZA>Livermorium</name_af_ZA>
     <name_uk_UA>Ліверморій</name_uk_UA>
     <name_ja_JP>リバモリウム</name_ja_JP>
+    <name_zh_CN>鉝</name_zh_CN>
   </element>
 </elements>

@@ -49,6 +49,7 @@
     <name_af_ZA>Aktinium</name_af_ZA>
     <name_uk_UA>Актиній</name_uk_UA>
     <name_ja_JP>アクチニウム</name_ja_JP>
+    <name_zh_CN>錒</name_zh_CN>
   </element>
   <element>
     <anumber>24</anumber>
@@ -107,6 +108,7 @@
     <name_af_ZA>Chroom</name_af_ZA>
     <name_uk_UA>Хром</name_uk_UA>
     <name_ja_JP>クロム</name_ja_JP>
+    <name_zh_CN>鉻</name_zh_CN>
   </element>
   <element>
     <anumber>72</anumber>
@@ -165,6 +167,7 @@
     <name_af_ZA>Hafnium</name_af_ZA>
     <name_uk_UA>Гафній</name_uk_UA>
     <name_ja_JP>ハフニウム</name_ja_JP>
+    <name_zh_CN>鉿</name_zh_CN>
   </element>
   <element>
     <anumber>77</anumber>
@@ -221,6 +224,7 @@
     <name_af_ZA>Iridium</name_af_ZA>
     <name_uk_UA>Іридій</name_uk_UA>
     <name_ja_JP>イリジウム</name_ja_JP>
+    <name_zh_CN>銥</name_zh_CN>
   </element>
   <element>
     <anumber>48</anumber>
@@ -278,6 +282,7 @@
     <name_af_ZA>Kadmium</name_af_ZA>
     <name_uk_UA>Кадмій</name_uk_UA>
     <name_ja_JP>カドミウム</name_ja_JP>
+    <name_zh_CN>鎘</name_zh_CN>
   </element>
   <element>
     <anumber>27</anumber>
@@ -336,6 +341,7 @@
     <name_af_ZA>Kobalt</name_af_ZA>
     <name_uk_UA>Кобальт</name_uk_UA>
     <name_ja_JP>コバルト</name_ja_JP>
+    <name_zh_CN>鈷</name_zh_CN>
   </element>
   <element>
     <anumber>104</anumber>
@@ -377,6 +383,7 @@
     <name_af_ZA>Rutherfordium</name_af_ZA>
     <name_uk_UA>Резерфордій</name_uk_UA>
     <name_ja_JP>ラザホージウム</name_ja_JP>
+    <name_zh_CN>鑪</name_zh_CN>
   </element>
   <element>
     <anumber>57</anumber>
@@ -434,6 +441,7 @@
     <name_af_ZA>Lantaan</name_af_ZA>
     <name_uk_UA>Лантан</name_uk_UA>
     <name_ja_JP>ランタン</name_ja_JP>
+    <name_zh_CN>鑭</name_zh_CN>
   </element>
   <element>
     <anumber>25</anumber>
@@ -490,6 +498,7 @@
     <name_af_ZA>Mangaan</name_af_ZA>
     <name_uk_UA>Манган</name_uk_UA>
     <name_ja_JP>マンガン</name_ja_JP>
+    <name_zh_CN>錳</name_zh_CN>
   </element>
   <element>
     <anumber>42</anumber>
@@ -548,6 +557,7 @@
     <name_af_ZA>Molibdeen</name_af_ZA>
     <name_uk_UA>Молібден</name_uk_UA>
     <name_ja_JP>モリブデン</name_ja_JP>
+    <name_zh_CN>鉬</name_zh_CN>
   </element>
   <element>
     <anumber>29</anumber>
@@ -607,6 +617,7 @@
     <name_af_ZA>Koper</name_af_ZA>
     <name_uk_UA>Купрум</name_uk_UA>
     <name_ja_JP>銅</name_ja_JP>
+    <name_zh_CN>銅</name_zh_CN>
   </element>
   <element>
     <anumber>28</anumber>
@@ -663,6 +674,7 @@
     <name_af_ZA>Nikkel</name_af_ZA>
     <name_uk_UA>Нікель</name_uk_UA>
     <name_ja_JP>ニッケル</name_ja_JP>
+    <name_zh_CN>鎳</name_zh_CN>
   </element>
   <element>
     <anumber>41</anumber>
@@ -721,6 +733,7 @@
     <name_af_ZA>Niobium</name_af_ZA>
     <name_uk_UA>Ніобій</name_uk_UA>
     <name_ja_JP>ニオブ</name_ja_JP>
+    <name_zh_CN>鈮</name_zh_CN>
   </element>
   <element>
     <anumber>76</anumber>
@@ -775,6 +788,7 @@
     <name_af_ZA>Osmium</name_af_ZA>
     <name_uk_UA>Осмій</name_uk_UA>
     <name_ja_JP>オスミウム</name_ja_JP>
+    <name_zh_CN>鋨</name_zh_CN>
   </element>
   <element>
     <anumber>46</anumber>
@@ -833,6 +847,7 @@
     <name_af_ZA>Palladium</name_af_ZA>
     <name_uk_UA>Паладій</name_uk_UA>
     <name_ja_JP>パラジウム</name_ja_JP>
+    <name_zh_CN>鈀</name_zh_CN>
   </element>
   <element>
     <anumber>78</anumber>
@@ -891,6 +906,7 @@
     <name_af_ZA>Platinum</name_af_ZA>
     <name_uk_UA>Платина</name_uk_UA>
     <name_ja_JP>白金</name_ja_JP>
+    <name_zh_CN>鉑</name_zh_CN>
   </element>
   <element>
     <anumber>75</anumber>
@@ -947,6 +963,7 @@
     <name_af_ZA>Renium</name_af_ZA>
     <name_uk_UA>Реній</name_uk_UA>
     <name_ja_JP>レニウム</name_ja_JP>
+    <name_zh_CN>錸</name_zh_CN>
   </element>
   <element>
     <anumber>45</anumber>
@@ -1005,6 +1022,7 @@
     <name_af_ZA>Rodium</name_af_ZA>
     <name_uk_UA>Родій</name_uk_UA>
     <name_ja_JP>ロジウム</name_ja_JP>
+    <name_zh_CN>銠</name_zh_CN>
   </element>
   <element>
     <anumber>80</anumber>
@@ -1062,6 +1080,7 @@
     <name_af_ZA>Kwik</name_af_ZA>
     <name_uk_UA>Меркурій</name_uk_UA>
     <name_ja_JP>水銀</name_ja_JP>
+    <name_zh_CN>汞</name_zh_CN>
   </element>
   <element>
     <anumber>44</anumber>
@@ -1119,6 +1138,7 @@
     <name_af_ZA>Rutenium</name_af_ZA>
     <name_uk_UA>Рутеній</name_uk_UA>
     <name_ja_JP>ルテニウム</name_ja_JP>
+    <name_zh_CN>釕</name_zh_CN>
   </element>
   <element>
     <anumber>21</anumber>
@@ -1173,6 +1193,7 @@
     <name_af_ZA>Skandium</name_af_ZA>
     <name_uk_UA>Скандій</name_uk_UA>
     <name_ja_JP>スカンジウム</name_ja_JP>
+    <name_zh_CN>鈧</name_zh_CN>
   </element>
   <element>
     <anumber>47</anumber>
@@ -1232,6 +1253,7 @@
     <name_af_ZA>Silwer</name_af_ZA>
     <name_uk_UA>Аргентум</name_uk_UA>
     <name_ja_JP>銀</name_ja_JP>
+    <name_zh_CN>銀</name_zh_CN>
   </element>
   <element>
     <anumber>73</anumber>
@@ -1288,6 +1310,7 @@
     <name_af_ZA>Tantaal</name_af_ZA>
     <name_uk_UA>Тантал</name_uk_UA>
     <name_ja_JP>タンタル</name_ja_JP>
+    <name_zh_CN>鉭</name_zh_CN>
   </element>
   <element>
     <anumber>43</anumber>
@@ -1341,6 +1364,7 @@
     <name_af_ZA>Tegnesium</name_af_ZA>
     <name_uk_UA>Технецій</name_uk_UA>
     <name_ja_JP>テクネチウム</name_ja_JP>
+    <name_zh_CN>鎝</name_zh_CN>
   </element>
   <element>
     <anumber>22</anumber>
@@ -1398,6 +1422,7 @@
     <name_af_ZA>Titaan</name_af_ZA>
     <name_uk_UA>Титан</name_uk_UA>
     <name_ja_JP>チタン</name_ja_JP>
+    <name_zh_CN>鈦</name_zh_CN>
   </element>
   <element>
     <anumber>109</anumber>
@@ -1437,6 +1462,7 @@
     <name_af_ZA>Meitnerium</name_af_ZA>
     <name_uk_UA>Майтнерій</name_uk_UA>
     <name_ja_JP>マイトネリウム</name_ja_JP>
+    <name_zh_CN>䥑</name_zh_CN>
   </element>
   <element>
     <anumber>106</anumber>
@@ -1477,6 +1503,7 @@
     <name_af_ZA>Seaborgium</name_af_ZA>
     <name_uk_UA>Сіборгій</name_uk_UA>
     <name_ja_JP>シーボーギウム</name_ja_JP>
+    <name_zh_CN>𨭎</name_zh_CN>
   </element>
   <element>
     <anumber>108</anumber>
@@ -1516,6 +1543,7 @@
     <name_af_ZA>Hassium</name_af_ZA>
     <name_uk_UA>Гасій</name_uk_UA>
     <name_ja_JP>ハッシウム</name_ja_JP>
+    <name_zh_CN>𨭆</name_zh_CN>
   </element>
   <element>
     <anumber>105</anumber>
@@ -1556,6 +1584,7 @@
     <name_af_ZA>Dubnium</name_af_ZA>
     <name_uk_UA>Дубній</name_uk_UA>
     <name_ja_JP>ドブニウム</name_ja_JP>
+    <name_zh_CN>𨧀</name_zh_CN>
   </element>
   <element>
     <anumber>107</anumber>
@@ -1596,6 +1625,7 @@
     <name_af_ZA>Bohrium</name_af_ZA>
     <name_uk_UA>Борій</name_uk_UA>
     <name_ja_JP>ボーリウム</name_ja_JP>
+    <name_zh_CN>𨨏</name_zh_CN>
   </element>
   <element>
     <anumber>23</anumber>
@@ -1654,6 +1684,7 @@
     <name_af_ZA>Vanadium</name_af_ZA>
     <name_uk_UA>Ванадій</name_uk_UA>
     <name_ja_JP>バナジウム</name_ja_JP>
+    <name_zh_CN>釩</name_zh_CN>
   </element>
   <element>
     <anumber>74</anumber>
@@ -1711,6 +1742,7 @@
     <name_af_ZA>Wolfram</name_af_ZA>
     <name_uk_UA>Вольфрам</name_uk_UA>
     <name_ja_JP>タングステン</name_ja_JP>
+    <name_zh_CN>鎢</name_zh_CN>
   </element>
   <element>
     <anumber>39</anumber>
@@ -1767,6 +1799,7 @@
     <name_af_ZA>Yttrium</name_af_ZA>
     <name_uk_UA>Ітрій</name_uk_UA>
     <name_ja_JP>イットリウム</name_ja_JP>
+    <name_zh_CN>釔</name_zh_CN>
   </element>
   <element>
     <anumber>30</anumber>
@@ -1825,6 +1858,7 @@
     <name_af_ZA>Sink</name_af_ZA>
     <name_uk_UA>Цинк</name_uk_UA>
     <name_ja_JP>亜鉛</name_ja_JP>
+    <name_zh_CN>鋅</name_zh_CN>
   </element>
   <element>
     <anumber>40</anumber>
@@ -1883,6 +1917,7 @@
     <name_af_ZA>Sirkonium</name_af_ZA>
     <name_uk_UA>Цирконій</name_uk_UA>
     <name_ja_JP>ジルコニウム</name_ja_JP>
+    <name_zh_CN>鋯</name_zh_CN>
   </element>
   <element>
     <anumber>79</anumber>
@@ -1941,6 +1976,7 @@
     <name_af_ZA>Goud</name_af_ZA>
     <name_uk_UA>Аурум</name_uk_UA>
     <name_ja_JP>金</name_ja_JP>
+    <name_zh_CN>金</name_zh_CN>
   </element>
   <element>
     <anumber>26</anumber>
@@ -1999,6 +2035,7 @@
     <name_af_ZA>Yster</name_af_ZA>
     <name_uk_UA>Ферум</name_uk_UA>
     <name_ja_JP>鉄</name_ja_JP>
+    <name_zh_CN>鐵</name_zh_CN>
   </element>
   <element>
     <anumber>110</anumber>
@@ -2040,6 +2077,7 @@
     <name_af_ZA>Darmstadtium</name_af_ZA>
     <name_uk_UA>Дармштадтій</name_uk_UA>
     <name_ja_JP>ダームスタチウム</name_ja_JP>
+    <name_zh_CN>鐽</name_zh_CN>
   </element>
   <element>
     <anumber>111</anumber>
@@ -2081,6 +2119,7 @@
     <name_af_ZA>Röntgenium</name_af_ZA>
     <name_uk_UA>Рентгеній</name_uk_UA>
     <name_ja_JP>レントゲニウム</name_ja_JP>
+    <name_zh_CN>錀</name_zh_CN>
   </element>
   <element>
     <anumber>112</anumber>
@@ -2122,5 +2161,6 @@
     <name_af_ZA>Kopernikium</name_af_ZA>
     <name_uk_UA>Коперницій</name_uk_UA>
     <name_ja_JP>コペルニシウム</name_ja_JP>
+    <name_zh_CN>鎶</name_zh_CN>
   </element>
 </elements>

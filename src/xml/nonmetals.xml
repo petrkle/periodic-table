@@ -53,6 +53,7 @@
     <name_af_ZA>Stikstof</name_af_ZA>
     <name_uk_UA>Нітроген</name_uk_UA>
     <name_ja_JP>窒素</name_ja_JP>
+    <name_zh_CN>氮</name_zh_CN>
   </element>
   <element>
     <anumber>15</anumber>
@@ -106,6 +107,7 @@
     <name_af_ZA>Fosfor</name_af_ZA>
     <name_uk_UA>Фосфор</name_uk_UA>
     <name_ja_JP>リン</name_ja_JP>
+    <name_zh_CN>磷</name_zh_CN>
   </element>
   <element>
     <anumber>8</anumber>
@@ -160,6 +162,7 @@
     <name_af_ZA>Suurstof</name_af_ZA>
     <name_uk_UA>Оксиген</name_uk_UA>
     <name_ja_JP>酸素</name_ja_JP>
+    <name_zh_CN>氧</name_zh_CN>
   </element>
   <element>
     <anumber>34</anumber>
@@ -217,6 +220,7 @@
     <name_af_ZA>Seleen</name_af_ZA>
     <name_uk_UA>Селен</name_uk_UA>
     <name_ja_JP>セレン</name_ja_JP>
+    <name_zh_CN>硒</name_zh_CN>
   </element>
   <element>
     <anumber>16</anumber>
@@ -272,6 +276,7 @@
     <name_af_ZA>Swaelgc</name_af_ZA>
     <name_uk_UA>Сульфур</name_uk_UA>
     <name_ja_JP>硫黄</name_ja_JP>
+    <name_zh_CN>硫</name_zh_CN>
   </element>
   <element>
     <anumber>6</anumber>
@@ -325,6 +330,7 @@
     <name_af_ZA>Koolstof</name_af_ZA>
     <name_uk_UA>Карбон</name_uk_UA>
     <name_ja_JP>炭素</name_ja_JP>
+    <name_zh_CN>碳</name_zh_CN>
   </element>
   <element>
     <anumber>1</anumber>
@@ -376,5 +382,6 @@
     <name_af_ZA>Waterstof</name_af_ZA>
     <name_uk_UA>Водень</name_uk_UA>
     <name_ja_JP>水素</name_ja_JP>
+    <name_zh_CN>氫</name_zh_CN>
   </element>
 </elements>

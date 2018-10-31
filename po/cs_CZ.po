@@ -323,4 +323,4 @@ msgid "Japanese"
 msgstr "Japonština"
 
 msgid "Chinese - Simplified"
-msgstr ""
+msgstr "Zjednodušená čínština"

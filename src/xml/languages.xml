@@ -241,4 +241,14 @@
 		<title>周期表</title>
 	</lang>
 
+	<lang>
+		<fullname>Chinese - Simplified</fullname>
+		<fullnameloc>中文（简）</fullnameloc>
+		<locales>zh_CN</locales>
+		<android>zh</android>
+		<browser>zh-CN</browser>
+		<msi>zh-CN</msi>
+		<title>元素周期表</title>
+	</lang>
+
 </lagnuages>

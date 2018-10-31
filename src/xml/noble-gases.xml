@@ -51,6 +51,7 @@
     <name_af_ZA>Argon</name_af_ZA>
     <name_uk_UA>Аргон</name_uk_UA>
     <name_ja_JP>アルゴン</name_ja_JP>
+    <name_zh_CN>氬</name_zh_CN>
   </element>
   <element>
     <anumber>2</anumber>
@@ -100,6 +101,7 @@
     <name_af_ZA>Helium</name_af_ZA>
     <name_uk_UA>Гелій</name_uk_UA>
     <name_ja_JP>ヘリウム</name_ja_JP>
+    <name_zh_CN>氦</name_zh_CN>
   </element>
   <element>
     <anumber>36</anumber>
@@ -153,6 +155,7 @@
     <name_af_ZA>Kripton</name_af_ZA>
     <name_uk_UA>Криптон</name_uk_UA>
     <name_ja_JP>クリプトン</name_ja_JP>
+    <name_zh_CN>氪</name_zh_CN>
   </element>
   <element>
     <anumber>10</anumber>
@@ -205,6 +208,7 @@
     <name_af_ZA>Neon</name_af_ZA>
     <name_uk_UA>Неон</name_uk_UA>
     <name_ja_JP>ネオン</name_ja_JP>
+    <name_zh_CN>氖</name_zh_CN>
   </element>
   <element>
     <anumber>86</anumber>
@@ -256,6 +260,7 @@
     <name_af_ZA>Radon</name_af_ZA>
     <name_uk_UA>Радон</name_uk_UA>
     <name_ja_JP>ラドン</name_ja_JP>
+    <name_zh_CN>氡</name_zh_CN>
   </element>
   <element>
     <anumber>54</anumber>
@@ -309,6 +314,7 @@
     <name_af_ZA>Xenon</name_af_ZA>
     <name_uk_UA>Ксенон</name_uk_UA>
     <name_ja_JP>キセノン</name_ja_JP>
+    <name_zh_CN>氙</name_zh_CN>
   </element>
   <element>
     <anumber>118</anumber>
@@ -350,5 +356,6 @@
     <name_af_ZA>Oganesson</name_af_ZA>
     <name_uk_UA>Оганесон</name_uk_UA>
     <name_ja_JP>オガネソン</name_ja_JP>
+    <name_zh_CN>鿫</name_zh_CN>
   </element>
 </elements>

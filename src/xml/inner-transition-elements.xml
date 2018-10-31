@@ -46,6 +46,7 @@
     <name_af_ZA>Amerikium</name_af_ZA>
     <name_uk_UA>Америцій</name_uk_UA>
     <name_ja_JP>アメリシウム</name_ja_JP>
+    <name_zh_CN>鋂</name_zh_CN>
   </element>
   <element>
     <anumber>97</anumber>
@@ -91,6 +92,7 @@
     <name_af_ZA>Berkelium</name_af_ZA>
     <name_uk_UA>Берклій</name_uk_UA>
     <name_ja_JP>バークリウム</name_ja_JP>
+    <name_zh_CN>鉳</name_zh_CN>
   </element>
   <element>
     <anumber>58</anumber>
@@ -148,6 +150,7 @@
     <name_af_ZA>Serium</name_af_ZA>
     <name_uk_UA>Церій</name_uk_UA>
     <name_ja_JP>セリウム</name_ja_JP>
+    <name_zh_CN>鈰</name_zh_CN>
   </element>
   <element>
     <anumber>96</anumber>
@@ -193,6 +196,7 @@
     <name_af_ZA>Curium</name_af_ZA>
     <name_uk_UA>Кюрій</name_uk_UA>
     <name_ja_JP>キュリウム</name_ja_JP>
+    <name_zh_CN>鋦</name_zh_CN>
   </element>
   <element>
     <anumber>66</anumber>
@@ -249,6 +253,7 @@
     <name_af_ZA>Disprosium</name_af_ZA>
     <name_uk_UA>Диспрозій</name_uk_UA>
     <name_ja_JP>ジスプロシウム</name_ja_JP>
+    <name_zh_CN>鏑</name_zh_CN>
   </element>
   <element>
     <anumber>99</anumber>
@@ -293,6 +298,7 @@
     <name_af_ZA>Einsteinium</name_af_ZA>
     <name_uk_UA>Ейнштейній</name_uk_UA>
     <name_ja_JP>アインスタイニウム</name_ja_JP>
+    <name_zh_CN>鑀</name_zh_CN>
   </element>
   <element>
     <anumber>68</anumber>
@@ -349,6 +355,7 @@
     <name_af_ZA>Erbium</name_af_ZA>
     <name_uk_UA>Ербій</name_uk_UA>
     <name_ja_JP>エルビウム</name_ja_JP>
+    <name_zh_CN>鉺</name_zh_CN>
   </element>
   <element>
     <anumber>63</anumber>
@@ -404,6 +411,7 @@
     <name_af_ZA>Europium</name_af_ZA>
     <name_uk_UA>Європій</name_uk_UA>
     <name_ja_JP>ユウロピウム</name_ja_JP>
+    <name_zh_CN>銪</name_zh_CN>
   </element>
   <element>
     <anumber>100</anumber>
@@ -447,6 +455,7 @@
     <name_af_ZA>Fermium</name_af_ZA>
     <name_uk_UA>Фермій</name_uk_UA>
     <name_ja_JP>フェルミウム</name_ja_JP>
+    <name_zh_CN>鐨</name_zh_CN>
   </element>
   <element>
     <anumber>64</anumber>
@@ -504,6 +513,7 @@
     <name_af_ZA>Gadolinium</name_af_ZA>
     <name_uk_UA>Гадоліній</name_uk_UA>
     <name_ja_JP>ガドリニウム</name_ja_JP>
+    <name_zh_CN>釓</name_zh_CN>
   </element>
   <element>
     <anumber>67</anumber>
@@ -561,6 +571,7 @@
     <name_af_ZA>Holmium</name_af_ZA>
     <name_uk_UA>Гольмій</name_uk_UA>
     <name_ja_JP>ホルミウム</name_ja_JP>
+    <name_zh_CN>鈥</name_zh_CN>
   </element>
   <element>
     <anumber>98</anumber>
@@ -606,6 +617,7 @@
     <name_af_ZA>Kalifornium</name_af_ZA>
     <name_uk_UA>Каліфорній</name_uk_UA>
     <name_ja_JP>カリホルニウム</name_ja_JP>
+    <name_zh_CN>鉲</name_zh_CN>
   </element>
   <element>
     <anumber>103</anumber>
@@ -648,6 +660,7 @@
     <name_af_ZA>Lawrensium</name_af_ZA>
     <name_uk_UA>Лоуренсій</name_uk_UA>
     <name_ja_JP>ローレンシウム</name_ja_JP>
+    <name_zh_CN>鐒</name_zh_CN>
   </element>
   <element>
     <anumber>71</anumber>
@@ -705,6 +718,7 @@
     <name_af_ZA>Lutesium</name_af_ZA>
     <name_uk_UA>Лютецій</name_uk_UA>
     <name_ja_JP>ルテチウム</name_ja_JP>
+    <name_zh_CN>鎦</name_zh_CN>
   </element>
   <element>
     <anumber>101</anumber>
@@ -748,6 +762,7 @@
     <name_af_ZA>Mendelevium</name_af_ZA>
     <name_uk_UA>Менделевій</name_uk_UA>
     <name_ja_JP>メンデレビウム</name_ja_JP>
+    <name_zh_CN>鍆</name_zh_CN>
   </element>
   <element>
     <anumber>60</anumber>
@@ -804,6 +819,7 @@
     <name_af_ZA>Neodimium</name_af_ZA>
     <name_uk_UA>Неодим</name_uk_UA>
     <name_ja_JP>ネオジム</name_ja_JP>
+    <name_zh_CN>釹</name_zh_CN>
   </element>
   <element>
     <anumber>93</anumber>
@@ -852,6 +868,7 @@
     <name_af_ZA>Neptunium</name_af_ZA>
     <name_uk_UA>Нептуній</name_uk_UA>
     <name_ja_JP>ネプツニウム</name_ja_JP>
+    <name_zh_CN>錼</name_zh_CN>
   </element>
   <element>
     <anumber>102</anumber>
@@ -895,6 +912,7 @@
     <name_af_ZA>Nobelium</name_af_ZA>
     <name_uk_UA>Нобелій</name_uk_UA>
     <name_ja_JP>ノーベリウム</name_ja_JP>
+    <name_zh_CN>鍩</name_zh_CN>
   </element>
   <element>
     <anumber>94</anumber>
@@ -946,6 +964,7 @@
     <name_af_ZA>Plutonium</name_af_ZA>
     <name_uk_UA>Плутоній</name_uk_UA>
     <name_ja_JP>プルトニウム</name_ja_JP>
+    <name_zh_CN>鈽</name_zh_CN>
   </element>
   <element>
     <anumber>59</anumber>
@@ -1003,6 +1022,7 @@
     <name_af_ZA>Praseodimium</name_af_ZA>
     <name_uk_UA>Празеодим</name_uk_UA>
     <name_ja_JP>プラセオジム</name_ja_JP>
+    <name_zh_CN>鐠</name_zh_CN>
   </element>
   <element>
     <anumber>61</anumber>
@@ -1056,6 +1076,7 @@
     <name_af_ZA>Prometium</name_af_ZA>
     <name_uk_UA>Прометій</name_uk_UA>
     <name_ja_JP>プロメチウム</name_ja_JP>
+    <name_zh_CN>鉕</name_zh_CN>
   </element>
   <element>
     <anumber>91</anumber>
@@ -1103,6 +1124,7 @@
     <name_af_ZA>Protaktinium</name_af_ZA>
     <name_uk_UA>Протактиній</name_uk_UA>
     <name_ja_JP>プロトアクチニウム</name_ja_JP>
+    <name_zh_CN>鏷</name_zh_CN>
   </element>
   <element>
     <anumber>62</anumber>
@@ -1160,6 +1182,7 @@
     <name_af_ZA>Samarium</name_af_ZA>
     <name_uk_UA>Самарій</name_uk_UA>
     <name_ja_JP>サマリウム</name_ja_JP>
+    <name_zh_CN>釤</name_zh_CN>
   </element>
   <element>
     <anumber>65</anumber>
@@ -1216,6 +1239,7 @@
     <name_af_ZA>Terbium</name_af_ZA>
     <name_uk_UA>Тербій</name_uk_UA>
     <name_ja_JP>テルビウム</name_ja_JP>
+    <name_zh_CN>鋱</name_zh_CN>
   </element>
   <element>
     <anumber>90</anumber>
@@ -1272,6 +1296,7 @@
     <name_af_ZA>Torium</name_af_ZA>
     <name_uk_UA>Торій</name_uk_UA>
     <name_ja_JP>トリウム</name_ja_JP>
+    <name_zh_CN>釷</name_zh_CN>
   </element>
   <element>
     <anumber>69</anumber>
@@ -1328,6 +1353,7 @@
     <name_af_ZA>Tulium</name_af_ZA>
     <name_uk_UA>Тулій</name_uk_UA>
     <name_ja_JP>ツリウム</name_ja_JP>
+    <name_zh_CN>銩</name_zh_CN>
   </element>
   <element>
     <anumber>92</anumber>
@@ -1382,6 +1408,7 @@
     <name_af_ZA>Uraan</name_af_ZA>
     <name_uk_UA>Уран</name_uk_UA>
     <name_ja_JP>ウラン</name_ja_JP>
+    <name_zh_CN>鈾</name_zh_CN>
   </element>
   <element>
     <anumber>70</anumber>
@@ -1438,5 +1465,6 @@
     <name_af_ZA>Ytterbium</name_af_ZA>
     <name_uk_UA>Ітербій</name_uk_UA>
     <name_ja_JP>イッテルビウム</name_ja_JP>
+    <name_zh_CN>鐿</name_zh_CN>
   </element>
 </elements>

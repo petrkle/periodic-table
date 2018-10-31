@@ -49,7 +49,7 @@ sub get_langs{
 sub geturl {
 	my $element = shift;
 	my $lang = shift;
-	if ($lang =~ /(ru_RU|be_BY|uk_UA)/){
+	if ($lang =~ /(ru_RU|be_BY|uk_UA|zh_CN)/){
 		$lang = 'Latin';
 	}
 	use Text::Unidecode qw(unidecode);
