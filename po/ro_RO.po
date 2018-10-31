@@ -1,0 +1,312 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-04 13:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Periodic Table"
+msgstr "Tabelul periodic"
+
+msgid "Settings"
+msgstr "Setări"
+
+msgid "Language"
+msgstr "Limbă"
+
+msgid "About"
+msgstr "Despre"
+
+msgid "English"
+msgstr "Engleză"
+
+msgid "Czech"
+msgstr "Cehă"
+
+msgid "Slovak"
+msgstr "Slovacă"
+
+msgid "German"
+msgstr "Germană"
+
+msgid "French"
+msgstr "Franceză"
+
+msgid "Polish"
+msgstr "Poloneză"
+
+msgid "Spanish"
+msgstr "Spaniolă"
+
+msgid "Dutch"
+msgstr "Olandeză"
+
+msgid "Default language"
+msgstr "Limba implicită"
+
+msgid "State"
+msgstr "Stare"
+
+msgid "Solid"
+msgstr "Solid"
+
+msgid "Liquid"
+msgstr "Lichid"
+
+msgid "Gas"
+msgstr "Gaz"
+
+msgid "Symbol"
+msgstr "Simbol"
+
+msgid "Atomic number"
+msgstr "Număr atomic"
+
+msgid "Period"
+msgstr "Perioadă"
+
+msgid "%d. period"
+msgstr "%d. perioadă"
+
+msgid "Element category"
+msgstr "Categoria elementului"
+
+msgid "Relative atomic mass"
+msgstr "Masa atomică relativă"
+
+msgid "Atomic mass"
+msgstr "Masa atomică"
+
+msgid "Group"
+msgstr "Grup"
+
+msgid "group"
+msgstr "grup"
+
+msgid "Electronegativity"
+msgstr "Electronegativitate"
+
+msgid "Oxidation numbers"
+msgstr "Numerele de oxidare"
+
+msgid "Electron configuration"
+msgstr "Configurație electronică"
+
+msgid "Density"
+msgstr "Densitate"
+
+msgid "Melting point"
+msgstr "Punct de topire"
+
+msgid "Boiling point"
+msgstr "Punct de fierbere"
+
+msgid "Critical point"
+msgstr "Punct critic"
+
+msgid "Critical pressure"
+msgstr "Presiune critică"
+
+msgid "Atomic radius"
+msgstr "Rază atomică"
+
+msgid "Covalent radius"
+msgstr "Rază covalentă"
+
+msgid "Thermal conductivity"
+msgstr "Conductivitate termică"
+
+msgid "Discovery"
+msgstr "Descoperire"
+
+msgid "Hardness"
+msgstr "Duritate"
+
+msgid "Vickers hardness"
+msgstr "Duritate Vicker"
+
+msgid "Brinell hardness"
+msgstr "Duritate Brinell"
+
+msgid "Mohs scale"
+msgstr "Scală Mohs"
+
+msgid "Shear modulus"
+msgstr "Mod de forfecare"
+
+msgid "Young's modulus"
+msgstr "Modulul lui Young"
+
+msgid "Electrical resistivity"
+msgstr "Rezistență electrică"
+
+msgid "Electrical conductivity"
+msgstr "Conductivitate electrică"
+
+msgid "Name"
+msgstr "Nume"
+
+msgid "Latin name"
+msgstr "Nume latin"
+
+msgid "Version"
+msgstr "Versiune"
+
+msgid "Created"
+msgstr "Creat"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Write review"
+msgstr "Scrie recenzie"
+
+msgid "Noble gases"
+msgstr "Gaze nobile"
+
+msgid "Inner transition elements"
+msgstr "Elemente de tranziție internă"
+
+msgid "Transition elements"
+msgstr "Elemente de tranziție"
+
+msgid "Metalloids"
+msgstr "Metaloizi"
+
+msgid "Nonmetals"
+msgstr "Nemetale"
+
+msgid "Alkaline earth metals"
+msgstr "Metale alcalino-pământoase"
+
+msgid "Metals"
+msgstr "Metale"
+
+msgid "Halogens"
+msgstr "Halogeni"
+
+msgid "Alkali metals"
+msgstr "Metale alcaline"
+
+msgid "1.st ionization energy"
+msgstr "prima energie de ionizare"
+
+msgid "2.nd ionization energy"
+msgstr "a doua energie de ionizare"
+
+msgid "3.rd ionization energy"
+msgstr "a treia energie de ionizare"
+
+msgid "Stable isotopes"
+msgstr "Izotopi stabili"
+
+msgid "Unstable isotopes"
+msgstr "Izotopi instabili"
+
+msgid "Substance"
+msgstr "Substanță"
+
+msgid "Talc"
+msgstr "Pulbere"
+
+msgid "Rock salt"
+msgstr "Sare gemă"
+
+msgid "Limestone"
+msgstr "Calcar"
+
+msgid "Fluorspar"
+msgstr "Fluorină"
+
+msgid "Apatite"
+msgstr "Apatit"
+
+msgid "Feldspar"
+msgstr "Ortoză"
+
+msgid "Quartz"
+msgstr "Cuarț"
+
+msgid "Topaz"
+msgstr "Topaz"
+
+msgid "Corundum"
+msgstr "Corindon"
+
+msgid "Diamond"
+msgstr "Diamant"
+
+msgid "Antiquity"
+msgstr "Antichitate"
+
+msgid "Heat capacity"
+msgstr "Capacitate de căldură"
+
+msgid "Table view"
+msgstr "Vizualizare tabel"
+
+msgid "Download"
+msgstr "Descarcă"
+
+msgid "Links"
+msgstr "Legături"
+
+msgid "Source code"
+msgstr "Cod sursă"
+
+msgid "Unknown"
+msgstr "Necunoscut"
+
+msgid "Swedish"
+msgstr "Suedeză"
+
+msgid "Portuguese"
+msgstr "Portugheză"
+
+msgid "Brazilian Portuguese"
+msgstr "Portugheză braziliană"
+
+msgid "Italian"
+msgstr "Italiană"
+
+msgid "Turkish"
+msgstr "Turcă"
+
+msgid "Finnish"
+msgstr "Finlandeză"
+
+msgid "Danish"
+msgstr "Daneză"
+
+msgid "Croatian"
+msgstr "Croată"
+
+msgid "Afrikaans"
+msgstr "Africană"
+
+msgid "Ukrainian"
+msgstr "Ucraineană"
+
+msgid "Malay"
+msgstr "Malaieză"
+
+msgid "Indonesian"
+msgstr "Indoneziană"
+
+msgid "Japanese"
+msgstr "Japoneză"
+
+msgid "Chinese - Simplified"
+msgstr "Chineză simplificată"
