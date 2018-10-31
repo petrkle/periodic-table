@@ -12,67 +12,67 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ja_JP\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Periodic Table"
-msgstr "周期表"
+msgstr "元素周期表"
 
 msgid "Settings"
-msgstr "設定"
+msgstr "设置"
 
 msgid "Language"
-msgstr "言語"
+msgstr "语言"
 
 msgid "About"
-msgstr "概要"
+msgstr "摘要"
 
 msgid "English"
-msgstr "英語"
+msgstr "英语"
 
 msgid "Czech"
-msgstr "チェコ語"
+msgstr "捷克语"
 
 msgid "Slovak"
-msgstr "スロバキア語"
+msgstr "斯洛伐克语"
 
 msgid "German"
-msgstr "ドイツ語"
+msgstr "德语"
 
 msgid "French"
-msgstr "フランス語"
+msgstr "法语"
 
 msgid "Polish"
-msgstr "ポーランド語"
+msgstr "波兰语"
 
 msgid "Spanish"
-msgstr "スペイン語"
+msgstr "西班牙语"
 
 msgid "Dutch"
-msgstr "オランダ語"
+msgstr "菏兰语"
 
 msgid "Default language"
-msgstr "デフォルト"
+msgstr "默认"
 
 msgid "State"
-msgstr "相"
+msgstr "物质状态"
 
 msgid "Solid"
-msgstr "固体"
+msgstr "固态"
 
 msgid "Liquid"
-msgstr "液体"
+msgstr "液态"
 
 msgid "Gas"
-msgstr "気体"
+msgstr "气态"
 
 msgid "Symbol"
-msgstr "元素記号"
+msgstr "符号"
 
 msgid "Atomic number"
-msgstr "原子番号"
+msgstr "原子序数"
 
 msgid "Period"
 msgstr "周期"
@@ -81,10 +81,10 @@ msgid "%d. period"
 msgstr "第%d周期"
 
 msgid "Element category"
-msgstr "分類"
+msgstr "分类"
 
 msgid "Relative atomic mass"
-msgstr "相対原子質量"
+msgstr "相对原子质量"
 
 msgid "Atomic mass"
 msgstr "原子量"
@@ -96,217 +96,217 @@ msgid "group"
 msgstr "族"
 
 msgid "Electronegativity"
-msgstr "電気陰性度"
+msgstr "电负性"
 
 msgid "Oxidation numbers"
-msgstr "酸化数"
+msgstr "氧化数"
 
 msgid "Electron configuration"
-msgstr "電子配置"
+msgstr "电子排布"
 
 msgid "Density"
 msgstr "密度"
 
 msgid "Melting point"
-msgstr "融点"
+msgstr "熔点"
 
 msgid "Boiling point"
 msgstr "沸点"
 
 msgid "Critical point"
-msgstr "臨界点"
+msgstr "临界点"
 
 msgid "Critical pressure"
-msgstr "臨界圧"
+msgstr "临界压"
 
 msgid "Atomic radius"
 msgstr "原子半径"
 
 msgid "Covalent radius"
-msgstr "共有結合半径"
+msgstr "共价半径"
 
 msgid "Thermal conductivity"
-msgstr "熱伝導率"
+msgstr "热导率"
 
 msgid "Discovery"
-msgstr "発見年"
+msgstr "发现年"
 
 msgid "Hardness"
 msgstr "硬度"
 
 msgid "Vickers hardness"
-msgstr "ビッカース硬度"
+msgstr "维氏硬度"
 
 msgid "Brinell hardness"
-msgstr "ブリネル硬度"
+msgstr "布氏硬度"
 
 msgid "Mohs scale"
-msgstr "モース硬度"
+msgstr "莫氏硬度"
 
 msgid "Shear modulus"
-msgstr "剛性率"
+msgstr "剪切模量"
 
 msgid "Young's modulus"
-msgstr "ヤング率"
+msgstr "杨氏模量"
 
 msgid "Electrical resistivity"
-msgstr "電気抵抗率"
+msgstr "电阻率"
 
 msgid "Electrical conductivity"
-msgstr "電気伝導率"
+msgstr "电导率"
 
 msgid "Name"
 msgstr "名称"
 
 msgid "Latin name"
-msgstr "ラテン語名"
+msgstr "拉丁名字"
 
 msgid "Version"
-msgstr "バージョン"
+msgstr "版本"
 
 msgid "Created"
-msgstr "作成"
+msgstr "创建"
 
 msgid "Author"
-msgstr "作成者"
+msgstr "创造者"
 
 msgid "Write review"
-msgstr "レビューを書く"
+msgstr "写评论"
 
 msgid "Noble gases"
-msgstr "希ガス"
+msgstr "稀有气体"
 
 msgid "Inner transition elements"
-msgstr "内部遷移元素"
+msgstr "内过渡元素"
 
 msgid "Transition elements"
-msgstr "遷移元素"
+msgstr "内过元素"
 
 msgid "Metalloids"
-msgstr "半金属元素"
+msgstr "类金属元素"
 
 msgid "Nonmetals"
 msgstr "非金属元素"
 
 msgid "Alkaline earth metals"
-msgstr "アルカリ土類金属"
+msgstr "碱土金属"
 
 msgid "Metals"
 msgstr "金属元素"
 
 msgid "Halogens"
-msgstr "ハロゲン"
+msgstr "卤素"
 
 msgid "Alkali metals"
-msgstr "アルカリ金属"
+msgstr "碱金属"
 
 msgid "1.st ionization energy"
-msgstr "第1イオン化エネルギー"
+msgstr "第1电离能"
 
 msgid "2.nd ionization energy"
-msgstr "第2イオン化エネルギー"
+msgstr "第2电离能"
 
 msgid "3.rd ionization energy"
-msgstr "第3イオン化エネルギー"
+msgstr "第3电离能"
 
 msgid "Stable isotopes"
-msgstr "安定同位体"
+msgstr "稳定同位素"
 
 msgid "Unstable isotopes"
-msgstr "不安定同位体"
+msgstr "不稳定同位素"
 
 msgid "Substance"
-msgstr "標準物質"
+msgstr "物质"
 
 msgid "Talc"
 msgstr "滑石"
 
 msgid "Rock salt"
-msgstr "岩塩"
+msgstr "石盐"
 
 msgid "Limestone"
-msgstr "石灰石"
+msgstr "石灰岩"
 
 msgid "Fluorspar"
-msgstr "蛍石"
+msgstr "萤石"
 
 msgid "Apatite"
-msgstr "燐灰石"
+msgstr "磷灰石"
 
 msgid "Feldspar"
-msgstr "長石"
+msgstr "长石"
 
 msgid "Quartz"
 msgstr "石英"
 
 msgid "Topaz"
-msgstr "トパーズ"
+msgstr "黄玉"
 
 msgid "Corundum"
-msgstr "コランダム"
+msgstr "刚玉"
 
 msgid "Diamond"
-msgstr "ダイヤモンド"
+msgstr "钻石"
 
 msgid "Antiquity"
 msgstr "古代"
 
 msgid "Heat capacity"
-msgstr "熱容量"
+msgstr "热容量"
 
 msgid "Table view"
-msgstr "表の閲覧"
+msgstr "浏览表格"
 
 msgid "Download"
-msgstr "ダウンロード"
+msgstr "下载"
 
 msgid "Links"
-msgstr "リンク"
+msgstr "链接"
 
 msgid "Source code"
-msgstr "ソースコード"
+msgstr "源代码"
 
 msgid "Unknown"
 msgstr "不明"
 
 msgid "Swedish"
-msgstr "スウェーデン語"
+msgstr "瑞典语"
 
 msgid "Portuguese"
-msgstr "ポルトガル語"
+msgstr "葡萄牙语"
 
 msgid "Brazilian Portuguese"
-msgstr "ブラジルポルトガル語"
+msgstr "巴西葡萄牙语"
 
 msgid "Italian"
-msgstr "イタリア語"
+msgstr "意大利语"
 
 msgid "Turkish"
-msgstr "トルコ語"
+msgstr "土耳其语"
 
 msgid "Finnish"
-msgstr "フィンランド語"
+msgstr "芬兰语"
 
 msgid "Danish"
-msgstr "デンマーク語"
+msgstr "丹麦语"
 
 msgid "Croatian"
-msgstr "クロアチア語"
+msgstr "克罗地亚语"
 
 msgid "Afrikaans"
-msgstr "アフリカーンス語"
+msgstr "南非荷兰语"
 
 msgid "Ukrainian"
-msgstr "ウクライナ語"
+msgstr "乌克兰语"
 
 msgid "Malay"
-msgstr "マレー語"
+msgstr "马来语"
 
 msgid "Indonesian"
-msgstr "インドネシア語"
+msgstr "印度尼西亚语"
 
 msgid "Japanese"
-msgstr "日本語"
+msgstr "日语"
 
 msgid "Chinese - Simplified"
-msgstr ""
+msgstr "中文（简）"

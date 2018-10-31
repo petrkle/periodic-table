@@ -322,3 +322,6 @@ msgstr ""
 
 msgid "Japanese"
 msgstr ""
+
+msgid "Chinese - Simplified"
+msgstr ""

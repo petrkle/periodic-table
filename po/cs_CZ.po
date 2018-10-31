@@ -321,3 +321,6 @@ msgstr "Indonéština"
 
 msgid "Japanese"
 msgstr "Japonština"
+
+msgid "Chinese - Simplified"
+msgstr ""
