@@ -307,3 +307,6 @@ msgstr "Indonesian"
 
 msgid "Japanese"
 msgstr "Japanese"
+
+msgid "Chinese - Simplified"
+msgstr ""
