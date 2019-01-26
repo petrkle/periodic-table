@@ -2,6 +2,7 @@
 
 use strict;
 use warnings;
+no warnings 'uninitialized';
 
 use FindBin;
 use lib "$FindBin::Bin/lib";
@@ -101,8 +102,9 @@ foreach my $lang (@{$languages->{lang}}){
 				'lang' => $lang->{locales},
 				'title' => $locappname,
 		  	'elementname' => "name_$lang->{locales}",
-				 'sitelang' => $lang->{android},
-				'categories' => $categories->{category}
+				'sitelang' => $lang->{android},
+				'categories' => $categories->{category},
+				'canonical' => $location.'/'.$lang->{locales}.'/'.$category->{'filename'}.'.html',
 			},
 			"$OUT/$lang->{locales}/$category->{'filename'}.html",
 			{ binmode => ':utf8' }) or die $t->error;
@@ -128,6 +130,7 @@ foreach my $lang (@{$languages->{lang}}){
 				'groups' => $groups->{group},
 			  'sitelang' => $lang->{android},
 		  	'lang' => $lang->{locales},
+			'canonical' => $location.'/'.$lang->{locales}.'/'.$group->{'filename'}.'.html',
 			},
 			"$OUT/$lang->{locales}/$group->{'filename'}.html",
 			{ binmode => ':utf8' }) or die $t->error;
@@ -139,6 +142,7 @@ foreach my $lang (@{$languages->{lang}}){
 		  'elementname' => "name_$lang->{locales}",
 			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
+			'canonical' => $location.'/'.$lang->{locales}.'/index-an.html',
 		},
 		"$OUT/$lang->{locales}/index-an.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -149,6 +153,7 @@ foreach my $lang (@{$languages->{lang}}){
 		  'elementname' => "name_$lang->{locales}",
 			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
+			'canonical' => $location.'/'.$lang->{locales}.'/index-ln.html',
 		},
 		"$OUT/$lang->{locales}/index-ln.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -159,6 +164,7 @@ foreach my $lang (@{$languages->{lang}}){
 		  'elementname' => "name_$lang->{locales}",
 			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
+			'canonical' => $location.'/'.$lang->{locales}.'/list.html',
 		},
 		"$OUT/$lang->{locales}/list.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -169,6 +175,7 @@ foreach my $lang (@{$languages->{lang}}){
 		  'elementname' => "name_$lang->{locales}",
 			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
+			'canonical' => $location.'/'.$lang->{locales}.'/index-am.html',
 		},
 		"$OUT/$lang->{locales}/index-am.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -182,6 +189,7 @@ foreach my $lang (@{$languages->{lang}}){
 				'title' => $locappname,
 			  'sitelang' => $lang->{android},
 		  	'lang' => $lang->{locales},
+			'canonical' => $location.'/'.$lang->{locales}.'/p'.$period->{'number'}.'.html',
 			},
 			"$OUT/$lang->{locales}/p$period->{'number'}.html",
 			{ binmode => ':utf8' }) or die $t->error;
@@ -193,6 +201,7 @@ foreach my $lang (@{$languages->{lang}}){
 		  'elementname' => "name_$lang->{locales}",
 			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
+			'canonical' => $location.'/'.$lang->{locales}.'/p.html',
 		},
 		"$OUT/$lang->{locales}/p.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -202,7 +211,8 @@ foreach my $lang (@{$languages->{lang}}){
 		  'elementname' => "name_$lang->{locales}",
 			'lang' => $lang->{locales},
 			'sitelang' => $lang->{android},
-			'categories' => [@categorysorted]
+			'categories' => [@categorysorted],
+			'canonical' => $location.'/'.$lang->{locales}.'/category.html',
 		},
 		"$OUT/$lang->{locales}/category.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -212,6 +222,7 @@ foreach my $lang (@{$languages->{lang}}){
 			'groups' => $groups->{group},
 			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
+			'canonical' => $location.'/'.$lang->{locales}.'/group.html',
 		},
 		"$OUT/$lang->{locales}/group.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -220,6 +231,7 @@ foreach my $lang (@{$languages->{lang}}){
 		{	'title' => $locappname . ' - ' . lc(__('About')),
 			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
+			'canonical' => $location.'/'.$lang->{locales}.'/about.html',
 		},
 		"$OUT/$lang->{locales}/about.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -231,6 +243,7 @@ foreach my $lang (@{$languages->{lang}}){
 		  'msilang' => $msilang,
 			'sitelang' => $lang->{android},
 		  'msiversion' => $pt::VERSION,
+			'canonical' => $location.'/'.$lang->{locales}.'/download.html',
 		},
 		"$OUT/$lang->{locales}/download.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -239,6 +252,7 @@ foreach my $lang (@{$languages->{lang}}){
 		{	'title' => 'Mohs scale',
 			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
+			'canonical' => $location.'/'.$lang->{locales}.'/mohs.html',
 		},
 		"$OUT/$lang->{locales}/mohs.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -248,6 +262,7 @@ foreach my $lang (@{$languages->{lang}}){
 			'languages' => [@langsorted],
 			'sitelang' => $lang->{android},
 		  'lang' => $lang->{locales},
+			'canonical' => $location.'/'.$lang->{locales}.'/language.html',
 		},
 		"$OUT/$lang->{locales}/language.html",
 		{ binmode => ':utf8' }) or die $t->error;
@@ -266,6 +281,7 @@ foreach my $lang (@{$languages->{lang}}){
 		 	'elementname' => "name_$lang->{locales}",
 		  'lang' => $lang->{locales},
 			'sitelang' => $lang->{android},
+			'canonical' => $location.'/'.$lang->{locales}.'/index.html',
 			'nohomelink' => 'true'
 		},
 		"$OUT/$lang->{locales}/index.html",
@@ -279,6 +295,7 @@ $t->process('index.html',
 		'title' => $pt::APPNAME,
 		'languages' => $languages->{lang},
 		'sitelang' => 'en',
+		'canonical' => $location.'/index.html',
 	},
 	"$OUT/index.html",
 	{ binmode => ':utf8' }) or die $t->error;

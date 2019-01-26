@@ -20,5 +20,17 @@
 <meta name="msapplication-TileColor" content="#ffbb33" />
 
 <meta name="theme-color" content="#ffbb33">
+[% IF location %]
+<meta property="og:image" content="[% location %]/periodic-table.png" />
+<meta property="og:title" content="[% l(title) FILTER remove('<.+>') %]" />
+<meta property="og:type" content="article" />
+[% IF element %]
+<meta property="og:url" content="[% location %]/[% lang %]/[% url(element, lang) %].html" />
+[% END %]
+[% IF canonical %]
+<meta property="og:url" content="[% canonical %]" />
+[% END %]
+<meta property="og:description" content="[% l(title) FILTER remove('<.+>') %]" />
+[% END %]
 [% DEFAULT lang = 'en_US' %]
 <link rel="manifest" href="/[% lang %]/manifest.json">
