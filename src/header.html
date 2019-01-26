@@ -36,6 +36,8 @@
 
 	[% INCLUDE favicon.html %]
 	[% END %]
-
+[% IF export %]
+	<meta name="robots" content="noindex, nofollow" />
+[% END %]
 </head>
 <body itemscope itemtype="http://schema.org/Breadcrumb">

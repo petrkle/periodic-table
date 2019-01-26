@@ -25,14 +25,9 @@ upload:
 beta:
 	./upload-beta.sh
 
-xz:
-	./generate.pl --out pt.kle.cz
-	$(COMPRESS) pt.kle.cz pt.kle.cz
-	tar Jcf www/pt.kle.cz.$(VERSION).tar.xz pt.kle.cz
-
 msiprep:
 	cd po ; $(MAKE)
-	./generate.pl --out $(MSI)
+	./generate.pl --export --out $(MSI)
 	./msiprep.pl
 	$(COMPRESS) $(MSI) $(MSI)
 

@@ -25,10 +25,13 @@ my @tableview = ();
 
 my $location = undef;
 
+my $export = undef;
+
 my $OUT = "www";
 
 GetOptions (
 	"location=s" => \$location,
+	"export" => \$export,
 	"out=s" => \$OUT,
 )
   or die("Error in command line arguments\n");
@@ -38,6 +41,7 @@ my $t = Template->new({
 		ENCODING => 'utf8',
 		VARIABLES => {
      location => $location,
+     export => $export,
      langs => $languages->{lang},
 		 version => $pt::VERSION
    },
@@ -279,6 +283,11 @@ $t->process('index.html',
 	"$OUT/index.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
+$t->process('robots.txt',
+	{},
+	"$OUT/robots.txt",
+	{ binmode => ':utf8' }) or die $t->error;
+
 if($location){
 
 	$t->process('redir.js',
@@ -308,7 +317,6 @@ if($location){
 		"$OUT/404.html",
 		{ binmode => ':utf8' }) or die $t->error;
 
-	copy("src/robots.txt", "$OUT/robots.txt");
 	copy("src/browserconfig.xml", "$OUT/browserconfig.xml");
 }
 
