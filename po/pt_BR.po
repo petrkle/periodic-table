@@ -311,10 +311,10 @@ msgid "Indonesian"
 msgstr "Indonésio"
 
 msgid "Japanese"
-msgstr ""
+msgstr "Japonês"
 
 msgid "Chinese - Simplified"
-msgstr ""
+msgstr "Chinês - Simplicado"
 
 msgid "Romanian"
-msgstr ""
+msgstr "Romeno"
