@@ -6,7 +6,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Last-Translator: Tomislav Horvat <tomhorvat@gmail.com>\n"
+"Last-Translator: Ivan Pozderac <ivan.pozderac@gmail.com>\n"
 "Project-Id-Version: Periodic table\n"
 "Language: hr_HR\n"
 
@@ -275,40 +275,40 @@ msgid "Italian"
 msgstr "Talijanski"
 
 msgid "Danish"
-msgstr ""
+msgstr "Danski"
 
 msgid "Hungarian"
-msgstr ""
+msgstr "Mađarski"
 
 msgid "Belarusian"
-msgstr ""
+msgstr "Bjeloruski"
 
 msgid "Croatian"
 msgstr "Hrvatski"
 
 msgid "Turkish"
-msgstr ""
+msgstr "Turski"
 
 msgid "Finnish"
-msgstr ""
+msgstr "Finski"
 
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikaans"
 
 msgid "Ukrainian"
-msgstr ""
+msgstr "Ukrajinski"
 
 msgid "Malay"
-msgstr ""
+msgstr "Malajski"
 
 msgid "Indonesian"
-msgstr ""
+msgstr "Indoezijski"
 
 msgid "Japanese"
-msgstr ""
+msgstr "Japanski"
 
 msgid "Chinese - Simplified"
-msgstr ""
+msgstr "Kineski"
 
 msgid "Romanian"
-msgstr ""
+msgstr "Rumunjski"
