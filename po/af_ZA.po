@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-04 13:39+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: Carike Blignaut-Staden <https://github.com/carike>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: af_ZA\n"
 "MIME-Version: 1.0\n"
@@ -27,13 +27,13 @@ msgid "Language"
 msgstr "Taal"
 
 msgid "About"
-msgstr "Van"
+msgstr "Inlingting oor projek"
 
 msgid "English"
 msgstr "Engels"
 
 msgid "Czech"
-msgstr "Tsjeg"
+msgstr "Tsjeggiese"
 
 msgid "Slovak"
 msgstr "Slowaak"
@@ -72,7 +72,7 @@ msgid "Symbol"
 msgstr "Simbool"
 
 msgid "Atomic number"
-msgstr "Atomiese nommer"
+msgstr "Atoomgetal"
 
 msgid "Period"
 msgstr "Periode"
@@ -87,7 +87,7 @@ msgid "Relative atomic mass"
 msgstr "Relatieve atomiese massa"
 
 msgid "Atomic mass"
-msgstr "Atomiese massa"
+msgstr "Atoommassa"
 
 msgid "Group"
 msgstr "Groep"
@@ -120,13 +120,13 @@ msgid "Critical pressure"
 msgstr "Kritiese druk"
 
 msgid "Atomic radius"
-msgstr "Atomiese radius"
+msgstr "Atoomradius"
 
 msgid "Covalent radius"
 msgstr "Covalent radius"
 
 msgid "Thermal conductivity"
-msgstr "Warmte geleiding"
+msgstr "Termiese geleidingsvermoë"
 
 msgid "Discovery"
 msgstr "Ontdekking"
@@ -135,13 +135,13 @@ msgid "Hardness"
 msgstr "Hardheid"
 
 msgid "Vickers hardness"
-msgstr "Vickershardheid"
+msgstr "Vickers se hardheid"
 
 msgid "Brinell hardness"
-msgstr "Brinellhardheid"
+msgstr "Brinell-hardheid"
 
 msgid "Mohs scale"
-msgstr "Mohs skaal"
+msgstr "Mohs-skaal"
 
 msgid "Shear modulus"
 msgstr "Shear modulus"
@@ -159,13 +159,13 @@ msgid "Name"
 msgstr "Naam"
 
 msgid "Latin name"
-msgstr "Latyn naam"
+msgstr "Latynse naam"
 
 msgid "Version"
 msgstr "Weergawe"
 
 msgid "Created"
-msgstr "Kreëer"
+msgstr "Skepper"
 
 msgid "Author"
 msgstr "Outeur"
@@ -177,7 +177,7 @@ msgid "Noble gases"
 msgstr "Edelgasse"
 
 msgid "Inner transition elements"
-msgstr "Interne oorgangselemente"
+msgstr "Innerlike oorgangselemente"
 
 msgid "Transition elements"
 msgstr "Oorgangselemente"
@@ -189,7 +189,7 @@ msgid "Nonmetals"
 msgstr "Nie-metale"
 
 msgid "Alkaline earth metals"
-msgstr "Aardalkalimetaal"
+msgstr "Alkaliese aardmetale"
 
 msgid "Metals"
 msgstr "Metale"
@@ -201,13 +201,13 @@ msgid "Alkali metals"
 msgstr "Alkalie metale"
 
 msgid "1.st ionization energy"
-msgstr "1.ste ionisasie-energie"
+msgstr "1ste ionisasie-energie"
 
 msgid "2.nd ionization energy"
-msgstr "2.de ionisasie-energie"
+msgstr "2de ionisasie-energie"
 
 msgid "3.rd ionization energy"
-msgstr "3.de ionisasie-energie"
+msgstr "3de ionisasie-energie"
 
 msgid "Stable isotopes"
 msgstr "Stabiele isotope"
@@ -252,19 +252,19 @@ msgid "Antiquity"
 msgstr "Antieke"
 
 msgid "Heat capacity"
-msgstr "Warmtekapasiteit"
+msgstr "Hitte kapasiteit"
 
 msgid "Table view"
 msgstr "Tabel"
 
 msgid "Download"
-msgstr "Download"
+msgstr "Laai af"
 
 msgid "Links"
-msgstr "Links"
+msgstr "Skakels"
 
 msgid "Source code"
-msgstr "Bronkode"
+msgstr "Oorspronklike program kode"
 
 msgid "Unknown"
 msgstr "Onbekend"
@@ -294,22 +294,22 @@ msgid "Croatian"
 msgstr "Kroatische"
 
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikaans"
 
 msgid "Ukrainian"
-msgstr ""
+msgstr "Oekraïens"
 
 msgid "Malay"
-msgstr ""
+msgstr "Malay"
 
 msgid "Indonesian"
-msgstr ""
+msgstr "Indonesiese"
 
 msgid "Japanese"
-msgstr ""
+msgstr "Japanees"
 
 msgid "Chinese - Simplified"
-msgstr ""
+msgstr "Sjina - Vereenvoudig"
 
 msgid "Romanian"
-msgstr ""
+msgstr "Roemeens"
