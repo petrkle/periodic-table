@@ -1,0 +1,321 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-04 13:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Periodic Table"
+msgstr "आवर्त सारणी"
+
+msgid "Settings"
+msgstr "समायोजन"
+
+msgid "Language"
+msgstr "भाषा"
+
+msgid "About"
+msgstr "के संबंध में"
+
+msgid "English"
+msgstr "अंग्रेज़ी"
+
+msgid "Czech"
+msgstr "चेक"
+
+msgid "Slovak"
+msgstr "स्लोवाक"
+
+msgid "German"
+msgstr "जर्मन"
+
+msgid "French"
+msgstr "फ्रेंच"
+
+msgid "Polish"
+msgstr "पोलिश"
+
+msgid "Spanish"
+msgstr "स्पेनिश"
+
+msgid "Dutch"
+msgstr "डच"
+
+msgid "Default language"
+msgstr "डिफ़ॉल्ट भाषा"
+
+msgid "State"
+msgstr "अवस्था"
+
+msgid "Solid"
+msgstr "ठोस"
+
+msgid "Liquid"
+msgstr "तरल"
+
+msgid "Gas"
+msgstr "वाष्प"
+
+msgid "Symbol"
+msgstr "चिह्न"
+
+msgid "Atomic number"
+msgstr "परमाणु क्रमांक"
+
+msgid "Period"
+msgstr "अवधि"
+
+msgid "%d. period"
+msgstr "%d. अवधि"
+
+msgid "Element category"
+msgstr "तत्व श्रेणी"
+
+msgid "Relative atomic mass"
+msgstr "सापेक्ष परमाणु द्रव्यमान"
+
+msgid "Atomic mass"
+msgstr "परमाणु भार"
+
+msgid "Group"
+msgstr "समूह"
+
+msgid "group"
+msgstr "समूह"
+
+msgid "Electronegativity"
+msgstr "वैद्युतीयऋणात्मकता"
+
+msgid "Oxidation numbers"
+msgstr "ऑक्सीकरण संख्या"
+
+msgid "Electron configuration"
+msgstr "विद्युदणु विन्यास"
+
+msgid "Density"
+msgstr "घनत्व"
+
+msgid "Melting point"
+msgstr "गलनांक"
+
+msgid "Boiling point"
+msgstr "क्वथनांक"
+
+msgid "Critical point"
+msgstr "महत्वपूर्ण बिंदु"
+
+msgid "Critical pressure"
+msgstr "गंभीर दबाव"
+
+msgid "Atomic radius"
+msgstr "परमाणु त्रिज्या"
+
+msgid "Covalent radius"
+msgstr "सहसंयोजक त्रिज्या"
+
+msgid "Thermal conductivity"
+msgstr "थर्मल प्रवाहकत्त्व"
+
+msgid "Discovery"
+msgstr "खोज"
+
+msgid "Hardness"
+msgstr "कठोरता"
+
+msgid "Vickers hardness"
+msgstr "विकर्स कठोरत"
+
+msgid "Brinell hardness"
+msgstr "Brinell कठोरत"
+
+msgid "Mohs scale"
+msgstr "मोह्स पैमाना"
+
+msgid "Shear modulus"
+msgstr "कतरनी मापांक"
+
+msgid "Young's modulus"
+msgstr "यंग मापांक"
+
+msgid "Electrical resistivity"
+msgstr "विद्युतीय प्रतिरोधकता"
+
+msgid "Electrical conductivity"
+msgstr "विद्युतीय प्रवाहकत्त्व"
+
+msgid "Name"
+msgstr "नाम"
+
+msgid "Latin name"
+msgstr "लैटिन नाम"
+
+msgid "Version"
+msgstr "संस्करण"
+
+msgid "Created"
+msgstr "बनाया था"
+
+msgid "Author"
+msgstr "लेखक"
+
+msgid "Write review"
+msgstr "समीक्षा लिखें"
+
+msgid "Noble gases"
+msgstr "उत्कृष्ट गैस"
+
+msgid "Inner transition elements"
+msgstr "आंतरिक संक्रमण तत्व"
+
+msgid "Transition elements"
+msgstr "संक्रमण तत्व"
+
+msgid "Metalloids"
+msgstr "Metalloids"
+
+msgid "Nonmetals"
+msgstr "Nonmetals"
+
+msgid "Alkaline earth metals"
+msgstr "क्षारीय पृथ्वी धातु"
+
+msgid "Metals"
+msgstr "धातु"
+
+msgid "Halogens"
+msgstr "हैलोजन"
+
+msgid "Alkali metals"
+msgstr "क्षारीय धातु"
+
+msgid "1.st ionization energy"
+msgstr "1. आयनन ऊर्जा"
+
+msgid "2.nd ionization energy"
+msgstr "2. आयनीकरण ऊर्जा"
+
+msgid "3.rd ionization energy"
+msgstr "3. आयनीकरण ऊर्जा"
+
+msgid "Stable isotopes"
+msgstr "स्थिर आइसोटोप"
+
+msgid "Unstable isotopes"
+msgstr "अस्थिर आइसोटोप"
+
+msgid "Substance"
+msgstr "पदार्थ"
+
+msgid "Talc"
+msgstr "तालक"
+
+msgid "Rock salt"
+msgstr "सेंधा नमक"
+
+msgid "Limestone"
+msgstr "चूना पत्थर"
+
+msgid "Fluorspar"
+msgstr "धात्विया"
+
+msgid "Apatite"
+msgstr "एपेटाइट"
+
+msgid "Feldspar"
+msgstr "स्फतीय"
+
+msgid "Quartz"
+msgstr "क्वार्ट्ज"
+
+msgid "Topaz"
+msgstr "पुखराज"
+
+msgid "Corundum"
+msgstr "कोरन्डम"
+
+msgid "Diamond"
+msgstr "हीरा"
+
+msgid "Antiquity"
+msgstr "पुरातनता"
+
+msgid "Heat capacity"
+msgstr "ताप क्षमता"
+
+msgid "Table view"
+msgstr "तालिका दर्शन"
+
+msgid "Download"
+msgstr "डाउनलोड"
+
+msgid "Links"
+msgstr "लिंक"
+
+msgid "Source code"
+msgstr "स्रोत कोड"
+
+msgid "Unknown"
+msgstr "अनजान"
+
+msgid "Swedish"
+msgstr "स्वीडिश"
+
+msgid "Portuguese"
+msgstr "पुर्तगाली"
+
+msgid "Brazilian Portuguese"
+msgstr "ब्राजिलियन पुर्तगाली"
+
+msgid "Italian"
+msgstr "इतालवी"
+
+msgid "Danish"
+msgstr "दानिश"
+
+msgid "Hungarian"
+msgstr "हंगेरी"
+
+msgid "Belarusian"
+msgstr "बेलारूसी"
+
+msgid "Croatian"
+msgstr "क्रोएशियाई"
+
+msgid "Turkish"
+msgstr "तुर्की"
+
+msgid "Finnish"
+msgstr "फिनिश"
+
+msgid "Afrikaans"
+msgstr "अफ्रीकी"
+
+msgid "Ukrainian"
+msgstr "यूक्रेनी"
+
+msgid "Malay"
+msgstr "मलायी"
+
+msgid "Indonesian"
+msgstr "इन्डोनेशियाई"
+
+msgid "Japanese"
+msgstr "जापानी"
+
+msgid "Chinese - Simplified"
+msgstr "सरलीकृत चीनी"
+
+msgid "Romanian"
+msgstr "रोमानियाई"
