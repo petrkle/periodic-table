@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Tabela periódica",
+    "description": "Nome da aplicação"
+  },
+  "appDesc": {
+    "message": "Tabela periódica.",
+    "description": "Descrição da aplicação"
+  }
+}
