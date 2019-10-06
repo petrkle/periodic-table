@@ -52,8 +52,6 @@ foreach my $lang (@{$languages->{lang}}){
 
 	setlocales($lang->{locales});
 
-	my $msilang = lc($lang->{browser});
-
 	if( ! -d "$OUT/$lang->{locales}" ){
 		make_path("$OUT/$lang->{locales}");
 	}
@@ -240,9 +238,7 @@ foreach my $lang (@{$languages->{lang}}){
 		{	'title' => $locappname . ' - ' . lc(__('Download')),
 		  'langandroid' => $lang->{android},
 		  'lang' => $lang->{locales},
-		  'msilang' => $msilang,
 			'sitelang' => $lang->{android},
-		  'msiversion' => $pt::VERSION,
 			'canonical' => $location.'/'.$lang->{locales}.'/download.html',
 		},
 		"$OUT/$lang->{locales}/download.html",
