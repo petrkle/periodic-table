@@ -51,7 +51,7 @@ msgid "Spanish"
 msgstr "Spanisch"
 
 msgid "Dutch"
-msgstr "Holländisch"
+msgstr "Niederländisch"
 
 msgid "Default language"
 msgstr "Standardsprache"
@@ -60,13 +60,13 @@ msgid "State"
 msgstr "Aggregatzustand"
 
 msgid "Solid"
-msgstr "Solide"
+msgstr "Fest"
 
 msgid "Liquid"
 msgstr "Flüssige"
 
 msgid "Gas"
-msgstr "Gas"
+msgstr "Gasförmig"
 
 msgid "Symbol"
 msgstr "Symbol"
@@ -78,7 +78,7 @@ msgid "Period"
 msgstr "Periode"
 
 msgid "%d. period"
-msgstr "%d. periode"
+msgstr "%d. Periode"
 
 msgid "Element category"
 msgstr "Spezies"
@@ -99,7 +99,7 @@ msgid "Electronegativity"
 msgstr "Elektro<wbr>negativität"
 
 msgid "Oxidation numbers"
-msgstr "Oxidations<wbr>zustände"
+msgstr "Oxidations<wbr>zahlen"
 
 msgid "Electron configuration"
 msgstr "Elektronen<wbr>konfiguration"
@@ -180,10 +180,10 @@ msgid "Inner transition elements"
 msgstr "Inner Transitions<wbr>elemente"
 
 msgid "Transition elements"
-msgstr "Transition<wbr>elemente"
+msgstr "Übergangs<wbr>elemente"
 
 msgid "Metalloids"
-msgstr "Metalloids<wbr>peziation"
+msgstr "Halbmetalle"
 
 msgid "Nonmetals"
 msgstr "Nichtmetalle"
@@ -264,7 +264,7 @@ msgid "Links"
 msgstr "Links"
 
 msgid "Source code"
-msgstr "Source code"
+msgstr "Quelltext"
 
 msgid "Unknown"
 msgstr "Unbekannt"
@@ -315,16 +315,16 @@ msgid "Ukrainian"
 msgstr "Ukrainisch"
 
 msgid "Malay"
-msgstr ""
+msgstr "Malayisch"
 
 msgid "Indonesian"
-msgstr ""
+msgstr "Indonesisch"
 
 msgid "Japanese"
-msgstr ""
+msgstr "Japanisch"
 
 msgid "Chinese - Simplified"
-msgstr ""
+msgstr "Chinesisch - Vereinfacht"
 
 msgid "Romanian"
-msgstr ""
+msgstr "Rumänisch"
