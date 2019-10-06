@@ -57,6 +57,7 @@
     <name_zh_CN>溴</name_zh_CN>
     <name_ro_RO>Brom</name_ro_RO>
     <name_hi_HI>ब्रोमिन</name_hi_HI>
+    <name_si_SI>Bromine</name_si_SI>
   </element>
   <element>
     <anumber>17</anumber>
@@ -114,6 +115,7 @@
     <name_zh_CN>氯</name_zh_CN>
     <name_ro_RO>Clor</name_ro_RO>
     <name_hi_HI>क्लोरिन</name_hi_HI>
+    <name_si_SI>ක්ලෝරීන්</name_si_SI>
   </element>
   <element>
     <anumber>9</anumber>
@@ -171,6 +173,7 @@
     <name_zh_CN>氟</name_zh_CN>
     <name_ro_RO>Fluor</name_ro_RO>
     <name_hi_HI>फ्लोरीन</name_hi_HI>
+    <name_si_SI>ෆ්ලූවොරින්</name_si_SI>
   </element>
   <element>
     <anumber>53</anumber>
@@ -229,6 +232,7 @@
     <name_zh_CN>碘</name_zh_CN>
     <name_ro_RO>Iod</name_ro_RO>
     <name_hi_HI>आयोडिन</name_hi_HI>
+    <name_si_SI>Iodine</name_si_SI>
   </element>
   <element>
     <anumber>117</anumber>
@@ -273,6 +277,7 @@
     <name_zh_CN>鿬</name_zh_CN>
     <name_ro_RO>Tennessine</name_ro_RO>
     <name_hi_HI>Tennessine</name_hi_HI>
+    <name_si_SI>Tennessine</name_si_SI>
   </element>
   <element>
     <anumber>85</anumber>
@@ -323,5 +328,6 @@
     <name_zh_CN>砹</name_zh_CN>
     <name_ro_RO>Astatiniu</name_ro_RO>
     <name_hi_HI>एस्टाटिन</name_hi_HI>
+    <name_si_SI>Astatine</name_si_SI>
   </element>
 </elements>

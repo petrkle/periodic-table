@@ -58,6 +58,7 @@
     <name_zh_CN>銫</name_zh_CN>
     <name_ro_RO>Cesiu</name_ro_RO>
     <name_hi_HI>सेसियम</name_hi_HI>
+    <name_si_SI>Caesium</name_si_SI>
   </element>
   <element>
     <anumber>19</anumber>
@@ -118,6 +119,7 @@
     <name_zh_CN>鉀</name_zh_CN>
     <name_ro_RO>Potasiu</name_ro_RO>
     <name_hi_HI>पोटेशियम</name_hi_HI>
+    <name_si_SI>පොටෑසියම්</name_si_SI>
   </element>
   <element>
     <anumber>87</anumber>
@@ -166,6 +168,7 @@
     <name_zh_CN>鍅</name_zh_CN>
     <name_ro_RO>Franciu</name_ro_RO>
     <name_hi_HI>फ्रान्सियम</name_hi_HI>
+    <name_si_SI>Francium</name_si_SI>
   </element>
   <element>
     <anumber>3</anumber>
@@ -224,6 +227,7 @@
     <name_zh_CN>鋰</name_zh_CN>
     <name_ro_RO>Litiu</name_ro_RO>
     <name_hi_HI>लिथियम</name_hi_HI>
+    <name_si_SI>ලිතියම්</name_si_SI>
   </element>
   <element>
     <anumber>37</anumber>
@@ -285,6 +289,7 @@
     <name_zh_CN>銣</name_zh_CN>
     <name_ro_RO>Rubidiu</name_ro_RO>
     <name_hi_HI>रुबिडियम</name_hi_HI>
+    <name_si_SI>Rubidium</name_si_SI>
   </element>
   <element>
     <anumber>11</anumber>
@@ -347,5 +352,6 @@
     <name_zh_CN>鈉</name_zh_CN>
     <name_ro_RO>Sodiu</name_ro_RO>
     <name_hi_HI>सोडियम</name_hi_HI>
+    <name_si_SI>සෝඩියම්</name_si_SI>
   </element>
 </elements>

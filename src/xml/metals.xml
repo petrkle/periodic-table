@@ -59,6 +59,7 @@
     <name_zh_CN>鉍</name_zh_CN>
     <name_ro_RO>Bismut</name_ro_RO>
     <name_hi_HI>बिस्मुथ</name_hi_HI>
+    <name_si_SI>Bismuth</name_si_SI>
   </element>
   <element>
     <anumber>50</anumber>
@@ -119,6 +120,7 @@
     <name_zh_CN>錫</name_zh_CN>
     <name_ro_RO>Staniu</name_ro_RO>
     <name_hi_HI>त्रपु</name_hi_HI>
+    <name_si_SI>ටින්</name_si_SI>
   </element>
   <element>
     <anumber>31</anumber>
@@ -177,6 +179,7 @@
     <name_zh_CN>鎵</name_zh_CN>
     <name_ro_RO>Galiu</name_ro_RO>
     <name_hi_HI>गैलियम</name_hi_HI>
+    <name_si_SI>Gallium</name_si_SI>
   </element>
   <element>
     <anumber>13</anumber>
@@ -239,6 +242,7 @@
     <name_zh_CN>鋁</name_zh_CN>
     <name_ro_RO>Aluminiu</name_ro_RO>
     <name_hi_HI>एलुमिनियम</name_hi_HI>
+    <name_si_SI>ඇලුමිනියම්</name_si_SI>
   </element>
   <element>
     <anumber>49</anumber>
@@ -297,6 +301,7 @@
     <name_zh_CN>銦</name_zh_CN>
     <name_ro_RO>Indiu</name_ro_RO>
     <name_hi_HI>इण्डियम</name_hi_HI>
+    <name_si_SI>Indium</name_si_SI>
   </element>
   <element>
     <anumber>82</anumber>
@@ -358,6 +363,7 @@
     <name_zh_CN>鉛</name_zh_CN>
     <name_ro_RO>Plumb</name_ro_RO>
     <name_hi_HI>सीसा</name_hi_HI>
+    <name_si_SI>ඊයම්</name_si_SI>
   </element>
   <element>
     <anumber>84</anumber>
@@ -409,6 +415,7 @@
     <name_zh_CN>釙</name_zh_CN>
     <name_ro_RO>Poloniu</name_ro_RO>
     <name_hi_HI>पोलोनियम</name_hi_HI>
+    <name_si_SI>Polonium</name_si_SI>
   </element>
   <element>
     <anumber>81</anumber>
@@ -466,6 +473,7 @@
     <name_zh_CN>鉈</name_zh_CN>
     <name_ro_RO>Taliu</name_ro_RO>
     <name_hi_HI>थैलियम</name_hi_HI>
+    <name_si_SI>Thallium</name_si_SI>
   </element>
   <element>
     <anumber>113</anumber>
@@ -510,6 +518,7 @@
     <name_zh_CN>鉨</name_zh_CN>
     <name_ro_RO>Nihoniu</name_ro_RO>
     <name_hi_HI>Nihonium</name_hi_HI>
+    <name_si_SI>Nihonium</name_si_SI>
   </element>
   <element>
     <anumber>114</anumber>
@@ -554,6 +563,7 @@
     <name_zh_CN>鈇</name_zh_CN>
     <name_ro_RO>Fleroviu</name_ro_RO>
     <name_hi_HI>फ्लेरोवियम</name_hi_HI>
+    <name_si_SI>Flerovium</name_si_SI>
   </element>
   <element>
     <anumber>115</anumber>
@@ -598,6 +608,7 @@
     <name_zh_CN>鏌</name_zh_CN>
     <name_ro_RO>Moscoviu</name_ro_RO>
     <name_hi_HI>Moscovium</name_hi_HI>
+    <name_si_SI>Moscovium</name_si_SI>
   </element>
   <element>
     <anumber>116</anumber>
@@ -642,5 +653,6 @@
     <name_zh_CN>鉝</name_zh_CN>
     <name_ro_RO>Livermoriu</name_ro_RO>
     <name_hi_HI>लिवरमोरियम</name_hi_HI>
+    <name_si_SI>Livermorium</name_si_SI>
   </element>
 </elements>

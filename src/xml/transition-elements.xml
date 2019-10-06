@@ -52,6 +52,7 @@
     <name_zh_CN>錒</name_zh_CN>
     <name_ro_RO>Actiniu</name_ro_RO>
     <name_hi_HI>एक्टिनियम</name_hi_HI>
+    <name_si_SI>Actinium</name_si_SI>
   </element>
   <element>
     <anumber>24</anumber>
@@ -113,6 +114,7 @@
     <name_zh_CN>鉻</name_zh_CN>
     <name_ro_RO>Crom</name_ro_RO>
     <name_hi_HI>क्रोमियम</name_hi_HI>
+    <name_si_SI>ක්‍රෝමියම්</name_si_SI>
   </element>
   <element>
     <anumber>72</anumber>
@@ -174,6 +176,7 @@
     <name_zh_CN>鉿</name_zh_CN>
     <name_ro_RO>Hafniu</name_ro_RO>
     <name_hi_HI>हाफ्नियम</name_hi_HI>
+    <name_si_SI>Hafnium</name_si_SI>
   </element>
   <element>
     <anumber>77</anumber>
@@ -233,6 +236,7 @@
     <name_zh_CN>銥</name_zh_CN>
     <name_ro_RO>Iridiu</name_ro_RO>
     <name_hi_HI>इरिडियम</name_hi_HI>
+    <name_si_SI>ඉරිඩියම්</name_si_SI>
   </element>
   <element>
     <anumber>48</anumber>
@@ -293,6 +297,7 @@
     <name_zh_CN>鎘</name_zh_CN>
     <name_ro_RO>Cadmiu</name_ro_RO>
     <name_hi_HI>काडमियम</name_hi_HI>
+    <name_si_SI>කැඩ්මියම්</name_si_SI>
   </element>
   <element>
     <anumber>27</anumber>
@@ -354,6 +359,7 @@
     <name_zh_CN>鈷</name_zh_CN>
     <name_ro_RO>Cobalt</name_ro_RO>
     <name_hi_HI>कोबाल्ट</name_hi_HI>
+    <name_si_SI>කොබෝල්ට්</name_si_SI>
   </element>
   <element>
     <anumber>104</anumber>
@@ -398,6 +404,7 @@
     <name_zh_CN>鑪</name_zh_CN>
     <name_ro_RO>Rutherfordiu</name_ro_RO>
     <name_hi_HI>रुथरफोर्डियम</name_hi_HI>
+    <name_si_SI>Rutherfordium</name_si_SI>
   </element>
   <element>
     <anumber>57</anumber>
@@ -458,6 +465,7 @@
     <name_zh_CN>鑭</name_zh_CN>
     <name_ro_RO>Lantan</name_ro_RO>
     <name_hi_HI>लाञ्थनम</name_hi_HI>
+    <name_si_SI>Lanthanum</name_si_SI>
   </element>
   <element>
     <anumber>25</anumber>
@@ -517,6 +525,7 @@
     <name_zh_CN>錳</name_zh_CN>
     <name_ro_RO>Mangan</name_ro_RO>
     <name_hi_HI>मैगनीज</name_hi_HI>
+    <name_si_SI>මැංගනීස්</name_si_SI>
   </element>
   <element>
     <anumber>42</anumber>
@@ -578,6 +587,7 @@
     <name_zh_CN>鉬</name_zh_CN>
     <name_ro_RO>Molibden</name_ro_RO>
     <name_hi_HI>मोलिब्डेनम</name_hi_HI>
+    <name_si_SI>Molybdenum</name_si_SI>
   </element>
   <element>
     <anumber>29</anumber>
@@ -640,6 +650,7 @@
     <name_zh_CN>銅</name_zh_CN>
     <name_ro_RO>Cupru</name_ro_RO>
     <name_hi_HI>तांबा</name_hi_HI>
+    <name_si_SI>තඹ</name_si_SI>
   </element>
   <element>
     <anumber>28</anumber>
@@ -699,6 +710,7 @@
     <name_zh_CN>鎳</name_zh_CN>
     <name_ro_RO>Nichel</name_ro_RO>
     <name_hi_HI>निकेल</name_hi_HI>
+    <name_si_SI>නිකල්</name_si_SI>
   </element>
   <element>
     <anumber>41</anumber>
@@ -760,6 +772,7 @@
     <name_zh_CN>鈮</name_zh_CN>
     <name_ro_RO>Niobiu</name_ro_RO>
     <name_hi_HI>नायोबियम</name_hi_HI>
+    <name_si_SI>Niobium</name_si_SI>
   </element>
   <element>
     <anumber>76</anumber>
@@ -817,6 +830,7 @@
     <name_zh_CN>鋨</name_zh_CN>
     <name_ro_RO>Osmiu</name_ro_RO>
     <name_hi_HI>अस्मियम</name_hi_HI>
+    <name_si_SI>ඔස්මියම්</name_si_SI>
   </element>
   <element>
     <anumber>46</anumber>
@@ -878,6 +892,7 @@
     <name_zh_CN>鈀</name_zh_CN>
     <name_ro_RO>Paladiu</name_ro_RO>
     <name_hi_HI>पलाडियम</name_hi_HI>
+    <name_si_SI>Palladium</name_si_SI>
   </element>
   <element>
     <anumber>78</anumber>
@@ -939,6 +954,7 @@
     <name_zh_CN>鉑</name_zh_CN>
     <name_ro_RO>Platină</name_ro_RO>
     <name_hi_HI>प्लाटिनम</name_hi_HI>
+    <name_si_SI>ප්ලැටිනම්</name_si_SI>
   </element>
   <element>
     <anumber>75</anumber>
@@ -998,6 +1014,7 @@
     <name_zh_CN>錸</name_zh_CN>
     <name_ro_RO>Reniu</name_ro_RO>
     <name_hi_HI>रेनियम</name_hi_HI>
+    <name_si_SI>Rhenium</name_si_SI>
   </element>
   <element>
     <anumber>45</anumber>
@@ -1059,6 +1076,7 @@
     <name_zh_CN>銠</name_zh_CN>
     <name_ro_RO>Rodiu</name_ro_RO>
     <name_hi_HI>रोडियम</name_hi_HI>
+    <name_si_SI>Rhodium</name_si_SI>
   </element>
   <element>
     <anumber>80</anumber>
@@ -1119,6 +1137,7 @@
     <name_zh_CN>汞</name_zh_CN>
     <name_ro_RO>Mercur</name_ro_RO>
     <name_hi_HI>पारा</name_hi_HI>
+    <name_si_SI>Mercury</name_si_SI>
   </element>
   <element>
     <anumber>44</anumber>
@@ -1179,6 +1198,7 @@
     <name_zh_CN>釕</name_zh_CN>
     <name_ro_RO>Ruteniu</name_ro_RO>
     <name_hi_HI>रुथेनियम</name_hi_HI>
+    <name_si_SI>Ruthenium</name_si_SI>
   </element>
   <element>
     <anumber>21</anumber>
@@ -1236,6 +1256,7 @@
     <name_zh_CN>鈧</name_zh_CN>
     <name_ro_RO>Scandiu</name_ro_RO>
     <name_hi_HI>स्काण्डियम</name_hi_HI>
+    <name_si_SI>ස්කැන්ඩියම්</name_si_SI>
   </element>
   <element>
     <anumber>47</anumber>
@@ -1298,6 +1319,7 @@
     <name_zh_CN>銀</name_zh_CN>
     <name_ro_RO>Argint</name_ro_RO>
     <name_hi_HI>रूप्यम्</name_hi_HI>
+    <name_si_SI>රිදී</name_si_SI>
   </element>
   <element>
     <anumber>73</anumber>
@@ -1357,6 +1379,7 @@
     <name_zh_CN>鉭</name_zh_CN>
     <name_ro_RO>Tantal</name_ro_RO>
     <name_hi_HI>टाण्टलम</name_hi_HI>
+    <name_si_SI>Tantalum</name_si_SI>
   </element>
   <element>
     <anumber>43</anumber>
@@ -1413,6 +1436,7 @@
     <name_zh_CN>鎝</name_zh_CN>
     <name_ro_RO>Technețiu</name_ro_RO>
     <name_hi_HI>टेक्निशियम</name_hi_HI>
+    <name_si_SI>Technetium</name_si_SI>
   </element>
   <element>
     <anumber>22</anumber>
@@ -1473,6 +1497,7 @@
     <name_zh_CN>鈦</name_zh_CN>
     <name_ro_RO>Titan</name_ro_RO>
     <name_hi_HI>टाइटैनियम</name_hi_HI>
+    <name_si_SI>ටයිටේනියම්</name_si_SI>
   </element>
   <element>
     <anumber>109</anumber>
@@ -1515,6 +1540,7 @@
     <name_zh_CN>䥑</name_zh_CN>
     <name_ro_RO>Meitneriu</name_ro_RO>
     <name_hi_HI>मेइट्नेरियम</name_hi_HI>
+    <name_si_SI>Meitnerium</name_si_SI>
   </element>
   <element>
     <anumber>106</anumber>
@@ -1558,6 +1584,7 @@
     <name_zh_CN>𨭎</name_zh_CN>
     <name_ro_RO>Seaborgiu</name_ro_RO>
     <name_hi_HI>सीबोर्गियम</name_hi_HI>
+    <name_si_SI>Seaborgium</name_si_SI>
   </element>
   <element>
     <anumber>108</anumber>
@@ -1600,6 +1627,7 @@
     <name_zh_CN>𨭆</name_zh_CN>
     <name_ro_RO>Hassiu</name_ro_RO>
     <name_hi_HI>हसियम</name_hi_HI>
+    <name_si_SI>Hassium</name_si_SI>
   </element>
   <element>
     <anumber>105</anumber>
@@ -1643,6 +1671,7 @@
     <name_zh_CN>𨧀</name_zh_CN>
     <name_ro_RO>Dubniu</name_ro_RO>
     <name_hi_HI>डब्नियम</name_hi_HI>
+    <name_si_SI>Dubnium</name_si_SI>
   </element>
   <element>
     <anumber>107</anumber>
@@ -1686,6 +1715,7 @@
     <name_zh_CN>𨨏</name_zh_CN>
     <name_ro_RO>Bohriu</name_ro_RO>
     <name_hi_HI>बोरियम</name_hi_HI>
+    <name_si_SI>Bohrium</name_si_SI>
   </element>
   <element>
     <anumber>23</anumber>
@@ -1747,6 +1777,7 @@
     <name_zh_CN>釩</name_zh_CN>
     <name_ro_RO>Vanadiu</name_ro_RO>
     <name_hi_HI>वनेडियम</name_hi_HI>
+    <name_si_SI>Vanadium</name_si_SI>
   </element>
   <element>
     <anumber>74</anumber>
@@ -1807,6 +1838,7 @@
     <name_zh_CN>鎢</name_zh_CN>
     <name_ro_RO>Wolfram</name_ro_RO>
     <name_hi_HI>टंग्स्टन</name_hi_HI>
+    <name_si_SI>ටංස්ටන්</name_si_SI>
   </element>
   <element>
     <anumber>39</anumber>
@@ -1866,6 +1898,7 @@
     <name_zh_CN>釔</name_zh_CN>
     <name_ro_RO>Ytriu</name_ro_RO>
     <name_hi_HI>यितृयम</name_hi_HI>
+    <name_si_SI>Yttrium</name_si_SI>
   </element>
   <element>
     <anumber>30</anumber>
@@ -1927,6 +1960,7 @@
     <name_zh_CN>鋅</name_zh_CN>
     <name_ro_RO>Zinc</name_ro_RO>
     <name_hi_HI>वङ्गम्</name_hi_HI>
+    <name_si_SI>සින්ක්</name_si_SI>
   </element>
   <element>
     <anumber>40</anumber>
@@ -1988,6 +2022,7 @@
     <name_zh_CN>鋯</name_zh_CN>
     <name_ro_RO>Zirconiu</name_ro_RO>
     <name_hi_HI>जर्कोनियम</name_hi_HI>
+    <name_si_SI>Zirconium</name_si_SI>
   </element>
   <element>
     <anumber>79</anumber>
@@ -2049,6 +2084,7 @@
     <name_zh_CN>金</name_zh_CN>
     <name_ro_RO>Aur</name_ro_RO>
     <name_hi_HI>सोना</name_hi_HI>
+    <name_si_SI>රන්</name_si_SI>
   </element>
   <element>
     <anumber>26</anumber>
@@ -2110,6 +2146,7 @@
     <name_zh_CN>鐵</name_zh_CN>
     <name_ro_RO>Fier</name_ro_RO>
     <name_hi_HI>लोहा</name_hi_HI>
+    <name_si_SI>අයන්</name_si_SI>
   </element>
   <element>
     <anumber>110</anumber>
@@ -2154,6 +2191,7 @@
     <name_zh_CN>鐽</name_zh_CN>
     <name_ro_RO>Darmstadtiu</name_ro_RO>
     <name_hi_HI>डार्म्स्टेडशियम</name_hi_HI>
+    <name_si_SI>Darmstadtium</name_si_SI>
   </element>
   <element>
     <anumber>111</anumber>
@@ -2198,6 +2236,7 @@
     <name_zh_CN>錀</name_zh_CN>
     <name_ro_RO>Roentgeniu</name_ro_RO>
     <name_hi_HI>रॉन्टजैनियम</name_hi_HI>
+    <name_si_SI>Roentgenium</name_si_SI>
   </element>
   <element>
     <anumber>112</anumber>
@@ -2242,5 +2281,6 @@
     <name_zh_CN>鎶</name_zh_CN>
     <name_ro_RO>Coperniciu</name_ro_RO>
     <name_hi_HI>कोपरनिसियम</name_hi_HI>
+    <name_si_SI>Copernicium</name_si_SI>
   </element>
 </elements>

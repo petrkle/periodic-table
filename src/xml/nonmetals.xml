@@ -56,6 +56,7 @@
     <name_zh_CN>氮</name_zh_CN>
     <name_ro_RO>Azot</name_ro_RO>
     <name_hi_HI>नाइट्रोजन</name_hi_HI>
+    <name_si_SI>නයිට්‍රජන්</name_si_SI>
   </element>
   <element>
     <anumber>15</anumber>
@@ -112,6 +113,7 @@
     <name_zh_CN>磷</name_zh_CN>
     <name_ro_RO>Fosfor</name_ro_RO>
     <name_hi_HI>फास्फोरस</name_hi_HI>
+    <name_si_SI>ෆොස්පරස්</name_si_SI>
   </element>
   <element>
     <anumber>8</anumber>
@@ -169,6 +171,7 @@
     <name_zh_CN>氧</name_zh_CN>
     <name_ro_RO>Oxigen</name_ro_RO>
     <name_hi_HI>ऑक्सीजन</name_hi_HI>
+    <name_si_SI>ඔක්සිජන්</name_si_SI>
   </element>
   <element>
     <anumber>34</anumber>
@@ -229,6 +232,7 @@
     <name_zh_CN>硒</name_zh_CN>
     <name_ro_RO>Seleniu</name_ro_RO>
     <name_hi_HI>सेलेनियम</name_hi_HI>
+    <name_si_SI>Selenium</name_si_SI>
   </element>
   <element>
     <anumber>16</anumber>
@@ -287,6 +291,7 @@
     <name_zh_CN>硫</name_zh_CN>
     <name_ro_RO>Sulf</name_ro_RO>
     <name_hi_HI>गन्धक</name_hi_HI>
+    <name_si_SI>සල්ෆර්</name_si_SI>
   </element>
   <element>
     <anumber>6</anumber>
@@ -343,6 +348,7 @@
     <name_zh_CN>碳</name_zh_CN>
     <name_ro_RO>Carbon</name_ro_RO>
     <name_hi_HI>कार्बन</name_hi_HI>
+    <name_si_SI>කාබන්</name_si_SI>
   </element>
   <element>
     <anumber>1</anumber>
@@ -397,5 +403,6 @@
     <name_zh_CN>氫</name_zh_CN>
     <name_ro_RO>Hidrogen</name_ro_RO>
     <name_hi_HI>हाइड्रोजन</name_hi_HI>
+    <name_si_SI>හයිඩ්‍රජන්</name_si_SI>
   </element>
 </elements>

@@ -54,6 +54,7 @@
     <name_zh_CN>氬</name_zh_CN>
     <name_ro_RO>Argon</name_ro_RO>
     <name_hi_HI>ऑर्गन</name_hi_HI>
+    <name_si_SI>ආගන්</name_si_SI>
   </element>
   <element>
     <anumber>2</anumber>
@@ -106,6 +107,7 @@
     <name_zh_CN>氦</name_zh_CN>
     <name_ro_RO>Heliu</name_ro_RO>
     <name_hi_HI>हीलियम</name_hi_HI>
+    <name_si_SI>හීලියම්</name_si_SI>
   </element>
   <element>
     <anumber>36</anumber>
@@ -162,6 +164,7 @@
     <name_zh_CN>氪</name_zh_CN>
     <name_ro_RO>Kripton</name_ro_RO>
     <name_hi_HI>कृप्टन</name_hi_HI>
+    <name_si_SI>ක්‍රිප්ටන්</name_si_SI>
   </element>
   <element>
     <anumber>10</anumber>
@@ -217,6 +220,7 @@
     <name_zh_CN>氖</name_zh_CN>
     <name_ro_RO>Neon</name_ro_RO>
     <name_hi_HI>नियोन</name_hi_HI>
+    <name_si_SI>නියෝන්</name_si_SI>
   </element>
   <element>
     <anumber>86</anumber>
@@ -271,6 +275,7 @@
     <name_zh_CN>氡</name_zh_CN>
     <name_ro_RO>Radon</name_ro_RO>
     <name_hi_HI>रेडन</name_hi_HI>
+    <name_si_SI>Radon</name_si_SI>
   </element>
   <element>
     <anumber>54</anumber>
@@ -327,6 +332,7 @@
     <name_zh_CN>氙</name_zh_CN>
     <name_ro_RO>Xenon</name_ro_RO>
     <name_hi_HI>जेनन</name_hi_HI>
+    <name_si_SI>Xenon</name_si_SI>
   </element>
   <element>
     <anumber>118</anumber>
@@ -371,5 +377,6 @@
     <name_zh_CN>鿫</name_zh_CN>
     <name_ro_RO>Oganesson</name_ro_RO>
     <name_hi_HI>Oganesson</name_hi_HI>
+    <name_si_SI>Oganesson</name_si_SI>
   </element>
 </elements>
