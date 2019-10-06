@@ -1,0 +1,315 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-04 13:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: si_SI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Periodic Table"
+msgstr "ආවර්තිතා වගුව"
+
+msgid "Settings"
+msgstr "සැකසුම්"
+
+msgid "Language"
+msgstr "භාෂාව"
+
+msgid "About"
+msgstr "විස්තර​"
+
+msgid "English"
+msgstr "ඉංග්‍රීසි"
+
+msgid "Czech"
+msgstr "චෙක්"
+
+msgid "Slovak"
+msgstr "ස්ලෝවැක්"
+
+msgid "German"
+msgstr "ජර්මානු"
+
+msgid "French"
+msgstr "ප්‍රංශ"
+
+msgid "Polish"
+msgstr "පෝලන්ත"
+
+msgid "Spanish"
+msgstr "ස්පාඤ්ඤ"
+
+msgid "Dutch"
+msgstr "ලන්දේසි"
+
+msgid "Default language"
+msgstr "පෙරනිමි භාෂාව"
+
+msgid "State"
+msgstr "අවස්ථාව​"
+
+msgid "Solid"
+msgstr "ඝණ"
+
+msgid "Liquid"
+msgstr "ද්‍රව​"
+
+msgid "Gas"
+msgstr "වායු"
+
+msgid "Symbol"
+msgstr "සංකේතය"
+
+msgid "Atomic number"
+msgstr "පරමාණුක අංකය"
+
+msgid "Period"
+msgstr "ආවර්තය​"
+
+msgid "%d. period"
+msgstr "%d. period"
+
+msgid "Element category"
+msgstr "මූලද්‍රව්‍ය ප්‍රවර්ගය"
+
+msgid "Relative atomic mass"
+msgstr "සාපේක්ෂ පරමාණුක ස්කන්ධය"
+
+msgid "Atomic mass"
+msgstr "පරමාණුක ස්කන්ධය"
+
+msgid "Group"
+msgstr "කාණ්ඩය​"
+
+msgid "group"
+msgstr "කාණ්ඩය​"
+
+msgid "Electronegativity"
+msgstr "විද්‍යුත් ඍණතාව"
+
+msgid "Oxidation numbers"
+msgstr "ඔක්සිකරණ අංක"
+
+msgid "Electron configuration"
+msgstr "ඉලෙක්ට්‍රෝන වින්‍යාසය"
+
+msgid "Density"
+msgstr "ඝණත්වය​"
+
+msgid "Melting point"
+msgstr "ද්‍රවාංකය"
+
+msgid "Boiling point"
+msgstr "තාපාංකය"
+
+msgid "Critical point"
+msgstr "අවධ් ලක්‍ෂය​"
+
+msgid "Critical pressure"
+msgstr "අවධ් පීඩනය​"
+
+msgid "Atomic radius"
+msgstr "පරමාණුක අරය"
+
+msgid "Covalent radius"
+msgstr "සහසංයුජ අරය"
+
+msgid "Thermal conductivity"
+msgstr "තාප සන්නායකතාව"
+
+msgid "Discovery"
+msgstr "සොයාගැනීම"
+
+msgid "Hardness"
+msgstr "දෘඩතාව"
+
+msgid "Vickers hardness"
+msgstr "විකර්ස් දෘඩතාවය"
+
+msgid "Brinell hardness"
+msgstr "බ්‍රිනෙල් දෘඩතාව"
+
+msgid "Mohs scale"
+msgstr "මෝස් පරිමාණය"
+
+msgid "Shear modulus"
+msgstr "ෂියර් මාපාංකය"
+
+msgid "Young's modulus"
+msgstr "යං මාපාංකය"
+
+msgid "Electrical resistivity"
+msgstr "විද්‍යුත් ප්‍රතිරෝධකතාව​"
+
+msgid "Electrical conductivity"
+msgstr "විද්‍යුත් සන්නායකතාව"
+
+msgid "Name"
+msgstr "නම"
+
+msgid "Latin name"
+msgstr "ලතින් නම"
+
+msgid "Version"
+msgstr "පිටපත"
+
+msgid "Created"
+msgstr "නිර්මාණය කරන ලදි"
+
+msgid "Author"
+msgstr "කර්තෘ"
+
+msgid "Write review"
+msgstr "සමාලෝචනය ලියන්න"
+
+msgid "Noble gases"
+msgstr "උච්ච වායූන්"
+
+msgid "Inner transition elements"
+msgstr "අභ්‍යන්තර සංක්‍රාන්ති මූලද්‍රව්‍ය"
+
+msgid "Transition elements"
+msgstr "සංක්‍රාන්ති මූලද්‍රව්‍ය"
+
+msgid "Metalloids"
+msgstr "ලෝහමය"
+
+msgid "Nonmetals"
+msgstr "අලෝහමය"
+
+msgid "Alkaline earth metals"
+msgstr "ක්ෂාරීය පාංශු ලෝහ"
+
+msgid "Metals"
+msgstr "ලෝහ"
+
+msgid "Halogens"
+msgstr "හැලජන්"
+
+msgid "Alkali metals"
+msgstr " ක්ෂාර ලෝහ"
+
+msgid "1.st ionization energy"
+msgstr "පළමුවන අයනීකරණ ශක්තිය"
+
+msgid "2.nd ionization energy"
+msgstr "දෙවන අයනීකරණ ශක්තිය"
+
+msgid "3.rd ionization energy"
+msgstr "තෙවන අයනීකරණ ශක්තිය"
+
+msgid "Stable isotopes"
+msgstr "ස්ථාවර සමස්ථානික"
+
+msgid "Unstable isotopes"
+msgstr "අස්ථායී සමස්ථානික"
+
+msgid "Substance"
+msgstr "ද්‍රව්‍ය"
+
+msgid "Talc"
+msgstr "ටැල්ක්"
+
+msgid "Rock salt"
+msgstr "ආකර ලුණු"
+
+msgid "Limestone"
+msgstr "හුණුගල්"
+
+msgid "Fluorspar"
+msgstr "ෆ්ලෝවර්ස්පාර්"
+
+msgid "Apatite"
+msgstr "ඇපටයිට්"
+
+msgid "Feldspar"
+msgstr "ෆෙල්ඩ්ස්පාර්"
+
+msgid "Quartz"
+msgstr "ක්වාර්ට්ස්"
+
+msgid "Topaz"
+msgstr "ටොපෑස්"
+
+msgid "Corundum"
+msgstr "කොරුන්ඩම්"
+
+msgid "Diamond"
+msgstr "දියමන්ති"
+
+msgid "Antiquity"
+msgstr "පෞරාණිකත්වය"
+
+msgid "Heat capacity"
+msgstr "තාප ධාරිතාව"
+
+msgid "Table view"
+msgstr "වගු දර්ශනය"
+
+msgid "Download"
+msgstr "බාගතකරන්න​"
+
+msgid "Links"
+msgstr "වෙබ් අඩවි සබැඳිය"
+
+msgid "Source code"
+msgstr "ප්රභව කේතය"
+
+msgid "Unknown"
+msgstr "නොදන්නා"
+
+msgid "Swedish"
+msgstr "ස්වීඩන්"
+
+msgid "Portuguese"
+msgstr "පෘතුගීසි"
+
+msgid "Brazilian Portuguese"
+msgstr "බ්‍රසීලියානු පෘතුගීසි"
+
+msgid "Italian"
+msgstr "ඉතාලි"
+
+msgid "Turkish"
+msgstr "තුර්කි"
+
+msgid "Finnish"
+msgstr "ෆින්ලන්ත"
+
+msgid "Danish"
+msgstr "ඩෙන්මාර්ක"
+
+msgid "Croatian"
+msgstr "ක්‍රොඒෂියානු"
+
+msgid "Afrikaans"
+msgstr "අප්‍රිකානු"
+
+msgid "Ukrainian"
+msgstr "යුක්රේන"
+
+msgid "Malay"
+msgstr "මැලේ"
+
+msgid "Indonesian"
+msgstr "ඉන්දුනීසියානු"
+
+msgid "Japanese"
+msgstr "ජපන්"
+
+msgid "Chinese - Simplified"
+msgstr "චීන - සරල"
+
+msgid "Romanian"
+msgstr "රුමේනියානු"
