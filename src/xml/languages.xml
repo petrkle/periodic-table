@@ -261,4 +261,14 @@
 		<title>Tabelul periodic</title>
 	</lang>
 
+	<lang>
+		<fullname>Hindi</fullname>
+		<fullnameloc>हिन्दी भाषा</fullnameloc>
+		<locales>hi_HI</locales>
+		<android>hi</android>
+		<browser>hi-HI</browser>
+		<msi>hi-HI</msi>
+		<title>आवर्त सारणी</title>
+	</lang>
+
 </lagnuages>

@@ -54,6 +54,7 @@
     <name_ja_JP>バリウム</name_ja_JP>
     <name_zh_CN>鋇</name_zh_CN>
     <name_ro_RO>Bariu</name_ro_RO>
+    <name_hi_HI>बेरियम</name_hi_HI>
   </element>
   <element>
     <anumber>12</anumber>
@@ -113,6 +114,7 @@
     <name_ja_JP>マグネシウム</name_ja_JP>
     <name_zh_CN>鎂</name_zh_CN>
     <name_ro_RO>Magneziu</name_ro_RO>
+    <name_hi_HI>मेगनीसियम</name_hi_HI>
   </element>
   <element>
     <anumber>4</anumber>
@@ -173,6 +175,7 @@
     <name_ja_JP>ベリリウム</name_ja_JP>
     <name_zh_CN>鈹</name_zh_CN>
     <name_ro_RO>Beriliu</name_ro_RO>
+    <name_hi_HI>बेरिलियम</name_hi_HI>
   </element>
   <element>
     <anumber>88</anumber>
@@ -225,6 +228,7 @@
     <name_ja_JP>ラジウム</name_ja_JP>
     <name_zh_CN>鐳</name_zh_CN>
     <name_ro_RO>Radiu</name_ro_RO>
+    <name_hi_HI>रेडियम</name_hi_HI>
   </element>
   <element>
     <anumber>38</anumber>
@@ -281,6 +285,7 @@
     <name_ja_JP>ストロンチウム</name_ja_JP>
     <name_zh_CN>鍶</name_zh_CN>
     <name_ro_RO>Stronțiu</name_ro_RO>
+    <name_hi_HI>स्ट्रोन्सियम</name_hi_HI>
   </element>
   <element>
     <anumber>20</anumber>
@@ -338,5 +343,6 @@
     <name_ja_JP>カルシウム</name_ja_JP>
     <name_zh_CN>鈣</name_zh_CN>
     <name_ro_RO>Calciu</name_ro_RO>
+    <name_hi_HI>कैल्सियम</name_hi_HI>
   </element>
 </elements>

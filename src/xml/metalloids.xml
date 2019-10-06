@@ -58,6 +58,7 @@
     <name_ja_JP>アンチモン</name_ja_JP>
     <name_zh_CN>銻</name_zh_CN>
     <name_ro_RO>Antimoniu</name_ro_RO>
+    <name_hi_HI>एन्टिमोनी</name_hi_HI>
   </element>
   <element>
     <anumber>33</anumber>
@@ -116,6 +117,7 @@
     <name_ja_JP>ヒ素</name_ja_JP>
     <name_zh_CN>砷</name_zh_CN>
     <name_ro_RO>Arsen</name_ro_RO>
+    <name_hi_HI>आर्सेनिक</name_hi_HI>
   </element>
   <element>
     <anumber>5</anumber>
@@ -173,6 +175,7 @@
     <name_ja_JP>ホウ素</name_ja_JP>
     <name_zh_CN>硼</name_zh_CN>
     <name_ro_RO>Bor</name_ro_RO>
+    <name_hi_HI>बोरोन</name_hi_HI>
   </element>
   <element>
     <anumber>32</anumber>
@@ -227,6 +230,7 @@
     <name_ja_JP>ゲルマニウム</name_ja_JP>
     <name_zh_CN>鍺</name_zh_CN>
     <name_ro_RO>Germaniu</name_ro_RO>
+    <name_hi_HI>जर्मेनियम</name_hi_HI>
   </element>
   <element>
     <anumber>14</anumber>
@@ -284,6 +288,7 @@
     <name_ja_JP>ケイ素</name_ja_JP>
     <name_zh_CN>硅</name_zh_CN>
     <name_ro_RO>Siliciu</name_ro_RO>
+    <name_hi_HI>सिलिकॉन</name_hi_HI>
   </element>
   <element>
     <anumber>52</anumber>
@@ -343,5 +348,6 @@
     <name_ja_JP>テルル</name_ja_JP>
     <name_zh_CN>碲</name_zh_CN>
     <name_ro_RO>Telur</name_ro_RO>
+    <name_hi_HI>टेलुरियम</name_hi_HI>
   </element>
 </elements>

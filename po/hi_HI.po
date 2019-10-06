@@ -183,10 +183,10 @@ msgid "Transition elements"
 msgstr "संक्रमण तत्व"
 
 msgid "Metalloids"
-msgstr "Metalloids"
+msgstr "उपधातु"
 
 msgid "Nonmetals"
-msgstr "Nonmetals"
+msgstr "अधातु"
 
 msgid "Alkaline earth metals"
 msgstr "क्षारीय पृथ्वी धातु"
