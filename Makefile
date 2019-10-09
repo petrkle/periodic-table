@@ -1,5 +1,4 @@
 COMPRESS=java -jar $(HOME)/lib/htmlcompressor-1.5.3.jar --compress-js --compress-css --remove-surrounding-spaces all -r -m '*.html' -o
-VERSION=$(shell perl version.pl)
 
 help:
 	@echo "help         - this help"
@@ -8,7 +7,6 @@ help:
 	@echo "beta         - upload files on test web"
 	@echo "pt.zip       - hosted app for Chrome store"
 	@echo "clean        - remove generated files"
-
 
 web:
 	cd po ; $(MAKE)
