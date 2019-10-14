@@ -201,13 +201,13 @@ msgid "Alkali metals"
 msgstr "क्षारीय धातु"
 
 msgid "1.st ionization energy"
-msgstr "1. आयनन ऊर्जा"
+msgstr "प्रथम आयनन ऊर्जा"
 
 msgid "2.nd ionization energy"
-msgstr "2. आयनीकरण ऊर्जा"
+msgstr "द्वितीय आयनीकरण ऊर्जा"
 
 msgid "3.rd ionization energy"
-msgstr "3. आयनीकरण ऊर्जा"
+msgstr "तृतीय आयनीकरण ऊर्जा"
 
 msgid "Stable isotopes"
 msgstr "स्थिर आइसोटोप"
