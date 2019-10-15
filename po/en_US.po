@@ -309,7 +309,7 @@ msgid "Japanese"
 msgstr "Japanese"
 
 msgid "Chinese - Simplified"
-msgstr ""
+msgstr "Chinese - Simplified"
 
 msgid "Romanian"
-msgstr ""
+msgstr "Romanian"
