@@ -319,3 +319,9 @@ msgstr "सरलीकृत चीनी"
 
 msgid "Romanian"
 msgstr "रोमानियाई"
+
+msgid "Sinhala"
+msgstr ""
+
+msgid "Hindi"
+msgstr ""

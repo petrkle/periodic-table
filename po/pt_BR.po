@@ -318,3 +318,9 @@ msgstr "Chinês - Simplicado"
 
 msgid "Romanian"
 msgstr "Romeno"
+
+msgid "Sinhala"
+msgstr ""
+
+msgid "Hindi"
+msgstr ""

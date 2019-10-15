@@ -313,3 +313,9 @@ msgstr "Chineză simplificată"
 
 msgid "Romanian"
 msgstr "Română"
+
+msgid "Sinhala"
+msgstr ""
+
+msgid "Hindi"
+msgstr ""

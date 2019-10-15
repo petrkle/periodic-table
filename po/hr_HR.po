@@ -312,3 +312,9 @@ msgstr "Kineski"
 
 msgid "Romanian"
 msgstr "Rumunjski"
+
+msgid "Sinhala"
+msgstr ""
+
+msgid "Hindi"
+msgstr ""

@@ -327,3 +327,9 @@ msgstr "Zjednodušená čínština"
 
 msgid "Romanian"
 msgstr "Rumunština"
+
+msgid "Sinhala"
+msgstr ""
+
+msgid "Hindi"
+msgstr ""

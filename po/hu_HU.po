@@ -317,3 +317,9 @@ msgstr ""
 
 msgid "Romanian"
 msgstr ""
+
+msgid "Sinhala"
+msgstr ""
+
+msgid "Hindi"
+msgstr ""
