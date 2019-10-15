@@ -321,3 +321,9 @@ msgstr "Китайська спрощена"
 
 msgid "Romanian"
 msgstr "Румунська"
+
+msgid "Sinhala"
+msgstr "Сингальська"
+
+msgid "Hindi"
+msgstr "Гінді"
