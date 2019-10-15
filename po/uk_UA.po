@@ -230,7 +230,7 @@ msgid "Antiquity"
 msgstr "Античність"
 
 msgid "Heat capacity"
-msgstr "Теплоємкість"
+msgstr "Теплоємність"
 
 msgid "Table view"
 msgstr "Вигляд: таблиця"
@@ -277,8 +277,8 @@ msgstr "Шведська"
 msgid "Portuguese"
 msgstr "Португальська"
 
-msgid "Brazilian"
-msgstr "Бразильска"
+msgid "Brazilian Portuguese"
+msgstr "Бразильска португальська"
 
 msgid "Italian"
 msgstr "Італійська"
@@ -314,10 +314,10 @@ msgid "Indonesian"
 msgstr "Індонезійська"
 
 msgid "Japanese"
-msgstr ""
+msgstr "Японська"
 
 msgid "Chinese - Simplified"
-msgstr ""
+msgstr "Китайська спрощена"
 
 msgid "Romanian"
-msgstr ""
+msgstr "Румунська"

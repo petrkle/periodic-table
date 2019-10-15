@@ -8,7 +8,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: Periodic table\n"
 "Last-Translators: Maksim Labovich <lumihis+github@gmail.com>, Julia Yatsenko <yatsenko.julia@gmail.com>\n"
-"Language: ru\n"
+"Language: ru_RU\n"
 
 msgid "Periodic Table"
 msgstr "Периодическая таблица"
@@ -277,8 +277,8 @@ msgstr "Шведский"
 msgid "Portuguese"
 msgstr "Португальский"
 
-msgid "Brazilian"
-msgstr "Бразильский"
+msgid "Brazilian Portuguese"
+msgstr "Бразильский португальский"
 
 msgid "Italian"
 msgstr "Итальянский"
@@ -314,10 +314,10 @@ msgid "Indonesian"
 msgstr "Индонезийский"
 
 msgid "Japanese"
-msgstr ""
+msgstr "Японский"
 
 msgid "Chinese - Simplified"
-msgstr ""
+msgstr "Китайский упрощённый"
 
 msgid "Romanian"
-msgstr ""
+msgstr "Румынский"
