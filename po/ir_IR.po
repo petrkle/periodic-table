@@ -1,0 +1,321 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-04 13:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Periodic Table"
+msgstr "جدول تناوبی"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "Language"
+msgstr "زبان"
+
+msgid "About"
+msgstr "درباره"
+
+msgid "English"
+msgstr "انگلیسی"
+
+msgid "Czech"
+msgstr "چک"
+
+msgid "Slovak"
+msgstr "اسلواکیایی"
+
+msgid "German"
+msgstr "آلمانی"
+
+msgid "French"
+msgstr "فرانسوی"
+
+msgid "Polish"
+msgstr "لهستانی"
+
+msgid "Spanish"
+msgstr "اسپانیایی"
+
+msgid "Dutch"
+msgstr "هلندی"
+
+msgid "Default language"
+msgstr "زبان پیش فرض"
+
+msgid "State"
+msgstr "حالت"
+
+msgid "Solid"
+msgstr "جامد"
+
+msgid "Liquid"
+msgstr "مایع"
+
+msgid "Gas"
+msgstr "گاز"
+
+msgid "Symbol"
+msgstr "نماد"
+
+msgid "Atomic number"
+msgstr "عدد اتمی"
+
+msgid "Period"
+msgstr "تناوب"
+
+msgid "%d. period"
+msgstr "%d. تناوب"
+
+msgid "Element category"
+msgstr "دسته عناصر"
+
+msgid "Relative atomic mass"
+msgstr "جرم اتمی نسبی"
+
+msgid "Atomic mass"
+msgstr "جرم اتمی"
+
+msgid "Group"
+msgstr "گروه"
+
+msgid "group"
+msgstr "گروه"
+
+msgid "Electronegativity"
+msgstr "الکترونگاتیوی"
+
+msgid "Oxidation numbers"
+msgstr "اعداد اکسایش"
+
+msgid "Electron configuration"
+msgstr "آرایش الکترونی"
+
+msgid "Density"
+msgstr "چگالی"
+
+msgid "Melting point"
+msgstr "نقطه ذوب"
+
+msgid "Boiling point"
+msgstr "نقطه جوش"
+
+msgid "Critical point"
+msgstr "نقطه بحرانی (ترمودینامیک)"
+
+msgid "Critical pressure"
+msgstr "فشار بحرانی"
+
+msgid "Atomic radius"
+msgstr "شعاع اتمی"
+
+msgid "Covalent radius"
+msgstr "شعاع کووالانسی"
+
+msgid "Thermal conductivity"
+msgstr "رسانندگی گرمایی"
+
+msgid "Discovery"
+msgstr "کشف"
+
+msgid "Hardness"
+msgstr "سختی"
+
+msgid "Vickers hardness"
+msgstr "سختی ویکرز"
+
+msgid "Brinell hardness"
+msgstr "سختی برینل"
+
+msgid "Mohs scale"
+msgstr "مقباس موس"
+
+msgid "Shear modulus"
+msgstr "ماژول برشی"
+
+msgid "Young's modulus"
+msgstr "ماژول یانگ"
+
+msgid "Electrical resistivity"
+msgstr "مقاومت الکتریکی"
+
+msgid "Electrical conductivity"
+msgstr "رسانایی الکتریکی"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Latin name"
+msgstr "نام لاتین"
+
+msgid "Version"
+msgstr "نسخه"
+
+msgid "Created"
+msgstr "ایجاد شده"
+
+msgid "Author"
+msgstr "نویسنده"
+
+msgid "Write review"
+msgstr "نوشتن نظر"
+
+msgid "Noble gases"
+msgstr "گازهای نجیب"
+
+msgid "Inner transition elements"
+msgstr "Inner transition elements"
+
+msgid "Transition elements"
+msgstr "Transition elements"
+
+msgid "Metalloids"
+msgstr "شبه فلز"
+
+msgid "Nonmetals"
+msgstr "نافلزها"
+
+msgid "Alkaline earth metals"
+msgstr "فلزهای قلیایی خاکی"
+
+msgid "Metals"
+msgstr "فلزات"
+
+msgid "Halogens"
+msgstr "هالوژن ها"
+
+msgid "Alkali metals"
+msgstr "فلزهای قلیایی"
+
+msgid "1.st ionization energy"
+msgstr "اولین انرژی یونش"
+
+msgid "2.nd ionization energy"
+msgstr "دومین انرژی یونش"
+
+msgid "3.rd ionization energy"
+msgstr "سومین انرژی یونش"
+
+msgid "Stable isotopes"
+msgstr "ایزوتوپ های پایدار"
+
+msgid "Unstable isotopes"
+msgstr "ایزوتوپ های ناپایدار"
+
+msgid "Substance"
+msgstr "ماده"
+
+msgid "Talc"
+msgstr "طلق"
+
+msgid "Rock salt"
+msgstr "سنگ نمک"
+
+msgid "Limestone"
+msgstr "سنگ آهک"
+
+msgid "Fluorspar"
+msgstr "فلئوریت"
+
+msgid "Apatite"
+msgstr "آپاتیت"
+
+msgid "Feldspar"
+msgstr "فلدسپات"
+
+msgid "Quartz"
+msgstr "کوارتز"
+
+msgid "Topaz"
+msgstr "توپاز"
+
+msgid "Corundum"
+msgstr "کرندوم"
+
+msgid "Diamond"
+msgstr "الماس"
+
+msgid "Antiquity"
+msgstr "قدمت"
+
+msgid "Heat capacity"
+msgstr "ظرفیت گرمایی"
+
+msgid "Table view"
+msgstr "نمای جدول"
+
+msgid "Download"
+msgstr "دانلود"
+
+msgid "Links"
+msgstr "لینک ها"
+
+msgid "Source code"
+msgstr "کد منبع"
+
+msgid "Unknown"
+msgstr "ناشناخته"
+
+msgid "Swedish"
+msgstr "سوئدی"
+
+msgid "Portuguese"
+msgstr "پرتغالی"
+
+msgid "Brazilian Portuguese"
+msgstr "پرتقالی برزیل"
+
+msgid "Italian"
+msgstr "ایتالیایی"
+
+msgid "Turkish"
+msgstr "ترکی"
+
+msgid "Finnish"
+msgstr "فنلاندی"
+
+msgid "Danish"
+msgstr "دانمارکی"
+
+msgid "Croatian"
+msgstr "Croatian"
+
+msgid "Afrikaans"
+msgstr "آفریقایی"
+
+msgid "Ukrainian"
+msgstr "اوکرانی"
+
+msgid "Malay"
+msgstr "Malay"
+
+msgid "Indonesian"
+msgstr "اندونزیایی"
+
+msgid "Japanese"
+msgstr "ژاپنی"
+
+msgid "Chinese - Simplified"
+msgstr "چینی"
+
+msgid "Romanian"
+msgstr "رومانیایی"
+
+msgid "Sinhala"
+msgstr "Sinhala"
+
+msgid "Hindi"
+msgstr "هندی"
