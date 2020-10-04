@@ -1,0 +1,329 @@
+# Periodic table.
+# Copyright (C) 2013 Petr Kletečka
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Bảng tuần hoàn các nguyên tố hóa học\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-04 11:24+0700\n"
+"PO-Revision-Date: 2020-10-04 11:24+0700\n"
+"Last-Translators: Tran Cong Viet An <trancongvietan22@gmail.com>\n"
+"Language-Team: Vietnamese <trancongvietan22@gmail.com>\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Periodic Table"
+msgstr "Bảng tuần hoàn các nguyên tố hóa học"
+
+msgid "Settings"
+msgstr "Cài đặt"
+
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+msgid "About"
+msgstr "Thông tin"
+
+msgid "English"
+msgstr "Tiếng Anh"
+
+msgid "Czech"
+msgstr "Tiếng Séc"
+
+msgid "Slovak"
+msgstr "Tiếng Slovakia"
+
+msgid "German"
+msgstr "Tiếng Đức"
+
+msgid "French"
+msgstr "Tiếng Pháp"
+
+msgid "Polish"
+msgstr "Tiếng Ba Lan"
+
+msgid "Spanish"
+msgstr "Tiếng Tây Ban Nha"
+
+msgid "Dutch"
+msgstr "Tiếng Hà Lan"
+
+msgid "Default language"
+msgstr "Ngôn ngữ mặc định"
+
+msgid "State"
+msgstr "Trạng thái"
+
+msgid "Solid"
+msgstr "Rắn"
+
+msgid "Liquid"
+msgstr "Lỏng"
+
+msgid "Gas"
+msgstr "Khí"
+
+msgid "Symbol"
+msgstr "Ký hiệu"
+
+msgid "Atomic number"
+msgstr "Số hiệu nguyên tử"
+
+msgid "Period"
+msgstr "Chu kỳ"
+
+msgid "%d. period"
+msgstr "Chu kỳ %d."
+
+msgid "Element category"
+msgstr "Nhóm nguyên tố"
+
+msgid "Relative atomic mass"
+msgstr "Nguyên tử khối tương đối"
+
+msgid "Atomic mass"
+msgstr "Nguyên tử khối"
+
+msgid "Group"
+msgstr "Nhóm"
+
+msgid "group"
+msgstr "nhóm"
+
+msgid "Electronegativity"
+msgstr "Độ âm điện"
+
+msgid "Oxidation numbers"
+msgstr "Số oxi hóa"
+
+msgid "Electron configuration"
+msgstr "Cấu hình điện tử"
+
+msgid "Density"
+msgstr "Khối lượng riêng"
+
+msgid "Melting point"
+msgstr "Nhiệt độ nóng chảy"
+
+msgid "Boiling point"
+msgstr "Nhiệt độ sôi"
+
+msgid "Critical point"
+msgstr "Điểm tới hạn"
+
+msgid "Critical pressure"
+msgstr "Áp suất tới hạn"
+
+msgid "Atomic radius"
+msgstr "Bán kính nguyên tử"
+
+msgid "Covalent radius"
+msgstr "Bán kính cộng hóa trị"
+
+msgid "Thermal conductivity"
+msgstr "Độ dẫn điện"
+
+msgid "Discovery"
+msgstr "Thời điểm khám phá"
+
+msgid "Hardness"
+msgstr "Độ cứng"
+
+msgid "Vickers hardness"
+msgstr "Độ cứng theo thang đo Vickers"
+
+msgid "Brinell hardness"
+msgstr "Độ cứng theo thang đo Brinell"
+
+msgid "Mohs scale"
+msgstr "Thang đo Mohs"
+
+msgid "Shear modulus"
+msgstr "Mô đun cắt"
+
+msgid "Young's modulus"
+msgstr "Mô đun Young"
+
+msgid "Electrical resistivity"
+msgstr "Điện trở suất"
+
+msgid "Electrical conductivity"
+msgstr "Điện dẫn suất"
+
+msgid "Name"
+msgstr "Tên"
+
+msgid "Latin name"
+msgstr "Tên Latin"
+
+msgid "Version"
+msgstr "Phiên bản"
+
+msgid "Created"
+msgstr "Ngày tạo"
+
+msgid "Author"
+msgstr "Tác giả"
+
+msgid "Write review"
+msgstr "Viết đánh giá"
+
+msgid "Noble gases"
+msgstr "Khí hiếm"
+
+msgid "Inner transition elements"
+msgstr "Kim loại chuyển tiếp trong"
+
+msgid "Transition elements"
+msgstr "Kim loại chuyển tiếp"
+
+msgid "Metalloids"
+msgstr "Á kim"
+
+msgid "Nonmetals"
+msgstr "Phi kim"
+
+msgid "Alkaline earth metals"
+msgstr "Kim loại kiềm thổ"
+
+msgid "Metals"
+msgstr "Kim loại"
+
+msgid "Halogens"
+msgstr "Halogens"
+
+msgid "Alkali metals"
+msgstr "Kim loại kiềm"
+
+msgid "1.st ionization energy"
+msgstr "Năng lượng ion hóa bậc 1"
+
+msgid "2.nd ionization energy"
+msgstr "Năng lượng ion hóa bậc 2"
+
+msgid "3.rd ionization energy"
+msgstr "Năng lượng ion hóa bậc 3"
+
+msgid "Stable isotopes"
+msgstr "Đồng vị bền"
+
+msgid "Unstable isotopes"
+msgstr "Đồng vị không bền"
+
+msgid "Substance"
+msgstr "Chất"
+
+msgid "Talc"
+msgstr "Bột Talc"
+
+msgid "Rock salt"
+msgstr "Đá muối"
+
+msgid "Limestone"
+msgstr "Đá vôi"
+
+msgid "Fluorspar"
+msgstr "Đá flourite"
+
+msgid "Apatite"
+msgstr "Quặng Apatite"
+
+msgid "Feldspar"
+msgstr "Đá tràng thạch"
+
+msgid "Quartz"
+msgstr "Thạch anh"
+
+msgid "Topaz"
+msgstr "Topaz"
+
+msgid "Corundum"
+msgstr "Corundum"
+
+msgid "Diamond"
+msgstr "Kim cương"
+
+msgid "Antiquity"
+msgstr "Thời cổ đại"
+
+msgid "Heat capacity"
+msgstr "Nhiệt dung riêng"
+
+msgid "Table view"
+msgstr "Dạng bảng"
+
+msgid "Download"
+msgstr "Tải xuống"
+
+msgid "Links"
+msgstr "Liên kết"
+
+msgid "Source code"
+msgstr "Mã nguồn"
+
+msgid "Unknown"
+msgstr "Không rõ"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Russian"
+msgstr "Tiếng Nga"
+
+msgid "Estonian"
+msgstr "Tiếng Estonia"
+
+msgid "Swedish"
+msgstr "Tiếng Thụy Điển"
+
+msgid "Italian"
+msgstr "Tiếng Italy"
+
+msgid "Danish"
+msgstr "Tiếng Đan Mạch"
+
+msgid "Hungarian"
+msgstr "Tiếng Hungary"
+
+msgid "Belarusian"
+msgstr "Tiếng Belarus"
+
+msgid "Croatian"
+msgstr "Tiếng Croatia"
+
+msgid "Turkish"
+msgstr "Tiếng Thổ Nhĩ Kỳ"
+
+msgid "Finnish"
+msgstr "Tiếng Phần lan"
+
+msgid "Afrikaans"
+msgstr "Tiếng Nam Phi"
+
+msgid "Ukrainian"
+msgstr "Tiếng Ukraina"
+
+msgid "Malay"
+msgstr "Tiếng Malaysia"
+
+msgid "Indonesian"
+msgstr "Tiếng Indonesia"
+
+msgid "Japanese"
+msgstr "Tiếng Nhật"
+
+msgid "Chinese - Simplified"
+msgstr "Tiếng Trung Giản Thể"
+
+msgid "Romanian"
+msgstr "Tiếng Romani"
+
+msgid "Sinhala"
+msgstr "Tiếng Sri Lanka"
+
+msgid "Hindi"
+msgstr "Tiếng Ấn"
