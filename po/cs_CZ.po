@@ -329,7 +329,10 @@ msgid "Romanian"
 msgstr "Rumunština"
 
 msgid "Sinhala"
-msgstr ""
+msgstr "Sinhálština"
 
 msgid "Hindi"
-msgstr ""
+msgstr "Hindština"
+
+msgid "Vietnamese"
+msgstr "Vietnamština"

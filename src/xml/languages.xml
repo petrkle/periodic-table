@@ -253,4 +253,13 @@
 		<title>ආවර්තිතා වගුව</title>
 	</lang>
 
+	<lang>
+		<fullname>Vietnamese</fullname>
+		<fullnameloc>Tiếng Việt</fullnameloc>
+		<locales>vi_VN</locales>
+		<android>vi</android>
+		<browser>vi-VN</browser>
+		<title>Bảng tuần hoàn</title>
+	</lang>
+
 </lagnuages>

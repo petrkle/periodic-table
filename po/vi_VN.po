@@ -327,3 +327,6 @@ msgstr "Tiếng Sri Lanka"
 
 msgid "Hindi"
 msgstr "Tiếng Ấn"
+
+msgid "Vietnamese"
+msgstr "Tiếng Việt"
