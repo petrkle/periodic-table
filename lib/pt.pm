@@ -50,7 +50,9 @@ sub geturl {
 		$lang = 'Latin';
 	}
 	use Text::Unidecode qw(unidecode);
-	return lc(unidecode($element->{"name_$lang"}));
+	my $url = lc(unidecode($element->{"name_$lang"}));
+	$url =~ s/ /-/g;
+	return $url;
 }
 
 sub setlocales {
