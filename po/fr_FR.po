@@ -304,22 +304,22 @@ msgid "Ukrainian"
 msgstr "Ukrainien"
 
 msgid "Malay"
-msgstr ""
+msgstr "Malais"
 
 msgid "Indonesian"
-msgstr ""
+msgstr "Indonésien"
 
 msgid "Japanese"
 msgstr "Japonais"
 
 msgid "Chinese - Simplified"
-msgstr ""
+msgstr "Chinois - Simplifié"
 
 msgid "Romanian"
-msgstr ""
+msgstr "Roumain"
 
 msgid "Sinhala"
-msgstr ""
+msgstr "Singhalais"
 
 msgid "Hindi"
-msgstr ""
+msgstr "Hindi"
