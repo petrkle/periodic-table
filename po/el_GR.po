@@ -1,0 +1,323 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#Konstantinos Megas <@nextdoorpanda>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-04 13:39+0200\n"
+"PO-Revision-Date: 2022-10-13 11:54+0300\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: Konstantinos Megas <@nextdoorpanda>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+
+msgid "Periodic Table"
+msgstr "Περιοδικός Πίνακας"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Language"
+msgstr "Γλώσσα"
+
+msgid "About"
+msgstr "Σχετικά"
+
+msgid "English"
+msgstr "English"
+
+msgid "Czech"
+msgstr "Czech"
+
+msgid "Slovak"
+msgstr "Slovak"
+
+msgid "German"
+msgstr "German"
+
+msgid "French"
+msgstr "French"
+
+msgid "Polish"
+msgstr "Polish"
+
+msgid "Spanish"
+msgstr "Spanish"
+
+msgid "Dutch"
+msgstr "Dutch"
+
+msgid "Default language"
+msgstr "Προεπιλεγμένη γλώσσα"
+
+msgid "State"
+msgstr "Κατάσταση"
+
+msgid "Solid"
+msgstr "Στερεό"
+
+msgid "Liquid"
+msgstr "Υγρά"
+
+msgid "Gas"
+msgstr "Αέρια"
+
+msgid "Symbol"
+msgstr "Σύμβολο"
+
+msgid "Atomic number"
+msgstr "Ατομικός αριθμός"
+
+msgid "Period"
+msgstr "Περίοδος"
+
+msgid "%d. period"
+msgstr "%d. περίοδος"
+
+msgid "Element category"
+msgstr "Κατηγορία στοιχείου"
+
+msgid "Relative atomic mass"
+msgstr "Σχετικό ατομικό βάρος"
+
+msgid "Atomic mass"
+msgstr "Ατομικό βάρος"
+
+msgid "Group"
+msgstr "Ομάδα"
+
+msgid "group"
+msgstr "ομάδα"
+
+msgid "Electronegativity"
+msgstr "Ηλεκτραρνητικότητα"
+
+msgid "Oxidation numbers"
+msgstr "Αριθμοί οξείδωσης"
+
+msgid "Electron configuration"
+msgstr "Διαμόρφωση ηλεκτρονίων"
+
+msgid "Density"
+msgstr "Πυκνότητα"
+
+msgid "Melting point"
+msgstr "Σημείο τήξεως"
+
+msgid "Boiling point"
+msgstr "Σημείο βρασμού"
+
+msgid "Critical point"
+msgstr "Κρίσιμο σημείο"
+
+msgid "Critical pressure"
+msgstr "Κρίσιμη πίεση"
+
+msgid "Atomic radius"
+msgstr "Ατομική ακτίνα"
+
+msgid "Covalent radius"
+msgstr "Ομοιοπολική ακτίνα"
+
+msgid "Thermal conductivity"
+msgstr "Θερμική αγωγιμότητα"
+
+msgid "Discovery"
+msgstr "Ανακάλυψη"
+
+msgid "Hardness"
+msgstr "Σκληρότητα"
+
+msgid "Vickers hardness"
+msgstr "Σκληρότητα Vickers"
+
+msgid "Brinell hardness"
+msgstr "Σκληρότητα Brinell"
+
+msgid "Mohs scale"
+msgstr "Κλίμακα του Mohs"
+
+msgid "Shear modulus"
+msgstr "Μέτρο διάτμησης"
+
+msgid "Young's modulus"
+msgstr "Μέτρο ελαστικότητας"
+
+msgid "Electrical resistivity"
+msgstr "Ηλεκτρική αντίσταση"
+
+msgid "Electrical conductivity"
+msgstr "Ηλεκτρική αγωγιμότητα"
+
+msgid "Name"
+msgstr "Ονομασία"
+
+msgid "Latin name"
+msgstr "Λατινική ονομασία"
+
+msgid "Version"
+msgstr "Έκδοση"
+
+msgid "Created"
+msgstr "Δημιουργήθηκε"
+
+msgid "Author"
+msgstr "Συντάκτης"
+
+msgid "Write review"
+msgstr "Γράψτε κριτική"
+
+msgid "Noble gases"
+msgstr "Ευγενή αέρια"
+
+msgid "Inner transition elements"
+msgstr "Στοιχεία εσωτερικής μετάπτωσης"
+
+msgid "Transition elements"
+msgstr "Στοιχεία μετάβασης"
+
+msgid "Metalloids"
+msgstr "Μεταλλοειδή"
+
+msgid "Nonmetals"
+msgstr "Αμέταλλα"
+
+msgid "Alkaline earth metals"
+msgstr "Αλκαλικές γαίες"
+
+msgid "Metals"
+msgstr "Μέταλλα"
+
+msgid "Halogens"
+msgstr "Αλογόνα"
+
+msgid "Alkali metals"
+msgstr "Αλκάλια"
+
+msgid "1.st ionization energy"
+msgstr "1η ενέργεια ιονισμού"
+
+msgid "2.nd ionization energy"
+msgstr "2η ενέργεια ιονισμού"
+
+msgid "3.rd ionization energy"
+msgstr "3η ενέργεια ιονισμού"
+
+msgid "Stable isotopes"
+msgstr "Σταθερά ισότοπα"
+
+msgid "Unstable isotopes"
+msgstr "Ασταθή ισότοπα"
+
+msgid "Substance"
+msgstr "Υλικό"
+
+msgid "Talc"
+msgstr "Στεατίτης"
+
+msgid "Rock salt"
+msgstr "Ορυκτό άλας"
+
+msgid "Limestone"
+msgstr "Ασβεστόλιθος"
+
+msgid "Fluorspar"
+msgstr "Αφθοραδάμαντα"
+
+msgid "Apatite"
+msgstr "Απατίτης"
+
+msgid "Feldspar"
+msgstr "Άστριος"
+
+msgid "Quartz"
+msgstr "Χαλαζίας"
+
+msgid "Topaz"
+msgstr "Τοπάζιο"
+
+msgid "Corundum"
+msgstr "Κορούνδιο"
+
+msgid "Diamond"
+msgstr "Διαμάντι"
+
+msgid "Antiquity"
+msgstr "Παλαιότητα"
+
+msgid "Heat capacity"
+msgstr "Θερμοχωρητικότητα"
+
+msgid "Table view"
+msgstr "Προβολή πίνακα"
+
+msgid "Download"
+msgstr "Λήψη"
+
+msgid "Links"
+msgstr "Σύνδεσμοι"
+
+msgid "Source code"
+msgstr "Πηγαίος κώδικας"
+
+msgid "Unknown"
+msgstr "Άγνωστα"
+
+msgid "Swedish"
+msgstr "Swedish"
+
+msgid "Portuguese"
+msgstr "Portuguese"
+
+msgid "Brazilian Portuguese"
+msgstr "Brazilian Portuguese"
+
+msgid "Italian"
+msgstr "Italian"
+
+msgid "Turkish"
+msgstr "Turkish"
+
+msgid "Finnish"
+msgstr "Finnish"
+
+msgid "Danish"
+msgstr "Danish"
+
+msgid "Croatian"
+msgstr "Croatian"
+
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+msgid "Ukrainian"
+msgstr "Ukrainian"
+
+msgid "Malay"
+msgstr "Malay"
+
+msgid "Indonesian"
+msgstr "Indonesian"
+
+msgid "Japanese"
+msgstr "Japanese"
+
+msgid "Chinese - Simplified"
+msgstr "Chinese - Simplified"
+
+msgid "Romanian"
+msgstr "Romanian"
+
+msgid "Sinhala"
+msgstr "Sinhala"
+
+msgid "Hindi"
+msgstr "Hindi"
